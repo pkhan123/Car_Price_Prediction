@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Oklahoma City,Jeep,Renegade,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,73110,"15,679",22700
+Oklahoma City,Hyundai,Sonata,SEDAN,Used,Off White,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,39 City / 42 Highway,2016,73110,"22,565",19200
+Oklahoma City,Ford,Escape,SUV,Used,Gold,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2017,73110,"31,647",19980
+Oklahoma City,Nissan,Pathfinder,SUV,Used,Black,Rock Creek,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,73110,"9,243",36990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,73110,220,44990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,73110,220,44990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,73110,223,44990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,73110,245,44990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,73139,"3,256",45980
+Oklahoma City,Audi,A3,CONVERT,Used,Gray,Rock Gray/Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 35 Highway,2019,73114,"4,989",42991
+Oklahoma City,Chrysler,200,SEDAN,Used,Silver,Light Frost Beige/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2014,73131,"71,982",10994
+Oklahoma City,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,73131,"28,413",28165
+Oklahoma City,Audi,Q7,SUV,Used,White,Rock Gray,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2018,73131,"31,624",51935
+Oklahoma City,Cadillac,Escalade ESV,SUV,Used,Brown,Shale/Cocoa Accents,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,73132,"54,619",51995
+Oklahoma City,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2016,73013,"42,793",29000
+Oklahoma City,Mercedes-Benz,C 300,SEDAN,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,73013,"16,893",43500
+Oklahoma City,Buick,Encore,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,73162,"21,419",23687
+Oklahoma City,Hyundai,Genesis,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2015,73162,"56,345",24887
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2020,73139,"8,016",39080
+Oklahoma City,Subaru,Outback,SUV,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,73069,"22,876",32647
+Oklahoma City,Scion,tC,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2012,73122,"74,000",8995
+Oklahoma City,INFINITI,FX37,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2013,73110,"90,431",18900
+Oklahoma City,Hyundai,Kona,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,73110,"34,373",21224
+Oklahoma City,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2013,73110,"44,054",25000
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2014,73110,"80,167",25631
+Oklahoma City,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2021,73110,"9,962",32300
+Oklahoma City,Toyota,4Runner,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 22 Highway,2016,73110,"49,824",35999
+Oklahoma City,Toyota,Camry,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2022,73110,"1,525",36505
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,73110,541,38782
+Oklahoma City,Kia,Sorento,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,73110,"12,925",39147
+Oklahoma City,Toyota,Sequoia,SUV,Used,Silver,Graphite,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,73110,"38,771",51907
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,73110,"6,167",53540
+Oklahoma City,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,73110,"86,123",27990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Black,Dark Ash Seats With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,73110,"37,911",32990
+Oklahoma City,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2021,73110,"14,226",33000
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Gray,Dark Ash Seats With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,73110,"38,449",33990
+Oklahoma City,Hyundai,Santa Fe,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 28 Highway,2022,73110,344,36990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,73110,"49,008",43990
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,73110,213,44990
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2021,73110,"2,721",44990
+Oklahoma City,Chevrolet,Blazer,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,73110,"19,979",45990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,73110,"26,398",45990
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,73132,"29,881",37934
+Oklahoma City,Chevrolet,Malibu,SEDAN,Used,Blue,Dark Atmosphere/Loft Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,73139,"48,127",19458
+Oklahoma City,Ford,Taurus,SEDAN,Used,Red,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,73139,"20,104",23999
+Oklahoma City,Volkswagen,Beetle,HATCH,Used,Beige,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 33 Highway,2019,73139,"28,911",31980
+Oklahoma City,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,73139,"16,715",38459
+Oklahoma City,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,73114,"21,720",27500
+Oklahoma City,Toyota,Highlander,SUV,Certified,Silver,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,73114,"27,481",36874
+Oklahoma City,Porsche,Cayman,COUPE,Used,Silver,Luxor Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,22 City / 31 Highway,2016,73114,"26,538",51997
+Oklahoma City,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"32,506",26991
+Oklahoma City,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2018,73114,"29,359",29491
+Oklahoma City,Ford,Ranger,TRUCKS,Used,Silver,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,73114,"18,201",32491
+Oklahoma City,Audi,Q7,SUV,Used,Black,Okapi Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2021,73114,"7,293",70691
+Oklahoma City,Cadillac,CTS,SEDAN,Used,White,Jet Black/Jet Black Accents,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,73114,"14,102",35900
+Oklahoma City,Cadillac,CTS,SEDAN,Used,Gray,Very Light Casmere,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,73131,"43,915",28704
+Oklahoma City,Honda,Ridgeline,TRUCKS,Used,Black,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,73131,"17,962",42791
+Oklahoma City,Land Rover,Range Rover Evoque,SUV,Used,White,Pimento/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2017,73131,"28,999",48039
+Oklahoma City,Cadillac,XTS,SEDAN,Used,Black,Very Light Platinum/Dark Urban,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2014,73132,"21,901",25500
+Oklahoma City,Ford,Escape,SUV,Certified,,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,73132,"27,505",25800
+Oklahoma City,Nissan,370Z,COUPE,Used,Red,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,73114,"23,635",32298
+Oklahoma City,Cadillac,XT5,SUV,Certified,Gray,Sahara Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,73114,"35,700",37276
+Oklahoma City,Cadillac,CT5,SEDAN,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2020,73114,"11,788",50322
+Oklahoma City,Jeep,Wrangler,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 22 Highway,2020,73114,"16,600",53921
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Dark Ash/Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,73131,"22,907",24900
+Oklahoma City,Subaru,Legacy,SEDAN,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2021,73131,"7,709",26500
+Oklahoma City,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,73131,"22,725",28560
+Oklahoma City,Subaru,Outback,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,73131,"10,700",30000
+Oklahoma City,MAZDA,MX-5 Miata RF,CONVERT,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2019,73131,"24,222",32000
+Oklahoma City,Subaru,Ascent,SUV,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,73131,"14,663",38900
+Oklahoma City,Subaru,Ascent,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,73131,"17,351",40900
+Oklahoma City,Lexus,LC 500,COUPE,Certified,Red,Toasted Caramel,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,73114,"7,737",82979
+Oklahoma City,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2017,73114,"47,730",17702
+Oklahoma City,Mitsubishi,Outlander,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2018,73114,"34,603",23921
+Oklahoma City,MAZDA,CX-3,SUV,Used,White,Black/Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 34 Highway,2019,73114,"7,138",28848
+Oklahoma City,Lexus,LC 500,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,73114,"8,316",83500
+Oklahoma City,BMW,428i Gran Coupe,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2015,73114,"56,051",24400
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,22 City / 26 Highway,2021,73114,"6,414",67500
+Oklahoma City,Buick,Envision,SUV,Used,Gray,Dark Galvanized,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,73132,"17,590",37995
+Oklahoma City,Buick,Envision,SUV,Certified,Gray,Whisper Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2021,73132,"5,472",39500
+Oklahoma City,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,73069,"36,122",27999
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,73013,"18,418",33500
+Oklahoma City,Mercedes-Benz,C 300,CONVERT,Certified,Red,Crystal Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2017,73013,"24,865",41500
+Oklahoma City,INFINITI,QX80,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2019,73013,"25,353",52500
+Oklahoma City,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,73013,"28,747",19000
+Oklahoma City,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,73013,"9,997",24500
+Oklahoma City,Ford,Escape,SUV,Used,Blue,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,73013,"6,090",25000
+Oklahoma City,Volkswagen,Passat,SEDAN,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2021,73013,"6,536",25500
+Oklahoma City,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,73013,"2,049",26500
+Oklahoma City,Chevrolet,Equinox,SUV,Used,Silver,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,73013,"6,500",27500
+Oklahoma City,Nissan,Maxima,SEDAN,Used,White,Camel,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 30 Highway,2016,73013,"24,098",27500
+Oklahoma City,Nissan,Frontier,TRUCKS,Used,Gray,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,73013,"5,818",28000
+Oklahoma City,Nissan,Frontier,TRUCKS,Used,Silver,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,73013,"19,446",29000
+Oklahoma City,Honda,Pilot,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,73013,"37,407",30000
+Oklahoma City,Dodge,Durango,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,73013,"28,522",31000
+Oklahoma City,Toyota,RAV4,SUV,Used,White,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,73013,"26,981",34000
+Oklahoma City,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,73013,"20,979",34500
+Oklahoma City,Toyota,Highlander,SUV,Used,Black,Saddle Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,73013,"47,705",35000
+Oklahoma City,Toyota,Highlander,SUV,Used,Blue,Saddle Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2019,73013,"21,928",39000
+Oklahoma City,Toyota,Tundra,TRUCKS,Used,Tan,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,73013,"18,496",47000
+Oklahoma City,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,73013,"9,363",48000
+Oklahoma City,Tesla,Model 3,SEDAN,Used,White,White/Black,Single-Speed,Electric,Electric,All wheel drive,,2019,73013,"19,130",50000
+Oklahoma City,BMW,M3,SEDAN,Used,White,Silverstone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,73013,"6,627",71000
+Oklahoma City,Volvo,XC60,SUV,Certified,Gray,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,73013,"21,605",40000
+Oklahoma City,Subaru,Ascent,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,73013,"19,372",41500
+Oklahoma City,Toyota,Corolla,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,73162,"17,159",20491
+Oklahoma City,Toyota,Corolla,SEDAN,Used,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,73162,"15,684",21281
+Oklahoma City,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,73162,"14,151",30491
+Oklahoma City,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,73162,"27,746",31987
+Oklahoma City,Honda,Passport,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,73162,"29,328",33991
+Oklahoma City,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,73162,"29,285",35982
+Oklahoma City,Toyota,Avalon,SEDAN,Used,Off White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,73162,"28,100",36791
+Oklahoma City,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,73162,"18,213",37291
+Oklahoma City,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2019,73162,"15,031",38981
+Oklahoma City,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,73162,"47,035",39887
+Oklahoma City,Toyota,4Runner,SUV,Used,White,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,73162,"18,007",41591
+Oklahoma City,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,73162,"11,730",47391
+Oklahoma City,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,73139,"16,389",21441
+Oklahoma City,Toyota,Camry,SEDAN,Used,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,73139,"33,363",21944
+Oklahoma City,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,73139,"23,332",26441
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2020,73139,"12,292",41991
+Oklahoma City,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,73139,"19,916",31610
+Oklahoma City,Honda,CR-V,SUV,Used,Blue,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,73149,"5,711",34592
+Oklahoma City,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,73099,"22,123",40999
+Oklahoma City,Buick,Enclave,SUV,Used,White,Ebony/Ebony Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2019,73099,"17,838",42999
+Oklahoma City,Subaru,Crosstrek,SUV,Used,Gray,Gray W/Yellow Stitching,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,73069,488,36650
+Oklahoma City,Dodge,Journey,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2018,73110,"36,151",19488
+Oklahoma City,Nissan,Rogue Sport,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2017,73110,"44,599",21988
+Oklahoma City,Nissan,Altima,SEDAN,Used,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,73110,"38,672",21988
+Oklahoma City,Dodge,Journey,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,73110,"10,844",23488
+Oklahoma City,Hyundai,Kona,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2021,73110,"2,778",26498
+Oklahoma City,Honda,HR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,73110,"24,877",27488
+Oklahoma City,Lexus,ES 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,73110,"54,310",27988
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,73110,"14,589",31988
+Oklahoma City,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,73110,"19,547",36988
+Oklahoma City,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,73110,"18,156",37900
+Oklahoma City,GMC,Yukon XL,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2020,73044,"5,510",73777
+Oklahoma City,GMC,Savana 2500,VANS,Used,White,Medium Pewter,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2018,73122,"38,791",31353
+Oklahoma City,Lexus,RX 350,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,73069,"44,163",36995
+Oklahoma City,Jeep,Compass,SUV,Used,Silver,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,73110,"23,052",22200
+Oklahoma City,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2014,73110,"99,033",25999
+Oklahoma City,Kia,Niro,SUV,Used,Gray,Charcoal,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,46 City / 40 Highway,2019,73110,"9,109",28500
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2019,73110,"37,474",29999
+Oklahoma City,Maserati,Ghibli,SEDAN,Used,Black,Nero,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2016,73110,"39,689",32500
+Oklahoma City,Toyota,4Runner,SUV,Used,Gray,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,73110,"23,252",42639
+Oklahoma City,Toyota,Tundra,TRUCKS,Used,White,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,73110,"10,861",50812
+Oklahoma City,Chevrolet,Equinox,SUV,Used,Gray,Light Titanium/Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,73110,"47,578",20990
+Oklahoma City,Buick,Encore,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,73110,"24,925",21937
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,Yellow,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2015,73110,"69,040",25990
+Oklahoma City,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,73110,"39,007",25990
+Oklahoma City,GMC,Canyon,TRUCKS,Used,White,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2021,73110,"9,827",28990
+Oklahoma City,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,73110,"38,597",36430
+Oklahoma City,Toyota,Tacoma,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,73110,"10,396",39980
+Oklahoma City,Lexus,LS 460,SEDAN,Used,Black,Flaxen,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2017,73110,"62,764",40900
+Oklahoma City,Porsche,Macan,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,73110,"57,162",46490
+Oklahoma City,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,73110,"8,871",48250
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,73110,"5,831",48550
+Oklahoma City,Cadillac,CT6,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2018,73110,"31,430",49980
+Oklahoma City,Dodge,Challenger,COUPE,Used,Brown,Sepia/Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,,2021,73110,668,75990
+Oklahoma City,Nissan,370Z,CONVERT,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2017,73132,"7,177",36987
+Oklahoma City,Buick,Encore,SUV,Used,White,Shale/Ebony Accents,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,73139,"29,993",21250
+Oklahoma City,Dodge,Journey,SUV,Used,Silver,Black/Red,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 24 Highway,2017,73139,"61,147",23499
+Oklahoma City,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2020,73139,"10,910",26300
+Oklahoma City,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,73139,"30,777",28999
+Oklahoma City,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,73139,"59,065",32494
+Oklahoma City,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,73139,"12,785",32499
+Oklahoma City,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,73139,"11,924",35450
+Oklahoma City,Toyota,RAV4,SUV,Certified,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 29 Highway,2018,73114,"52,211",28277
+Oklahoma City,Nissan,Frontier,TRUCKS,Used,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,73114,"29,761",28500
+Oklahoma City,Toyota,Highlander,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2017,73114,"44,969",30000
+Oklahoma City,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,73114,"5,862",32000
+Oklahoma City,Toyota,4Runner,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,73114,"11,469",51825
+Oklahoma City,Toyota,Sequoia,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,73114,"8,144",70116
+Oklahoma City,Mercedes-Benz,GLC 300,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,73114,"28,352",48642
+Oklahoma City,Porsche,Boxster,CONVERT,Used,Red,Luxor Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,22 City / 31 Highway,2016,73114,"53,947",48718
+Oklahoma City,Porsche,718 Boxster,CONVERT,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,73114,"5,686",81719
+Oklahoma City,Porsche,911,CONVERT,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,,2015,73114,"18,170",119499
+Oklahoma City,Audi,A3,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"37,237",24891
+Oklahoma City,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"47,495",25891
+Oklahoma City,Audi,A3,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"34,811",26891
+Oklahoma City,Audi,A3,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"26,471",27191
+Oklahoma City,Audi,A3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,73114,"25,465",27281
+Oklahoma City,MAZDA,MAZDA6,SEDAN,Used,Gray,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2019,73114,"13,855",28991
+Oklahoma City,Audi,A3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,73114,"18,314",30891
+Oklahoma City,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2018,73114,"32,475",31391
+Oklahoma City,Mercedes-Benz,GLE 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2017,73114,"74,224",31991
+Oklahoma City,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,73114,"6,012",32891
+Oklahoma City,Audi,A4,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,73114,"43,193",34991
+Oklahoma City,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,73114,"19,528",36991
+Oklahoma City,Audi,Q5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,73114,"26,361",39491
+Oklahoma City,Audi,A5,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,73114,"27,475",44891
+Oklahoma City,Audi,SQ5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2018,73114,"38,418",45291
+Oklahoma City,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,73114,"1,758",45391
+Oklahoma City,Audi,A5,CONVERT,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,73114,"26,880",49491
+Oklahoma City,Audi,S5,HATCH,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,73114,"23,730",51291
+Oklahoma City,Audi,SQ5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2019,73114,"22,450",55991
+Oklahoma City,Audi,A6,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2021,73114,"3,119",58991
+Oklahoma City,Audi,Q8,SUV,Used,White,Saiga Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,73114,"23,875",73991
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2016,73114,"70,693",25900
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,73114,"43,993",33500
+Oklahoma City,GMC,Yukon,SUV,Used,Black,Cocoa/Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2015,73114,"88,701",38900
+Oklahoma City,GMC,Acadia,SUV,Used,Red,Dark Galvanized/Light Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2021,73114,"8,611",42500
+Oklahoma City,Land Rover,Discovery Sport,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,73114,"25,846",45900
+Oklahoma City,Land Rover,Discovery Sport,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,73114,"19,187",49900
+Oklahoma City,Land Rover,Range Rover Evoque,SUV,Certified,Red,Cloud/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2020,73114,"7,636",58500
+Oklahoma City,Land Rover,Discovery,SUV,Certified,Gray,Ebony/Ebony/Ebony,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,21 City / 26 Highway,2020,73114,"16,558",68900
+Oklahoma City,Jaguar,F-TYPE,CONVERT,Certified,Black,Light Oyster/Light Oyster Stit,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2021,73114,"2,555",73500
+Oklahoma City,Porsche,Panamera,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,73114,"33,273",74900
+Oklahoma City,Land Rover,Range Rover Sport,SUV,Used,Black,Ivory/Ebony/Ebony/Ivory/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,73114,"27,141",78900
+Oklahoma City,Land Rover,Range Rover Sport,SUV,Certified,Black,Almond/Espresso/Almond/Ivory,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,73114,"18,035",79500
+Oklahoma City,Land Rover,Range Rover,SUV,Certified,Black,Almond/Espresso/Almond/Ivory,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2018,73114,"28,733",92500
+Oklahoma City,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2019,73131,"18,620",22498
+Oklahoma City,Ford,Fusion,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,73131,"11,583",23750
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,73131,"55,724",30381
+Oklahoma City,Ford,Fusion,SEDAN,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2016,73132,"72,024",16800
+Oklahoma City,Ford,Fusion,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,73132,"55,548",20200
+Oklahoma City,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,73132,"42,333",22200
+Oklahoma City,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2017,73132,"47,609",26900
+Oklahoma City,GMC,Canyon,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,73132,"26,088",32300
+Oklahoma City,Ford,Edge,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,73132,"26,288",34900
+Oklahoma City,Toyota,4Runner,SUV,Used,Silver,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2017,73132,"73,043",37000
+Oklahoma City,Ford,Edge,SUV,Used,White,Ceramic,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,73132,"12,418",38800
+Oklahoma City,Ford,F150,TRUCKS,Used,White,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2019,73132,"16,972",47300
+Oklahoma City,MAZDA,MAZDA6,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,73114,"60,558",24166
+Oklahoma City,Cadillac,Escalade,SUV,Used,Silver,Cocoa/Light Linen,Automatic,Flexible Fuel,8-Cylinder,All wheel drive,13 City / 18 Highway,2013,73114,"100,450",30978
+Oklahoma City,Land Rover,Discovery Sport,SUV,Used,Gray,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2019,73114,"31,500",37125
+Oklahoma City,Cadillac,Escalade,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2015,73114,"87,017",41323
+Oklahoma City,Cadillac,Escalade,SUV,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,73114,"33,506",57197
+Oklahoma City,Cadillac,XT6,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2020,73114,"15,171",59037
+Oklahoma City,Cadillac,Escalade,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,73114,"25,390",70223
+Oklahoma City,Kia,Forte Koup,COUPE,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2014,73131,"69,804",12900
+Oklahoma City,Audi,A3,HATCH,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2016,73131,"57,346",22500
+Oklahoma City,Volkswagen,Beetle,CONVERT,Used,Silver,Black/Blue,Automatic,Diesel,4-Cylinder Turbo,2 wheel drive - front,27 City / 38 Highway,2014,73131,"49,725",22900
+Oklahoma City,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,73131,"40,801",27000
+Oklahoma City,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,73131,"24,772",29900
+Oklahoma City,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,73131,"38,165",38000
+Oklahoma City,Acura,MDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,73131,"27,295",40998
+Oklahoma City,Acura,TLX,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2021,73131,"8,804",41889
+Oklahoma City,Lincoln,Nautilus,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,73131,"22,042",47184
+Oklahoma City,Lexus,LS 500,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2019,73114,"16,575",69876
+Oklahoma City,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2011,73114,"68,500",12995
+Oklahoma City,Honda,Accord,COUPE,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,73114,"65,908",19023
+Oklahoma City,Toyota,4Runner,SUV,Used,Blue,Sand Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2019,73114,"30,228",40628
+Oklahoma City,Lincoln,MKX,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2018,73114,"39,788",36000
+Oklahoma City,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,73114,"16,904",23500
+Oklahoma City,Ford,Mustang,COUPE,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,73114,"18,016",27000
+Oklahoma City,Ford,Explorer,SUV,Used,Red,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,73114,"43,566",29000
+Oklahoma City,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2016,73114,"26,948",29500
+Oklahoma City,Mercedes-Benz,GLC 300,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,73114,"38,251",33500
+Oklahoma City,Jeep,Wrangler,SUV,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,73114,"27,199",37000
+Oklahoma City,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,17 City / 23 Highway,2017,73114,"28,971",39000
+Oklahoma City,Mercedes-Benz,GLE 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,73114,"34,258",40500
+Oklahoma City,Toyota,4Runner,SUV,Used,Black,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,73114,"9,247",47500
+Oklahoma City,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2013,73115,"86,940",25884
+Oklahoma City,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2019,73115,"41,638",33500
+Oklahoma City,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,73115,"10,000",45000
+Oklahoma City,Jeep,Wrangler,SUV,Certified,Silver,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2017,73114,"22,566",28900
+Oklahoma City,Dodge,Durango,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,73114,"29,848",33500
+Oklahoma City,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2021,73114,"3,705",33990
+Oklahoma City,Hyundai,Sonata,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,73114,"5,026",34500
+Oklahoma City,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,73114,"56,116",35700
+Oklahoma City,RAM,1500,TRUCKS,Certified,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,73114,"5,181",35900
+Oklahoma City,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,73114,"35,125",38900
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,14 City / 18 Highway,2021,73114,"8,764",46900
+Oklahoma City,Lincoln,Aviator,SUV,Used,Silver,Roast,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2020,73114,"23,105",58500
+Oklahoma City,Honda,Accord,SEDAN,Used,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,73114,"34,679",29502
+Oklahoma City,RAM,2500,TRUCKS,Used,Red,Black/Diesel Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2013,73114,"107,322",29873
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,73114,"29,473",33831
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,73114,"44,865",36359
+Oklahoma City,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,73114,"13,722",43769
+Oklahoma City,Kia,Soul,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2015,73132,"28,094",14912
+Oklahoma City,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2016,73132,"84,657",22495
+Oklahoma City,Honda,HR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,73132,"7,425",26725
+Oklahoma City,Buick,LaCrosse,SEDAN,Used,White,Choccachino/Cocoa Accents,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2014,73132,"101,291",16995
+Oklahoma City,Chevrolet,Traverse,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,73132,"16,447",38998
+Oklahoma City,Ford,F350,TRUCKS,Used,Black,Black,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2015,73132,"49,935",47075
+Oklahoma City,Volkswagen,ID.4,SUV,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,73132,"3,523",47897
+Oklahoma City,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2021,73132,"2,316",51796
+Oklahoma City,Chevrolet,Silverado 2500,TRUCKS,Certified,Silver,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,73132,"3,880",66297
+Oklahoma City,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2014,73013,"65,367",21000
+Oklahoma City,MAZDA,MAZDA3,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 32 Highway,2019,73013,"21,759",25000
+Oklahoma City,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,73013,"21,072",25000
+Oklahoma City,Lincoln,MKZ,SEDAN,Used,Green,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,41 City / 38 Highway,2017,73013,"53,799",25000
+Oklahoma City,MINI,Cooper Countryman,SUV,Used,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,73013,"15,523",29500
+Oklahoma City,MINI,Cooper,HATCH,Used,Gray,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 33 Highway,2022,73013,"3,721",29500
+Oklahoma City,MINI,Cooper Clubman,WAGON,Used,Black,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2022,73013,"5,228",44000
+Oklahoma City,Audi,A5,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,73013,"18,422",44000
+Oklahoma City,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,73013,"17,849",47000
+Oklahoma City,Toyota,Highlander,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2021,73013,"7,326",49000
+Oklahoma City,Land Rover,Discovery,SUV,Used,Blue,Ebony/Ebony/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2018,73013,"24,799",49500
+Oklahoma City,BMW,X5,SUV,Certified,Black,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,73013,"28,516",61000
+Oklahoma City,BMW,X7,SUV,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,73013,"24,680",82500
+Oklahoma City,BMW,750i xDrive,SEDAN,Used,Black,Ivory White/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2022,73013,"5,286",94000
+Oklahoma City,Subaru,Forester,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,73069,"14,580",28380
+Oklahoma City,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,73069,"46,655",30999
+Oklahoma City,Subaru,Crosstrek,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 33 Highway,2021,73069,"9,812",33370
+Oklahoma City,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,73069,"24,355",37800
+Oklahoma City,Honda,Civic,SEDAN,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2021,73013,"2,701",30000
+Oklahoma City,INFINITI,QX50,SUV,Used,Black,Wheat,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,73013,"39,354",33500
+Oklahoma City,Mercedes-Benz,CLA 250,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,73013,"11,759",35500
+Oklahoma City,Mercedes-Benz,C 300,COUPE,Certified,White,Cranberry Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,73013,"45,762",38000
+Oklahoma City,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,73013,"9,387",47000
+Oklahoma City,Mercedes-Benz,GLB 250,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,73013,26,47889
+Oklahoma City,Mercedes-Benz,GLC 300,SUV,Certified,Black,Magma Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,73013,"12,017",48000
+Oklahoma City,Mercedes-Benz,E 300,SEDAN,Certified,Gray,Macchiato Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,73013,"5,816",49000
+Oklahoma City,Mercedes-Benz,C 300,SEDAN,Certified,Silver,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,73013,"8,996",53000
+Oklahoma City,Mercedes-Benz,SLC 300,CONVERT,Certified,White,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2019,73013,"24,579",55000
+Oklahoma City,Mercedes-Benz,E 350,SEDAN,Certified,Gray,Macchiato Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,73013,"19,003",56000
+Oklahoma City,Mercedes-Benz,E 450,CONVERT,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,73013,"9,731",68000
+Oklahoma City,Kia,Optima,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 33 Highway,2015,73013,"72,250",14000
+Oklahoma City,Nissan,Sentra,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,73013,"38,027",16300
+Oklahoma City,Hyundai,Santa Fe,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 27 Highway,2015,73013,"71,200",16500
+Oklahoma City,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2011,73013,"104,007",18000
+Oklahoma City,Toyota,Yaris,SEDAN,Used,,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2019,73013,"25,718",20000
+Oklahoma City,Kia,Forte,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2020,73013,"12,010",22000
+Oklahoma City,Nissan,Kicks,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,73013,"27,781",22500
+Oklahoma City,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,73013,"40,112",22500
+Oklahoma City,Jeep,Renegade,SUV,Used,Green,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2018,73013,"52,071",23000
+Oklahoma City,Honda,HR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,73013,"37,208",24500
+Oklahoma City,Kia,Sportage,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2020,73013,"23,420",25500
+Oklahoma City,Kia,Sportage,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2021,73013,"9,979",26300
+Oklahoma City,Hyundai,Kona,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2021,73013,"6,918",26300
+Oklahoma City,Hyundai,Sonata,SEDAN,Used,Black,Dark Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2020,73013,"9,096",26350
+Oklahoma City,Nissan,Maxima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,73013,"33,747",26500
+Oklahoma City,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,73013,"22,456",26900
+Oklahoma City,RAM,1500,TRUCKS,Used,White,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2018,73013,"43,000",27000
+Oklahoma City,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,73013,"58,879",28500
+Oklahoma City,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,73013,"11,230",28900
+Oklahoma City,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,73013,"16,577",29000
+Oklahoma City,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,73013,"43,056",29500
+Oklahoma City,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,73013,"20,585",29500
+Oklahoma City,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,73013,"23,572",30000
+Oklahoma City,Audi,S7,HATCH,Used,Blue,Lunar Silver,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2013,73013,"54,155",35800
+Oklahoma City,Audi,RS 5,HATCH,Used,Green,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2019,73013,"16,796",80000
+Oklahoma City,Volvo,XC60,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,73013,"55,613",37500
+Oklahoma City,Volvo,S60,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2019,73013,"24,753",37500
+Oklahoma City,Volvo,XC60,SUV,Certified,White,Blond/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,73013,"15,815",47500
+Oklahoma City,Acura,RDX,SUV,Used,Blue,Espresso,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2021,73013,"5,336",48500
+Oklahoma City,Volvo,XC60,SUV,Certified,Black,Charcoal,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,26 City / 28 Highway,2020,73013,"12,023",64000
+Oklahoma City,Volvo,XC90,SUV,Certified,Silver,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 28 Highway,2021,73013,"12,393",65500
+Oklahoma City,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,73069,"11,690",22043
+Oklahoma City,Nissan,Sentra,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,73162,"46,145",16491
+Oklahoma City,Kia,Forte,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2017,73162,"46,338",16791
+Oklahoma City,Toyota,Corolla,SEDAN,Used,Blue,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,73162,"38,281",19991
+Oklahoma City,GMC,Terrain,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,73162,"44,146",24991
+Oklahoma City,Ford,Mustang,COUPE,Used,White,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2017,73162,"33,046",25791
+Oklahoma City,Honda,Civic,SEDAN,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,73162,"15,221",26791
+Oklahoma City,Toyota,RAV4,SUV,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,73162,"27,998",29991
+Oklahoma City,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2022,73162,"6,423",32491
+Oklahoma City,Toyota,Sienna,VANS,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,73162,"15,882",33491
+Oklahoma City,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,73162,"42,799",34991
+Oklahoma City,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2020,73162,"26,351",36491
+Oklahoma City,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,73162,"26,844",37492
+Oklahoma City,Toyota,Highlander,SUV,Used,Gray,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,73162,"22,606",37791
+Oklahoma City,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,73162,"41,445",38791
+Oklahoma City,Chevrolet,Tahoe,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,73162,"54,169",41887
+Oklahoma City,GMC,Sierra 2500,TRUCKS,Used,Black,Ebony,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2011,73162,"80,467",41987
+Oklahoma City,Toyota,4Runner,SUV,Used,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,73162,"6,810",51491
+Oklahoma City,Toyota,4Runner,SUV,Used,White,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,73162,"11,276",55991
+Oklahoma City,Chrysler,200,SEDAN,Used,Gray,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,19 City / 31 Highway,2016,73139,"69,319",16771
+Oklahoma City,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,73139,"45,558",20944
+Oklahoma City,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,73139,"22,795",25944
+Oklahoma City,Mercedes-Benz,C 300,SEDAN,Used,Gray,Designo Platinum White/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,73139,"56,741",27991
+Oklahoma City,Toyota,Tacoma,TRUCKS,Used,White,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2019,73139,"25,999",35441
+Oklahoma City,Honda,Passport,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,73139,"7,766",44174
+Oklahoma City,Porsche,911,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2013,73013,"23,657",88995
+Oklahoma City,Chevrolet,Cruze,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,73139,"26,753",20154
+Oklahoma City,Nissan,Rogue Sport,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,73139,"13,078",24595
+Oklahoma City,Toyota,Highlander,SUV,Used,White,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,73139,"73,451",31261
+Oklahoma City,Ford,Escape,SUV,Used,Blue,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,73139,"8,488",31790
+Oklahoma City,Ford,Ranger,TRUCKS,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,73139,"5,338",34239
+Oklahoma City,Lincoln,MKZ,SEDAN,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 31 Highway,2019,73139,"10,426",38467
+Oklahoma City,Chevrolet,Blazer,SUV,Used,Red,Dark Galvanized/Light Galvaniz,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,73139,"7,986",40426
+Oklahoma City,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,73139,"31,806",41226
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,73139,"26,237",57497
+Oklahoma City,Cadillac,Escalade,SUV,Used,Black,Tuscan Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,73139,"43,043",59517
+Oklahoma City,Chevrolet,Silverado 2500,TRUCKS,Used,Black,Cocoa/Dune,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,73139,"29,391",65664
+Oklahoma City,Chevrolet,Silverado 3500,TRUCKS,Used,White,Saddle,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,73139,"25,015",71264
+Oklahoma City,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,73149,"22,099",21948
+Oklahoma City,FIAT,124 Spider,CONVERT,Used,Black,Saddle,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 36 Highway,2018,73149,"27,450",24621
+Oklahoma City,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,73149,"47,035",25164
+Oklahoma City,Nissan,Murano,SUV,Certified,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,73149,"20,621",27850
+Oklahoma City,Nissan,Pathfinder,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,73149,"29,608",30673
+Oklahoma City,Toyota,Tacoma,TRUCKS,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,19 City / 22 Highway,2019,73149,"37,471",31299
+Oklahoma City,Ford,Explorer,SUV,Used,White,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,73149,"34,279",33606
+Oklahoma City,Lexus,NX 300,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,73149,"4,349",40892
+Oklahoma City,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,73149,"12,989",42490
+Oklahoma City,Buick,Encore,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,73099,"39,589",19200
+Oklahoma City,Cadillac,XTS,SEDAN,Used,Black,Jet Black/Light Wheat Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 27 Highway,2013,73099,"52,951",20400
+Oklahoma City,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,73099,"25,800",31000
+Oklahoma City,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,73099,"2,534",36000
+Oklahoma City,Dodge,Durango,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 22 Highway,2021,73099,"4,115",48000
+Oklahoma City,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,73112,"24,597",31900
+Oklahoma City,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,73112,"8,049",33500
+Oklahoma City,Ford,Mustang,COUPE,Certified,White,Cashmere,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2015,73112,"9,295",37900
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,73112,"24,382",38995
+Oklahoma City,Ford,Expedition,SUV,Certified,Black,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,73112,"41,591",43995
+Oklahoma City,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2019,73072,"27,313",28500
+Oklahoma City,Land Rover,Range Rover Evoque,SUV,Used,Black,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2017,73072,"46,440",31500
+Oklahoma City,Dodge,Challenger,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,73112,"63,000",20900
+Oklahoma City,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,73149,"20,726",24970
+Oklahoma City,Ford,Explorer,SUV,Used,Red,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2016,73149,"70,269",29488
+Oklahoma City,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,73149,"12,600",43264
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,White,Dark Walnut/Dark Ash Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,73149,"19,354",53787
+Oklahoma City,Ford,Expedition,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2021,73149,"5,152",53999
+Oklahoma City,Ford,Explorer,SUV,Certified,Blue,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2021,73149,"6,780",57902
+Oklahoma City,Ford,Escape,SUV,Used,Black,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,73069,"25,750",25500
+Oklahoma City,Nissan,Frontier,TRUCKS,Used,Blue,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,73069,"21,920",28797
+Oklahoma City,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,73069,"17,715",32999
+Oklahoma City,Chevrolet,Cruze,HATCH,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,73110,"72,455",14988
+Oklahoma City,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,73110,"54,516",15988
+Oklahoma City,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,73110,"25,863",23988
+Oklahoma City,Jeep,Renegade,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2020,73110,"29,040",24988
+Oklahoma City,Dodge,Journey,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2020,73110,"22,738",24988
+Oklahoma City,Hyundai,Tucson,SUV,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2020,73110,"27,275",25895
+Oklahoma City,Honda,Accord,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,73110,"20,667",26988
+Oklahoma City,Ford,Mustang,COUPE,Used,,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2017,73110,"64,401",28988
+Oklahoma City,RAM,1500,TRUCKS,Certified,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,73110,"37,600",29450
+Oklahoma City,GMC,Terrain,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2021,73110,"4,875",31488
+Oklahoma City,Lincoln,MKZ,SEDAN,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 31 Highway,2019,73110,"40,888",31988
+Oklahoma City,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,73110,"35,404",36988
+Oklahoma City,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,73110,"10,087",36988
+Oklahoma City,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,73110,"38,937",36998
+Oklahoma City,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 24 Highway,2018,73110,"28,889",37988
+Oklahoma City,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2020,73110,"26,930",38990
+Oklahoma City,Ford,Bronco Sport,SUV,Used,Blue,Ebony/Brown,Automatic,Gasoline,3-Cylinder Turbo,4 wheel drive,25 City / 28 Highway,2021,73110,"9,949",39400
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2020,73110,"27,800",39988
+Oklahoma City,Dodge,Charger,SEDAN,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,73110,"13,943",40988
+Oklahoma City,RAM,1500,TRUCKS,Certified,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,73110,"20,441",40988
+Oklahoma City,Ford,Mustang,COUPE,Used,Black,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2020,73110,"1,141",41988
+Oklahoma City,RAM,1500,TRUCKS,Certified,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,73110,"18,764",42788
+Oklahoma City,Dodge,Challenger,COUPE,Certified,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,73110,"24,704",43799
+Oklahoma City,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,73110,"25,430",44988
+Oklahoma City,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,73110,"9,750",56588
+Oklahoma City,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,73110,"20,425",61988
+Oklahoma City,Buick,Enclave,SUV,Used,White,Chestnut,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,73072,"34,369",40153
+Oklahoma City,Honda,Odyssey,VANS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2010,73112,"104,487",9995
+Oklahoma City,BMW,528i,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2013,73112,"100,312",12995
+Oklahoma City,Honda,Civic,SEDAN,Used,Black,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2013,73112,"115,197",13995
+Oklahoma City,Chevrolet,Malibu,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 32 Highway,2011,73122,"141,526",6550
+Oklahoma City,Volkswagen,Tiguan,SUV,Certified,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 24 Highway,2017,73122,"35,687",21548
+Oklahoma City,Ford,Ranger,TRUCKS,Used,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,73122,"16,540",35988
+Oklahoma City,Ford,Escape,SUV,Used,Blue,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,73122,"42,569",22053
+Oklahoma City,Buick,Envision,SUV,Used,Brown,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,73122,"56,074",26353
+Oklahoma City,Buick,Envision,SUV,Used,Brown,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,73122,"42,116",27953
+Oklahoma City,Nissan,Maxima,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2009,73122,"163,000",6995
+Oklahoma City,Mercedes-Benz,GL 350,SUV,Used,White,Beige,Automatic,Diesel,6-Cylinder Turbo,All wheel drive,17 City / 21 Highway,2012,73122,"149,000",12995
+Oklahoma City,Mercedes-Benz,GLK 350,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2015,73122,"56,000",24945
+Oklahoma City,Mercedes-Benz,S 550,SEDAN,Used,Black,,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2015,73122,"66,000",41945
+Oklahoma City,Ford,F150,TRUCKS,Used,,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,73069,"28,556",47988
+Oklahoma City,Honda,Civic,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 39 Highway,2017,73072,"26,071",21700
+Oklahoma City,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,73072,"32,730",22400
+Oklahoma City,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2021,73072,"9,461",28000
+Oklahoma City,Chevrolet,TrailBlazer,SUV,Used,Blue,Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 31 Highway,2021,73072,"9,736",28700
+Oklahoma City,Subaru,Outback,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2017,73072,"40,663",30900
+Oklahoma City,Nissan,370Z,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2011,73122,"85,820",17600
+Oklahoma City,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,14 City / 19 Highway,2012,73122,"83,608",24750
+Oklahoma City,Nissan,Juke,SUV,Used,Red,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2011,73072,"106,181",8488
+Oklahoma City,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,73072,"5,565",31699
+Oklahoma City,Hyundai,Tucson,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2008,73110,"163,641",5913
+Oklahoma City,Lexus,CT 200h,HATCH,Used,Red,Ecru,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2013,73110,"119,545",14629
+Oklahoma City,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,73110,"57,120",22589
+Oklahoma City,Lincoln,MKC,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,73110,"44,289",31733
+Oklahoma City,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2021,73110,"13,985",38135
+Oklahoma City,Chevrolet,Colorado,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,73110,"22,016",39360
+Oklahoma City,Toyota,4Runner,SUV,Used,Silver,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,73110,"29,515",42903
+Oklahoma City,INFINITI,QX80,SUV,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2019,73110,"38,089",47800
+Oklahoma City,Cadillac,SRX,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2011,73112,"96,261",11950
+Oklahoma City,Ford,Fusion,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2014,73112,"53,945",12950
+Oklahoma City,Kia,Forte,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 37 Highway,2016,73112,"54,020",12950
+Oklahoma City,Ford,Explorer,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2013,73112,"124,333",13450
+Oklahoma City,Dodge,Challenger,COUPE,Used,Black,Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2014,73110,"76,590",22500
+Oklahoma City,Mitsubishi,Outlander Sport,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,73110,"50,272",22750
+Oklahoma City,Chrysler,Pacifica,VANS,Used,Silver,Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2017,73110,"63,579",23690
+Oklahoma City,Chevrolet,Malibu,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2016,73110,"44,890",23990
+Oklahoma City,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2015,73110,"22,392",24990
+Oklahoma City,Volkswagen,Atlas,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,73110,"63,787",25270
+Oklahoma City,Dodge,Journey,SUV,Used,White,Red,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 24 Highway,2019,73110,"43,504",26590
+Oklahoma City,Ford,F150,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,73110,"56,441",29980
+Oklahoma City,Ford,Expedition,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2017,73110,"73,324",29980
+Oklahoma City,Toyota,4Runner,SUV,Used,White,Sand Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 22 Highway,2014,73110,"84,534",29990
+Oklahoma City,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,73110,"19,997",32360
+Oklahoma City,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,73110,"34,206",33980
+Oklahoma City,Subaru,WRX,SEDAN,Used,Blue,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2021,73110,"13,099",33990
+Oklahoma City,Chrysler,Pacifica,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,73110,"45,769",37890
+Oklahoma City,Chevrolet,Colorado,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,73110,"19,731",37990
+Oklahoma City,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,73110,"40,108",38990
+Oklahoma City,Chevrolet,Tahoe,SUV,Used,Silver,Cocoa,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,73110,"70,736",39980
+Oklahoma City,Ford,Explorer,SUV,Used,Black,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,73110,"20,020",43790
+Oklahoma City,Lexus,RX 350,SUV,Used,Off White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,73110,"33,497",43867
+Oklahoma City,Toyota,Tacoma,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,73110,"14,854",44490
+Oklahoma City,Chevrolet,Tahoe,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,73110,"30,936",44990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,73110,"26,829",48990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,73110,"42,466",55990
+Oklahoma City,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,73110,"38,258",56950
+Oklahoma City,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,73110,"11,397",57990
+Oklahoma City,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,73110,"14,865",66670
+Oklahoma City,Toyota,Tundra,TRUCKS,Used,Blue,Graphite,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2015,73132,"95,408",32900
+Oklahoma City,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,73132,"13,341",48295
+Oklahoma City,Jeep,Gladiator,TRUCKS,Used,Beige,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,73132,"21,234",53450

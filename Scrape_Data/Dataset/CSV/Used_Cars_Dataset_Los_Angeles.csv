@@ -1,0 +1,801 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Los Angeles,Chevrolet,Tahoe,SUV,Used,Gray,Cocoa/Mahogany,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,90241,"22,827",66995
+Los Angeles,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90045,"21,678",23150
+Los Angeles,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,90045,"39,463",27500
+Los Angeles,FIAT,500,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2018,90706,"14,204",13288
+Los Angeles,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,90706,"48,290",18126
+Los Angeles,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,90706,"17,896",22208
+Los Angeles,Lexus,ES 350,SEDAN,Used,White,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,90706,"26,097",42888
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Red/Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,90706,"9,154",42999
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,90706,"31,077",45000
+Los Angeles,Hyundai,Elantra,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 40 Highway,2017,90241,"30,827",17495
+Los Angeles,Volkswagen,Jetta,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,90241,"33,675",20624
+Los Angeles,Dodge,Durango,SUV,Used,Black,,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2014,90280,"79,565",21995
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,90280,"63,079",23495
+Los Angeles,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,90007,"29,113",23700
+Los Angeles,Ford,Edge,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2018,90045,"22,021",29895
+Los Angeles,Ford,Explorer,SUV,Used,White,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,90045,"18,930",38995
+Los Angeles,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2018,90703,"22,007",21989
+Los Angeles,Ford,Flex,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,90621,"18,744",19500
+Los Angeles,Volvo,XC90,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,91107,"13,375",58999
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,90241,"43,917",28995
+Los Angeles,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 25 Highway,2016,90241,"49,257",28995
+Los Angeles,Honda,Civic,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,90045,"51,298",20800
+Los Angeles,Honda,Civic,SEDAN,Used,,Black/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,90045,"47,516",21000
+Los Angeles,Honda,Civic,SEDAN,Certified,,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2021,90045,"2,449",28169
+Los Angeles,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90605,"22,335",26988
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,Gray,Cement,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,90605,"13,584",41988
+Los Angeles,Honda,Accord,SEDAN,Used,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,90249,"11,350",33999
+Los Angeles,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,90036,"34,232",27999
+Los Angeles,BMW,330i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90036,"38,149",29999
+Los Angeles,BMW,330i,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90036,"22,428",29999
+Los Angeles,BMW,X2,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,90036,"13,328",30999
+Los Angeles,BMW,X2,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,90036,"33,496",31999
+Los Angeles,BMW,430i,COUPE,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,90036,"20,996",34999
+Los Angeles,Jaguar,E-PACE,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,90036,"15,204",35999
+Los Angeles,BMW,230i,CONVERT,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2019,90036,"16,269",36999
+Los Angeles,BMW,X3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,90036,"23,175",37999
+Los Angeles,BMW,X5,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2018,90036,"25,395",52999
+Los Angeles,BMW,X5,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,90036,"26,353",57998
+Los Angeles,BMW,X5,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,90036,"15,249",58999
+Los Angeles,BMW,Z4,CONVERT,Used,Silver,Red,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,90036,"9,732",61999
+Los Angeles,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,91801,"11,510",28954
+Los Angeles,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,91801,"4,132",35766
+Los Angeles,Hyundai,Elantra,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2018,90503,"7,762",20991
+Los Angeles,Hyundai,Elantra,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,90503,"5,626",22991
+Los Angeles,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2013,90602,"67,401",15600
+Los Angeles,Chevrolet,Trax,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,90602,"49,566",16650
+Los Angeles,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,90602,"39,032",17950
+Los Angeles,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2016,90602,"53,216",21500
+Los Angeles,Mitsubishi,Eclipse Cross,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,25 City / 26 Highway,2018,90602,"31,316",21950
+Los Angeles,Nissan,Leaf,HATCH,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,90602,"11,034",23950
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,90602,"57,439",26450
+Los Angeles,Ford,Taurus,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2016,90602,"33,692",26950
+Los Angeles,BMW,435i,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2016,90602,"47,816",28350
+Los Angeles,BMW,X1,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,90602,"25,914",28400
+Los Angeles,MAZDA,MX-5 Miata RF,CONVERT,Used,Silver,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,90602,"7,129",28400
+Los Angeles,BMW,X3,SUV,Used,Brown,Mocha,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2016,90602,"23,554",28450
+Los Angeles,Dodge,Challenger,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,90602,"4,261",28500
+Los Angeles,Nissan,370Z,COUPE,Used,Red,Black,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2015,90602,"16,030",29400
+Los Angeles,Volkswagen,Tiguan,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,90602,"29,542",29950
+Los Angeles,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,90602,"15,256",30950
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2016,90602,"46,643",30950
+Los Angeles,Kia,Stinger,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2018,90602,"32,515",31450
+Los Angeles,Honda,Odyssey,VANS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,90602,"26,491",31950
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,90602,"18,930",31950
+Los Angeles,Land Rover,Discovery Sport,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,90602,"29,845",32350
+Los Angeles,INFINITI,Q60,COUPE,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2017,90602,"46,652",32350
+Los Angeles,Ford,F250,TRUCKS,Used,Red,Steel,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2015,90602,"47,646",33300
+Los Angeles,Honda,Ridgeline,TRUCKS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,90602,"46,771",33350
+Los Angeles,Mercedes-Benz,GLC 300,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,90602,"32,412",34350
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,White,Ruby Red/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,90602,"44,832",34450
+Los Angeles,Lexus,UX 200,SUV,Used,Black,Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,90602,"9,682",34950
+Los Angeles,MAZDA,CX-9,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2021,90602,"5,819",37300
+Los Angeles,Audi,A5,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,90602,"30,818",37500
+Los Angeles,Land Rover,Discovery Sport,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,90602,"12,669",38350
+Los Angeles,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,90602,"38,112",38950
+Los Angeles,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,90602,"38,112",38950
+Los Angeles,Kia,Stinger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,90602,"28,364",39350
+Los Angeles,Ford,F150,TRUCKS,Used,,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,90602,"13,192",39350
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,90602,"8,399",41750
+Los Angeles,Cadillac,ATS,COUPE,Used,Silver,Light Platinum W/Jet Black Sea,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2016,90602,"24,742",43950
+Los Angeles,Lexus,RX 450hL,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,29 City / 28 Highway,2018,90602,"21,727",44450
+Los Angeles,Volvo,XC40,SUV,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,90602,"6,022",44950
+Los Angeles,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,90602,"10,892",44950
+Los Angeles,RAM,1500,TRUCKS,Used,Silver,Red/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,90602,"27,361",49950
+Los Angeles,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,90602,"15,166",53950
+Los Angeles,Mercedes-Benz,C 63 AMG,CONVERT,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 22 Highway,2017,90602,"46,026",57950
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 19 Highway,2017,90602,"31,712",57950
+Los Angeles,Alfa Romeo,Stelvio,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,90602,"22,305",60950
+Los Angeles,Porsche,Macan,SUV,Used,Gray,Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,90602,"29,867",68950
+Los Angeles,Toyota,Camry,SEDAN,Certified,White,Blk/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,91732,"19,226",27688
+Los Angeles,Toyota,Camry,SEDAN,Certified,White,Blk/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,91732,"13,482",29888
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,91732,"12,673",38888
+Los Angeles,Toyota,Highlander,SUV,Certified,White,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,91732,"20,224",38888
+Los Angeles,Kia,Forte,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 37 Highway,2016,90706,"31,538",15788
+Los Angeles,Chevrolet,Cruze,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,90706,"39,085",17814
+Los Angeles,Chevrolet,Trax,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,90706,"24,822",18288
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,90706,"48,263",19688
+Los Angeles,Nissan,Versa,SEDAN,Used,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,90706,"8,420",19900
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90706,"32,101",21991
+Los Angeles,Honda,Civic,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,90706,"31,134",22288
+Los Angeles,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,90706,"25,347",22999
+Los Angeles,Nissan,Altima,SEDAN,Used,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,90706,"31,222",24288
+Los Angeles,Nissan,Murano,SUV,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,90706,"35,246",26888
+Los Angeles,Jeep,Compass,SUV,Used,Gray,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,90706,"13,905",27335
+Los Angeles,Subaru,Outback,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,90706,"42,755",28488
+Los Angeles,Acura,RDX,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2018,90706,"32,664",28500
+Los Angeles,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,90706,"11,937",28889
+Los Angeles,Toyota,Tundra,TRUCKS,Used,,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2014,90706,"66,421",29788
+Los Angeles,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,90706,"9,791",29830
+Los Angeles,Ford,Explorer,SUV,Used,Black,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,18 City / 25 Highway,2018,90706,"53,610",29855
+Los Angeles,Alfa Romeo,Stelvio,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,90706,"38,090",29999
+Los Angeles,Alfa Romeo,Giulia,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,90706,"11,251",30076
+Los Angeles,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,90706,"8,327",30387
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,90706,"26,585",30688
+Los Angeles,Alfa Romeo,Giulia,SEDAN,Used,Black,Black/Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,90706,"9,895",30888
+Los Angeles,Chevrolet,Camaro,COUPE,Used,Red,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,90706,"7,702",30999
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,90706,"28,085",31900
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2016,90706,"33,885",32830
+Los Angeles,Honda,Pilot,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,90706,"17,838",32850
+Los Angeles,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,90706,"45,045",33007
+Los Angeles,Ford,Edge,SUV,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90706,"12,093",33126
+Los Angeles,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,90706,"28,892",33488
+Los Angeles,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,90706,"17,205",34548
+Los Angeles,Lexus,IS 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,90706,"37,252",34631
+Los Angeles,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,90706,"47,114",34775
+Los Angeles,Honda,Pilot,SUV,Used,Off White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,90706,"9,706",37764
+Los Angeles,BMW,540i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,90706,"36,214",39426
+Los Angeles,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 22 Highway,2019,90706,"25,842",45480
+Los Angeles,Audi,S5,HATCH,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,90706,"22,105",54573
+Los Angeles,Ford,Mustang,COUPE,Used,White,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2016,90706,"18,779",56688
+Los Angeles,Hyundai,Kona,SUV,Certified,Silver,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2018,90703,"34,129",22995
+Los Angeles,Hyundai,Santa Fe,SUV,Certified,Silver,Black/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 25 Highway,2019,90703,"11,627",33500
+Los Angeles,BMW,330i,SEDAN,Certified,Black,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90650,"3,233",33888
+Los Angeles,BMW,430i Gran Coupe,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,90650,"12,491",37888
+Los Angeles,Honda,Civic,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,91401,"23,582",22099
+Los Angeles,Ford,E-250 and Econoline 250,VANS,Used,White,Medium Flint,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,12 City / 16 Highway,2011,90241,"94,763",14995
+Los Angeles,Nissan,Versa,SEDAN,Used,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,90241,"1,210",20995
+Los Angeles,Honda,Fit,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,90241,"14,265",21995
+Los Angeles,Hyundai,Santa Fe,SUV,Certified,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,90241,"30,082",22033
+Los Angeles,Honda,HR-V,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,90241,"20,255",25889
+Los Angeles,Hyundai,Santa Fe,SUV,Certified,Black,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,90241,"28,973",25995
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2020,90241,"12,735",26995
+Los Angeles,Maserati,Ghibli,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 24 Highway,2015,90241,"62,599",27995
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,White,Cranberry Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,90241,"47,886",27995
+Los Angeles,Mercedes-Benz,CLA 250,SEDAN,Used,Blue,Sahara Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,90241,"39,539",28995
+Los Angeles,Hyundai,Sonata,SEDAN,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,45 City / 51 Highway,2020,90241,"17,336",30599
+Los Angeles,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,90241,"10,420",30995
+Los Angeles,BMW,330e,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,90241,"30,786",31995
+Los Angeles,MAZDA,CX-5,SUV,Used,Blue,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,90241,"13,092",34888
+Los Angeles,Honda,Passport,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2020,90241,"16,011",35995
+Los Angeles,Mercedes-Benz,C 300,SEDAN,Used,White,Amg Cranberry Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,90241,"27,004",36995
+Los Angeles,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90241,"22,449",37995
+Los Angeles,INFINITI,QX50,SUV,Used,White,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,90241,"13,156",38995
+Los Angeles,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,90241,"23,681",44995
+Los Angeles,Chevrolet,Silverado 2500,TRUCKS,Used,Brown,Saddle,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,90241,"31,676",64995
+Los Angeles,Lincoln,Navigator L,SUV,Used,Gold,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2018,90241,"37,464",68888
+Los Angeles,Chevrolet,Camaro,COUPE,Used,Red,Jet Black,Manual,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,14 City / 20 Highway,2021,90241,"4,907",70995
+Los Angeles,Mercedes-Benz,G 63 AMG,SUV,Used,Blue,Gray/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,12 City / 14 Highway,2017,90241,"23,518",126888
+Los Angeles,Lexus,ES 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,91204,"28,480",38988
+Los Angeles,Lexus,GX 460,SUV,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2018,91204,"24,508",47988
+Los Angeles,Lexus,LC 500,CONVERT,Certified,Silver,Gone,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,91204,"3,984",105988
+Los Angeles,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 28 Highway,2021,91791,"9,278",48364
+Los Angeles,Audi,Q7,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,91791,"10,265",60228
+Los Angeles,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,90007,"16,716",26700
+Los Angeles,Chevrolet,Colorado,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2019,90007,"13,308",33995
+Los Angeles,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,90007,"8,423",47924
+Los Angeles,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,90745,"61,318",15999
+Los Angeles,Honda,Civic,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,90745,"27,890",20999
+Los Angeles,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90745,"29,006",21999
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2015,90745,"64,004",23999
+Los Angeles,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90745,"26,795",26999
+Los Angeles,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,90745,"18,306",28999
+Los Angeles,Honda,Accord,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,90745,"7,051",31999
+Los Angeles,Acura,RDX,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2021,90745,"7,651",44999
+Los Angeles,Toyota,Corolla,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 42 Highway,2019,90249,"14,538",22872
+Los Angeles,Honda,Civic,COUPE,Used,Green,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2017,90249,"43,552",23999
+Los Angeles,Honda,Civic,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90249,"16,233",24999
+Los Angeles,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,90249,"31,145",25999
+Los Angeles,Honda,Civic,SEDAN,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,90249,"19,744",26499
+Los Angeles,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,90249,"16,546",26579
+Los Angeles,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,90249,"33,470",27343
+Los Angeles,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,90249,"17,457",29499
+Los Angeles,Chrysler,Pacifica,VANS,Used,Burgundy,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,90249,"41,424",29999
+Los Angeles,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,90249,"9,662",29999
+Los Angeles,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,90249,"22,666",29999
+Los Angeles,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,90249,"23,521",30499
+Los Angeles,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,90249,"20,119",31553
+Los Angeles,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,90249,"6,784",32997
+Los Angeles,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,90249,"11,420",33142
+Los Angeles,Kia,Optima,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,90745,"30,177",21995
+Los Angeles,Toyota,Sienna,VANS,Certified,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,90745,"33,742",38500
+Los Angeles,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,91204,"10,403",25995
+Los Angeles,Acura,MDX,SUV,Used,,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,91204,"24,347",40495
+Los Angeles,MAZDA,MAZDA3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,90007,"15,444",22627
+Los Angeles,BMW,330i,SEDAN,Used,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,90015,"36,234",36991
+Los Angeles,Volkswagen,Tiguan,SUV,Certified,White,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,91204,"34,748",25499
+Los Angeles,Volkswagen,Tiguan,SUV,Certified,Red,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,91204,"8,905",28349
+Los Angeles,MAZDA,MAZDA3,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2009,90023,"107,541",7490
+Los Angeles,Mercedes-Benz,S 550,SEDAN,Used,Off White,Porcelain/Bl,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 26 Highway,2017,90404,"38,321",57887
+Los Angeles,Mercedes-Benz,S 560,SEDAN,Used,Blue,Ash,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2018,90404,"26,147",74996
+Los Angeles,Ford,Focus,SEDAN,Used,Burgundy,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,90045,"22,721",19295
+Los Angeles,Ford,Fusion,SEDAN,Certified,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,90045,"26,266",21995
+Los Angeles,Ford,Mustang,COUPE,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2016,90045,"41,165",23995
+Los Angeles,Ford,Mustang,COUPE,Used,Red,Ebony,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2017,90045,"36,797",25395
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2020,90045,"18,708",28695
+Los Angeles,Ford,Escape,SUV,Certified,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2018,90045,"17,744",28795
+Los Angeles,Ford,Mustang,COUPE,Used,White,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,90045,"6,396",31495
+Los Angeles,Ford,Ranger,TRUCKS,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,90045,"28,965",35495
+Los Angeles,Ford,Ranger,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,90045,"15,965",35995
+Los Angeles,Pontiac,G6,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2008,90248,"128,491",4300
+Los Angeles,BMW,330i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2003,90248,"156,342",4600
+Los Angeles,Nissan,Murano,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 23 Highway,2010,90248,"114,769",6300
+Los Angeles,INFINITI,M45,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2007,90248,"125,306",7700
+Los Angeles,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,90703,"29,456",24627
+Los Angeles,BMW,228i Gran Coupe,SEDAN,Used,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,91608,222,38885
+Los Angeles,BMW,330i,SEDAN,Used,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,91608,"8,826",43905
+Los Angeles,MAZDA,CX-5,SUV,Used,Gray,Gone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,90703,"25,908",28999
+Los Angeles,Honda,Civic,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2020,90703,"19,765",26923
+Los Angeles,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,90703,"11,803",31841
+Los Angeles,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90703,"22,462",39771
+Los Angeles,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90703,"17,814",39811
+Los Angeles,Lexus,GX 460,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2019,90703,"20,634",50995
+Los Angeles,BMW,M550i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,90703,"21,668",61395
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,90703,"14,670",26500
+Los Angeles,INFINITI,Q50,SEDAN,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,90703,"26,122",31525
+Los Angeles,INFINITI,QX50,SUV,Certified,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2019,90703,"27,017",32853
+Los Angeles,INFINITI,QX60,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,90703,"27,193",38817
+Los Angeles,INFINITI,QX60,SUV,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,90703,"26,326",38925
+Los Angeles,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,91602,"16,233",26997
+Los Angeles,Toyota,Camry,SEDAN,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,91602,"18,934",28697
+Los Angeles,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,91602,"7,807",29997
+Los Angeles,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,91602,"21,417",39810
+Los Angeles,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,35 City / 34 Highway,2021,91791,"6,074",52995
+Los Angeles,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,91791,"34,039",20558
+Los Angeles,Audi,Q5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,90755,"15,132",42999
+Los Angeles,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,90755,"19,704",49999
+Los Angeles,Hyundai,Santa Fe,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2018,91401,"28,075",23977
+Los Angeles,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,90640,"41,905",21991
+Los Angeles,Chevrolet,Equinox,SUV,Certified,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,90640,"20,242",24991
+Los Angeles,Chevrolet,Traverse,SUV,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,90640,"25,583",37991
+Los Angeles,Jeep,Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,91401,"25,302",28500
+Los Angeles,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,91401,"3,751",34500
+Los Angeles,Chevrolet,Equinox,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,91748,"29,024",25995
+Los Angeles,Ford,Fusion,SEDAN,Used,Red,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2016,90241,"57,188",18395
+Los Angeles,INFINITI,Q50,SEDAN,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,91016,"39,535",28498
+Los Angeles,Volkswagen,GTI,HATCH,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2017,92832,"40,259",24000
+Los Angeles,Volvo,C30,HATCH,Used,Blue,Off-Black,Automatic,Gasoline,5-Cylinder Turbo,2 wheel drive - front,,2009,90505,"110,424",8495
+Los Angeles,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90505,"34,982",28991
+Los Angeles,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,90505,"20,200",45991
+Los Angeles,BMW,740i,SEDAN,Used,Gray,Canberra Beige,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2018,90505,"36,733",45995
+Los Angeles,Maserati,Levante,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 20 Highway,2018,90505,"22,865",52995
+Los Angeles,Mercedes-Benz,C 43 AMG,SEDAN,Certified,Blue,Saddle Brown/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,90505,"9,128",60995
+Los Angeles,Mercedes-Benz,S 550,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2015,90505,"30,041",62991
+Los Angeles,BMW,840i Gran Coupe,SEDAN,Used,White,Fiona Red/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2022,90505,"4,571",89991
+Los Angeles,BMW,M5,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,90505,"11,749",89991
+Los Angeles,Porsche,Macan,SUV,Certified,Silver,Black/Mojave Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2019,91105,"8,130",67900
+Los Angeles,Land Rover,Discovery Sport,SUV,Used,Red,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 25 Highway,2017,90505,"30,572",31995
+Los Angeles,Jaguar,XF,SEDAN,Certified,White,Latte,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 34 Highway,2018,90505,"17,447",33991
+Los Angeles,Tesla,Model S,HATCH,Used,Silver,Black,Single-Speed,Electric,Electric,All wheel drive,,2017,90505,"47,546",64995
+Los Angeles,Land Rover,Range Rover Velar,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,18 City / 24 Highway,2019,90505,"11,146",69995
+Los Angeles,Mercedes-Benz,S 560,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2018,90505,"20,580",71995
+Los Angeles,Ford,Escape,SUV,Used,Black,Dark Earth Gray,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,90505,"14,335",23998
+Los Angeles,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90505,"18,147",33990
+Los Angeles,Ford,F350,TRUCKS,Used,Black,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,90505,"26,889",71995
+Los Angeles,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,90505,"22,655",25991
+Los Angeles,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90505,"26,741",29599
+Los Angeles,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 29 Highway,2016,90505,"20,693",50495
+Los Angeles,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,90241,"21,285",21995
+Los Angeles,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,90241,"35,294",24995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,90241,"11,410",25995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90241,"3,817",27995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90241,"5,101",29995
+Los Angeles,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,90241,"10,409",29995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90241,"7,047",29995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90241,"8,594",29995
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90241,"4,850",29995
+Los Angeles,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90241,"12,068",31995
+Los Angeles,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,90241,"4,433",32995
+Los Angeles,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,90241,"15,587",33995
+Los Angeles,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,90241,"4,628",38995
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,90045,"64,410",17770
+Los Angeles,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,90045,"7,673",25750
+Los Angeles,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90045,"23,762",25800
+Los Angeles,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2018,90045,"27,489",26000
+Los Angeles,Honda,Civic,HATCH,Certified,White,Black/Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,90045,"28,423",27719
+Los Angeles,Honda,Accord,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,90045,"32,128",27850
+Los Angeles,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,90045,"7,035",35850
+Los Angeles,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,40 City / 35 Highway,2020,90045,"10,931",39000
+Los Angeles,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90605,"34,029",27988
+Los Angeles,Kia,Soul,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,91801,"16,809",21599
+Los Angeles,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,91801,"5,057",29995
+Los Angeles,MAZDA,MAZDA6,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2018,90036,"27,982",26497
+Los Angeles,BMW,330i,SEDAN,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90036,"32,407",28997
+Los Angeles,BMW,X2,SUV,Certified,Black,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,90036,"11,816",29996
+Los Angeles,BMW,320i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,90036,"32,436",29996
+Los Angeles,Toyota,Prius Prime,HATCH,Used,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2020,90036,"6,862",31496
+Los Angeles,BMW,X2,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,90036,"18,697",31996
+Los Angeles,BMW,330i,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90036,"21,069",33996
+Los Angeles,BMW,430i Gran Coupe,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,90036,"33,164",33999
+Los Angeles,BMW,i3,HATCH,Certified,Gray,Deka Dark,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,90036,"11,019",34996
+Los Angeles,BMW,i3,HATCH,Certified,Black,Deka Dark,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,90036,"14,324",34996
+Los Angeles,BMW,i3,HATCH,Used,Blue,Brown,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,90036,"4,485",35998
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,90036,"16,456",37496
+Los Angeles,BMW,530e,SEDAN,Certified,Gray,Brown,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,90036,"13,383",38696
+Los Angeles,BMW,530e,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 30 Highway,2019,90036,"19,178",38996
+Los Angeles,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2020,90036,"21,757",40499
+Los Angeles,Mercedes-Benz,E 300,SEDAN,Used,White,White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,90036,"18,249",40997
+Los Angeles,BMW,340i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,90036,"31,431",42496
+Los Angeles,BMW,X5,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,90036,"21,730",44998
+Los Angeles,BMW,430i,CONVERT,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,90036,"14,241",45997
+Los Angeles,BMW,430i,CONVERT,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,90036,"17,332",47996
+Los Angeles,BMW,X5,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,90036,"24,514",47999
+Los Angeles,BMW,X4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,90036,"15,091",49497
+Los Angeles,BMW,X4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,90036,"22,293",49997
+Los Angeles,BMW,540i,SEDAN,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,90036,"15,139",49997
+Los Angeles,BMW,740i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,90036,"15,266",56996
+Los Angeles,BMW,M550i xDrive,SEDAN,Certified,Black,Ivory White,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,90036,"23,754",58997
+Los Angeles,BMW,M340i,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2021,90036,"7,174",58998
+Los Angeles,BMW,X5,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,90036,"11,347",59997
+Los Angeles,BMW,540i,SEDAN,Used,White,Cognac,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,90036,726,59997
+Los Angeles,BMW,X5,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,90036,"15,913",61996
+Los Angeles,BMW,M4,COUPE,Certified,Blue,Silverstone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,90036,"10,106",68996
+Los Angeles,BMW,M4,COUPE,Certified,Orange,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,90036,"13,511",68996
+Los Angeles,BMW,X7,SUV,Certified,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,90036,"11,802",81996
+Los Angeles,Land Rover,Range Rover Sport,SUV,Used,Black,Beige,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,17 City / 22 Highway,2019,90036,"26,503",83996
+Los Angeles,BMW,M850i xDrive,CONVERT,Used,Black,Brown,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2019,90036,"26,887",86996
+Los Angeles,Honda,Accord,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,91801,"29,292",23077
+Los Angeles,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2020,91801,"19,503",26277
+Los Angeles,Kia,Sportage,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2020,91801,"17,902",26528
+Los Angeles,Subaru,Outback,SUV,Used,Blue,Brown,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,91801,"32,570",27299
+Los Angeles,Hyundai,Santa Fe,SUV,Used,Silver,Espresso/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,91801,"8,976",28288
+Los Angeles,Buick,Encore,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2020,91801,"18,788",24595
+Los Angeles,Jeep,Compass,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,91801,"32,332",25287
+Los Angeles,Jeep,Compass,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,91801,"18,657",26994
+Los Angeles,Nissan,Maxima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,91801,"23,663",28495
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,91801,"29,512",39449
+Los Angeles,Jeep,Grand Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,91801,"16,896",40994
+Los Angeles,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,91801,"8,174",42990
+Los Angeles,Honda,HR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 31 Highway,2021,90022,"9,628",25799
+Los Angeles,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,90230,"8,444",30995
+Los Angeles,Chevrolet,Traverse,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,90230,"18,772",39995
+Los Angeles,Hyundai,Elantra,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,90503,"15,643",20771
+Los Angeles,Hyundai,Kona,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,90503,"24,927",22591
+Los Angeles,Mercedes-Benz,E 400,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2015,90403,"50,609",27499
+Los Angeles,BMW,X2,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,90403,"21,528",28999
+Los Angeles,Mercedes-Benz,GLA 250,SUV,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,90403,"35,859",29999
+Los Angeles,Lexus,IS 200t,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2017,90403,"40,669",30499
+Los Angeles,Mercedes-Benz,E 300,SEDAN,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,90403,"34,481",34999
+Los Angeles,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 35 Highway,2020,90403,"12,885",40499
+Los Angeles,Jaguar,F-PACE,SUV,Used,Black,Black,Automatic,Diesel,4-Cylinder Turbo,All wheel drive,26 City / 33 Highway,2018,90403,"14,237",40999
+Los Angeles,Mercedes-Benz,GLE 350,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,90403,"26,678",42999
+Los Angeles,Mercedes-Benz,GLE 400,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,90403,"28,457",46999
+Los Angeles,Audi,A5,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,90401,"18,923",45991
+Los Angeles,INFINITI,Q50,SEDAN,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 29 Highway,2015,90404,"57,935",21800
+Los Angeles,Ford,Ranger,TRUCKS,Certified,Black,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,91791,"11,544",44333
+Los Angeles,Ford,Expedition,SUV,Certified,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,91791,"28,815",57854
+Los Angeles,Volkswagen,Tiguan,SUV,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,91204,"27,400",26999
+Los Angeles,Subaru,Outback,SUV,Certified,Black,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,90250,"17,989",29980
+Los Angeles,Honda,Odyssey,VANS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2012,90602,"92,513",16650
+Los Angeles,Acura,TL,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 29 Highway,2012,90602,"63,847",17500
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,90602,"35,841",18900
+Los Angeles,Honda,CR-V,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2014,90602,"29,290",18950
+Los Angeles,MAZDA,MAZDA3,SEDAN,Used,White,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2016,90602,"33,216",19950
+Los Angeles,Honda,Civic,COUPE,Used,Black,Red,Manual,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,90602,"56,445",21500
+Los Angeles,Subaru,Legacy,SEDAN,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2018,90602,"53,674",21950
+Los Angeles,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90602,"25,125",23450
+Los Angeles,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,90602,"40,618",23950
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2015,90602,"60,506",24950
+Los Angeles,Lincoln,MKX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2018,90602,"49,108",25950
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 23 Highway,2016,90602,"49,517",25950
+Los Angeles,BMW,430i Gran Coupe,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2017,90602,"64,157",26450
+Los Angeles,Lexus,LS 460,SEDAN,Used,Brown,Parchment,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2013,90602,"117,660",26950
+Los Angeles,Subaru,Outback,SUV,Used,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,90602,"40,419",26950
+Los Angeles,Lexus,RX 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2013,90602,"39,473",26950
+Los Angeles,Volkswagen,Tiguan,SUV,Used,Black,Oak,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90602,"19,820",27950
+Los Angeles,Volkswagen,Tiguan,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,90602,"21,518",27950
+Los Angeles,MAZDA,MX-5 Miata RF,CONVERT,Used,Red,Black W/Red Stitching,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2018,90602,"18,920",28950
+Los Angeles,Volkswagen,Tiguan,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,90602,"26,745",29950
+Los Angeles,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,90602,"13,043",30350
+Los Angeles,Lexus,IS 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,90602,"43,547",31350
+Los Angeles,Subaru,Outback,SUV,Used,Gray,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,90602,"38,205",31350
+Los Angeles,Lexus,RX 350,SUV,Used,Silver,Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2016,90602,"63,711",31950
+Los Angeles,Toyota,Highlander,SUV,Used,Black,Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2017,90602,"66,529",32450
+Los Angeles,Toyota,Prius Prime,HATCH,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2021,90602,"10,189",32750
+Los Angeles,GMC,Terrain,SUV,Used,White,Brandy/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,90602,"14,517",32950
+Los Angeles,Mercedes-Benz,GLC 300,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,90602,"45,014",33350
+Los Angeles,Toyota,Highlander,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2019,90602,"15,088",33950
+Los Angeles,Ford,Explorer,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2017,90602,"57,225",34350
+Los Angeles,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 28 Highway,2016,90602,"33,857",35450
+Los Angeles,Lexus,GS 350,SEDAN,Used,Gray,Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2017,90602,"48,771",36350
+Los Angeles,Chevrolet,Camaro,COUPE,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,90602,"31,883",36750
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Gray,Ruby Red/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,90602,"41,092",37350
+Los Angeles,Honda,Odyssey,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,90602,"43,398",38450
+Los Angeles,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2019,90602,"38,959",39950
+Los Angeles,BMW,M6,CONVERT,Used,,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,14 City / 20 Highway,2012,90602,"44,515",41250
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,White,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,90602,"22,502",41350
+Los Angeles,Porsche,911,COUPE,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2009,90602,"87,637",42350
+Los Angeles,Land Rover,Discovery,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2019,90602,"38,652",43350
+Los Angeles,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,90602,"13,624",44950
+Los Angeles,INFINITI,QX80,SUV,Used,White,Truffle Brown,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 20 Highway,2015,90602,"21,045",46950
+Los Angeles,Tesla,Model 3,SEDAN,Used,Silver,Black,Single-Speed,Electric,Electric,All wheel drive,,2021,90602,"8,279",56950
+Los Angeles,FIAT,500,HATCH,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2018,90250,"17,749",13800
+Los Angeles,Acura,RDX,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2015,90250,"40,124",22500
+Los Angeles,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90250,"26,947",26984
+Los Angeles,Audi,Q3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,90250,"19,354",37982
+Los Angeles,Chevrolet,Uplander,VANS,Used,Silver,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2008,90001,"87,223",4600
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,91732,"15,748",24888
+Los Angeles,Toyota,Sienna,VANS,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,91732,"43,798",34888
+Los Angeles,Toyota,Sienna,VANS,Used,Black,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,36 City / 36 Highway,2021,91732,"2,579",47488
+Los Angeles,Lexus,ES 350,SEDAN,Used,Beige,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,91732,"37,484",34888
+Los Angeles,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,91732,"27,647",38888
+Los Angeles,FIAT,500,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,90706,"28,978",12288
+Los Angeles,FIAT,500,HATCH,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,90706,"27,457",12663
+Los Angeles,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,90706,"40,699",17278
+Los Angeles,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,90706,"28,162",17318
+Los Angeles,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,90706,"43,175",18323
+Los Angeles,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,90706,"28,230",18632
+Los Angeles,Kia,Sportage,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,90706,"32,421",20998
+Los Angeles,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2020,90706,"23,646",22679
+Los Angeles,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,90706,"43,470",23500
+Los Angeles,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,90706,"37,282",23578
+Los Angeles,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,90706,"17,634",23952
+Los Angeles,Acura,RDX,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2017,90706,"73,975",24288
+Los Angeles,Jeep,Renegade,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2018,90706,"18,894",24455
+Los Angeles,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2020,90706,"3,431",26500
+Los Angeles,Honda,CR-V,SUV,Used,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,90706,"35,269",26559
+Los Angeles,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,90706,"23,628",26999
+Los Angeles,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,90706,"19,823",26999
+Los Angeles,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2016,90706,"42,387",27999
+Los Angeles,Subaru,BRZ,COUPE,Used,Silver,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2017,90706,"11,524",28688
+Los Angeles,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,90706,"15,754",28852
+Los Angeles,Honda,Pilot,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,90706,"79,944",29249
+Los Angeles,Kia,Stinger,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2018,90706,"21,264",29444
+Los Angeles,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,90706,"12,045",29525
+Los Angeles,BMW,330e,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,90706,"30,892",31468
+Los Angeles,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,90706,"12,682",31945
+Los Angeles,Chrysler,300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,90706,"24,315",32200
+Los Angeles,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,90706,"42,782",32688
+Los Angeles,Jaguar,E-PACE,SUV,Used,Gray,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,90706,"28,617",32941
+Los Angeles,Audi,A4,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 34 Highway,2019,90706,"20,597",33889
+Los Angeles,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,90706,"33,184",34488
+Los Angeles,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,90706,"29,338",34691
+Los Angeles,Ford,F150,TRUCKS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2016,90706,"37,526",35835
+Los Angeles,Audi,A5,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,90706,"19,692",36749
+Los Angeles,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90706,"31,368",36813
+Los Angeles,BMW,340i,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,90706,"35,429",36999
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,90706,"18,117",37290
+Los Angeles,Ford,F150,TRUCKS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,90706,"42,854",37519
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2019,90706,"26,343",38907
+Los Angeles,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,90706,"9,006",40053
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,90706,"42,826",40630
+Los Angeles,BMW,540i,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,90706,"24,776",41831
+Los Angeles,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,90706,"23,684",41888
+Los Angeles,Acura,MDX,SUV,Used,Off White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2020,90706,"21,961",46396
+Los Angeles,Chevrolet,Corvette,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,90706,"20,483",50879
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,90232,"8,420",22555
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,90232,"17,258",24444
+Los Angeles,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2020,90232,"7,550",25996
+Los Angeles,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90232,"15,613",26444
+Los Angeles,Toyota,Prius,HATCH,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2018,90232,"9,307",28333
+Los Angeles,Toyota,Camry,SEDAN,Certified,Off White,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90232,"24,627",32993
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,Red,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,90232,"20,938",33996
+Los Angeles,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2019,90232,"25,581",34332
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,Silver,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,90232,"21,675",35993
+Los Angeles,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90232,"24,247",37555
+Los Angeles,Hyundai,Tucson,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2020,90703,"15,612",23500
+Los Angeles,Hyundai,Ioniq,HATCH,Certified,Silver,Charcoal Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,90703,"27,307",23995
+Los Angeles,Honda,HR-V,SUV,Used,Orange,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,90703,"22,149",25000
+Los Angeles,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2016,90703,"50,379",25000
+Los Angeles,Hyundai,Tucson,SUV,Certified,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,90703,"28,967",27995
+Los Angeles,Hyundai,Tucson,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2021,90703,"2,439",28900
+Los Angeles,Hyundai,Santa Fe,SUV,Certified,White,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,90703,"14,440",30800
+Los Angeles,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,90703,"21,016",30999
+Los Angeles,Nissan,Armada,SUV,Used,White,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2017,90703,"46,650",33995
+Los Angeles,INFINITI,QX60,SUV,Used,Burgundy,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,90703,"13,467",36555
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,90703,"8,506",45000
+Los Angeles,Ford,Fusion,SEDAN,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,91343,"29,004",22550
+Los Angeles,Ford,Escape,SUV,Certified,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,91343,"35,898",23006
+Los Angeles,Ford,Fusion,SEDAN,Certified,Gold,Medium Light Stone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,91343,"25,593",24150
+Los Angeles,Subaru,Outback,SUV,Used,Gray,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,91343,"21,904",32386
+Los Angeles,Audi,Q5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,90650,"32,531",39588
+Los Angeles,BMW,X7,SUV,Used,Black,Canberra Beige,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,90650,"19,461",88888
+Los Angeles,Mercedes-Benz,GLA 250,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2015,91204,"50,536",24491
+Los Angeles,Mercedes-Benz,E 350,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2020,91204,"15,342",47981
+Los Angeles,Land Rover,Range Rover Evoque,SUV,Used,White,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2019,91723,"29,203",38695
+Los Angeles,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,90703,"28,201",36386
+Los Angeles,Ford,F250,TRUCKS,Used,Black,Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,90703,"20,744",59544
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,90038,"30,180",22000
+Los Angeles,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,90038,"3,526",28000
+Los Angeles,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,90038,"3,888",36500
+Los Angeles,Honda,Civic,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,91401,"14,700",26955
+Los Angeles,Honda,Civic,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,91401,"7,950",26988
+Los Angeles,Honda,CR-V,SUV,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,91401,"9,335",35977
+Los Angeles,Acura,TLX,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2021,91401,"1,256",44988
+Los Angeles,Audi,Q3,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2018,90007,"39,841",27994
+Los Angeles,Audi,Q5,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,90007,"19,086",34500
+Los Angeles,Audi,A4,SEDAN,Used,White,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,90007,"3,012",37887
+Los Angeles,Audi,A4,SEDAN,Used,Gray,Okapi Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,90007,"5,576",48900
+Los Angeles,Audi,S4,SEDAN,Used,Gray,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2021,90007,"4,640",59949
+Los Angeles,Mercedes-Benz,S 560,SEDAN,Used,Gray,,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2019,90007,"20,650",77887
+Los Angeles,Jeep,Compass,SUV,Used,Gray,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2014,90241,"64,038",14799
+Los Angeles,Nissan,Sentra,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,90241,"29,458",15499
+Los Angeles,Volkswagen,Jetta,SEDAN,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2017,90241,"49,754",15999
+Los Angeles,Ford,Focus,HATCH,Used,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2014,90241,"38,862",17999
+Los Angeles,Kia,Forte,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,90241,"24,360",20299
+Los Angeles,Hyundai,Sonata,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,90241,"21,153",21799
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90241,"14,972",23699
+Los Angeles,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,90241,"22,078",31299
+Los Angeles,Ford,Mustang,COUPE,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2017,90241,"12,799",34899
+Los Angeles,Nissan,Pathfinder,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,20 City / 27 Highway,2020,90241,450,35799
+Los Angeles,MAZDA,MAZDA3,SEDAN,Certified,Red,White,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2021,90230,"6,737",28000
+Los Angeles,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2021,90230,"3,415",28250
+Los Angeles,MAZDA,MAZDA3,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2021,90230,"5,826",28600
+Los Angeles,Audi,A5,COUPE,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 30 Highway,2013,90745,"54,335",21995
+Los Angeles,Kia,Forte,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,90745,"19,925",25995
+Los Angeles,Kia,Sorento,SUV,Certified,White,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,90745,"38,170",27995
+Los Angeles,Kia,Sportage,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,90745,"15,751",32995
+Los Angeles,Kia,Stinger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2019,90745,"15,321",43995
+Los Angeles,Cadillac,XT4,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,90745,"21,219",44995
+Los Angeles,BMW,330i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90504,"16,234",31299
+Los Angeles,BMW,X3,SUV,Certified,White,Black Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,90504,"19,288",38999
+Los Angeles,BMW,X1,SUV,Used,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,90504,"4,646",39799
+Los Angeles,BMW,530i,SEDAN,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,90504,"25,846",39999
+Los Angeles,BMW,340i,SEDAN,Certified,Silver,Coral Red Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,90504,"14,884",41299
+Los Angeles,BMW,330i,SEDAN,Used,Gray,Canberra Beige Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,90504,"3,824",43899
+Los Angeles,BMW,530i xDrive,SEDAN,Certified,Blue,Black Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,90504,"13,739",44599
+Los Angeles,BMW,M550i xDrive,SEDAN,Certified,Black,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,90504,"23,149",60999
+Los Angeles,Honda,Civic,COUPE,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2014,90706,"71,597",14999
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,90241,"73,693",15995
+Los Angeles,Nissan,Sentra,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,90241,"26,389",20995
+Los Angeles,Nissan,Frontier,TRUCKS,Used,Gray,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2016,90241,"75,013",20995
+Los Angeles,Hyundai,Elantra,SEDAN,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,90241,"12,952",23795
+Los Angeles,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,90241,"32,966",24554
+Los Angeles,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90241,"25,425",25558
+Los Angeles,Hyundai,Ioniq,HATCH,Certified,White,Charcoal Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,90241,"14,465",25895
+Los Angeles,Mercedes-Benz,C 300,COUPE,Used,Silver,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,90241,"47,829",30995
+Los Angeles,Hyundai,Sonata,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,90241,"12,415",32888
+Los Angeles,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,90241,"40,788",33995
+Los Angeles,Ford,Flex,SUV,Used,Brown,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,90241,"30,515",34995
+Los Angeles,Nissan,Frontier,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,90241,"11,169",34995
+Los Angeles,Nissan,370Z,COUPE,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,90241,"7,715",34995
+Los Angeles,Honda,Pilot,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2019,90241,"35,216",36995
+Los Angeles,Tesla,Model S,HATCH,Used,Blue,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2014,90241,"79,494",36995
+Los Angeles,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,90241,"21,140",37995
+Los Angeles,Kia,Stinger,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,90241,"12,243",37995
+Los Angeles,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 24 Highway,2018,90241,"23,915",38777
+Los Angeles,Maserati,Ghibli,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 24 Highway,2018,90241,"12,446",43499
+Los Angeles,Lexus,LS 460,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2017,90241,"43,339",45995
+Los Angeles,Lexus,RX 350,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,90241,"16,753",46995
+Los Angeles,Ford,F250,TRUCKS,Used,Green,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,90241,"13,801",50995
+Los Angeles,Lexus,GX 460,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,90241,"27,500",54995
+Los Angeles,Audi,Q8,SUV,Used,Charcoal,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,90241,"19,925",76888
+Los Angeles,Lexus,ES 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,91204,"33,045",33988
+Los Angeles,Lexus,UX 200,SUV,Certified,Gray,Gone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,91204,"19,861",35988
+Los Angeles,Lexus,ES 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,91204,"16,224",35988
+Los Angeles,Lexus,IS 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,91204,"32,023",37988
+Los Angeles,Lexus,RX 350L,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,91204,"27,735",41988
+Los Angeles,Lexus,ES 350,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,91204,"29,005",41988
+Los Angeles,Lexus,RX 350,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,91204,"25,026",41988
+Los Angeles,Lexus,IS 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,91204,"12,596",49988
+Los Angeles,Lexus,RX 450h,SUV,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,31 City / 28 Highway,2020,91204,"16,763",53988
+Los Angeles,Audi,A4,SEDAN,Used,Gray,Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2015,91791,"56,998",20275
+Los Angeles,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,91791,"68,917",20495
+Los Angeles,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,91791,"15,003",29195
+Los Angeles,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2018,91791,"35,411",30495
+Los Angeles,Toyota,Camry,SEDAN,Used,Silver,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,91791,"15,540",35784
+Los Angeles,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2021,91791,508,41495
+Los Angeles,Tesla,Model 3,SEDAN,Used,White,White/Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,91791,"10,867",45480
+Los Angeles,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2020,91791,"13,300",47795
+Los Angeles,Audi,A6,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,91791,"16,435",52155
+Los Angeles,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,91791,"16,670",52395
+Los Angeles,Audi,Q5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 28 Highway,2021,91791,"6,358",56995
+Los Angeles,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,91791,"6,046",60995
+Los Angeles,Audi,Q8,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2021,91791,"2,953",76685
+Los Angeles,Chevrolet,Impala,SEDAN,Used,Brown,Ebony,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,19 City / 29 Highway,2009,90650,"146,194",4988
+Los Angeles,Toyota,Highlander,SUV,Used,Black,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2011,90650,"84,525",14988
+Los Angeles,Toyota,Corolla,SEDAN,Certified,White,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,90650,"14,880",22588
+Los Angeles,Toyota,Camry,SEDAN,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,90650,"33,077",22988
+Los Angeles,Toyota,C-HR,SUV,Certified,Green,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,90650,"27,178",23588
+Los Angeles,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90650,"20,678",24988
+Los Angeles,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,90650,"14,882",29491
+Los Angeles,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,90650,"14,711",29988
+Los Angeles,Toyota,Avalon,SEDAN,Certified,White,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,90650,"33,341",31988
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2015,90650,"53,189",31991
+Los Angeles,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,90650,"22,218",33491
+Los Angeles,Toyota,Camry,SEDAN,Certified,Off White,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,90650,"12,572",33988
+Los Angeles,Toyota,Sienna,VANS,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,90650,"15,788",35988
+Los Angeles,Toyota,Highlander,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,90650,"25,790",35988
+Los Angeles,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,90650,"21,109",36988
+Los Angeles,BMW,X3,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2014,90280,"109,327",18995
+Los Angeles,Volkswagen,Golf,WAGON,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,92843,"25,752",22196
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,91107,"37,524",35595
+Los Angeles,Audi,A4,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 34 Highway,2019,90211,"17,598",32991
+Los Angeles,Audi,Q8,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,90211,"19,481",72991
+Los Angeles,Hyundai,Sonata,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,90007,"23,955",21000
+Los Angeles,MAZDA,MAZDA6,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,90007,"25,368",24488
+Los Angeles,Chevrolet,Equinox,SUV,Used,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,90007,"14,106",25000
+Los Angeles,Chevrolet,Equinox,SUV,Used,Black,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,90007,"18,136",25500
+Los Angeles,GMC,Terrain,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,90007,"31,867",25700
+Los Angeles,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,90007,"16,954",29900
+Los Angeles,Chevrolet,Equinox,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,90007,"7,468",30300
+Los Angeles,Chevrolet,Camaro,COUPE,Used,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,90007,"17,991",31000
+Los Angeles,Subaru,Crosstrek,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,90007,"2,943",32200
+Los Angeles,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,90007,"19,632",36400
+Los Angeles,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,90007,"4,103",46600
+Los Angeles,Chevrolet,Tahoe,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,90007,"14,509",50000
+Los Angeles,Toyota,C-HR,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,90266,"11,352",27495
+Los Angeles,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90266,"7,948",27595
+Los Angeles,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2020,90266,"11,043",36995
+Los Angeles,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90745,"35,574",21999
+Los Angeles,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90745,"34,596",22999
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90745,"34,625",22999
+Los Angeles,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90745,"31,501",23999
+Los Angeles,Honda,Civic,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90745,"25,398",23999
+Los Angeles,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,90745,"33,357",24499
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 38 Highway,2019,90745,"25,226",24499
+Los Angeles,BMW,330e,SEDAN,Used,White,Tan,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,90745,"21,867",27996
+Los Angeles,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,90745,"12,307",28996
+Los Angeles,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,90745,"37,734",28999
+Los Angeles,Honda,Accord,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,90745,"3,341",32999
+Los Angeles,Lexus,RX 350,SUV,Used,White,Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2016,90745,"56,088",33996
+Los Angeles,Honda,Pilot,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,90745,"9,767",35999
+Los Angeles,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,90745,"63,311",39999
+Los Angeles,Acura,TLX,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2021,90745,"8,143",41999
+Los Angeles,Honda,Odyssey,VANS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,90745,"26,590",44696
+Los Angeles,Land Rover,Range Rover Velar,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,18 City / 24 Highway,2019,90745,"22,774",68999
+Los Angeles,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,90745,"9,913",24999
+Los Angeles,Lexus,NX 200t,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2015,90745,"63,699",25999
+Los Angeles,Lexus,IS 200t,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2016,90745,"46,786",25999
+Los Angeles,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2018,90745,"36,029",28450
+Los Angeles,INFINITI,Q50,SEDAN,Used,Black,Wheat,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,90745,"32,875",28999
+Los Angeles,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,90745,"11,980",29999
+Los Angeles,Audi,A4,SEDAN,Used,White,Nougat Brown / Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,90745,"35,135",29999
+Los Angeles,Nissan,Armada,SUV,Used,Blue,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2017,90745,"25,816",34999
+Los Angeles,Ford,Fiesta,HATCH,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2018,90249,"51,363",14979
+Los Angeles,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2014,90249,"87,336",16999
+Los Angeles,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,90249,"62,728",18994
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,90249,"54,043",19779
+Los Angeles,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,90249,"36,810",19994
+Los Angeles,Kia,Optima,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,90249,"30,292",20392
+Los Angeles,Hyundai,Tucson,SUV,Used,Tan,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2017,90249,"67,569",21500
+Los Angeles,BMW,X5,SUV,Used,Black,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2014,90249,"105,353",21500
+Los Angeles,Toyota,Camry,SEDAN,Used,Brown,Toasted Caramel,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,90249,"53,911",22499
+Los Angeles,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,90249,"31,473",22999
+Los Angeles,Toyota,C-HR,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,90249,"29,181",22999
+Los Angeles,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,90249,"47,713",23498
+Los Angeles,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,90249,"49,186",23997
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,90249,"40,849",24495
+Los Angeles,Subaru,Forester,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,90249,"33,342",24498
+Los Angeles,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,90249,"14,274",24777
+Los Angeles,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,90249,"15,859",24994
+Los Angeles,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,90249,"18,592",25249
+Los Angeles,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,90249,"33,521",25476
+Los Angeles,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2020,90249,"11,722",25999
+Los Angeles,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,90249,"24,047",26996
+Los Angeles,Honda,Accord,SEDAN,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,90249,"4,946",26997
+Los Angeles,Honda,CR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,90249,"14,858",27756
+Los Angeles,Honda,CR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,90249,"28,868",27999
+Los Angeles,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2020,90249,"11,785",28898
+Los Angeles,Honda,Civic,SEDAN,Used,Off White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2020,90249,"23,388",28997
+Los Angeles,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,90249,"47,556",29379
+Los Angeles,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,90249,"24,847",29584
+Los Angeles,Honda,Civic,SEDAN,Certified,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2020,90249,"23,890",29994
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,White,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2018,90249,"44,027",30994
+Los Angeles,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,90249,"23,735",30999
+Los Angeles,Honda,Pilot,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,90249,"21,393",30999
+Los Angeles,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,90249,"39,479",31790
+Los Angeles,Mercedes-Benz,GLE 350,SUV,Used,,Bei/Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2017,90249,"64,887",31989
+Los Angeles,BMW,330i xDrive,SEDAN,Used,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,90249,"27,897",32472
+Los Angeles,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2019,90249,"10,629",32998
+Los Angeles,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,90249,"19,577",33386
+Los Angeles,Honda,Passport,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,90249,"27,586",34500
+Los Angeles,Honda,Pilot,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,90249,"6,479",36992
+Los Angeles,Honda,Civic,HATCH,Used,Gray,Black/Red,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,90249,"14,759",45687
+Los Angeles,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2018,90810,"31,419",30349
+Los Angeles,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,90810,"27,450",37849
+Los Angeles,Toyota,Camry,SEDAN,Certified,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,90745,"15,327",31695
+Los Angeles,Toyota,RAV4,SUV,Certified,Red,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 29 Highway,2018,90745,"29,330",31995
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,90745,"13,550",35299
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,90745,"14,205",36000
+Los Angeles,Toyota,Avalon,SEDAN,Certified,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,90745,"23,770",39295
+Los Angeles,Kia,Soul,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 31 Highway,2016,91802,"47,702",15991
+Los Angeles,Chevrolet,Cruze,SEDAN,Used,Beige,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,91802,"19,072",18995
+Los Angeles,Ford,Fusion,SEDAN,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,91802,"37,822",20995
+Los Angeles,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,91802,"35,443",21995
+Los Angeles,Ford,Escape,SUV,Certified,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,91802,"21,815",23991
+Los Angeles,Ford,Fusion,SEDAN,Used,Black,Dark Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2017,91802,"45,087",24995
+Los Angeles,Ford,EcoSport,SUV,Certified,Gray,Medium Light Stone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2020,91802,"3,133",25991
+Los Angeles,Ford,Escape,SUV,Used,Black,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,91802,"5,286",27995
+Los Angeles,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,91802,"36,932",30771
+Los Angeles,Ford,Fusion,SEDAN,Certified,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,91802,"11,331",30995
+Los Angeles,Ford,Flex,SUV,Certified,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,91802,"27,760",33991
+Los Angeles,Ford,Flex,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2018,91802,"8,675",33995
+Los Angeles,Ford,Ranger,TRUCKS,Certified,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,91802,"21,664",37991
+Los Angeles,Ford,Explorer,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,91802,"13,693",37995
+Los Angeles,Ford,Transit 350,VANS,Certified,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2016,91802,"33,047",39991
+Los Angeles,Lexus,RX 350,SUV,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,91802,"28,635",40995
+Los Angeles,Ford,Edge,SUV,Used,,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,91802,"14,501",40995
+Los Angeles,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,90621,"39,438",21999
+Los Angeles,Acura,ILX,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,90621,"15,926",23999
+Los Angeles,Volkswagen,Passat,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,90621,"19,211",24999
+Los Angeles,Jeep,Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,90621,"15,057",25999
+Los Angeles,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,90621,"13,285",26999
+Los Angeles,Ford,Flex,SUV,Used,Blue,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,90621,"8,611",27999
+Los Angeles,Honda,Pilot,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,90621,"26,751",29999
+Los Angeles,FIAT,500,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2018,90640,"21,667",13199
+Los Angeles,Hyundai,Sonata,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2018,90640,"36,619",19899
+Los Angeles,Acura,MDX,SUV,Used,Green,Eucalyptus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2014,90640,"71,565",23099
+Los Angeles,Hyundai,Sonata,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 36 Highway,2015,90621,"69,301",15799
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2021,90621,"3,707",28952
+Los Angeles,BMW,X5,SUV,Used,White,Black Sensa Tec,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2021,91801,"8,743",63245
+Los Angeles,Mercedes-Benz,CLS 450,SEDAN,Used,Off White,Brown Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2019,91801,"11,849",63995
+Los Angeles,Kia,Forte,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,91204,"10,827",20498
+Los Angeles,Nissan,Sentra,SEDAN,Certified,White,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2021,90621,"6,621",22655
+Los Angeles,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,90007,"11,706",26395
+Los Angeles,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,90007,"14,843",26395
+Los Angeles,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,90007,"29,473",28995
+Los Angeles,Dodge,Charger,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,90007,"13,852",32795
+Los Angeles,Chrysler,Pacifica,VANS,Certified,Gray,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,90007,"13,980",35186
+Los Angeles,Chrysler,Pacifica,VANS,Used,Gray,Black/Alloy/Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,29 City / 30 Highway,2021,90007,"6,627",46995
+Los Angeles,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 31 Highway,2017,90007,"17,013",27836
+Los Angeles,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Red,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2020,90007,"12,805",33999
+Los Angeles,GMC,Yukon,SUV,Used,Green,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,90007,"75,550",34206
+Los Angeles,Mercedes-Benz,S 560,SEDAN,Used,Gray,Black Nappa,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2018,90007,"30,833",71898
+Los Angeles,Jaguar,F-PACE,SUV,Used,White,Ebony,Automatic,Gasoline,8-Cylinder Supercharged,All wheel drive,16 City / 21 Highway,2020,90007,"10,576",78995
+Los Angeles,Porsche,911,COUPE,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2017,90007,"41,399",101898
+Los Angeles,BMW,M850i xDrive,CONVERT,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2021,90007,"6,417",109898
+Los Angeles,Porsche,911,COUPE,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,90007,"25,099",111898
+Los Angeles,Porsche,911,COUPE,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2017,90007,"9,717",116878
+Los Angeles,Porsche,911,CONVERT,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,,2018,90007,"21,460",149898
+Los Angeles,Chevrolet,Volt,HATCH,Used,White,Jet Black/Jet Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 42 Highway,2018,90007,"29,192",23991
+Los Angeles,Ford,Flex,SUV,Used,Red,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,90007,"19,974",33991
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,90015,"6,418",26989
+Los Angeles,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,92843,"44,528",19999
+Los Angeles,BMW,X3,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,92843,"18,861",36888
+Los Angeles,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,90015,"34,153",21991
+Los Angeles,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,90015,"10,110",24991
+Los Angeles,Chevrolet,Trax,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2021,90015,"9,412",25991
+Los Angeles,Toyota,Camry,SEDAN,Used,Red,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,90015,"25,178",25991
+Los Angeles,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,90015,"28,673",26991
+Los Angeles,Nissan,Frontier,TRUCKS,Used,Silver,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2019,90015,"42,278",26991
+Los Angeles,Acura,ILX,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2019,90015,"26,759",27991
+Los Angeles,Nissan,Altima,SEDAN,Used,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,90015,860,28991
+Los Angeles,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,90015,"8,388",29991
+Los Angeles,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,90015,"8,164",29991
+Los Angeles,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2019,90015,"26,124",30991
+Los Angeles,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,90015,"40,815",33991
+Los Angeles,INFINITI,QX60,SUV,Used,Blue,High Contrast Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,90015,"24,205",35991
+Los Angeles,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,90015,"41,985",36991
+Los Angeles,Honda,Pilot,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,90015,"39,218",37991
+Los Angeles,Mercedes-Benz,GLC 300,SUV,Used,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,90015,"39,255",38991
+Los Angeles,Subaru,Impreza,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,91204,"23,568",22777
+Los Angeles,Subaru,Outback,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,91204,"13,389",32777
+Los Angeles,Subaru,Outback,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,91204,"16,398",33777
+Los Angeles,Subaru,Outback,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,91204,"27,881",34777
+Los Angeles,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,91204,"16,654",35828
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,White,Cement,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,91204,"9,178",37721
+Los Angeles,BMW,X3,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,90621,"27,915",37952
+Los Angeles,Kia,Forte,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,90505,"19,865",21588
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,90505,"24,294",22888
+Los Angeles,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,90505,"24,689",23988
+Los Angeles,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,90505,"15,907",24388
+Los Angeles,Toyota,Corolla,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,90505,"19,862",24488
+Los Angeles,Toyota,Camry,SEDAN,Used,Black,Lt. Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90505,"28,657",25588
+Los Angeles,Toyota,Prius Prime,HATCH,Used,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,55 City / 53 Highway,2017,90505,"46,128",26488
+Los Angeles,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90505,"19,713",26988
+Los Angeles,Toyota,Camry,SEDAN,Used,Blue,Birch,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90505,"15,109",27488
+Los Angeles,Toyota,Camry,SEDAN,Certified,Silver,Black (Wood Black),Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,90505,"18,824",27988
+Los Angeles,Toyota,Camry,SEDAN,Used,Silver,S/D Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2019,90505,"18,267",28988
+Los Angeles,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,90505,"5,712",30588
+Los Angeles,Toyota,Sienna,VANS,Used,Black,Black/Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2016,90505,"49,734",30888
+Los Angeles,Lexus,ES 350,SEDAN,Used,Black,Flaxen W/Linear Wood,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,90505,"28,537",33488
+Los Angeles,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,90505,"32,275",34188
+Los Angeles,Toyota,Camry,SEDAN,Certified,Off White,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,90505,"11,832",34488
+Los Angeles,Lexus,IS 300,SEDAN,Used,Black,Nuance Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,90505,"23,480",35488
+Los Angeles,Toyota,Tacoma,TRUCKS,Certified,Gray,Graphite W/ Gun Metal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,90505,"15,640",37488
+Los Angeles,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,90505,"15,986",37588
+Los Angeles,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,90505,"16,018",37988
+Los Angeles,Honda,Odyssey,VANS,Used,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,90505,"18,504",38688
+Los Angeles,Toyota,Sienna,VANS,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,90505,"25,681",39888
+Los Angeles,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,90505,"26,787",39888
+Los Angeles,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,90505,"24,307",40988
+Los Angeles,Lincoln,Nautilus,SUV,Used,White,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,90505,"13,432",52888
+Los Angeles,Toyota,Supra,COUPE,Used,Yellow,Black Leather Trim,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,90505,"6,856",59488
+Los Angeles,Volkswagen,Tiguan,SUV,Certified,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 26 Highway,2018,91204,"36,389",19990
+Los Angeles,Volkswagen,Tiguan,SUV,Certified,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,91204,"53,918",21499
+Los Angeles,Mercedes-Benz,GLC 300,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,90621,"13,944",44991
+Los Angeles,RAM,ProMaster City,VANS,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,91204,"13,329",31900
+Los Angeles,Subaru,WRX,SEDAN,Used,Blue,Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,91204,"23,282",37900
+Los Angeles,Ford,Mustang,COUPE,Used,Black,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,91204,"16,731",39500
+Los Angeles,Chevrolet,Tahoe,SUV,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,90807,"35,219",44995
+Los Angeles,Ford,Focus,HATCH,Used,Black,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,90045,"12,546",20695
+Los Angeles,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2017,90045,"51,683",22995
+Los Angeles,Lexus,IS 250,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2015,90045,"47,899",25395
+Los Angeles,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,90045,"34,973",26895
+Los Angeles,Ford,Escape,SUV,Certified,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90045,"34,112",27695
+Los Angeles,Ford,Edge,SUV,Used,Silver,Mayan Gray/Umber,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,90045,"43,322",28195
+Los Angeles,Ford,Escape,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90045,"11,355",29700
+Los Angeles,Toyota,Tacoma,TRUCKS,Used,Black,Black/Caramel,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 23 Highway,2016,90045,"58,339",29795
+Los Angeles,Ford,Escape,SUV,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,90045,"10,525",30595

@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Detroit,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2018,48220,"31,940",45000
+Detroit,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48180,"18,760",25995
+Detroit,Jeep,Cherokee,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 24 Highway,2019,48180,"24,693",28669
+Detroit,Jeep,Cherokee,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 24 Highway,2020,48180,"14,035",31995
+Detroit,Jeep,Cherokee,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 27 Highway,2019,48180,"8,597",31995
+Detroit,Chrysler,Pacifica,VANS,Used,Gray,Black/Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48180,"13,911",37594
+Detroit,Chrysler,Pacifica,VANS,Certified,Gray,Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48180,"14,708",37594
+Detroit,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"16,599",39558
+Detroit,Ford,Flex,SUV,Used,Burgundy,Charcoal Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2019,48124,"24,674",31000
+Detroit,GMC,Acadia,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,48220,"21,700",31495
+Detroit,Cadillac,ATS,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2017,48210,"41,661",24600
+Detroit,Ford,Fusion,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48124,"19,638",20980
+Detroit,Ford,Edge,SUV,Certified,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,48124,"16,076",27980
+Detroit,Nissan,Altima,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,48084,"9,562",21000
+Detroit,Ford,Edge,SUV,Used,Red,Charcoal Black/Silver Smoke,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2014,48124,"66,150",16446
+Detroit,Chevrolet,Tahoe,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,48124,"22,479",46173
+Detroit,Ford,Fusion,SEDAN,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48362,"6,574",23512
+Detroit,Ford,Escape,SUV,Used,Orange,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,48362,"11,224",23930
+Detroit,Chevrolet,Trax,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48067,"26,863",20500
+Detroit,Chevrolet,Equinox,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48067,"24,404",24000
+Detroit,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2015,48220,"58,101",14875
+Detroit,Honda,Fit,HATCH,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,48220,"24,214",20600
+Detroit,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,48220,"26,338",24450
+Detroit,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,48220,"13,121",25350
+Detroit,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,48220,"35,806",26000
+Detroit,Honda,Civic,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,48220,"5,346",27400
+Detroit,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,48220,"26,706",31150
+Detroit,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,48220,"6,218",36000
+Detroit,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48224,"21,684",25905
+Detroit,Buick,Encore GX,SUV,Used,Blue,Ebony With Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 31 Highway,2021,48034,"2,538",27995
+Detroit,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 39 Highway,2019,48084,"25,082",32884
+Detroit,Lincoln,Nautilus,SUV,Used,Beige,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,48084,"18,970",45664
+Detroit,Lincoln,Nautilus,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2020,48084,"19,034",47100
+Detroit,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48180,"24,250",33355
+Detroit,Chrysler,Pacifica,VANS,Certified,Red,Black/Black/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48180,"31,872",35995
+Detroit,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"21,952",36499
+Detroit,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"23,209",36895
+Detroit,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"13,599",38480
+Detroit,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"25,801",39559
+Detroit,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48180,"29,965",39795
+Detroit,Chrysler,Pacifica,VANS,Certified,Gray,Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,48180,"20,772",40395
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48180,"18,712",42795
+Detroit,Lincoln,MKZ,SEDAN,Used,Brown,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 33 Highway,2016,48124,"47,626",21000
+Detroit,Lincoln,MKZ,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,48124,"4,397",27000
+Detroit,GMC,Terrain,SUV,Certified,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,48015,"26,967",25000
+Detroit,GMC,Terrain,SUV,Used,Silver,Medium Ash Gray / Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,48220,"28,398",25695
+Detroit,Cadillac,XT5,SUV,Used,Silver,Jet Black Lunar Brushed Alumin,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,48220,"31,208",32395
+Detroit,Cadillac,CTS,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,48220,"27,008",35000
+Detroit,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48220,"20,513",38995
+Detroit,FIAT,500,CONVERT,Used,White,Red,Manual,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 37 Highway,2012,48220,"81,986",7000
+Detroit,Mercedes-Benz,CL 550,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2007,48220,"82,773",12000
+Detroit,Buick,Verano,SEDAN,Used,Black,Cashmere,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2014,48220,"44,168",16500
+Detroit,Jeep,Wrangler,SUV,Used,Gray,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2014,48220,"51,106",30000
+Detroit,Mercedes-Benz,E 300,SEDAN,Used,White,Silk Beige/Espresso Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,48220,"22,236",43000
+Detroit,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,48184,"30,853",20480
+Detroit,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,48184,"17,643",22980
+Detroit,Chevrolet,Equinox,SUV,Used,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48184,"29,295",23480
+Detroit,Buick,Encore,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,48375,"15,377",22832
+Detroit,Chrysler,200,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,48034,"50,385",17580
+Detroit,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48034,"15,751",26511
+Detroit,RAM,1500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48034,"15,445",37867
+Detroit,Mercedes-Benz,GLC 300,SUV,Used,Black,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,48304,"9,800",54993
+Detroit,Chevrolet,Trax,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48035,"27,166",18598
+Detroit,Buick,Encore,SUV,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,48035,"21,836",21788
+Detroit,Chevrolet,Equinox,SUV,Certified,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48035,"20,302",21988
+Detroit,Chevrolet,Trax,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48035,"15,831",22588
+Detroit,Chevrolet,Malibu,SEDAN,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,48035,"19,188",23188
+Detroit,GMC,Acadia,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,48035,"27,948",28298
+Detroit,Chevrolet,Colorado,TRUCKS,Certified,Blue,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,48035,"15,941",30588
+Detroit,GMC,Sierra 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,48035,"28,428",40898
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,48035,"23,173",43288
+Detroit,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,48124,"21,613",19980
+Detroit,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2019,48124,"13,396",20980
+Detroit,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,48124,"31,286",21980
+Detroit,Chevrolet,Equinox,SUV,Used,Beige,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"12,211",24980
+Detroit,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,48124,"18,241",29580
+Detroit,Ford,Explorer,SUV,Used,Red,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,48124,"23,164",31980
+Detroit,Ford,F150,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,48124,"43,538",35980
+Detroit,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2020,48038,"10,846",27449
+Detroit,RAM,1500,TRUCKS,Used,Black,Dark Slate/Medium Graystone,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2012,48066,"95,663",18995
+Detroit,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,48066,"16,441",26995
+Detroit,Jeep,Cherokee,SUV,Certified,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 27 Highway,2020,48066,"14,600",30995
+Detroit,Chrysler,Pacifica,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48066,"23,366",36995
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48066,"28,125",37990
+Detroit,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48066,"14,301",45995
+Detroit,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48328,"16,852",24900
+Detroit,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48328,"27,025",25000
+Detroit,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48328,"22,000",25000
+Detroit,Chevrolet,Equinox,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48328,"29,235",26500
+Detroit,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48099,"11,747",20496
+Detroit,Chevrolet,Malibu,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,48099,"24,475",20996
+Detroit,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48099,"12,085",21996
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48099,"5,041",26496
+Detroit,Chevrolet,Equinox,SUV,Used,Orange,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2020,48099,"8,023",27996
+Detroit,Ford,Fiesta,SEDAN,Used,Gray,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,48080,"4,611",17956
+Detroit,Ford,EcoSport,SUV,Used,Green,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,48080,"30,241",21495
+Detroit,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48080,"14,337",23495
+Detroit,Ford,Escape,SUV,Used,Green,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,48080,"26,713",23998
+Detroit,Ford,Fusion,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48080,"22,844",23999
+Detroit,Ford,Fusion,SEDAN,Used,Black,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2019,48080,"24,236",24869
+Detroit,Ford,Escape,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,48080,"8,626",24999
+Detroit,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,48080,"14,553",25999
+Detroit,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,48080,"10,475",26788
+Detroit,Ford,Escape,SUV,Used,,Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,48080,"16,098",26999
+Detroit,Ford,Escape,SUV,Used,Gray,Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,48080,"2,310",27495
+Detroit,Ford,Escape,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2019,48080,"20,076",28495
+Detroit,Ford,Taurus,SEDAN,Used,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,48080,"34,454",29788
+Detroit,Ford,Taurus,SEDAN,Used,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,48080,"34,681",29788
+Detroit,Ford,Edge,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,48080,"6,923",30895
+Detroit,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,48080,"30,305",33489
+Detroit,Ford,Edge,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,48080,"13,227",33995
+Detroit,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 28 Highway,2020,48080,"16,374",33995
+Detroit,Ford,Edge,SUV,Used,Red,Dune,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,48080,"3,375",34995
+Detroit,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48080,"16,425",37995
+Detroit,Cadillac,CT6,SEDAN,Used,Gray,Light Platinum With Jet Black ,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,48080,"39,879",38455
+Detroit,Ford,F150,TRUCKS,Used,Silver,Medium Dark Slate,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,48080,"7,074",49995
+Detroit,Ford,F150,TRUCKS,Used,Red,9b,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,48080,"7,131",68995
+Detroit,Ford,Edge,SUV,Used,Orange,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 24 Highway,2008,48071,"114,591",5995
+Detroit,Hyundai,Venue,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,48084,"6,395",21000
+Detroit,Ford,Escape,SUV,Used,Black,Dark Earth Gray,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,48084,"18,162",27000
+Detroit,Chrysler,Pacifica,VANS,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48084,"29,495",35000
+Detroit,Subaru,Outback,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,48084,"23,649",25000
+Detroit,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,48084,"33,814",26000
+Detroit,MAZDA,CX-9,SUV,Used,Black,Auburn,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2016,48084,"45,076",27000
+Detroit,Subaru,Ascent,SUV,Used,Red,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,48084,"16,860",42000
+Detroit,Chevrolet,Trax,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"4,682",20983
+Detroit,Chevrolet,Trax,SUV,Used,Red,Jet Black/Brandy,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"12,015",23430
+Detroit,Chevrolet,Malibu,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,48124,"17,571",23953
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"13,678",24953
+Detroit,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"20,945",25285
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"19,148",26836
+Detroit,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"17,297",27661
+Detroit,Chevrolet,Blazer,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48124,"15,460",35149
+Detroit,Chevrolet,Blazer,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48124,"16,664",35466
+Detroit,Cadillac,XT4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,48124,"18,809",38872
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,48124,"20,341",42734
+Detroit,Nissan,Frontier,TRUCKS,Certified,Blue,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2018,48034,"34,613",27990
+Detroit,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48153,"24,451",25500
+Detroit,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48153,"14,139",38000
+Detroit,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48183,"14,425",22700
+Detroit,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,48183,"10,072",25000
+Detroit,Ford,EcoSport,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,48183,"16,615",25500
+Detroit,Hyundai,Santa Fe,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2013,48071,"63,679",16999
+Detroit,Ford,Escape,SUV,Used,Green,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,48313,"18,387",29995
+Detroit,Subaru,Forester,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,48220,"29,830",33000
+Detroit,Subaru,Forester,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,48220,"25,988",34500
+Detroit,Lexus,NX 300,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,48220,"8,417",40000
+Detroit,Chevrolet,Cruze,SEDAN,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,48067,"19,838",19500
+Detroit,Chevrolet,Trax,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48067,"14,902",21000
+Detroit,Chevrolet,Equinox,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48067,"37,207",23700
+Detroit,Chevrolet,Equinox,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48067,"19,226",25000
+Detroit,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,48067,"20,113",26000
+Detroit,Toyota,4Runner,SUV,Used,Silver,Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 19 Highway,2005,48220,"223,521",7300
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Burgundy,Dark Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,15 City / 20 Highway,2009,48220,"151,784",9000
+Detroit,Cadillac,DTS,SEDAN,Used,White,Shale/Cocoa,Automatic,Gasoline,8-Cylinder,2 wheel drive - front,15 City / 23 Highway,2011,48220,"103,960",11300
+Detroit,Honda,Fit,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2017,48220,"54,958",16400
+Detroit,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,48220,"49,101",17900
+Detroit,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2017,48220,"48,052",21800
+Detroit,Honda,Civic,COUPE,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 39 Highway,2018,48220,"31,610",22000
+Detroit,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,48220,"48,094",23450
+Detroit,Honda,Civic,COUPE,Certified,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,48220,"32,835",26800
+Detroit,Honda,Civic,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2021,48220,"9,045",28400
+Detroit,Honda,CR-V,SUV,Certified,,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,48220,"23,377",29650
+Detroit,Honda,Ridgeline,TRUCKS,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,48220,"45,459",35600
+Detroit,Chevrolet,Trax,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48224,"19,279",19555
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black/Cinnamon,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48224,"8,948",23993
+Detroit,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48224,"29,035",24555
+Detroit,Nissan,Frontier,TRUCKS,Used,Silver,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2019,48224,"24,594",27927
+Detroit,Jeep,Grand Cherokee,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48224,"21,751",36593
+Detroit,Buick,Enclave,SUV,Certified,White,Chestnut,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,48224,"34,592",36993
+Detroit,GMC,Acadia,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,48224,"6,560",39995
+Detroit,GMC,Canyon,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,48224,"7,976",41663
+Detroit,Ford,Explorer,SUV,Used,White,Light Sandstone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2021,48335,"6,460",56733
+Detroit,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,48180,"29,734",17994
+Detroit,Ford,EcoSport,SUV,Used,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,48180,"10,618",20994
+Detroit,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,48180,"3,778",24559
+Detroit,Ford,Escape,SUV,Used,White,Dark Earth Gray,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,48180,"14,717",24998
+Detroit,Ford,Fusion,SEDAN,Used,Gray,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,48180,"7,984",24999
+Detroit,Ford,Transit Connect,VANS,Used,Red,Ebony,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,24 City / 29 Highway,2020,48180,"4,989",31200
+Detroit,Ford,Explorer,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,48180,"8,663",35699
+Detroit,Ford,Expedition,SUV,Used,Gray,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,48180,"31,658",47900
+Detroit,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48362,"16,082",39622
+Detroit,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48237,"33,760",25999
+Detroit,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,48084,"35,829",29489
+Detroit,Lincoln,Nautilus,SUV,Used,Beige,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,48084,"22,769",42070
+Detroit,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"22,861",36999
+Detroit,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"33,638",37595
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2020,48180,"9,735",38493
+Detroit,RAM,1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48180,"10,782",38995
+Detroit,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48180,"28,620",39899
+Detroit,Ford,Fusion,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2014,48124,"69,888",13700
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,,,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2010,48124,"116,354",18500
+Detroit,Lincoln,MKC,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2015,48124,"69,695",19300
+Detroit,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,48124,"59,563",22000
+Detroit,Lincoln,MKZ,SEDAN,Used,Black,Cappuccino,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 39 Highway,2019,48124,"39,411",28000
+Detroit,Lincoln,MKZ,SEDAN,Used,Beige,Cappuccino,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,41 City / 38 Highway,2018,48124,"12,610",29800
+Detroit,Ford,Flex,SUV,Used,White,Charcoal Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2019,48124,"27,608",32000
+Detroit,Lincoln,MKC,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,48124,"13,555",36000
+Detroit,Lincoln,Nautilus,SUV,Used,Black,Coffee,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,48124,"28,788",38800
+Detroit,Lincoln,Corsair,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,48124,"3,181",39300
+Detroit,Lincoln,Corsair,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,48124,"16,854",41800
+Detroit,Lincoln,Nautilus,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2020,48124,"12,460",46000
+Detroit,Lincoln,Nautilus,SUV,Used,Green,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2021,48124,"2,792",49800
+Detroit,Lincoln,Aviator,SUV,Used,White,Roast,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2021,48124,"1,672",63500
+Detroit,Chevrolet,Trax,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48093,"29,975",19762
+Detroit,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2020,48093,"8,350",27000
+Detroit,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48093,"18,830",32323
+Detroit,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48093,"14,677",34201
+Detroit,Chrysler,Pacifica,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48093,"29,980",36406
+Detroit,Toyota,Corolla,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,48170,"7,252",25500
+Detroit,Cadillac,XT5,SUV,Used,White,Sahara Beige/Jet Black Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,48170,"18,794",33500
+Detroit,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,48307,"24,755",25299
+Detroit,Chevrolet,Corvette,CONVERT,Used,Black,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 29 Highway,2016,48307,"13,623",54768
+Detroit,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,48185,"29,050",21678
+Detroit,Ford,Escape,SUV,Certified,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2018,48185,"25,795",25898
+Detroit,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,48224,"29,073",24074
+Detroit,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,48224,"28,012",29295
+Detroit,Lincoln,MKX,SUV,Used,Off White,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2017,48224,"37,712",31495
+Detroit,Lincoln,MKZ,SEDAN,Used,Blue,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 39 Highway,2019,48224,"12,626",32995
+Detroit,Lincoln,MKC,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,48224,"25,921",32995
+Detroit,Lincoln,Nautilus,SUV,Used,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,48224,"22,254",34995
+Detroit,Lincoln,MKC,SUV,Used,Green,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,48224,"29,462",35995
+Detroit,Lincoln,Nautilus,SUV,Used,Blue,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,48224,"5,292",36195
+Detroit,Lincoln,MKC,SUV,Used,Gray,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,48224,"10,868",36595
+Detroit,Ford,Explorer,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,48224,"11,048",38495
+Detroit,MINI,Cooper,HATCH,Used,Orange,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,48034,"21,584",21988
+Detroit,MINI,Cooper Countryman,SUV,Certified,Black,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,,2018,48034,"16,248",26488
+Detroit,MINI,Cooper,HATCH,Used,Off White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2021,48034,"9,845",29998
+Detroit,MINI,Cooper Countryman,SUV,Certified,Silver,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,48034,"28,880",31988
+Detroit,BMW,530i xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,48034,"32,126",37388
+Detroit,Chevrolet,Trax,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48093,"18,625",18000
+Detroit,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2015,48093,"56,297",18500
+Detroit,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2016,48093,"52,564",22000
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2014,48093,"100,557",23999
+Detroit,Kia,Sorento,SUV,Used,Black,Stone Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2018,48093,"29,556",25850
+Detroit,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,48093,"6,845",27500
+Detroit,Toyota,RAV4,SUV,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,48093,"25,952",36999
+Detroit,Toyota,Avalon,SEDAN,Certified,Off White,Black/Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,48093,"6,212",45000
+Detroit,Ford,Fusion,SEDAN,Certified,Black,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,48111,"28,749",22000
+Detroit,Ford,Edge,SUV,Certified,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,48111,"21,184",29500
+Detroit,Ford,Transit Connect,VANS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 27 Highway,2019,48111,"12,241",31000
+Detroit,Ford,Edge,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,48111,"13,491",36500
+Detroit,Ford,Explorer,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,48111,"17,553",38000
+Detroit,Ford,F350,TRUCKS,Used,White,Camel,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,48111,"45,935",56000
+Detroit,Ford,Expedition,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,48111,"28,114",57000
+Detroit,Land Rover,Range Rover Evoque,SUV,Used,Red,Firenze Red Metallic,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 30 Highway,2015,48220,"69,888",23995
+Detroit,Chevrolet,Malibu,SEDAN,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2021,48220,"11,113",26695
+Detroit,Buick,Envision,SUV,Used,Red,Light Neutral/Ebony Accents,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,48220,"31,738",28495
+Detroit,Buick,Encore GX,SUV,Used,Brown,Ebony / Ebony Accents,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,30 City / 32 Highway,2020,48220,"6,150",29795
+Detroit,Buick,Envision,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2019,48220,"22,530",30395
+Detroit,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,48220,"23,783",30995
+Detroit,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,48220,"47,831",31995
+Detroit,Mercedes-Benz,E 400,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2016,48220,"16,650",32295
+Detroit,Buick,Envision,SUV,Certified,Black,Light Neutral/Ebony Accents,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,48220,"13,504",32795
+Detroit,Chevrolet,Blazer,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48220,"26,613",33295
+Detroit,Buick,Enclave,SUV,Certified,Black,Dark Galvanized W/Ebony Accent,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2019,48220,"29,686",34395
+Detroit,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48220,"41,239",35995
+Detroit,Buick,Envision,SUV,Certified,Brown,Whisper Beige W/ Ebony Accents,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2021,48220,"8,491",38795
+Detroit,Lexus,RX 350,SUV,Used,Gray,Black W/Linear Wood,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,48220,"13,876",42995
+Detroit,GMC,Sierra 1500,TRUCKS,Certified,White,Jet Black Denali,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,48220,"50,304",43695
+Detroit,Buick,Enclave,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2021,48220,"10,352",54595
+Detroit,GMC,Yukon XL,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,48220,"48,476",59595
+Detroit,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,48220,"32,151",20000
+Detroit,Lincoln,MKZ,SEDAN,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2015,48220,"48,697",21000
+Detroit,Lexus,RX 350,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,48220,"63,544",26500
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2015,48220,"81,288",28500
+Detroit,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,48220,"83,304",32000
+Detroit,GMC,Yukon,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,48220,"49,068",45000
+Detroit,Cadillac,XT6,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2020,48038,"17,151",51573
+Detroit,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48375,"10,839",37501
+Detroit,Buick,Enclave,SUV,Used,White,Shale With Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,48375,"19,669",41110
+Detroit,Cadillac,CT6,SEDAN,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,48375,"21,870",48403
+Detroit,Cadillac,CT5,SEDAN,Certified,Orange,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2020,48375,"5,668",51363
+Detroit,Jeep,Grand Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48034,"8,592",33304
+Detroit,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48034,"30,950",36482
+Detroit,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48034,"17,647",42353
+Detroit,RAM,1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48034,"18,586",42824
+Detroit,Jeep,Wrangler,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,48034,"19,528",43768
+Detroit,Porsche,Macan,SUV,Certified,Black,Black/Mojave Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,48021,"15,934",55472
+Detroit,BMW,M550i xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,48021,"22,000",62995
+Detroit,Porsche,718 Cayman,COUPE,Used,,Black/Bordeaux Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2019,48021,"4,851",79995
+Detroit,Porsche,911,COUPE,Used,Silver,Black,,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2014,48021,"24,970",83995
+Detroit,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,48170,"20,918",27500
+Detroit,Chrysler,Pacifica,VANS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48170,"24,214",37950
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48170,"26,590",40500
+Detroit,Ford,Fusion,SEDAN,Used,Gray,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2017,48210,"68,689",20499
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2013,48210,"75,464",25500
+Detroit,Kia,Sorento,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48210,"49,193",26460
+Detroit,Ford,Edge,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2020,48210,"15,278",33300
+Detroit,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,48210,"18,961",36770
+Detroit,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48210,"31,775",39500
+Detroit,Ford,F250,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2017,48210,"38,968",40000
+Detroit,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48210,"13,816",41000
+Detroit,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48210,"15,102",42000
+Detroit,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48210,"7,173",42400
+Detroit,Ford,F150,TRUCKS,Used,Black,Black/Medium Dark Slate,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,48210,"4,130",50755
+Detroit,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2014,48066,"21,727",19500
+Detroit,Honda,Fit,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,48066,"8,326",19800
+Detroit,Nissan,Sentra,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,48066,"26,183",20200
+Detroit,Nissan,Sentra,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,48066,"12,465",22000
+Detroit,Honda,Civic,HATCH,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2020,48066,"14,336",26700
+Detroit,Chevrolet,Spark,HATCH,Certified,White,Jet Black/Dark Anderson Silver,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,48035,"4,815",18498
+Detroit,Chevrolet,Trax,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48035,"6,021",19498
+Detroit,Chevrolet,Trax,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48035,"20,761",20498
+Detroit,Chevrolet,Trax,SUV,Certified,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48035,"12,933",20498
+Detroit,Chevrolet,Trax,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48035,"15,551",20998
+Detroit,Chevrolet,Equinox,SUV,Certified,Beige,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48035,"17,645",21988
+Detroit,Chevrolet,Trax,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48035,"27,828",21998
+Detroit,Chevrolet,Malibu,SEDAN,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,48035,"19,326",22488
+Detroit,Chevrolet,Malibu,SEDAN,Certified,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,48035,"20,359",22498
+Detroit,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48035,"22,482",22998
+Detroit,Chevrolet,Equinox,SUV,Certified,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48035,"3,710",23498
+Detroit,Chevrolet,Equinox,SUV,Certified,Beige,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48035,"26,348",23998
+Detroit,Chevrolet,Equinox,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48035,"12,232",25998
+Detroit,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2021,48035,"5,122",27998
+Detroit,GMC,Acadia,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,48035,"29,004",27998
+Detroit,Chevrolet,Equinox,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,48035,"9,065",28998
+Detroit,Chevrolet,Blazer,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48035,"17,769",33998
+Detroit,Chevrolet,Blazer,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,48035,"13,495",35488
+Detroit,GMC,Canyon,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,48035,"23,701",37888
+Detroit,Chevrolet,Blazer,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,48035,"11,621",37888
+Detroit,Buick,Envision,SUV,Certified,Brown,Ebony Seats,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2021,48035,"2,616",37998
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,48035,"22,876",48998
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,48035,"8,950",56988
+Detroit,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2015,48124,"54,764",18980
+Detroit,Ford,Escape,SUV,Certified,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,48124,"29,339",22980
+Detroit,Lincoln,MKC,SUV,Used,Off White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,48124,"15,252",34980
+Detroit,Ford,Ranger,TRUCKS,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,48124,"25,379",34980
+Detroit,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,48124,"33,634",35480
+Detroit,Ford,F150,TRUCKS,Used,,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,48124,"16,114",37980
+Detroit,Ford,F150,TRUCKS,Certified,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,48124,"12,454",39980
+Detroit,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48124,"17,133",42980
+Detroit,Ford,Explorer,SUV,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,48124,"15,986",42980
+Detroit,Ford,F150,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,48124,"17,976",43980
+Detroit,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2020,48124,"20,087",45980
+Detroit,Ford,Expedition,SUV,Certified,Black,Medium Soft Ceramic,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,48124,"20,171",61980
+Detroit,Dodge,Journey,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2016,48228,"57,898",14995
+Detroit,Dodge,Charger,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,48038,"28,729",29499
+Detroit,Chrysler,Pacifica,VANS,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,48066,"15,865",34995
+Detroit,Jeep,Grand Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48066,"11,810",36995
+Detroit,Chevrolet,Equinox,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,48328,"52,289",22000
+Detroit,Chevrolet,Equinox,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48328,"39,543",25900
+Detroit,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2019,48207,"15,483",21650
+Detroit,Ford,Fusion,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,48207,"16,469",26895
+Detroit,Ford,Escape,SUV,Used,,Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,48207,"15,504",28895
+Detroit,Chrysler,Pacifica,VANS,Used,Gray,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,48207,"21,855",34995
+Detroit,Ford,Fusion,SEDAN,Used,Black,Earth,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2013,48084,"104,096",8000
+Detroit,Ford,Edge,SUV,Used,Green,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,48084,"18,412",30000
+Detroit,GMC,Acadia,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,48084,"31,707",32000
+Detroit,Buick,Enclave,SUV,Certified,Gray,Dark Galvanized W/Ebony Accent,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2020,48084,"7,606",34219
+Detroit,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black Denali,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,48084,"38,302",42000
+Detroit,Cadillac,XT6,SUV,Used,Brown,Cirrus W/ Jet Black Accents,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2020,48084,"18,348",53301
+Detroit,GMC,Yukon,SUV,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,48084,"41,787",59000
+Detroit,Audi,A8,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2020,48084,"18,725",67000
+Detroit,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48099,"31,878",18996
+Detroit,Chevrolet,Equinox,SUV,Used,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,48099,"31,700",27996
+Detroit,Chevrolet,Blazer,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 27 Highway,2019,48135,"22,211",30040
+Detroit,Chevrolet,Blazer,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2020,48135,"17,563",32889
+Detroit,Chevrolet,Malibu,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 32 Highway,2011,48084,"149,251",6000
+Detroit,Ford,Fiesta,HATCH,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,48084,"6,044",16600
+Detroit,Subaru,Forester,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,48084,"30,253",27000
+Detroit,Subaru,Impreza,HATCH,Certified,,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,48034,"14,648",21000
+Detroit,Hyundai,Kona,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2019,48034,"19,104",26500
+Detroit,Subaru,Outback,SUV,Certified,Red,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,48034,"26,763",28000
+Detroit,Subaru,Outback,SUV,Certified,Silver,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,48034,"28,463",28900
+Detroit,Subaru,Outback,SUV,Certified,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,48034,"9,596",32500
+Detroit,Buick,Enclave,SUV,Used,White,Chestnut,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,48034,"31,430",37500
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2014,48042,"53,508",28925
+Detroit,Dodge,Challenger,COUPE,Used,Green,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,48084,"17,816",33995
+Detroit,Ford,F150,TRUCKS,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,48084,"37,718",37995
+Detroit,Land Rover,Range Rover Sport,SUV,Used,Black,Pimento/Ebony/Ebony/Pimento/Eb,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,14 City / 19 Highway,2016,48084,"81,365",43250
+Detroit,Jaguar,F-PACE,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,48084,"18,519",49200
+Detroit,RAM,1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48307,"19,542",42703
+Detroit,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Diesel,4-Cylinder Turbo,2 wheel drive - front,28 City / 39 Highway,2018,48080,"44,768",20495
+Detroit,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,48080,"46,094",20788
+Detroit,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,48080,"30,359",21295
+Detroit,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2021,48080,"9,939",21495
+Detroit,Ford,Escape,SUV,Used,Blue,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,48080,"18,570",21995
+Detroit,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,48080,"15,393",24495
+Detroit,Ford,Escape,SUV,Used,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2018,48080,"16,742",27495
+Detroit,Ford,Edge,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,48080,"18,576",31995
+Detroit,Ford,Escape,SUV,Used,Red,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,48080,"3,505",34495
+Detroit,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,48080,"37,138",38999
+Detroit,Ford,F150,TRUCKS,Used,Silver,Ug,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,48080,"37,717",39999
+Detroit,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,48080,"18,900",41599
+Detroit,Nissan,Juke,SUV,Used,Black,Nismo,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 29 Highway,2014,48084,"62,478",17500
+Detroit,INFINITI,QX60,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,48084,"29,123",36000
+Detroit,INFINITI,QX60,SUV,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,48084,"29,906",39990
+Detroit,Mercedes-Benz,C 300,CONVERT,Used,Blue,Nut Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2017,48084,"29,762",42000
+Detroit,INFINITI,QX50,SUV,Certified,Blue,Wheat,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,48084,"8,111",45800
+Detroit,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2015,48084,"50,202",11976
+Detroit,Volvo,XC40,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,48084,"20,848",38083
+Detroit,Volvo,XC60,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,48084,"17,464",46023
+Detroit,Hyundai,Tucson,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2017,48084,"45,570",20500
+Detroit,Buick,Encore GX,SUV,Used,Brown,Signet / Ebony Accents,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2020,48084,"8,980",29500
+Detroit,Hyundai,Tucson,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,48084,"22,314",30000
+Detroit,Chevrolet,Equinox,SUV,Used,Black,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48084,"26,314",25000
+Detroit,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48084,"25,003",36000
+Detroit,RAM,1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,48084,"18,515",38000
+Detroit,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,48084,"84,790",15000
+Detroit,MAZDA,MAZDA6,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2014,48084,"58,172",16000
+Detroit,Nissan,Sentra,SEDAN,Used,Blue,Marble Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,48084,"34,510",16000
+Detroit,Nissan,Versa,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,48084,"15,691",17000
+Detroit,Nissan,Versa,SEDAN,Certified,Gray,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,48084,11,18000
+Detroit,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,48084,"29,367",20000
+Detroit,MAZDA,MAZDA3,HATCH,Used,Blue,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,48084,"26,085",21000
+Detroit,Nissan,Sentra,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2021,48084,"6,832",21000
+Detroit,Nissan,Kicks,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,48084,"5,627",23000
+Detroit,Subaru,Forester,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,48084,"44,252",24000
+Detroit,Volkswagen,Tiguan,SUV,Certified,White,Gray Cloth,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,48084,"14,150",24000
+Detroit,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,48084,"20,704",24000
+Detroit,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,48084,"16,804",25000
+Detroit,Nissan,Altima,SEDAN,Certified,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2021,48084,"8,353",26000
+Detroit,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2021,48084,"5,001",27000
+Detroit,Nissan,Murano,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,48084,"22,287",28000
+Detroit,Volkswagen,GTI,HATCH,Used,Blue,Titan Black Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2018,48084,"19,195",29000
+Detroit,Volkswagen,Tiguan,SUV,Certified,White,Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,48084,"21,278",32000
+Detroit,Cadillac,CTS,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,48084,"12,754",34000
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,48093,"24,313",34949
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48093,"18,973",38386
+Detroit,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48093,"18,772",38400
+Detroit,Dodge,Charger,SEDAN,Used,Blue,Demonic Red/Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,12 City / 21 Highway,2020,48093,"15,302",76404
+Detroit,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,48359,"29,410",35000
+Detroit,Jeep,Grand Cherokee,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48359,"16,266",38000
+Detroit,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,48359,"13,527",38500
+Detroit,Chevrolet,Cruze,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,48124,"27,609",19780
+Detroit,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,48124,"17,421",20967
+Detroit,Chevrolet,Trax,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"15,814",21393
+Detroit,Chevrolet,Trax,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,48124,"18,739",21944
+Detroit,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"42,094",23340
+Detroit,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,48124,"20,509",23860
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"21,801",24588
+Detroit,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"22,619",24813
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"20,590",25321
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"24,460",25403
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"12,132",25516
+Detroit,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"20,009",25660
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"22,849",25914
+Detroit,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,48124,"10,999",26243
+Detroit,Chevrolet,Trax,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2021,48124,"5,301",27539
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"12,973",27660
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"18,971",27680
+Detroit,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"19,317",27992
+Detroit,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,48124,"5,931",28954
+Detroit,GMC,Terrain,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,48124,"8,299",29231
+Detroit,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,48124,"24,664",29686
+Detroit,Cadillac,XT5,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,48124,"39,211",30721
+Detroit,Chevrolet,Colorado,TRUCKS,Used,Silver,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,48124,"35,023",31451
+Detroit,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,20 City / 27 Highway,2018,48124,"13,903",32084
+Detroit,Dodge,Challenger,COUPE,Used,Orange,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2017,48124,"25,103",32780
+Detroit,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,48124,"33,508",32966
+Detroit,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48124,"28,973",33597
+Detroit,Cadillac,XT5,SUV,Used,Silver,Cirrus,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,48124,"34,657",33905
+Detroit,Cadillac,XT5,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,48124,"32,804",34440
+Detroit,Chevrolet,Blazer,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48124,"21,958",35003
+Detroit,Cadillac,XT5,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,48124,"25,545",35339
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,48124,"18,973",35516
+Detroit,Chevrolet,Blazer,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,48124,"11,319",35543
+Detroit,Cadillac,XT5,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,48124,"28,178",36320
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,48124,"20,194",36370
+Detroit,Buick,Envision,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,48124,"15,883",36621
+Detroit,Cadillac,XT5,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,48124,"23,086",36778
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,48124,"17,174",37381
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2020,48124,"10,804",37747
+Detroit,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,48124,"20,091",38149
+Detroit,Cadillac,CT6,SEDAN,Used,White,Cinnamon With Jet Black Accent,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2016,48124,"24,937",38747
+Detroit,Cadillac,XT5,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,48124,"17,764",39802
+Detroit,GMC,Canyon,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,48124,"20,418",40520
+Detroit,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,48124,"7,447",40796
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2020,48124,"19,753",41191
+Detroit,Chevrolet,Blazer,SUV,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,48124,"22,644",41899
+Detroit,Lexus,ES 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,48124,"18,824",41926
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,48124,"6,501",42866
+Detroit,Lincoln,Nautilus,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,48124,"15,826",44722
+Detroit,Cadillac,CT4,SEDAN,Certified,White,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2021,48124,"7,894",44897
+Detroit,Chevrolet,Tahoe,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,48124,"31,616",44966
+Detroit,Chevrolet,Tahoe,SUV,Used,Green,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,48124,"26,280",45836
+Detroit,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,48124,"29,503",45856
+Detroit,Cadillac,CT6,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2018,48124,"34,116",48384
+Detroit,GMC,Yukon,SUV,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,48124,"5,819",48954
+Detroit,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,48124,"21,607",49991
+Detroit,Cadillac,Escalade ESV,SUV,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,48124,"37,600",53514
+Detroit,Chevrolet,Corvette,COUPE,Used,Gray,Adrenaline Red,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 29 Highway,2015,48124,"13,147",55400
+Detroit,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,48124,"10,249",57095
+Detroit,Cadillac,XT6,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2021,48124,"6,281",62470
+Detroit,Cadillac,CT6,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2020,48124,"18,369",62625
+Detroit,Cadillac,Escalade ESV,SUV,Certified,Blue,Shale With Jet Black Accents,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,48124,"17,879",65613
+Detroit,Nissan,Sentra,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,48034,"25,392",19450
+Detroit,Honda,Fit,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,48034,"6,052",19950
+Detroit,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,48034,"29,104",21990
+Detroit,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,48034,"13,522",21990
+Detroit,Honda,Civic,SEDAN,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,48034,"12,402",24500
+Detroit,Honda,Civic,SEDAN,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,48034,"22,684",24500
+Detroit,Nissan,Altima,SEDAN,Certified,Gray,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,48034,"24,462",25450
+Detroit,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,48034,"10,270",28990
+Detroit,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,48034,"2,539",30990
+Detroit,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,48034,"1,377",31450
+Detroit,Honda,CR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,48034,809,31990
+Detroit,Honda,CR-V,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,48034,"1,732",33500
+Detroit,Nissan,Murano,SUV,Certified,White,Cashmere,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2019,48034,"29,255",36500

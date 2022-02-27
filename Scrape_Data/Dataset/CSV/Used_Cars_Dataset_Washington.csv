@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Washington,Lexus,NX 200t,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2017,20746,"49,809",30995
+Washington,Honda,CR-V,SUV,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,20724,"34,201",29999
+Washington,Ford,Fusion,SEDAN,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2013,22044,"84,526",11000
+Washington,Ford,Fusion,SEDAN,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2016,22044,"56,772",17500
+Washington,Ford,Mustang,COUPE,Used,Blue,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,22044,"15,569",26500
+Washington,Ford,Ranger,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,22044,"6,347",33000
+Washington,Cadillac,XT4,SUV,Certified,White,Sedona/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,20817,"26,690",40000
+Washington,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2017,20748,"37,022",24950
+Washington,Nissan,Altima,SEDAN,Used,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,20748,"12,948",25890
+Washington,Acura,TLX,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 33 Highway,2019,20748,"17,664",31490
+Washington,Buick,LaCrosse,SEDAN,Used,Gold,Neutral,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 28 Highway,2008,22207,"100,297",6500
+Washington,Hyundai,Elantra,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2014,22207,"73,513",12000
+Washington,Volvo,S60,SEDAN,Used,Beige,Soft Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 34 Highway,2015,22207,"49,072",17500
+Washington,Nissan,Kicks,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2018,22207,"27,107",21000
+Washington,BMW,535i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2016,22207,"35,837",30400
+Washington,Toyota,Highlander,SUV,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,22207,"38,333",33500
+Washington,Toyota,RAV4,SUV,Used,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,22207,"16,849",33500
+Washington,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,20852,"17,454",27990
+Washington,BMW,320i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,20852,"16,915",29550
+Washington,Ford,Mustang,COUPE,Used,Blue,Charcoal Black,,Gasoline,6-Cylinder,2 wheel drive - rear,,2014,22182,"71,707",16500
+Washington,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,22182,"26,945",41000
+Washington,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2021,22182,611,48000
+Washington,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,22182,"18,558",54000
+Washington,BMW,230i xDrive,CONVERT,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,22031,"5,823",40899
+Washington,BMW,X5,SUV,Certified,Black,Tan,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,22031,"15,129",57899
+Washington,Toyota,Prius,HATCH,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2017,22182,"39,945",24000
+Washington,Ford,F250,TRUCKS,Used,White,Steel,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2015,22182,"56,169",30000
+Washington,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,22182,"36,344",36000
+Washington,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,20724,"14,787",28995
+Washington,Subaru,WRX,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,22312,"44,712",27977
+Washington,Ford,Mustang,COUPE,Used,White,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,22312,"35,241",32977
+Washington,Honda,Odyssey,VANS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,22312,"38,834",33977
+Washington,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2015,20746,"60,531",17599
+Washington,Nissan,Sentra,SEDAN,Certified,Red,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,20746,"19,496",24495
+Washington,Nissan,Rogue,SUV,Used,Orange,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,20746,"22,150",30995
+Washington,Toyota,Tundra,TRUCKS,Used,Black,Sand Beige,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2016,20746,"66,755",34895
+Washington,Nissan,Sentra,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,20706,"22,396",21490
+Washington,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,21 City / 28 Highway,2016,20706,"56,285",22750
+Washington,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,20706,"11,961",26490
+Washington,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,20706,"34,849",32950
+Washington,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,20706,"18,971",33490
+Washington,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,20746,"8,219",38241
+Washington,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,20746,"24,442",39618
+Washington,Ford,Mustang,CONVERT,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2017,22044,"58,928",24000
+Washington,Ford,F250,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,22044,"11,900",67000
+Washington,INFINITI,Q50,SEDAN,Used,Blue,Stone,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,20746,"26,117",28255
+Washington,INFINITI,QX60,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,20746,"27,085",39570
+Washington,Toyota,Sienna,VANS,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,20746,"11,456",40996
+Washington,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,20746,"16,551",42276
+Washington,Volkswagen,Passat,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,20746,"24,412",21495
+Washington,BMW,540i xDrive,SEDAN,Used,Black,Mocha,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,20746,"58,289",38995
+Washington,BMW,X6,SUV,Used,Gray,Coral Red/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,20746,"55,019",47995
+Washington,BMW,540i xDrive,SEDAN,Certified,Blue,Canberra Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,20746,"23,322",47995
+Washington,Mercedes-Benz,C 300,CONVERT,Used,Gray,Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,20746,"24,827",52995
+Washington,BMW,M550i xDrive,SEDAN,Certified,Gray,Mocha,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2020,20746,"16,549",69995
+Washington,Hyundai,Tucson,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2017,20716,"35,482",22315
+Washington,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,22304,"4,066",55555
+Washington,Honda,Accord,SEDAN,Used,White,Biege,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,22304,"16,482",24490
+Washington,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 39 Highway,2016,20904,"28,493",19988
+Washington,Lexus,NX 300,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,20904,"9,371",37958
+Washington,Lexus,ES 300h,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 45 Highway,2019,20904,"18,851",40923
+Washington,Land Rover,Discovery Sport,SUV,Used,White,Acorn,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,20904,"8,855",42328
+Washington,Cadillac,Escalade ESV,SUV,Used,White,Maple Sugar,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,20817,"23,485",78000
+Washington,Chevrolet,Traverse,SUV,Used,Silver,Dark Titanium/Light Titanium,Automatic,Gasoline,6-Cylinder,All wheel drive,15 City / 22 Highway,2017,20748,"33,930",26450
+Washington,Lincoln,MKC,SUV,Used,Black,Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,20748,"43,412",34250
+Washington,Buick,Regal,SEDAN,Used,Red,Light Neutral,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2014,22207,"60,927",15500
+Washington,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 29 Highway,2015,22207,"51,288",18800
+Washington,MAZDA,MX-5 Miata,CONVERT,Used,Black,Spicy Mocha,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 27 Highway,2014,22207,"16,786",22000
+Washington,Toyota,RAV4,SUV,Used,Gray,Latte,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2015,22207,"78,559",22500
+Washington,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,22207,"19,677",24000
+Washington,Nissan,Leaf,HATCH,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,22207,"20,646",25000
+Washington,MINI,Cooper,HATCH,Used,Red,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 36 Highway,2020,22207,"14,484",25500
+Washington,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,22207,"27,459",33500
+Washington,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,22207,"27,795",35000
+Washington,Toyota,Tacoma,TRUCKS,Used,Gray,Black/Red,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2020,22207,"16,325",40500
+Washington,BMW,X3,SUV,Used,Black,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2021,22207,"6,949",44000
+Washington,Mercedes-Benz,S 550,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,15 City / 23 Highway,2010,22201,"73,211",20995
+Washington,Volvo,S90,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,22201,"48,271",27695
+Washington,Chevrolet,Trax,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,20852,"13,655",22600
+Washington,MAZDA,CX-30,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2021,20852,"9,647",28900
+Washington,Chevrolet,Corvette,COUPE,Used,White,Adrenaline Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2019,22207,"12,756",59745
+Washington,Volvo,XC60,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,20814,"11,680",44990
+Washington,Volkswagen,ID.4,SUV,Used,Black,Galaxy Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,20814,"2,423",47999
+Washington,BMW,X5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,20852,"7,852",59995
+Washington,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,20852,"12,497",26999
+Washington,Volvo,XC60,SUV,Used,Gray,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,20852,"14,921",42999
+Washington,Porsche,Cayman,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2014,20852,"12,691",59999
+Washington,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,22305,"31,920",28996
+Washington,Toyota,Avalon,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,22305,"4,097",40996
+Washington,Toyota,4Runner,SUV,Certified,Blue,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,22305,"18,335",44996
+Washington,Toyota,Tundra,TRUCKS,Certified,Gray,Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,22305,"11,694",59996
+Washington,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 33 Highway,2015,20746,"95,337",12200
+Washington,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black/Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2015,20746,"41,328",16655
+Washington,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2018,20746,"39,574",26455
+Washington,INFINITI,Q70,SEDAN,Used,White,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,20746,"30,791",29599
+Washington,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,20746,"27,806",32595
+Washington,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,22182,"73,057",18500
+Washington,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,22182,"42,926",20000
+Washington,GMC,Terrain,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2017,22182,"65,373",22500
+Washington,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,47 City / 47 Highway,2018,22182,"52,657",23500
+Washington,Subaru,WRX,SEDAN,Used,Silver,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2017,22182,"55,985",24500
+Washington,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2016,22182,"56,456",29500
+Washington,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2019,22182,"10,019",35000
+Washington,RAM,2500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2013,22182,"77,705",38000
+Washington,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,22182,"27,427",44000
+Washington,Chevrolet,Suburban,SUV,Used,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 22 Highway,2018,22182,"15,328",58000
+Washington,GMC,Yukon,SUV,Used,Red,Cocoa/Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,22182,"29,105",63500
+Washington,Chevrolet,Silverado 2500,TRUCKS,Used,Silver,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,22182,"4,341",66000
+Washington,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,22182,"59,855",15000
+Washington,BMW,535i,SEDAN,Used,Blue,Venetian Beige,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2013,22182,"79,382",18000
+Washington,BMW,M4,CONVERT,Used,Black,Silverstone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2015,22182,"21,832",49000
+Washington,Volkswagen,Tiguan,SUV,Used,Black,Golden Oak & Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,20815,"25,179",26879
+Washington,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2015,20815,"59,535",29998
+Washington,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,20815,"36,352",30912
+Washington,BMW,328d xDrive,WAGON,Used,White,Venetian Beige,Automatic,Diesel,4-Cylinder Turbo,All wheel drive,30 City / 40 Highway,2018,20815,"26,433",41998
+Washington,Volvo,XC60,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,20815,"25,088",44908
+Washington,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,20815,"12,364",47208
+Washington,Mercedes-Benz,E 400,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,20815,"21,905",50598
+Washington,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 34 Highway,2016,22031,"41,977",24999
+Washington,BMW,X2,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,22031,"21,798",30999
+Washington,BMW,X5,SUV,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,22031,"3,562",68999
+Washington,Jeep,Grand Cherokee,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,21029,"14,899",36995
+Washington,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2015,22182,"51,951",18991
+Washington,Honda,Accord,SEDAN,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,22182,"39,044",25991
+Washington,Honda,Odyssey,VANS,Used,Gray,Gry,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,22182,"20,520",34891
+Washington,Audi,Q3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2016,20814,"50,537",26900
+Washington,Audi,A4,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,20814,"39,118",31900
+Washington,Audi,A4,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,20814,"16,675",35500
+Washington,Audi,Q5,SUV,Certified,White,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,20814,"33,375",35700
+Washington,Audi,Q5,SUV,Certified,White,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,20814,"34,221",36500
+Washington,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,20814,"5,975",36900
+Washington,Honda,Passport,SUV,Used,,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,20814,"14,687",37500
+Washington,Audi,Q5,SUV,Certified,White,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,20814,"15,624",37900
+Washington,Audi,A4,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,20814,"15,392",38500
+Washington,Audi,Q5,SUV,Certified,Silver,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,20814,"25,720",38900
+Washington,Audi,Q5,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,20814,"26,537",41500
+Washington,Audi,A5,CONVERT,Used,Blue,Nougat Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,20814,"15,009",46900
+Washington,Audi,Q5,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,20814,"24,090",46900
+Washington,Audi,SQ5,SUV,Certified,Gray,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2019,20814,"29,437",52400
+Washington,Volvo,S60,SEDAN,Used,Black,Off-Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 34 Highway,2015,22182,"37,774",18900
+Washington,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,22182,"23,142",19500
+Washington,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,22182,"58,410",20500
+Washington,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,22182,"43,995",20500
+Washington,Nissan,Pathfinder,SUV,Used,Gray,Almond,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2015,22182,"57,680",23500
+Washington,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2019,22182,"24,137",27750
+Washington,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2017,22182,"45,534",28500
+Washington,Toyota,Sienna,VANS,Certified,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2017,22182,"26,386",35000
+Washington,GMC,Canyon,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,22182,"20,004",43000
+Washington,Toyota,Venza,SUV,Used,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,40 City / 37 Highway,2021,22182,"9,874",45500
+Washington,Porsche,Macan,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,20814,"29,647",53481
+Washington,Hyundai,Tucson,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2014,22301,"16,315",18994
+Washington,Hyundai,Kona,SUV,Used,Red,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,22301,"22,875",21997
+Washington,Hyundai,Kona,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2020,22301,"21,064",27999
+Washington,Lexus,RX 350,SUV,Used,White,Birch,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,20814,"10,296",47880
+Washington,INFINITI,Q50,SEDAN,Used,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,20852,"24,856",33999
+Washington,Audi,Q5,SUV,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,20852,"21,722",39999
+Washington,Honda,Odyssey,VANS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,20852,"10,085",46999
+Washington,Audi,Q5,SUV,Used,Blue,Beige,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,25 City / 29 Highway,2020,20852,"6,510",58999
+Washington,Audi,S4,SEDAN,Certified,Gray,Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2021,20852,"4,264",62999
+Washington,Kia,Sorento,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 26 Highway,2014,20724,"48,046",15990
+Washington,Cadillac,XTS,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 27 Highway,2013,20724,"66,207",18430
+Washington,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2015,20724,"50,201",19262
+Washington,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,20724,"19,432",22499
+Washington,Honda,CR-V,SUV,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2015,20724,"34,472",23178
+Washington,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,20724,"37,704",23479
+Washington,Lexus,ES 350,SEDAN,Used,Blue,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2014,20724,"46,613",23495
+Washington,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,20724,"17,519",25329
+Washington,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2017,20724,"32,074",28999
+Washington,Honda,Pilot,SUV,Used,Blue,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,20724,"31,412",33246
+Washington,BMW,320i xDrive,SEDAN,Used,Blue,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,22046,"25,362",29500
+Washington,Volvo,XC60,SUV,Certified,Silver,Charcoal Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,22046,"11,578",43999
+Washington,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,22150,"17,752",26949
+Washington,Lexus,CT 200h,HATCH,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2016,20743,"36,814",25570
+Washington,Ford,Ranger,TRUCKS,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,20743,"16,949",37934
+Washington,Nissan,Frontier,TRUCKS,Used,Silver,Pro-4x,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2019,20743,"4,202",34700
+Washington,Honda,Civic,SEDAN,Used,Tan,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 36 Highway,2006,22312,"125,401",6577
+Washington,Ford,Fusion,SEDAN,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2016,22312,"52,850",16577
+Washington,Scion,FR-S,COUPE,Used,Orange,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,22 City / 30 Highway,2013,22312,"26,096",19377
+Washington,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,22312,"39,501",25477
+Washington,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2020,22312,"11,390",44997
+Washington,Nissan,Kicks,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2018,20746,"28,009",22567
+Washington,Nissan,Altima,SEDAN,Certified,Blue,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 35 Highway,2021,20746,"9,148",28995
+Washington,Dodge,Challenger,COUPE,Used,Blue,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2015,20746,"30,963",30995
+Washington,Acura,TLX,SEDAN,Certified,Silver,Graystone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,22041,"16,065",29416
+Washington,MAZDA,MAZDA3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2018,20746,"31,469",22400
+Washington,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,20746,"17,828",26500
+Washington,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,20746,"13,099",30000
+Washington,Cadillac,ATS,SEDAN,Used,Brown,Caramel W/Jet Black Accents,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2014,20706,"66,152",18950
+Washington,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2016,20706,"41,711",22490
+Washington,Toyota,Camry,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,20706,"40,323",22490
+Washington,Nissan,Altima,SEDAN,Used,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 37 Highway,2018,20706,"42,428",22950
+Washington,Honda,Civic,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,20706,"9,627",23950
+Washington,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,20706,"30,836",25950
+Washington,Ford,Flex,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2018,20706,"37,942",31490
+Washington,BMW,X3,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,20706,"36,567",37950
+Washington,Chevrolet,Suburban,SUV,Used,Gray,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 22 Highway,2018,20706,"46,855",51490
+Washington,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,20746,"34,824",24951
+Washington,Toyota,86,COUPE,Certified,Orange,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,24 City / 32 Highway,2017,20746,"47,257",25400
+Washington,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,20746,"25,222",26262
+Washington,Toyota,RAV4,SUV,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2017,20746,"30,129",26842
+Washington,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2019,20746,"27,578",27813
+Washington,Toyota,Camry,SEDAN,Used,Black,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,20746,"9,875",28000
+Washington,Lexus,ES 350,SEDAN,Used,Blue,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,20746,"38,044",29185
+Washington,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,20746,"25,278",29657
+Washington,Toyota,Sienna,VANS,Used,Blue,Bisque,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,20746,"34,610",29791
+Washington,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,20746,"15,789",30547
+Washington,Toyota,Avalon,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 39 Highway,2018,20746,"35,165",30663
+Washington,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,20746,"29,723",31300
+Washington,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,20746,"8,242",34936
+Washington,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,20746,"21,493",35821
+Washington,Lexus,ES 350,SEDAN,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,20746,"16,215",35829
+Washington,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,20746,"10,514",38184
+Washington,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,20746,"12,782",39938
+Washington,Lexus,RX 350,SUV,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,20746,"33,685",41197
+Washington,Lexus,RX 350,SUV,Used,Blue,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,20746,"37,256",41389
+Washington,Lexus,RX 350,SUV,Used,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,20746,"28,630",41751
+Washington,Lexus,RX 350,SUV,Used,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,20746,"29,890",42691
+Washington,Lexus,ES 350,SEDAN,Used,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,20746,"25,400",43212
+Washington,Lexus,RX 350,SUV,Used,Blue,Noble Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,20746,"22,196",43237
+Washington,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,20746,"21,939",44800
+Washington,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2021,20746,"10,763",45744
+Washington,Toyota,Tundra,TRUCKS,Certified,Brown,Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,20746,"7,505",57338
+Washington,Ford,Fiesta,HATCH,Used,Gray,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,22044,"14,583",18000
+Washington,Volkswagen,Jetta,SEDAN,Used,Orange,Storm Gray,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,22044,"20,169",19000
+Washington,Mitsubishi,Outlander Sport,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2019,22044,"28,280",20500
+Washington,Ford,EcoSport,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,22044,"26,500",22000
+Washington,Ford,Escape,SUV,Used,Silver,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,22044,"24,698",23500
+Washington,Chevrolet,Camaro,CONVERT,Used,Black,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2012,22044,"31,459",24000
+Washington,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,22044,"22,884",24500
+Washington,BMW,535i Gran Turismo xDrive,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2016,22044,"65,812",25500
+Washington,Honda,Accord,SEDAN,Used,Gray,Gray,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,22044,"14,981",27000
+Washington,Volkswagen,Golf,WAGON,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2019,22044,"17,049",27500
+Washington,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,22044,"33,662",29000
+Washington,MAZDA,CX-9,SUV,Used,Black,Auburn,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,22044,"34,221",29500
+Washington,BMW,X2,SUV,Used,Blue,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,22044,"38,059",30500
+Washington,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,22044,"28,406",31500
+Washington,Ford,Escape,SUV,Used,White,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2021,22044,57,32500
+Washington,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 31 Highway,2020,22044,"18,467",32500
+Washington,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,22044,"32,935",32500
+Washington,Ford,F150,TRUCKS,Used,White,Dark Earth Gray,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,22044,"26,799",33500
+Washington,Ford,Mustang,COUPE,Used,Black,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2019,22044,"30,672",35000
+Washington,Ford,Bronco Sport,SUV,Used,White,Ebony,Automatic,Gasoline,3-Cylinder Turbo,4 wheel drive,25 City / 28 Highway,2021,22044,"2,808",38000
+Washington,Ford,Mustang,COUPE,Used,White,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2020,22044,"15,889",40500
+Washington,Ford,Explorer,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2021,22044,"14,848",41500
+Washington,Ford,F150,TRUCKS,Used,White,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,22044,"35,461",42500
+Washington,Ford,F250,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,22044,"18,813",43500
+Washington,Ford,Expedition,SUV,Used,,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,22044,"35,500",47500
+Washington,Lexus,RC F,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2015,22044,"34,796",48500
+Washington,Kia,Stinger,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,20746,"21,245",31990
+Washington,INFINITI,Q50,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,20746,"22,609",36404
+Washington,Jaguar,E-PACE,SUV,Used,Blue,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,20746,"20,825",36749
+Washington,INFINITI,QX50,SUV,Used,Brown,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,20746,"24,787",36762
+Washington,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,20746,"50,263",37550
+Washington,Toyota,Avalon,SEDAN,Used,Silver,Cognac,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 43 Highway,2021,20746,"7,249",42569
+Washington,Lexus,GX 460,SUV,Used,White,Ecru,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2018,20746,"27,200",45116
+Washington,BMW,750i xDrive,SEDAN,Used,Black,Ivory White Blk Dakota,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,20746,"32,396",52687
+Washington,Toyota,Tundra,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,20746,"9,630",55230
+Washington,BMW,750i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,20746,"23,340",59311
+Washington,Lexus,LS 500,SEDAN,Used,Gray,Noble Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2018,20746,"12,893",61878
+Washington,INFINITI,QX80,SUV,Certified,Brown,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2019,20746,"4,254",62807
+Washington,Cadillac,XTS,SEDAN,Used,Black,Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2016,20746,"33,255",26995
+Washington,BMW,X3,SUV,Used,Blue,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,20746,"60,856",27995
+Washington,BMW,330i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,20746,"33,348",32495
+Washington,BMW,430i,COUPE,Certified,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 33 Highway,2019,20746,"39,089",33995
+Washington,BMW,430i Gran Coupe xDrive,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,20746,"21,483",37495
+Washington,BMW,430i Gran Coupe xDrive,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,20746,"27,289",37495
+Washington,BMW,430i Gran Coupe xDrive,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,20746,"17,230",37495
+Washington,BMW,330i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,20746,"20,432",37995
+Washington,BMW,X2,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2020,20746,"14,215",38495
+Washington,BMW,330i xDrive,SEDAN,Certified,Gray,Coral Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,20746,"13,904",38995
+Washington,BMW,X3,SUV,Certified,White,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,20746,"26,021",39495
+Washington,BMW,540i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2017,20746,"13,041",39995
+Washington,BMW,340i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,20746,"30,669",39995
+Washington,Audi,A4,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,20746,"4,858",40495
+Washington,BMW,530i xDrive,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,20746,"22,027",42495
+Washington,Mercedes-Benz,GLB 250,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,20746,"13,455",42995
+Washington,Jeep,Wrangler,SUV,Used,Gray,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 25 Highway,2021,20746,"4,505",45995
+Washington,Volvo,XC90,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,20746,"30,766",46995
+Washington,BMW,540i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,20746,"18,262",49495
+Washington,BMW,X5,SUV,Certified,Gray,Coffee,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,20746,"20,585",58995
+Washington,BMW,750i xDrive,SEDAN,Certified,Blue,Canberra Beige,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,20746,"20,797",64995
+Washington,INFINITI,QX80,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2020,20746,"13,514",66995
+Washington,BMW,X7,SUV,Certified,Gray,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,20746,"25,562",73995
+Washington,Genesis,G80,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,15 City / 23 Highway,2018,20716,"18,141",38651
+Washington,GMC,Terrain,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2017,20740,"12,790",24000
+Washington,Subaru,Forester,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,20740,"37,247",28000
+Washington,Buick,Envision,SUV,Used,Blue,Light Neutral,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2020,20740,"12,025",38000
+Washington,Hyundai,Palisade,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,20740,"15,599",43000
+Washington,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,20164,"30,855",21500
+Washington,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,20164,"13,807",55000
+Washington,BMW,328i,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 28 Highway,2013,20895,"51,542",16500
+Washington,Jeep,Renegade,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,23 City / 29 Highway,2020,22303,"11,960",27991
+Washington,MAZDA,CX-30,SUV,Used,Gray,White,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,22303,"19,612",29032
+Washington,Jeep,Wrangler,SUV,Used,Blue,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 25 Highway,2019,22303,"16,167",33491
+Washington,Jeep,Wrangler,SUV,Certified,Green,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,22303,"31,012",34799
+Washington,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,22303,"23,538",36621
+Washington,Jeep,Grand Cherokee,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,22303,"26,657",37440
+Washington,Dodge,Charger,SEDAN,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,22303,"5,983",38356
+Washington,Jeep,Wrangler,SUV,Certified,Orange,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,22303,"21,739",42991
+Washington,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,22042,"34,526",23500
+Washington,Nissan,Maxima,SEDAN,Used,Orange,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,22042,"16,362",36000
+Washington,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,22042,"6,073",26500
+Washington,Subaru,Outback,SUV,Used,Green,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,22042,"19,434",28690
+Washington,Nissan,Sentra,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,22304,"11,082",20850
+Washington,INFINITI,Q50,SEDAN,Certified,Black,Wheat,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,22304,"24,343",32990
+Washington,INFINITI,Q50,SEDAN,Certified,Silver,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,22304,"13,428",33900
+Washington,INFINITI,Q50,SEDAN,Certified,White,Stone,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,22304,"11,484",35900
+Washington,INFINITI,Q50,SEDAN,Certified,Silver,Stone,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,22304,"13,929",38900
+Washington,Porsche,Macan,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,22304,"39,707",51950
+Washington,Audi,Q5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,20166,"24,932",46034
+Washington,Mercedes-Benz,C 300,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,22304,"5,600",40982
+Washington,Mercedes-Benz,E 450,COUPE,Used,Blue,Macchiato Beige/ Yacht Blue Le,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,22203,"31,706",56995
+Washington,MINI,Cooper,HATCH,Used,Off White,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,22304,"9,716",25000
+Washington,Ford,Expedition,SUV,Used,Gray,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,22304,"28,355",60000
+Washington,BMW,330i,SEDAN,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,22304,"25,256",36990
+Washington,BMW,X5,SUV,Certified,Black,Canberra Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,22304,"9,419",59980
+Washington,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2013,22304,"49,518",20850
+Washington,Hyundai,Sonata,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2018,22304,"17,038",23950
+Washington,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,22304,"22,682",26950
+Washington,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,22304,"37,028",26995
+Washington,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2018,22304,"4,579",28490
+Washington,Acura,MDX,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,22304,"28,514",41490
+Washington,Audi,A5,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2015,20904,"30,491",26889
+Washington,Lexus,ES 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,20904,"15,201",42489
+Washington,Honda,Odyssey,VANS,Used,Blue,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,20904,"24,392",44988
+Washington,Lexus,ES 300h,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 44 Highway,2021,20904,"6,742",46889
+Washington,Lexus,RX 350,SUV,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,20904,"5,464",53855
+Washington,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,20784,"7,221",37985
+Washington,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,22312,"36,970",19499
+Washington,Chevrolet,Suburban,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,22312,"6,079",87250
+Washington,Nissan,Rogue Sport,SUV,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,22182,"3,266",30000
+Washington,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,22182,"8,822",31500
+Washington,Nissan,Rogue Sport,SUV,Certified,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,22182,"4,615",33000
+Washington,MAZDA,CX-5,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,22182,"6,697",36893
+Washington,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,22182,"35,124",38000
+Washington,MAZDA,CX-5,SUV,Certified,Red,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,22182,"1,762",39500
+Washington,Honda,Insight,SEDAN,Used,White,Ivory,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 49 Highway,2019,22191,"29,735",23500
+Washington,Kia,Stinger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,22191,"27,713",36000
+Washington,Ford,F250,TRUCKS,Used,Black,Steel,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2015,22191,"49,610",44500
+Washington,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,14 City / 18 Highway,2020,22191,"12,106",45000
+Washington,Mercedes-Benz,C 43 AMG,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,22191,"23,898",54000
+Washington,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,20904,"38,979",24000
+Washington,Kia,Telluride,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2020,20904,"10,136",42500
+Washington,Cadillac,CT4,SEDAN,Certified,White,Cinnamon With Jet Black Accent,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2021,20904,"1,136",47000
+Washington,Mercedes-Benz,S 450,SEDAN,Used,Gray,Silk Beige/Espresso Brown Leat,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2018,22310,"20,332",65999
+Washington,Chevrolet,Tahoe,SUV,Used,Purple,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,20707,"49,203",43995
+Washington,Cadillac,ATS,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2016,20817,"39,612",24000
+Washington,Cadillac,XT5,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,20817,"23,618",36000
+Washington,Cadillac,XT4,SUV,Certified,White,Sedona/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,20817,"25,193",39000
+Washington,Cadillac,XT4,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,20817,"17,754",39500
+Washington,Cadillac,XT5,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,20817,"13,134",40500
+Washington,Cadillac,XT4,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,20817,"19,909",41000
+Washington,Cadillac,XT5,SUV,Used,Blue,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,20817,"19,311",42500
+Washington,Cadillac,XT5,SUV,Used,Burgundy,Kona Brown Sauvage,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,20817,"15,869",50000
+Washington,Cadillac,CTS,SEDAN,Certified,White,Jet Black W/Jet Black Accents,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,14 City / 21 Highway,2018,20817,"32,648",76000
+Washington,Cadillac,Escalade ESV,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2020,20817,"25,056",79000
+Washington,Cadillac,Escalade,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,20817,"2,259",97000
+Washington,Ford,Escape,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2017,20748,"45,929",19990
+Washington,Hyundai,Kona,SUV,Used,Red,Gray/Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,20748,"17,133",26475
+Washington,Honda,Accord,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,20748,"9,519",30490
+Washington,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,20748,"34,004",31950
+Washington,Ford,Explorer,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,18 City / 25 Highway,2017,20748,"25,146",31950
+Washington,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2021,20748,"9,841",37950
+Washington,Acura,MDX,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,20748,"27,343",43250
+Washington,Porsche,Macan,SUV,Used,Blue,Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2016,20748,"52,589",48950
+Washington,Chevrolet,Cruze,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,20151,"36,731",18999
+Washington,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,20151,"21,156",25995
+Washington,Ford,Fusion,SEDAN,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2015,22207,"85,398",15000
+Washington,Toyota,Prius,HATCH,Used,Blue,Dark Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2012,22207,"82,779",15300
+Washington,Chevrolet,Cruze,SEDAN,Used,Black,Jet Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 39 Highway,2016,22207,"51,719",16000
+Washington,BMW,i3,HATCH,Used,Silver,Giga Cassia/Spice Gray,Single-Speed,Electric,Electric,2 wheel drive - rear,137 City / 111 Highway,2014,22207,"27,575",16500
+Washington,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2017,22207,"68,015",16800
+Washington,Ford,Fusion,SEDAN,Used,Silver,Charcoal Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 41 Highway,2015,22207,"49,691",16800
+Washington,Chevrolet,Camaro,COUPE,Used,Red,Black,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2014,22207,"57,284",17500
+Washington,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 31 Highway,2019,22207,"35,549",17800
+Washington,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,22207,"47,024",18400
+Washington,MINI,Cooper,HATCH,Used,Red,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,,2017,22207,"35,750",19000
+Washington,Ford,Mustang,COUPE,Used,Red,Ebony,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 28 Highway,2016,22207,"59,631",20000
+Washington,Acura,RDX,SUV,Used,Brown,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2015,22207,"73,117",20500
+Washington,Chevrolet,Cruze,HATCH,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,22207,"20,363",21000
+Washington,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,22207,"68,832",21500
+Washington,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,22207,"19,291",22000
+Washington,Subaru,Crosstrek,SUV,Used,Blue,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 34 Highway,2016,22207,"63,948",23500
+Washington,Nissan,Maxima,SEDAN,Used,Black,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,22207,"32,477",23500
+Washington,Chevrolet,Corvette,CONVERT,Used,Blue,Steel Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2005,22207,"58,914",24000
+Washington,Honda,Civic,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,22207,"25,233",24700
+Washington,Dodge,Challenger,COUPE,Used,Blue,Dark Slate Gray,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2013,22207,"10,560",24800
+Washington,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,22207,"30,929",25800
+Washington,Jeep,Renegade,SUV,Used,Blue,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2020,22207,"14,055",25900
+Washington,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,22207,"32,186",26800
+Washington,MAZDA,MX-5 Miata RF,CONVERT,Used,Black,Black W/Red Stitching,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,22207,"14,148",26800
+Washington,Cadillac,Escalade,SUV,Used,Black,Cashmere W/Cocoa Accents,Automatic,Flexible Fuel,8-Cylinder,All wheel drive,13 City / 18 Highway,2013,22207,"99,222",27000
+Washington,Toyota,RAV4,SUV,Used,Gray,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,34 City / 31 Highway,2016,22207,"40,903",27500
+Washington,Nissan,Maxima,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,22207,"21,133",30300
+Washington,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,22207,"13,750",35000
+Washington,BMW,340i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,22207,"57,137",36500
+Washington,Toyota,Highlander,SUV,Used,White,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,22207,"28,668",37800
+Washington,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,22207,"30,200",38300
+Washington,Toyota,4Runner,SUV,Used,Blue,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,22207,"38,423",39500
+Washington,Toyota,Avalon,SEDAN,Used,Gold,Cognac,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2021,22207,"7,133",41500
+Washington,Toyota,Tacoma,TRUCKS,Used,Gray,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,22207,"11,166",42500
+Washington,Toyota,Tundra,TRUCKS,Used,Red,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,22207,"22,287",44500
+Washington,BMW,M340i xDrive,SEDAN,Used,Gray,Black W/Contrast Stiching,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,22207,"12,666",55000
+Washington,Mercedes-Benz,SL 450,CONVERT,Used,Silver,Bengal Red/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2018,22207,"25,801",69000
+Washington,Ford,Mustang,COUPE,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2017,22193,"20,482",26350
+Washington,Ford,Explorer,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2021,22193,"7,581",41150
+Washington,Toyota,Sequoia,SUV,Used,White,Oak,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 17 Highway,2001,22201,"211,022",5395
+Washington,Hyundai,Sonata,SEDAN,Used,,Camel,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 34 Highway,2011,22201,"125,828",6995
+Washington,MAZDA,CX-9,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2012,22201,"68,838",15795
+Washington,Toyota,Prius,HATCH,Used,White,Misty Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2014,22201,"40,362",19695
+Washington,Nissan,Armada,SUV,Used,Black,Almond,Automatic,Gasoline,8-Cylinder,4 wheel drive,12 City / 18 Highway,2013,22201,"69,887",24895
+Washington,Toyota,Tundra,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2014,22201,"67,231",36595
+Washington,Chevrolet,Tahoe,SUV,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,20852,"9,611",66600
+Washington,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,20852,"14,473",26996
+Washington,Volkswagen,GTI,HATCH,Used,White,Titan Black W/Clark Plaid,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2019,20852,"22,518",27550
+Washington,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,20852,"2,422",32495
+Washington,Honda,CR-V,SUV,Used,Off White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,20852,"11,391",34334
+Washington,Jaguar,E-PACE,SUV,Certified,Black,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,20852,"27,797",36495
+Washington,Land Rover,Discovery Sport,SUV,Certified,White,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,20852,"38,303",36850
+Washington,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 24 Highway,2019,20852,"21,771",37494
+Washington,BMW,440i Gran Coupe xDrive,HATCH,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,20852,"38,505",37495
+Washington,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,20852,"12,302",39850
+Washington,Jaguar,E-PACE,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,20852,"13,715",40996
+Washington,Audi,A5,HATCH,Used,Blue,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,20852,"11,292",41334
+Washington,Land Rover,Discovery Sport,SUV,Certified,White,Ebony W/Mars Red Stitch,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,20852,"15,286",42395
+Washington,Land Rover,Discovery Sport,SUV,Certified,White,Ebony W/Mars Red Stitch,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,20852,"10,849",43750
+Washington,Land Rover,Discovery Sport,SUV,Certified,White,Ebony W/Mars Red Stitch,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,20852,"10,555",43990
+Washington,Audi,SQ5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2018,20852,"23,034",45350
+Washington,Land Rover,Range Rover Evoque,SUV,Certified,Gray,Cloud,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,20852,"16,119",47346
+Washington,Tesla,Model 3,SEDAN,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,20852,"1,876",48350
+Washington,Land Rover,Range Rover Velar,SUV,Certified,Blue,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2020,20852,"12,951",60990
+Washington,Audi,A7,HATCH,Used,White,Black W/Rock Gray Stitch,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,,2021,20852,"5,312",74498
+Washington,Land Rover,Range Rover,SUV,Certified,White,Ebony/Ebony/Ebony/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,20852,"22,688",92904
+Washington,Mitsubishi,Outlander Sport,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,20877,"17,598",25995
+Washington,GMC,Sierra 1500,TRUCKS,Certified,White,Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,20877,"9,116",36000
+Washington,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,20877,"69,606",47000
+Washington,Volkswagen,GTI,HATCH,Used,Black,Titan Black W/Clark Plaid,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2017,20724,"40,861",26275
+Washington,Hyundai,Elantra,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,22207,"31,368",18507
+Washington,Honda,Civic,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,22207,"11,470",24439
+Washington,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,22207,"22,950",25964
+Washington,Toyota,Corolla,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,22207,"7,279",25995
+Washington,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,22207,"19,946",26020
+Washington,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,22207,"35,262",26495
+Washington,GMC,Acadia,SUV,Used,White,Light Titanium,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,22207,"49,217",27295
+Washington,Honda,Civic,SEDAN,Certified,Off White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,22207,"13,052",27721
+Washington,Honda,Passport,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,22207,"9,605",30473
+Washington,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,22207,"31,002",31207
+Washington,Honda,Passport,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,22207,"28,171",34807
+Washington,BMW,X5,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,22207,"49,007",37630
+Washington,Acura,RDX,SUV,Used,White,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,22207,"12,951",39535
+Washington,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,22207,"33,938",42323
+Washington,Honda,Ridgeline,TRUCKS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,22207,665,43995
+Washington,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,22207,"8,442",47129
+Washington,BMW,X3,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,22207,"13,402",50132
+Washington,Lexus,GX 460,SUV,Used,Gray,Rioja Red,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,22207,"14,979",58383
+Washington,Tesla,Model Y,SUV,Used,White,White/Black,Single-Speed,Electric,Electric,All wheel drive,,2021,22207,"10,910",64995
+Washington,BMW,X7,SUV,Used,Black,Cognac,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,22207,"25,301",73905
+Washington,Tesla,Model S,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,22207,"13,775",92995
+Washington,BMW,M850i Gran Coupe xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2020,22207,"9,664",94995
+Washington,Honda,Accord,SEDAN,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,20814,"2,720",25995
+Washington,Honda,HR-V,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,20814,"12,070",26995
+Washington,Honda,Accord,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,20814,"23,587",29895
+Washington,Honda,CR-V,SUV,Used,Orange,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,20814,"14,031",29977
+Washington,Honda,Odyssey,VANS,Used,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,20814,"43,406",31152
+Washington,Honda,CR-V,SUV,Certified,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,20814,"15,318",32834
+Washington,Honda,Accord,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,20814,"2,259",32964
+Washington,Honda,CR-V,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,20814,"28,027",33422
+Washington,Honda,Passport,SUV,Used,Blue,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,20814,"19,415",33446
+Washington,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 48 Highway,2021,20814,"2,215",35495
+Washington,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2015,20814,"93,610",15404
+Washington,Volkswagen,Jetta,SEDAN,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,20814,"21,916",18950
+Washington,Ford,Escape,SUV,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,20814,"30,867",21825
+Washington,Volkswagen,Jetta,SEDAN,Used,White,Dark Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2020,20814,"3,163",23410
+Washington,Volkswagen,Jetta,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,20814,"29,518",23799
+Washington,Hyundai,Sonata,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,20814,"10,234",26560
+Washington,Volvo,S60,SEDAN,Certified,Gray,Soft Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2018,20814,"35,506",27303
+Washington,Volkswagen,Atlas,SUV,Used,Red,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,20814,"48,180",30148
+Washington,Audi,A3,CONVERT,Used,White,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,20814,"36,692",31499
+Washington,Volkswagen,Tiguan,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,20814,"15,340",33396
+Washington,Volvo,S60,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,20814,"9,638",34618
+Washington,Jaguar,F-PACE,SUV,Used,Blue,Latte/Espresso Stitch,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 23 Highway,2017,20814,"36,325",35182
+Washington,Volvo,XC60,SUV,Used,Black,Amber,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,20814,"25,221",38532
+Washington,Dodge,Charger,SEDAN,Used,Green,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,20814,"4,648",38681
+Washington,Volvo,S60,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 32 Highway,2019,20814,"21,057",38950
+Washington,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,20814,"16,697",41403
+Washington,Volvo,XC60,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,20814,"15,487",43735
+Washington,Land Rover,Discovery,SUV,Used,White,Ebony,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,21 City / 26 Highway,2018,20814,"25,861",52993
+Washington,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 22 Highway,2019,20814,"3,995",69209
+Washington,BMW,i3,HATCH,Used,Gray,Mega Carum Spice Gray,Single-Speed,Electric,Electric,2 wheel drive - rear,137 City / 111 Highway,2014,20852,"34,380",14495
+Washington,BMW,330i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,20852,"25,491",27990
+Washington,Honda,CR-V,SUV,Used,Gold,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,20852,"15,816",28990
+Washington,Volkswagen,GTI,HATCH,Used,Gray,Titan Black W/Clark Plaid,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 31 Highway,2019,20852,"11,700",30550
+Washington,BMW,X5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2016,20852,"43,194",33990
+Washington,Alfa Romeo,Giulia,SEDAN,Used,White,Black/Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,20852,"13,526",35350
+Washington,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,20852,"18,261",35495
+Washington,BMW,430i xDrive,COUPE,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,20852,"25,620",36850
+Washington,Mercedes-Benz,A 220,SEDAN,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2019,20852,"10,061",36993
+Washington,BMW,X3,SUV,Certified,Gray,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,20852,"27,878",37950
+Washington,Lexus,GX 460,SUV,Used,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2017,20852,"42,958",40990
+Washington,Jeep,Gladiator,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,20852,"12,783",45395

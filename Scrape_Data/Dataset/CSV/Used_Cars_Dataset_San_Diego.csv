@@ -1,0 +1,701 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+San Diego,Kia,Niro,SUV,Used,White,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 46 Highway,2019,92057,"5,246",26950
+San Diego,Lexus,ES 350,SEDAN,Used,Silver,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,92057,"27,456",33450
+San Diego,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,92057,"29,836",37350
+San Diego,Honda,Pilot,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,92057,"26,550",42350
+San Diego,Chevrolet,Corvette,CONVERT,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2015,92057,"25,473",50950
+San Diego,Hyundai,Kona,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,91950,"38,777",21500
+San Diego,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2020,91950,"12,851",26950
+San Diego,MAZDA,CX-5,SUV,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,91950,"13,359",30250
+San Diego,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,91945,"13,179",23825
+San Diego,Hyundai,Elantra,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,92057,"39,253",17950
+San Diego,Jeep,Patriot,SUV,Used,Gray,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 26 Highway,2016,92057,"51,859",18500
+San Diego,Ford,Escape,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2017,92057,"49,411",19500
+San Diego,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2016,92057,"45,297",20950
+San Diego,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,92057,"39,785",24950
+San Diego,Audi,Q5,SUV,Used,White,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2016,92057,"49,316",26950
+San Diego,Lexus,IS 350,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2014,92057,"57,921",27950
+San Diego,Ford,Mustang,COUPE,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,92057,"18,703",27950
+San Diego,BMW,X3,SUV,Used,Black,Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,92057,"27,665",29500
+San Diego,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,20 City / 27 Highway,2017,92057,"40,138",30500
+San Diego,Honda,CR-V,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,92057,"16,539",31900
+San Diego,Chrysler,Pacifica,VANS,Used,Red,Deep Mocha/Black/Dp Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,92057,"33,852",38950
+San Diego,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,92057,"27,885",41750
+San Diego,Volvo,XC60,SUV,Used,Blue,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,92057,"26,849",46950
+San Diego,Land Rover,Range Rover Evoque,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2018,92057,"9,530",56950
+San Diego,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,92057,"15,677",57950
+San Diego,Ford,Fusion,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,92108,"19,492",21977
+San Diego,Ford,Mustang,COUPE,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2016,92109,"32,920",24925
+San Diego,Ford,Explorer,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,92109,"23,785",33802
+San Diego,Ford,Transit 250,VANS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2016,92109,"18,484",52998
+San Diego,BMW,540i,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,92020,"22,704",45995
+San Diego,Hyundai,Kona,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,92111,"44,890",20991
+San Diego,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92111,"28,541",30991
+San Diego,Acura,TLX,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2016,92111,"49,776",23203
+San Diego,MAZDA,MAZDA6,SEDAN,Used,Blue,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,92111,"26,272",23779
+San Diego,Toyota,Corolla,HATCH,Certified,Blue,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2019,92111,"20,993",24538
+San Diego,BMW,X3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,92111,"30,415",28224
+San Diego,Lexus,ES 350,SEDAN,Certified,Gray,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,92111,"22,086",37500
+San Diego,Lexus,NX 300,SUV,Certified,White,Creme,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"11,410",37500
+San Diego,Lexus,NX 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"15,655",39000
+San Diego,Lexus,NX 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,92111,"12,289",40000
+San Diego,Lexus,NX 300,SUV,Certified,White,Circuit Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"17,526",42500
+San Diego,Lexus,ES 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92111,"12,501",42500
+San Diego,Lexus,ES 350,SEDAN,Certified,Silver,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92111,"6,454",43500
+San Diego,Lexus,RX 350L,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,92111,"33,879",44500
+San Diego,Lexus,ES 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"7,431",46500
+San Diego,Lexus,RX 350,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,92111,"7,869",52000
+San Diego,Volkswagen,Atlas,SUV,Certified,Gray,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 23 Highway,2020,92110,"15,768",38900
+San Diego,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,92120,"17,913",31734
+San Diego,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,91950,"82,417",14000
+San Diego,Volkswagen,Jetta,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,91950,"18,373",19600
+San Diego,Kia,Forte,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,91950,"33,534",20500
+San Diego,Hyundai,Tucson,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,91950,"29,500",21850
+San Diego,Hyundai,Sonata,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,91950,"22,099",22000
+San Diego,GMC,Acadia,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,91950,"58,286",22750
+San Diego,Hyundai,Kona,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,91950,"10,871",23500
+San Diego,Hyundai,Genesis Coupe,COUPE,Used,Gray,Black,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2016,91950,"62,778",23500
+San Diego,Kia,Sportage,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,91950,"18,152",23900
+San Diego,Hyundai,Veloster,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2019,91950,"25,157",24900
+San Diego,Hyundai,Tucson,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,91950,"25,556",25100
+San Diego,Chevrolet,Colorado,TRUCKS,Used,Brown,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2015,91950,"66,955",25700
+San Diego,Hyundai,Santa Fe,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,91950,"32,045",30900
+San Diego,Kia,K5,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,91950,"9,980",31750
+San Diego,Hyundai,Santa Fe,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,91950,"5,621",35200
+San Diego,RAM,ProMaster,VANS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2019,91950,"39,754",45500
+San Diego,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,91950,"26,500",66500
+San Diego,Jeep,Grand Cherokee,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,91942,"19,310",38990
+San Diego,Honda,Civic,COUPE,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2019,92111,"12,439",23955
+San Diego,Honda,Accord,SEDAN,Used,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,92111,"35,308",23999
+San Diego,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,92111,"10,105",26888
+San Diego,Tesla,Model Y,SUV,Used,Off White,Black,Single-Speed,Electric,Electric,All wheel drive,,2022,91942,50,69990
+San Diego,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,91945,"30,432",20971
+San Diego,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,91945,"5,570",25988
+San Diego,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,91945,"5,805",25988
+San Diego,Honda,Civic,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,91945,"9,462",25988
+San Diego,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,91945,"15,705",27888
+San Diego,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,91945,"32,678",28498
+San Diego,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2020,91945,"11,855",28798
+San Diego,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2016,91945,"38,002",43885
+San Diego,Subaru,Ascent,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,92111,"12,960",43517
+San Diego,Volvo,XC60,SUV,Certified,Gray,Maroon Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,92111,"28,710",38991
+San Diego,Volvo,XC60,SUV,Certified,Silver,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,92111,"12,468",48991
+San Diego,Volvo,XC90,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,92111,"20,619",56791
+San Diego,Ford,Expedition Max,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2019,92109,"42,736",47998
+San Diego,Ford,Explorer,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,91942,"18,537",37650
+San Diego,Chevrolet,Colorado,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,92021,"48,390",31994
+San Diego,GMC,Canyon,TRUCKS,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,92108,"21,460",44333
+San Diego,Scion,tC,HATCH,Used,Burgundy,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2010,92057,"108,816",7950
+San Diego,Honda,Fit,HATCH,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2010,92057,"69,774",11500
+San Diego,BMW,328i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2010,92057,"54,533",13500
+San Diego,FIAT,500,HATCH,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,92057,"28,301",13950
+San Diego,MINI,Cooper,HATCH,Used,Red,Gray,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 34 Highway,2014,92057,"73,978",15900
+San Diego,Toyota,Prius,HATCH,Used,Black,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2014,92057,"90,892",15950
+San Diego,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2013,92057,"66,460",17700
+San Diego,Toyota,Prius,HATCH,Used,White,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2013,92057,"69,127",17950
+San Diego,Hyundai,Tucson,SUV,Used,Black,Beige Two-Tone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2015,92057,"59,667",18150
+San Diego,Volkswagen,Passat,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2016,92057,"57,900",18500
+San Diego,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,92057,"57,726",18500
+San Diego,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2016,92057,"52,185",18950
+San Diego,Volkswagen,GTI,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2015,92057,"57,257",19500
+San Diego,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,92057,"43,906",19950
+San Diego,Mercedes-Benz,E 350,SEDAN,Used,Brown,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2014,92057,"67,437",21950
+San Diego,Honda,Odyssey,VANS,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2015,92057,"50,454",22950
+San Diego,Subaru,Outback,SUV,Used,Blue,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,92057,"68,619",24950
+San Diego,Lexus,IS 250,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2015,92057,"68,803",25500
+San Diego,INFINITI,QX60,SUV,Used,Green,Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2016,92057,"57,879",25950
+San Diego,Volkswagen,Tiguan,SUV,Used,Black,Oak,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,92057,"14,113",26300
+San Diego,Lexus,NX 200t,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2015,92057,"64,757",27500
+San Diego,MINI,Cooper,HATCH,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,92057,"8,462",27850
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Cement,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,92057,"16,799",28250
+San Diego,Lexus,IS 200t,SEDAN,Used,White,Chateau,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2017,92057,"46,439",28300
+San Diego,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2020,92057,"11,385",28950
+San Diego,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,92057,"17,567",29400
+San Diego,Subaru,Legacy,SEDAN,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2020,92057,"13,305",30350
+San Diego,Subaru,Outback,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,92057,"29,069",30450
+San Diego,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,92057,"33,485",30450
+San Diego,INFINITI,Q60,COUPE,Used,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2017,92057,"47,046",31400
+San Diego,Land Rover,Discovery Sport,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,92057,"41,421",31500
+San Diego,GMC,Canyon,TRUCKS,Used,Silver,Jet Black/Cobalt Red,Automatic,Diesel,4-Cylinder Turbo,4 wheel drive,20 City / 28 Highway,2016,92057,"75,747",31950
+San Diego,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2020,92057,"4,771",32350
+San Diego,Toyota,4Runner,SUV,Used,White,Redwood,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 22 Highway,2014,92057,"27,384",34450
+San Diego,BMW,X5,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2017,92057,"44,352",34650
+San Diego,Lexus,IS 300,SEDAN,Used,White,Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,92057,"31,038",34950
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,92057,"26,224",36400
+San Diego,MAZDA,CX-9,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2021,92057,"6,788",36400
+San Diego,INFINITI,QX80,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 20 Highway,2015,92057,"52,790",36950
+San Diego,Land Rover,Range Rover Evoque,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2017,92057,"43,331",37350
+San Diego,Lexus,NX 300,SUV,Used,White,Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2021,92057,"5,540",39250
+San Diego,Lexus,NX 300h,SUV,Used,Black,Red,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,33 City / 30 Highway,2020,92057,"15,113",39950
+San Diego,Volkswagen,ID.4,SUV,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,92057,"7,870",40850
+San Diego,Lexus,ES 300h,SEDAN,Used,Black,Flaxen,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 44 Highway,2021,92057,"14,643",42950
+San Diego,Audi,S4,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,92057,"12,130",43950
+San Diego,Mercedes-Benz,E 400,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2018,92057,"33,652",44350
+San Diego,Tesla,Model 3,SEDAN,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,92057,"21,499",44950
+San Diego,Cadillac,Escalade,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2015,92057,"51,554",45450
+San Diego,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,92057,"29,368",45950
+San Diego,Volkswagen,Atlas,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2021,92057,"8,625",47950
+San Diego,Chevrolet,Tahoe,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,92057,"15,856",48750
+San Diego,Volvo,XC90,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,92057,"32,340",53950
+San Diego,Chevrolet,Corvette,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2019,92057,"6,400",56950
+San Diego,Porsche,718 Boxster,CONVERT,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,92057,"10,644",69950
+San Diego,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2021,91911,"2,754",23000
+San Diego,Nissan,Frontier,TRUCKS,Used,Silver,Graphite/Red,Manual,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2012,92108,"82,009",17987
+San Diego,Jeep,Compass,SUV,Used,Silver,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,92108,"26,732",22976
+San Diego,FIAT,124 Spider,CONVERT,Used,Gray,Nero (Black),Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 36 Highway,2017,92108,"7,276",24994
+San Diego,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92108,"31,673",30977
+San Diego,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92108,"19,591",34858
+San Diego,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,92108,"35,582",34896
+San Diego,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,92108,"14,632",37977
+San Diego,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,92108,"15,827",40991
+San Diego,Jeep,Wrangler,SUV,Used,White,Dark Saddle/Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,,2021,92108,"9,977",55364
+San Diego,Chevrolet,Volt,HATCH,Certified,Silver,Jet Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 42 Highway,2018,92108,"25,510",24000
+San Diego,BMW,335i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2015,92108,"34,700",29800
+San Diego,Volkswagen,Jetta,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2020,92108,"18,538",31000
+San Diego,BMW,740i,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2016,92108,"58,800",37000
+San Diego,Chevrolet,Camaro,COUPE,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2019,92108,"22,725",42000
+San Diego,Chevrolet,Colorado,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 18 Highway,2021,92108,"6,634",49000
+San Diego,RAM,3500,TRUCKS,Used,Red,Cattle Tan/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2015,92108,"65,661",60500
+San Diego,Toyota,Tacoma,TRUCKS,Used,,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,91942,"14,484",43490
+San Diego,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,92109,"13,828",21988
+San Diego,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2020,92109,"13,602",27978
+San Diego,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,92109,"13,047",27988
+San Diego,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,92109,"19,700",31888
+San Diego,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,92109,"34,475",21889
+San Diego,Ford,Fusion,SEDAN,Used,White,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,92109,"24,961",22789
+San Diego,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,92109,"24,815",22943
+San Diego,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,92109,"38,692",23678
+San Diego,Ford,Fusion,SEDAN,Used,Red,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,92109,"34,773",24988
+San Diego,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2016,92109,"25,377",29997
+San Diego,Lexus,IS 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,92109,"23,525",36988
+San Diego,Volkswagen,Atlas,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 26 Highway,2018,92020,"44,644",29995
+San Diego,BMW,M550i xDrive,SEDAN,Certified,Black,Mocha,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,92020,"36,885",55995
+San Diego,Volvo,XC90,SUV,Used,White,Soft Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2012,92111,"141,978",7991
+San Diego,Nissan,Altima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2014,92111,"85,186",11991
+San Diego,Dodge,Challenger,COUPE,Used,Orange,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,92111,"3,300",34991
+San Diego,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,92111,"32,215",35991
+San Diego,INFINITI,QX30,SUV,Used,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2017,92111,"49,019",23888
+San Diego,Hyundai,Tucson,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2017,92111,"38,561",23988
+San Diego,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,92111,"14,371",24488
+San Diego,Toyota,Prius Prime,HATCH,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,55 City / 53 Highway,2017,92111,"40,198",25488
+San Diego,Mercedes-Benz,GLE 350,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2016,92111,"59,079",32588
+San Diego,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,92111,"33,778",33588
+San Diego,Mercedes-Benz,GLC 300,SUV,Certified,White,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,92111,"38,862",33988
+San Diego,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,92111,"23,835",38988
+San Diego,Mercedes-Benz,GLB 250,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2021,92111,"9,853",41388
+San Diego,Lexus,RX 350,SUV,Used,Gray,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,92111,"14,558",42588
+San Diego,Mercedes-Benz,GLC 300,SUV,Used,White,Mamga Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,92111,"15,593",42988
+San Diego,Volvo,XC60,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,92111,"15,384",43988
+San Diego,Mercedes-Benz,C 300,CONVERT,Certified,Black,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,92111,"9,069",49388
+San Diego,Mercedes-Benz,GLS 450,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2018,92111,"32,306",51588
+San Diego,Mercedes-Benz,GLE 350,SUV,Certified,,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,92111,"16,915",57588
+San Diego,Mercedes-Benz,E 450,COUPE,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2020,92111,"19,299",61988
+San Diego,Mercedes-Benz,GLE 350,SUV,Used,Blue,Macchiato/Magma Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2020,92111,"19,527",62988
+San Diego,Mercedes-Benz,E 450,CONVERT,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,92111,"5,496",73988
+San Diego,Volkswagen,Tiguan,SUV,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,92111,"37,631",20390
+San Diego,Jeep,Compass,SUV,Used,Black,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,92111,"39,881",20408
+San Diego,Hyundai,Kona,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,92111,"28,351",21526
+San Diego,Honda,Civic,SEDAN,Used,Black,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,92111,"19,321",25991
+San Diego,Honda,Civic,HATCH,Used,,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2020,92111,"11,444",27323
+San Diego,Mercedes-Benz,ML 350,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2015,92111,"28,687",28136
+San Diego,Ford,Flex,SUV,Used,,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,92111,"15,805",28407
+San Diego,Honda,Accord,SEDAN,Used,Black,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,92111,"26,792",28766
+San Diego,BMW,X2,SUV,Used,Blue,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,92111,"34,774",29639
+San Diego,BMW,X2,SUV,Used,White,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,92111,"27,403",29656
+San Diego,Toyota,RAV4,SUV,Used,Gray,Other,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,92111,"27,476",33507
+San Diego,Subaru,Crosstrek,SUV,Used,Gray,Gray W/Yellow Stitching,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,92111,"7,847",34410
+San Diego,Acura,MDX,SUV,Used,Black,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,92111,"38,019",34590
+San Diego,Toyota,RAV4,SUV,Certified,Black,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,92111,"5,246",34692
+San Diego,Honda,CR-V,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,92111,"6,091",35145
+San Diego,Porsche,Macan,SUV,Used,Silver,Other,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2016,92111,"51,166",36831
+San Diego,Lexus,ES 350,SEDAN,Used,Silver,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,92111,"23,416",37984
+San Diego,Toyota,Tacoma,TRUCKS,Certified,Gray,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,92111,"22,638",38785
+San Diego,Lexus,NX 300,SUV,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"23,848",39252
+San Diego,Mercedes-Benz,GLE 350,SUV,Used,Silver,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,92111,"33,826",39590
+San Diego,Chevrolet,Camaro,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2019,92111,"14,721",40748
+San Diego,Mercedes-Benz,GLC 350e,SUV,Used,Gray,Other,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,92111,"23,785",40943
+San Diego,Lexus,IS 200t,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2016,92111,"58,395",28500
+San Diego,Lexus,IS 200t,SEDAN,Certified,White,Chateau,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2017,92111,"35,382",33500
+San Diego,Lexus,NX 300,SUV,Certified,Silver,Circuit Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"28,381",37000
+San Diego,Lexus,IS 350,SEDAN,Certified,Silver,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2020,92111,"14,023",43000
+San Diego,Lexus,ES 350,SEDAN,Used,White,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,92111,"14,608",44000
+San Diego,Lexus,NX 300,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,92111,"1,346",46000
+San Diego,Lexus,IS 300,SEDAN,Certified,White,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2020,92111,"9,134",47500
+San Diego,Lexus,ES 350,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92111,"13,389",49000
+San Diego,Lexus,IS 350,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,92111,"10,291",52000
+San Diego,Lexus,NX 300h,SUV,Certified,Green,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,33 City / 30 Highway,2021,92111,"9,189",52000
+San Diego,Toyota,Prius,HATCH,Used,Black,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2015,91950,"65,585",18995
+San Diego,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,91950,"25,288",22995
+San Diego,Nissan,Altima,SEDAN,Certified,Blue,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 35 Highway,2021,91950,"8,563",28595
+San Diego,Toyota,Corolla,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2016,91950,"40,727",17812
+San Diego,Volkswagen,Jetta,SEDAN,Certified,Orange,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,91950,"29,463",18966
+San Diego,Volkswagen,Jetta,SEDAN,Certified,Orange,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,91950,"24,137",19316
+San Diego,Chevrolet,Cruze,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,91950,"2,565",20602
+San Diego,Volkswagen,Jetta,SEDAN,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,91950,"26,600",21694
+San Diego,Ford,Fusion,SEDAN,Used,Blue,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,91950,"26,106",22956
+San Diego,Volkswagen,Tiguan,SUV,Certified,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,91950,"22,688",26675
+San Diego,Scion,tC,HATCH,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,92120,"35,192",18999
+San Diego,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,92120,"49,124",20999
+San Diego,Mercedes-Benz,C 300,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,92120,"53,769",23999
+San Diego,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,92120,"20,705",24999
+San Diego,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,92120,"15,643",29630
+San Diego,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,92120,"8,155",29634
+San Diego,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,92120,"26,639",30999
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Black/Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,92120,"21,984",35431
+San Diego,Volkswagen,Atlas,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,92120,"14,097",36987
+San Diego,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,92120,"25,224",37534
+San Diego,Chevrolet,Equinox,SUV,Certified,Black,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,91942,"19,162",24650
+San Diego,Mercedes-Benz,ML 350,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2014,92020,"69,357",22998
+San Diego,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,91945,"30,752",28588
+San Diego,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,91945,"14,570",36588
+San Diego,Ford,Ranger,TRUCKS,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,91945,"4,066",39588
+San Diego,Volkswagen,GTI,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2008,91945,"128,681",6999
+San Diego,Hyundai,Santa Fe,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 27 Highway,2015,91950,"74,015",16950
+San Diego,Hyundai,Elantra,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,91950,"36,791",19900
+San Diego,Hyundai,Sonata,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,91950,"38,895",24300
+San Diego,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,91950,"31,034",24850
+San Diego,Hyundai,Santa Fe,SUV,Used,Gray,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,91950,"27,100",27750
+San Diego,Dodge,Challenger,COUPE,Used,Silver,Ruby Red/Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 30 Highway,2017,91950,"53,098",28000
+San Diego,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,91950,"12,543",31450
+San Diego,Chevrolet,Malibu,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,91942,"23,949",21990
+San Diego,Dodge,Durango,SUV,Used,White,,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 22 Highway,2015,91942,"59,734",30990
+San Diego,Jeep,Cherokee,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,91942,"20,845",30990
+San Diego,Dodge,Challenger,COUPE,Certified,Silver,450,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,91942,"28,616",32990
+San Diego,RAM,1500,TRUCKS,Certified,Black,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2016,91942,"44,724",36990
+San Diego,Chrysler,Pacifica,VANS,Certified,Silver,Black/Black/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,91942,"11,062",37990
+San Diego,RAM,1500,TRUCKS,Certified,Blue,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2021,91942,"1,555",41990
+San Diego,RAM,1500,TRUCKS,Certified,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,91942,"24,775",42990
+San Diego,Chevrolet,Traverse,SUV,Used,Red,,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,91942,"28,480",44990
+San Diego,Ford,F150,TRUCKS,Used,Gray,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,91942,"2,496",46990
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Red,,Automatic,Gasoline,6-Cylinder,4 wheel drive,14 City / 18 Highway,2021,91942,"4,966",49990
+San Diego,Jeep,Gladiator,TRUCKS,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,91942,"7,965",57990
+San Diego,Hyundai,Sonata,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,92111,"27,129",21000
+San Diego,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,92111,"18,989",26500
+San Diego,Volkswagen,Tiguan,SUV,Certified,Orange,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,92111,"25,139",28000
+San Diego,Volkswagen,Atlas,SUV,Used,Blue,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,92111,"20,520",34500
+San Diego,Mercedes-Benz,GLA 250,SUV,Used,Blue,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,92111,"34,769",29999
+San Diego,Honda,Civic,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,92111,"25,404",21999
+San Diego,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,92111,"23,500",22222
+San Diego,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,92111,"13,151",23500
+San Diego,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,92111,"31,956",23999
+San Diego,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,92111,"17,665",24999
+San Diego,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,92111,"36,331",25555
+San Diego,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,92111,"13,801",25999
+San Diego,Honda,HR-V,SUV,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,92111,"7,109",26500
+San Diego,Honda,CR-V,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,92111,"33,710",26999
+San Diego,Honda,Accord,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,92111,"11,238",26999
+San Diego,Alfa Romeo,Giulia,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2019,92111,"13,740",29999
+San Diego,Honda,Pilot,SUV,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,92111,"17,086",33999
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,92111,"5,903",34999
+San Diego,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,92111,"40,196",34999
+San Diego,Honda,Odyssey,VANS,Used,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,92111,"29,792",43500
+San Diego,Ford,F150,TRUCKS,Used,White,,Automatic,Gasoline,8-Cylinder,4 wheel drive,11 City / 16 Highway,2014,92111,"70,772",44999
+San Diego,Hyundai,Santa Fe,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2018,92111,"22,121",27488
+San Diego,Hyundai,Kona,SUV,Certified,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2020,92111,"16,903",28411
+San Diego,Hyundai,Veloster,HATCH,Certified,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2020,92111,"18,906",30782
+San Diego,Hyundai,Santa Fe,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,92111,"3,809",36997
+San Diego,Subaru,Impreza,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2018,92111,"32,328",23753
+San Diego,Subaru,Crosstrek,SUV,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,92111,"8,812",30777
+San Diego,Subaru,Outback,SUV,Certified,Blue,Titanium Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,92111,"11,909",37480
+San Diego,Acura,TLX,SEDAN,Used,Gray,Graystone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2016,91945,"56,835",23979
+San Diego,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,91945,"13,832",24809
+San Diego,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,91945,"34,710",24999
+San Diego,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,91945,"18,633",29998
+San Diego,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,91945,"14,932",30988
+San Diego,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,91945,"7,728",31588
+San Diego,Honda,Passport,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,91945,"17,399",34588
+San Diego,Kia,Forte,SEDAN,Used,Black,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,92111,"5,684",21112
+San Diego,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,92111,"26,799",24840
+San Diego,Acura,TLX,SEDAN,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2020,92111,"8,667",32372
+San Diego,Hyundai,Sonata,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2018,92111,"38,631",17995
+San Diego,Kia,Forte,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2018,92111,"27,274",18994
+San Diego,Audi,A5,COUPE,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2014,92111,"67,008",19794
+San Diego,Kia,Soul,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 35 Highway,2021,92111,"2,696",22881
+San Diego,Kia,Sorento,SUV,Certified,Gray,Satin Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,92111,"24,184",35535
+San Diego,Lexus,GS 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2019,92111,"13,486",43955
+San Diego,Toyota,Prius Prime,HATCH,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2020,92111,"5,322",31992
+San Diego,Volvo,XC90,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2017,92111,"47,955",39991
+San Diego,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,92111,"30,930",33995
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,91942,"54,340",39560
+San Diego,Buick,Encore,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,92108,"25,615",20995
+San Diego,Buick,Encore,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2020,92108,"14,638",23750
+San Diego,MAZDA,CX-5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 31 Highway,2017,92108,"45,837",23975
+San Diego,Buick,Encore,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2020,92108,"14,176",24500
+San Diego,Buick,Encore GX,SUV,Certified,Black,Ebony With Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,92108,"14,229",26545
+San Diego,GMC,Terrain,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,92108,"29,620",31888
+San Diego,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,92108,"49,929",33975
+San Diego,Cadillac,XT5,SUV,Certified,White,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,92108,"31,696",34750
+San Diego,Buick,Envision,SUV,Certified,Black,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,92108,"16,781",35900
+San Diego,GMC,Acadia,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2020,92108,"9,502",36555
+San Diego,GMC,Canyon,TRUCKS,Certified,White,Cocoa/Dune,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2017,92108,"22,579",36750
+San Diego,Toyota,Tacoma,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,92108,"2,782",38250
+San Diego,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,92108,"22,901",38388
+San Diego,Honda,Ridgeline,TRUCKS,Used,Silver,Black/Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,92108,"13,073",38545
+San Diego,GMC,Acadia,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,92108,"29,457",40750
+San Diego,Cadillac,CTS,SEDAN,Certified,Black,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,92108,"14,132",41985
+San Diego,Cadillac,XT5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,92108,"10,794",51000
+San Diego,Cadillac,XT6,SUV,Certified,Black,Dark Auburn,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2021,92108,"9,532",60333
+San Diego,BMW,M4,CONVERT,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2018,92108,"28,717",61500
+San Diego,GMC,Yukon,SUV,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,92108,"28,669",65777
+San Diego,Cadillac,CTS,SEDAN,Certified,White,Jet Black W/Jet Black Accents,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,14 City / 21 Highway,2018,92108,"35,598",75975
+San Diego,Cadillac,CTS,SEDAN,Certified,Black,Jet Black W/Jet Black Accents,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,14 City / 21 Highway,2018,92108,"37,934",79883
+San Diego,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2013,92057,"82,316",15600
+San Diego,Volkswagen,Passat,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2016,92057,"79,152",15950
+San Diego,Volkswagen,Jetta,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2017,92057,"52,271",16100
+San Diego,Honda,Pilot,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2012,92057,"109,218",16500
+San Diego,Lexus,RX 350,SUV,Used,Blue,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2010,92057,"81,295",17250
+San Diego,Kia,Soul,HATCH,Used,Silver,Gray 2-Tone,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,92057,"31,796",17300
+San Diego,Hyundai,Santa Fe,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,92057,"64,725",19200
+San Diego,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,92057,"58,584",19500
+San Diego,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,92057,"44,414",19900
+San Diego,Chevrolet,Camaro,COUPE,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2015,92057,"70,735",20100
+San Diego,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,92057,"84,602",20250
+San Diego,GMC,Acadia,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,15 City / 22 Highway,2016,92057,"77,911",21500
+San Diego,Jeep,Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,92057,"55,445",21600
+San Diego,Subaru,BRZ,COUPE,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2015,92057,"63,134",22400
+San Diego,Toyota,RAV4,SUV,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2017,92057,"56,615",22500
+San Diego,Subaru,Crosstrek,SUV,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2014,92057,"39,623",22800
+San Diego,Toyota,Tacoma,TRUCKS,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 23 Highway,2016,92057,"65,375",24500
+San Diego,Toyota,C-HR,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,92057,"7,276",24800
+San Diego,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,92057,"70,627",24950
+San Diego,BMW,X3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,92057,"53,079",25400
+San Diego,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92057,"21,268",25450
+San Diego,Lexus,NX 200t,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2016,92057,"70,059",26450
+San Diego,INFINITI,QX60,SUV,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,92057,"42,582",27350
+San Diego,Toyota,Sienna,VANS,Used,Blue,Bisque,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2016,92057,"69,028",27750
+San Diego,Chevrolet,Colorado,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2017,92057,"61,316",28400
+San Diego,Honda,Ridgeline,TRUCKS,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,92057,"50,769",28950
+San Diego,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2014,92057,"104,049",29350
+San Diego,Ford,Expedition,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2016,92057,"67,390",29400
+San Diego,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2015,92057,"83,955",29500
+San Diego,Subaru,Forester,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,92057,"36,062",29950
+San Diego,Alfa Romeo,Stelvio,SUV,Used,Black,Chocolate/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2019,92057,"34,156",30400
+San Diego,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,92057,"42,831",30450
+San Diego,Ford,F150,TRUCKS,Used,,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,92057,"40,875",30950
+San Diego,Toyota,Tacoma,TRUCKS,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,92057,"54,924",32450
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,92057,"53,185",35350
+San Diego,Toyota,Highlander,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,92057,"53,692",36350
+San Diego,Honda,Odyssey,VANS,Used,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,92057,"41,970",36350
+San Diego,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2016,92057,"55,461",37950
+San Diego,Lexus,ES 300h,SEDAN,Used,Tan,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 45 Highway,2019,92057,"30,972",38750
+San Diego,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,92057,"53,208",39950
+San Diego,Toyota,RAV4,SUV,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,92057,"42,336",39950
+San Diego,Land Rover,Range Rover Sport,SUV,Used,White,Cirrus,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2016,92057,"61,031",40950
+San Diego,Tesla,Model 3,SEDAN,Used,Silver,White,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,92057,"32,410",41950
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,92057,"14,234",42350
+San Diego,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,92057,"36,756",43300
+San Diego,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,92057,"32,148",43300
+San Diego,Audi,SQ5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2018,92057,"42,841",43950
+San Diego,Audi,Q7,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,92057,"42,438",45950
+San Diego,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,92057,"23,712",50350
+San Diego,Maserati,Levante,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,92057,"15,481",54950
+San Diego,Ford,Fusion,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,92101,"27,006",21253
+San Diego,Honda,Civic,SEDAN,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,91911,"17,107",24580
+San Diego,Honda,Civic,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,91911,"21,858",24986
+San Diego,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,91911,"27,761",24994
+San Diego,Ford,F150,TRUCKS,Used,Red,Pale Adobe,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2013,91911,"62,781",25000
+San Diego,Kia,Seltos,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 34 Highway,2021,91911,"5,367",26500
+San Diego,Subaru,BRZ,COUPE,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,24 City / 33 Highway,2017,91911,"34,875",26988
+San Diego,Honda,CR-V,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,91911,"28,245",28400
+San Diego,Honda,Accord,SEDAN,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,91911,"15,821",28500
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,91911,"17,536",29704
+San Diego,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black W Upholstery,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,91911,"36,992",30000
+San Diego,Dodge,Charger,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2017,91911,"38,615",31000
+San Diego,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,91911,"28,296",31906
+San Diego,GMC,Canyon,TRUCKS,Used,Silver,Cocoa/Dune,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2018,91911,"27,025",32500
+San Diego,Honda,Passport,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,91911,"20,115",32667
+San Diego,Acura,MDX,SUV,Used,Gray,Graystone,Automatic,Gasoline,6-Cylinder,All wheel drive,,2017,91911,"39,938",33334
+San Diego,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,91911,"42,290",33378
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,91911,"24,595",35890
+San Diego,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,91911,"36,072",36488
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,91911,"30,868",36947
+San Diego,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2020,91911,"17,451",36989
+San Diego,Ford,Ranger,TRUCKS,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,91911,"13,902",40011
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,91911,"22,912",40511
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,91911,"20,752",45290
+San Diego,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,91911,"17,022",52999
+San Diego,Ford,F350,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,91911,"10,043",63432
+San Diego,Lexus,ES 330,SEDAN,Used,Gold,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2005,92108,"123,745",7486
+San Diego,Toyota,Yaris,SEDAN,Used,Gray,Mid Blue Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 35 Highway,2017,92108,"67,154",14986
+San Diego,Kia,Optima,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,35 City / 38 Highway,2016,92108,"88,116",15520
+San Diego,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2017,92108,"57,940",16837
+San Diego,Mercedes-Benz,GLK 350,SUV,Used,White,Ash/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2014,92108,"80,817",17658
+San Diego,MAZDA,MAZDA3,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,92108,"58,361",19997
+San Diego,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,92108,"30,958",23299
+San Diego,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,92108,"33,696",26397
+San Diego,Acura,TLX,SEDAN,Used,White,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2018,92108,"53,121",27793
+San Diego,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,92108,"28,102",27900
+San Diego,Land Rover,Discovery Sport,SUV,Used,Blue,Cirrus/Lunar,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,92108,"26,609",29577
+San Diego,Ford,Edge,SUV,Used,Red,Ceramic,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,92108,"32,586",29657
+San Diego,Toyota,Prius,HATCH,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2018,92108,"23,445",29777
+San Diego,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,92108,"24,423",29826
+San Diego,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,92108,"13,988",29865
+San Diego,Kia,Stinger,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2019,92108,"23,579",31977
+San Diego,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92108,"27,515",32998
+San Diego,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,92108,"20,753",33958
+San Diego,Honda,Odyssey,VANS,Used,Gray,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,92108,"55,658",35988
+San Diego,Jeep,Wrangler,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,92108,"46,259",37489
+San Diego,Jeep,Wrangler,SUV,Certified,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2018,92108,"32,389",38698
+San Diego,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,92108,"34,250",38777
+San Diego,Chrysler,Pacifica,VANS,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,92108,"18,316",39977
+San Diego,Toyota,Corolla,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2011,92108,"108,203",10500
+San Diego,Chevrolet,Spark,HATCH,Certified,Gold,Jet Black/White Trim,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2017,92108,"32,517",15500
+San Diego,Lexus,RX 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2013,92108,"73,620",23000
+San Diego,Honda,Odyssey,VANS,Used,Brown,Truffle,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2015,92108,"58,900",26000
+San Diego,Kia,Telluride,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2021,92108,"10,816",42000
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Certified,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,92108,"10,974",42000
+San Diego,Mercedes-Benz,GLS 450,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,92108,"41,116",61000
+San Diego,Buick,Encore,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,91950,"14,928",22971
+San Diego,GMC,Canyon,TRUCKS,Used,Brown,Cocoa/Dune,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2016,91950,"27,155",35711
+San Diego,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,91950,"33,612",37578
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,91950,"40,142",43971
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2020,91950,"18,234",46971
+San Diego,Lincoln,MKC,SUV,Certified,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,91942,"14,060",35225
+San Diego,Honda,HR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,92020,"22,355",25988
+San Diego,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,92020,"23,390",29888
+San Diego,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,92020,"15,396",34688
+San Diego,Honda,Passport,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,92020,"28,986",35488
+San Diego,Scion,iM,HATCH,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,92109,"48,140",17971
+San Diego,Toyota,Prius,HATCH,Used,Green,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2015,92109,"84,886",18604
+San Diego,Toyota,Corolla,SEDAN,Certified,Turquoise,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,92109,"22,705",21988
+San Diego,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,92109,"33,156",31781
+San Diego,Toyota,Tundra,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2015,92109,"53,511",32794
+San Diego,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2020,92109,"26,239",34988
+San Diego,Toyota,RAV4,SUV,Certified,,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,92109,"22,708",34996
+San Diego,Toyota,Supra,COUPE,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,92109,"2,648",53895
+San Diego,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,92109,"58,646",19997
+San Diego,Ford,EcoSport,SUV,Used,Black,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,92109,"23,563",20728
+San Diego,Hyundai,Sonata,SEDAN,Used,Orange,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 31 Highway,2015,92109,"46,693",20953
+San Diego,Mitsubishi,Eclipse Cross,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,25 City / 26 Highway,2019,92109,"23,603",23709
+San Diego,Ford,EcoSport,SUV,Used,Off White,Medium Light Stone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2021,92109,"5,038",23995
+San Diego,Ford,Escape,SUV,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,92109,"20,438",24778
+San Diego,Honda,Clarity,SEDAN,Used,Gray,Gray,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2019,92109,"22,222",29040
+San Diego,Toyota,Highlander,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,92109,"56,090",31969
+San Diego,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,92109,"12,629",35940
+San Diego,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,92109,"18,944",40555
+San Diego,Ford,Mustang,COUPE,Used,Gray,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,92109,"8,259",41406
+San Diego,BMW,X3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2021,92109,"7,950",45636
+San Diego,Tesla,Model 3,SEDAN,Used,Gray,White,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,92109,"10,526",48289
+San Diego,Ford,Mustang,COUPE,Used,Red,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2017,92020,"59,321",21595
+San Diego,MINI,Cooper Countryman,SUV,Used,Black,Carbon Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,92020,"35,640",27995
+San Diego,BMW,330i,SEDAN,Certified,Black,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"37,124",27995
+San Diego,BMW,X2,SUV,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,92020,"22,917",28995
+San Diego,BMW,X1,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,92020,"38,432",28995
+San Diego,BMW,330i,SEDAN,Certified,Gray,Black Sensatec/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"38,733",29995
+San Diego,BMW,330i,SEDAN,Certified,Black,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"27,083",30995
+San Diego,BMW,330i,SEDAN,Certified,Black,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"27,046",30995
+San Diego,BMW,330i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"26,405",30995
+San Diego,INFINITI,Q70,SEDAN,Used,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,92020,"34,310",33995
+San Diego,BMW,430i,COUPE,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,92020,"28,778",35495
+San Diego,BMW,430i,COUPE,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,92020,"22,848",36595
+San Diego,BMW,228i xDrive Gran Coupe,SEDAN,Used,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,92020,"8,302",36995
+San Diego,BMW,530i,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,92020,"26,382",36995
+San Diego,BMW,530e,SEDAN,Certified,Gray,Canberra Beige/Black Sensatec,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,92020,"30,232",37595
+San Diego,BMW,228i xDrive Gran Coupe,SEDAN,Certified,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,92020,"11,038",37995
+San Diego,BMW,330i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2020,92020,"20,964",37995
+San Diego,BMW,M240i,CONVERT,Certified,White,Black Sensatec,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,92020,"35,170",39595
+San Diego,Toyota,Tacoma,TRUCKS,Used,Silver,Cement,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,92020,"11,704",40995
+San Diego,BMW,340i,SEDAN,Certified,Black,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,92020,"32,754",41995
+San Diego,BMW,440i xDrive,COUPE,Certified,White,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2019,92020,"20,370",41995
+San Diego,BMW,X3,SUV,Used,Black,Cognac W/Contrast Stitch,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2020,92020,"17,789",41995
+San Diego,BMW,X3,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,92020,"15,939",48995
+San Diego,BMW,740i,SEDAN,Certified,White,Black Nappa Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,92020,"29,666",57995
+San Diego,Mercedes-Benz,GLC 63 AMG,SUV,Used,Black,Black W/Grey Accents,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,92020,"23,244",70995
+San Diego,Dodge,Charger,SEDAN,Used,Blue,Dark Slate Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2008,92111,"118,030",14991
+San Diego,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,92111,"29,844",18591
+San Diego,Mitsubishi,Outlander,SUV,Used,Off White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2017,92111,"46,334",19891
+San Diego,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2015,92111,"89,068",23991
+San Diego,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,92111,"24,547",24991
+San Diego,Chevrolet,Tahoe,SUV,Used,Black,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 21 Highway,2011,92111,"36,334",29591
+San Diego,Jeep,Compass,SUV,Used,Orange,Ruby Red/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,92111,"18,766",29891
+San Diego,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,92111,"20,730",30891
+San Diego,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,92111,"18,579",33991
+San Diego,Dodge,Durango,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,92111,"26,634",35991
+San Diego,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,92111,"28,887",36591
+San Diego,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,92111,"21,509",37891
+San Diego,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92111,"28,895",39991
+San Diego,Subaru,Ascent,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,92111,"8,147",42991
+San Diego,RAM,1500,TRUCKS,Used,,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,92111,"30,578",44991
+San Diego,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,92111,"16,916",47991
+San Diego,Nissan,Titan,TRUCKS,Used,Beige,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,92111,"1,526",52991
+San Diego,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2016,92111,"64,948",17388
+San Diego,BMW,320i,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2016,92111,"62,325",18388
+San Diego,INFINITI,QX50,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2015,92111,"69,086",19988
+San Diego,Toyota,Corolla,HATCH,Used,,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2020,92111,"10,438",26588
+San Diego,Lexus,RX 350,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,92111,"46,444",28588
+San Diego,Honda,CR-V,SUV,Used,Off White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2019,92111,"13,769",29988
+San Diego,Mercedes-Benz,GLC 300,SUV,Certified,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,92111,"44,546",33988
+San Diego,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,92111,"42,230",33988
+San Diego,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,92111,"36,238",34888
+San Diego,Mercedes-Benz,A 220,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2019,92111,"22,690",34988
+San Diego,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,92111,"34,957",35988
+San Diego,Mercedes-Benz,C 300,SEDAN,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,92111,"26,790",36288
+San Diego,Mercedes-Benz,GLC 300,SUV,Certified,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,92111,"26,882",37888
+San Diego,Mercedes-Benz,GLC 300,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,92111,"33,309",37988
+San Diego,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,92111,"10,327",41888
+San Diego,Mercedes-Benz,GLC 350e,SUV,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,92111,"29,972",41988
+San Diego,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,92111,"9,753",43388
+San Diego,Mercedes-Benz,E 300,SEDAN,Certified,White,Macchiato Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,92111,"33,329",43988
+San Diego,Mercedes-Benz,GLB 250,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2020,92111,"12,499",44988
+San Diego,Mercedes-Benz,GLC 43 AMG,SUV,Certified,Black,Designo Black/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,92111,"47,197",45588
+San Diego,Mercedes-Benz,GLC 350e,SUV,Certified,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,92111,"23,723",45988
+San Diego,Mercedes-Benz,E 450,SEDAN,Certified,Blue,Macchiato Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2019,92111,"30,947",50588
+San Diego,Mercedes-Benz,E 350,SEDAN,Certified,,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2020,92111,"18,513",50988
+San Diego,Mercedes-Benz,GLB 250,SUV,Certified,,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,92111,"4,558",52588
+San Diego,Mercedes-Benz,E 300,SEDAN,Certified,Red,Designo Mahiato Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,92111,"10,215",53388
+San Diego,Mercedes-Benz,E 43 AMG,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2017,92111,"27,239",55988
+San Diego,Mercedes-Benz,SLC 300,CONVERT,Certified,White,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2019,92111,"6,858",58488
+San Diego,Mercedes-Benz,GLE 350,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,92111,"15,277",60588
+San Diego,Mercedes-Benz,E 350,SEDAN,Certified,Blue,Nut Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2021,92111,"10,887",61888
+San Diego,Mercedes-Benz,C 43 AMG,CONVERT,Certified,Blue,Amg Saddle Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,92111,"14,066",61988
+San Diego,Mercedes-Benz,CLS 450,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2019,92111,"39,135",62988
+San Diego,Mercedes-Benz,CLS 450,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,92111,"15,042",67988
+San Diego,Mercedes-Benz,S 560,SEDAN,Used,Gray,Nut Brown/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2019,92111,"25,229",79988
+San Diego,Mercedes-Benz,GLS 450,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2021,92111,"13,841",86988
+San Diego,Land Rover,Range Rover,SUV,Used,Silver,Other,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2019,92111,"44,575",94999
+San Diego,Toyota,Yaris,SEDAN,Certified,Red,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2017,92111,"48,887",14454
+San Diego,Toyota,Avalon,SEDAN,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2013,92111,"70,457",16963
+San Diego,Jeep,Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,92111,"52,449",18490
+San Diego,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2017,92111,"68,488",20077
+San Diego,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2019,92111,"16,158",21502
+San Diego,MINI,Cooper Countryman,SUV,Used,White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,,2015,92111,"51,299",21979
+San Diego,BMW,428i,CONVERT,Used,Black,Oyster/Black/Dark Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2014,92111,"66,039",23352
+San Diego,Honda,Accord,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,92111,"36,227",24268
+San Diego,Nissan,370Z,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,92111,"67,715",24803
+San Diego,Honda,CR-V,SUV,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,92111,"47,114",25497
+San Diego,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,92111,"38,549",26975
+San Diego,Mercedes-Benz,C 300,SEDAN,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,92111,"46,162",27392
+San Diego,Acura,ILX,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2019,92111,"35,808",27845
+San Diego,Subaru,Forester,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,92111,"34,199",28371
+San Diego,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2019,92111,"8,402",28593
+San Diego,Honda,Civic,HATCH,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,92111,"9,171",30354
+San Diego,BMW,330e,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,92111,"29,551",30997
+San Diego,Honda,Pilot,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,92111,"48,891",32136
+San Diego,BMW,430i Gran Coupe,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,92111,"35,579",32563
+San Diego,Honda,CR-V,SUV,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,92111,"13,927",34996
+San Diego,Toyota,RAV4,SUV,Certified,White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,92111,"37,556",35493
+San Diego,Mercedes-Benz,GLC 300,SUV,Used,Black,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,92111,"27,810",35923
+San Diego,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2021,92111,"7,356",35997
+San Diego,Toyota,Highlander,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,92111,"32,477",36141
+San Diego,Mercedes-Benz,GLC 300,SUV,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,92111,"21,018",36760
+San Diego,Toyota,RAV4,SUV,Used,Red,Other,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,92111,"27,860",37791
+San Diego,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,92111,"10,313",38287
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,92111,"30,696",39955
+San Diego,Volkswagen,Atlas,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,92111,"23,473",40914
+San Diego,Lexus,RX 350,SUV,Used,Silver,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,92111,"22,026",40974
+San Diego,Lexus,ES 350,SEDAN,Used,Off White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"5,800",44124
+San Diego,Lexus,RX 350,SUV,Used,Gray,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,92111,"13,652",45569
+San Diego,Chevrolet,Colorado,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,4-Cylinder Turbo,4 wheel drive,18 City / 22 Highway,2020,92111,"27,937",45959
+San Diego,Chevrolet,Traverse,SUV,Used,White,Jet Black/Loft Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,92111,"23,691",49700
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,92111,"9,562",54192
+San Diego,Lexus,RX 350,SUV,Used,Silver,Light Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,92111,"65,048",28000
+San Diego,Lexus,IS 200t,SEDAN,Certified,Black,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2016,92111,"45,177",30000
+San Diego,Lexus,ES 350,SEDAN,Used,Silver,Light Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2015,92111,"20,057",30000
+San Diego,Lexus,ES 350,SEDAN,Certified,Beige,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,92111,"45,905",31500
+San Diego,Lexus,ES 350,SEDAN,Certified,White,Stratus Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,92111,"45,267",32000
+San Diego,Lexus,NX 200t,SUV,Certified,White,Creme,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2017,92111,"37,997",32000
+San Diego,Lexus,NX 200t,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2017,92111,"44,119",36500
+San Diego,Lexus,NX 300,SUV,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2018,92111,"31,185",36500
+San Diego,Lexus,NX 300,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"29,857",37500
+San Diego,Lexus,IS 300,SEDAN,Certified,Black,Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,92111,"25,337",37500
+San Diego,Lexus,IS 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,92111,"27,807",38000
+San Diego,Lexus,NX 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,92111,"20,697",38500
+San Diego,Lexus,ES 350,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,92111,"21,036",40000
+San Diego,Lexus,UX 250h,SUV,Certified,Orange,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2020,92111,"10,701",40000
+San Diego,Lexus,ES 350,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,92111,"29,742",42000
+San Diego,Lexus,NX 300,SUV,Certified,Gray,Circuit Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,92111,"25,781",42000
+San Diego,Lexus,ES 300h,SEDAN,Certified,Beige,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 45 Highway,2019,92111,"13,355",43000
+San Diego,Lexus,ES 350,SEDAN,Certified,Beige,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92111,"17,047",43000
+San Diego,Lexus,ES 300h,SEDAN,Certified,White,Chateau,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 44 Highway,2020,92111,"10,693",44000
+San Diego,Lexus,RX 350,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,92111,"16,348",44000
+San Diego,Lexus,ES 300h,SEDAN,Certified,Green,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 45 Highway,2019,92111,"13,170",45000
+San Diego,Lexus,RX 350L,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,92111,"29,188",45000
+San Diego,Lexus,ES 350,SEDAN,Certified,Red,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"1,548",46000
+San Diego,Lexus,RX 350,SUV,Certified,Black,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,92111,"17,452",46000
+San Diego,Lexus,GX 460,SUV,Certified,Burgundy,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2017,92111,"39,138",46000
+San Diego,Lexus,IS 350,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,92111,"7,306",50000
+San Diego,Lexus,ES 350,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"7,452",50000
+San Diego,Lexus,NX 300h,SUV,Certified,Blue,Black/Blue,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,33 City / 30 Highway,2021,92111,"7,150",52000
+San Diego,Lexus,ES 350,SEDAN,Certified,Blue,White,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"6,159",53000
+San Diego,Lexus,RX 350,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,92111,"11,051",53000
+San Diego,Lexus,RX 350,SUV,Certified,Black,Birch,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,92111,"5,268",53500
+San Diego,Lexus,RC F,COUPE,Used,Red,F-Sport Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2015,92111,"36,529",53500
+San Diego,Lexus,ES 350,SEDAN,Certified,Blue,White,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,92111,"1,835",54000
+San Diego,Lexus,RX 350,SUV,Certified,Silver,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,92111,"2,319",54000
+San Diego,Lexus,RX 350L,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,92111,"6,282",54000
+San Diego,Lexus,IS 350,SEDAN,Certified,White,Flare Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,92111,"2,109",55000
+San Diego,Lexus,ES 300h,SEDAN,Certified,Green,Flaxen,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 44 Highway,2021,92111,"4,022",57500
+San Diego,Lexus,GX 460,SUV,Certified,Gray,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,92111,"6,290",63000
+San Diego,Lexus,GX 460,SUV,Certified,White,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,92111,"5,767",63000
+San Diego,Lexus,GX 460,SUV,Used,White,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,92111,"7,666",67500
+San Diego,Lexus,GX 460,SUV,Certified,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,92111,"6,487",72000
+San Diego,Lexus,LX 570,SUV,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 18 Highway,2016,92111,"24,730",72500
+San Diego,Lexus,LX 570,SUV,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 18 Highway,2019,92111,"22,137",78000
+San Diego,Lexus,LC 500,CONVERT,Certified,Red,Toasted Caramel,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,92111,"8,473",110000
+San Diego,Nissan,Sentra,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,91950,"44,337",19995
+San Diego,Nissan,Murano,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2016,91950,"38,934",25995
+San Diego,Nissan,Murano,SUV,Certified,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,91950,"29,572",27795
+San Diego,Ford,Explorer,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,91950,"34,507",27995
+San Diego,Nissan,Maxima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,91950,"37,440",27995
+San Diego,Nissan,Altima,SEDAN,Certified,Silver,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 35 Highway,2021,91950,"9,041",28795
+San Diego,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,91950,"31,692",31995
+San Diego,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,91950,"11,878",35595
+San Diego,Audi,A6,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2020,92126,"7,310",50995
+San Diego,Porsche,Cayenne,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,92126,"29,414",73995
+San Diego,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,92020,"24,806",21571
+San Diego,Subaru,Crosstrek,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 34 Highway,2016,92020,"58,057",23977
+San Diego,Hyundai,Genesis,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 25 Highway,2015,92020,"67,816",23977
+San Diego,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,92020,"16,508",26991
+San Diego,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,92020,"14,132",27911
+San Diego,MAZDA,CX-9,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,92020,"39,121",30911
+San Diego,Subaru,Forester,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,92020,"25,957",33911
+San Diego,Lincoln,MKX,SUV,Used,,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2018,92020,"14,364",34971
+San Diego,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2020,92020,"1,689",35771
+San Diego,Genesis,G70,SEDAN,Used,Green,Black Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,92020,"3,305",38571
+San Diego,Subaru,Outback,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2020,92020,"12,199",38576
+San Diego,Cadillac,CTS,COUPE,Used,Red,Ebony/Ebony Accents,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2013,92110,"72,607",16900
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,92110,"12,197",38900
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2019,92110,"20,640",47900
+San Diego,Chevrolet,Camaro,COUPE,Certified,Gray,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2020,92110,"14,623",48200
+San Diego,Chevrolet,Suburban,SUV,Certified,Silver,Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,92110,"32,315",51531
+San Diego,RAM,3500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,92110,"27,820",71900
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Black/Caramel,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2018,92110,"24,578",32500
+San Diego,Volkswagen,Atlas,SUV,Certified,Black,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,92110,"27,559",34400
+San Diego,Volkswagen,Atlas,SUV,Certified,White,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 23 Highway,2020,92110,"23,390",38600
+San Diego,Volkswagen,Passat,SEDAN,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,91950,"41,082",18546
+San Diego,Jeep,Renegade,SUV,Used,White,Sandstorm/Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2016,91950,"51,727",18965
+San Diego,Volkswagen,Jetta,SEDAN,Certified,Orange,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,91950,"25,473",19689
+San Diego,Volkswagen,Passat,SEDAN,Certified,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2019,91950,"23,815",23772
+San Diego,Volkswagen,Tiguan,SUV,Certified,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,91950,"44,134",23985
+San Diego,Toyota,C-HR,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,91950,"17,241",26478
+San Diego,Toyota,Sienna,VANS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,91950,"45,333",30865
+San Diego,Toyota,Tacoma,TRUCKS,Used,Red,Cement,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,91950,"12,800",34986
+San Diego,Jeep,Renegade,SUV,Used,Blue,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2017,92120,"37,580",21877
+San Diego,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,92120,"35,023",36943
+San Diego,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2014,92120,"53,239",16999
+San Diego,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2015,92120,"75,000",17499
+San Diego,Honda,Civic,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,92120,"35,394",23779
+San Diego,Toyota,Corolla,HATCH,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 42 Highway,2019,92120,"20,789",23999
+San Diego,Toyota,Prius,HATCH,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2019,92120,"42,317",28464
+San Diego,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,92120,"25,415",30999
+San Diego,Audi,A6,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2017,92120,"46,857",31199
+San Diego,Subaru,Forester,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,92120,"18,111",31257
+San Diego,Subaru,Forester,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,92120,"20,581",31524
+San Diego,Chevrolet,Colorado,TRUCKS,Used,,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,92120,"25,869",32799
+San Diego,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,34 City / 30 Highway,2018,92120,"30,780",33495
+San Diego,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2021,92120,"9,507",37217
+San Diego,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2017,92120,"34,662",37782
+San Diego,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 24 Highway,2021,92120,"9,837",37899
+San Diego,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,92120,"15,662",45825
+San Diego,Honda,Civic,HATCH,Used,Gray,Black/Red,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,92120,"19,966",46995
+San Diego,Toyota,Tacoma,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,92120,"14,016",52291
+San Diego,Chevrolet,Equinox,SUV,Certified,Beige,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,91942,"19,429",24650
+San Diego,BMW,X3,SUV,Certified,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2021,92029,"7,823",45800
+San Diego,BMW,330i,SEDAN,Certified,Black,Oyster Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,92029,"9,344",45888
+San Diego,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,92020,"2,880",46998
+San Diego,Ford,Focus,HATCH,Used,Gray,Gray,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2017,92064,"25,422",20999
+San Diego,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,92064,"8,818",23999
+San Diego,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2019,92064,"24,226",26999
+San Diego,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2021,92064,"8,605",38999
+San Diego,RAM,2500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2017,92064,"41,019",51503
+San Diego,INFINITI,QX60,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,92064,"29,674",31877

@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Seattle,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,98105,"21,986",32995
+Seattle,Volvo,XC40,SUV,Used,Blue,Amber,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98108,"19,576",42840
+Seattle,Land Rover,Range Rover Velar,SUV,Used,White,Ebony/Dapple Gray,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,21 City / 27 Highway,2018,98108,"34,325",52840
+Seattle,MAZDA,CX-3,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2019,98033,"17,323",27988
+Seattle,BMW,320i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,98134,"23,845",29888
+Seattle,Toyota,Highlander,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2016,98102,"44,652",31000
+Seattle,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,98034,"7,785",28990
+Seattle,Subaru,Impreza,HATCH,Used,White,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 37 Highway,2018,98033,"39,129",20985
+Seattle,Toyota,RAV4,SUV,Used,Black,Nutmeg,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,98033,"28,138",28999
+Seattle,Honda,Accord,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,98033,"49,416",18988
+Seattle,Honda,Ridgeline,TRUCKS,Used,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,98033,"11,213",41988
+Seattle,Toyota,RAV4,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,98148,"24,882",26995
+Seattle,Toyota,Avalon,SEDAN,Certified,Black,Black/Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,98148,"11,000",45949
+Seattle,BMW,640i Gran Turismo xDrive,HATCH,Certified,Black,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2019,98134,"7,634",58995
+Seattle,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,98004,"23,801",24475
+Seattle,BMW,X7,SUV,Used,Gray,Ivory White/Night Blue,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,98004,"20,071",74880
+Seattle,Toyota,4Runner,SUV,Used,White,Trd Off-Road Softex  In Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,98007,"4,428",53999
+Seattle,Ford,Explorer,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,98133,"18,779",32980
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"10,835",37485
+Seattle,Land Rover,Range Rover,SUV,Used,,Pimento/Ebony/Pimento/Ebony,Automatic,Flexible Fuel,8-Cylinder Supercharged,4 wheel drive,14 City / 19 Highway,2015,98119,"53,892",58988
+Seattle,MAZDA,MAZDA3,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2018,98105,"30,197",23985
+Seattle,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2016,98105,"35,848",25895
+Seattle,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,98105,"16,533",29681
+Seattle,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,98105,"18,913",30311
+Seattle,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,98105,"18,500",31995
+Seattle,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,98105,"16,348",32455
+Seattle,Honda,Civic,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2012,98108,"61,413",13840
+Seattle,MAZDA,MAZDA3,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,98108,"57,046",17840
+Seattle,FIAT,124 Spider,CONVERT,Used,White,Nero (Black),Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 36 Highway,2017,98108,"35,783",23840
+Seattle,Lexus,IS 300,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,98108,"43,210",31480
+Seattle,Subaru,Forester,SUV,Used,Green,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,98108,"25,381",31480
+Seattle,Subaru,Forester,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,98108,"6,110",34840
+Seattle,Hyundai,Santa Fe,SUV,Used,Black,Coquina Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,98108,"6,761",44840
+Seattle,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 19 Highway,2015,98108,"63,918",45840
+Seattle,Land Rover,Range Rover Velar,SUV,Used,Black,Ebony/Dapple Grey,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2018,98108,"32,876",52840
+Seattle,Lexus,IS 300,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,98004,"9,330",37000
+Seattle,Lexus,NX 300,SUV,Certified,Silver,F Sport Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2018,98004,"12,964",42000
+Seattle,Lexus,ES 350,SEDAN,Certified,Green,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,98004,"5,116",44500
+Seattle,Lexus,RX 350,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2022,98004,"1,889",57000
+Seattle,Toyota,Corolla,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,98034,"42,800",17990
+Seattle,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2017,98005,"25,579",25991
+Seattle,INFINITI,QX60,SUV,Certified,White,Java,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,98005,"18,633",45991
+Seattle,Porsche,718 Cayman,COUPE,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,98005,"11,305",78491
+Seattle,MINI,Cooper,HATCH,Certified,Orange,Malt Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2020,98125,"2,809",32989
+Seattle,MINI,Cooper Countryman,SUV,Certified,Black,Carbon Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,,2019,98125,"11,625",37989
+Seattle,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,98272,"49,393",25995
+Seattle,Ford,Taurus,SEDAN,Used,White,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2017,98027,"60,633",19998
+Seattle,Toyota,Sienna,VANS,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,98027,"33,350",28900
+Seattle,Chevrolet,Suburban,SUV,Used,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,98027,"28,499",61425
+Seattle,Kia,Optima,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2013,98057,"65,304",12995
+Seattle,Ford,Explorer,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2011,98057,"100,328",14795
+Seattle,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,98057,"42,698",21595
+Seattle,Kia,Niro,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,46 City / 40 Highway,2018,98057,"22,648",24395
+Seattle,Kia,Sedona,VANS,Used,Black,Camel,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2017,98057,"49,369",26995
+Seattle,Volkswagen,Tiguan,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,98057,"47,274",30498
+Seattle,Kia,Optima,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,,2020,98057,"6,742",34995
+Seattle,Hyundai,Santa Fe,SUV,Used,Red,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,98057,"7,450",41995
+Seattle,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2015,98033,"46,679",14911
+Seattle,MAZDA,MX-5 Miata,CONVERT,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 27 Highway,2011,98033,"29,680",20992
+Seattle,MAZDA,MAZDA6,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2016,98033,"6,841",21994
+Seattle,MAZDA,MAZDA3,HATCH,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,98033,"33,379",23560
+Seattle,MAZDA,MAZDA3,SEDAN,Certified,Silver,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,98033,"15,628",24450
+Seattle,MAZDA,CX-30,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2021,98033,"9,794",31999
+Seattle,Ford,F150,TRUCKS,Used,Black,Brunello,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2015,98032,"59,265",40800
+Seattle,Honda,Accord,SEDAN,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,98033,"34,155",19988
+Seattle,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,98033,"34,726",22988
+Seattle,Honda,HR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,98033,"16,968",29988
+Seattle,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,98033,"28,379",35988
+Seattle,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2019,98148,"17,954",32949
+Seattle,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2020,98148,"13,510",33949
+Seattle,Ford,Flex,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2016,98002,"57,389",23600
+Seattle,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,98002,"25,603",23700
+Seattle,Ford,Fusion,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2014,98134,"52,831",14888
+Seattle,Kia,Forte,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2016,98134,"20,370",17888
+Seattle,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,98134,"36,809",19888
+Seattle,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,98134,"5,176",20888
+Seattle,Hyundai,Elantra,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,98134,"4,617",23888
+Seattle,Toyota,Prius,HATCH,Used,Blue,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2016,98134,"39,998",24888
+Seattle,BMW,320i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,98134,"29,401",26888
+Seattle,Volkswagen,Tiguan,SUV,Used,Gray,Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,98134,"27,248",27888
+Seattle,BMW,330i,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2017,98134,"34,938",28995
+Seattle,Alfa Romeo,Stelvio,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,98134,"27,742",30888
+Seattle,BMW,X3,SUV,Used,Black,Black Nevada Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2016,98134,"24,214",32995
+Seattle,BMW,i3,HATCH,Certified,White,Deka Dark Cloth,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,98134,"9,982",33888
+Seattle,BMW,430i Gran Coupe xDrive,HATCH,Certified,White,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98134,"25,861",34888
+Seattle,BMW,440i,COUPE,Used,White,Black Sensatec,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2017,98134,"36,399",34995
+Seattle,BMW,330e,SEDAN,Certified,Silver,Coral Red Dakota Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,98134,"12,884",36888
+Seattle,BMW,330i xDrive,SEDAN,Certified,Black,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98134,"14,834",36888
+Seattle,Volkswagen,Arteon,SEDAN,Used,Gray,Black Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2020,98134,"18,282",37995
+Seattle,BMW,X2,SUV,Certified,Black,Magma Red Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,98134,"18,749",38888
+Seattle,BMW,530e xDrive,SEDAN,Certified,White,Black Sensatec,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,27 City / 31 Highway,2018,98134,"23,261",40888
+Seattle,Audi,Q5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,98134,"7,531",41888
+Seattle,BMW,340i xDrive,SEDAN,Certified,Black,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,98134,"36,962",43888
+Seattle,BMW,440i Gran Coupe,HATCH,Certified,White,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,98134,"17,793",43995
+Seattle,Lexus,RX 350L,SUV,Used,Silver,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,98134,"16,192",44888
+Seattle,Lexus,GX 460,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2019,98134,"14,931",52888
+Seattle,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,98134,"18,010",54995
+Seattle,BMW,430i xDrive,CONVERT,Certified,Blue,Nightblue Lthr W/Dark Oyster H,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2019,98134,"10,952",59888
+Seattle,BMW,X4,SUV,Used,Red,Black Leather W/Red Stitching,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,98134,"13,443",59995
+Seattle,Alfa Romeo,Giulia,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,98134,"20,053",59995
+Seattle,BMW,750i,SEDAN,Certified,Black,Ivory White/Blk Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2018,98134,"10,995",63888
+Seattle,Mercedes-Benz,C 43 AMG,CONVERT,Used,Red,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,98134,"4,566",65995
+Seattle,Porsche,718 Boxster,CONVERT,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,98134,"26,372",68888
+Seattle,BMW,M4,COUPE,Used,Black,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2019,98134,"23,255",69995
+Seattle,BMW,M3,SEDAN,Used,White,Amaro Brown Ext Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,98134,"24,999",69995
+Seattle,BMW,M4,COUPE,Used,Black,Silverstone Full Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,98134,"17,797",72888
+Seattle,Audi,Q8,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,98134,"8,359",73888
+Seattle,BMW,M4,COUPE,Used,,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,98134,"9,384",78888
+Seattle,BMW,X6,SUV,Certified,Blue,Coffee Vernasca Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2020,98134,"5,847",84995
+Seattle,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2016,98007,"24,520",27991
+Seattle,Ford,Escape,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 29 Highway,2014,98004,"77,779",14490
+Seattle,Ford,Fusion,SEDAN,Used,,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2017,98004,"15,165",21691
+Seattle,Honda,Civic,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,98004,"19,244",25499
+Seattle,Ford,Mustang,COUPE,Used,Gray,Ebony W/Metal Gray Stitch,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,98004,"26,557",28489
+Seattle,Toyota,Tacoma,TRUCKS,Used,Silver,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2017,98004,"19,428",30495
+Seattle,BMW,328d xDrive,SEDAN,Used,Blue,Cognac/Dark Brown,Automatic,Diesel,4-Cylinder Turbo,All wheel drive,30 City / 40 Highway,2018,98004,"32,187",31498
+Seattle,BMW,430i Gran Coupe xDrive,HATCH,Used,White,Black/Dark Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98004,"36,850",32988
+Seattle,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98004,"39,755",33491
+Seattle,Audi,A3,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 35 Highway,2019,98004,"4,993",33495
+Seattle,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,98004,"14,349",36328
+Seattle,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,98004,"1,501",38359
+Seattle,Ford,Edge,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,98004,"9,446",38990
+Seattle,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,98004,"27,128",39498
+Seattle,Tesla,Model S,HATCH,Used,Green,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2013,98004,"48,962",40492
+Seattle,Jeep,Grand Cherokee,SUV,Used,Gray,Black/Dark Sienna Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2018,98004,"39,687",43398
+Seattle,Mercedes-Benz,S 550,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2014,98004,"60,036",44991
+Seattle,Ford,Mustang,COUPE,Used,Green,Ebony W/Green Stitch,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,98004,"9,773",46391
+Seattle,BMW,M4,COUPE,Used,Gray,Opal White,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2016,98004,"43,441",47788
+Seattle,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,98004,"27,885",56898
+Seattle,Ford,Expedition,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2020,98004,"11,768",66808
+Seattle,Porsche,Cayenne,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 23 Highway,2017,98004,"34,152",66967
+Seattle,Jeep,Wrangler,SUV,Used,Burgundy,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2013,98004,"73,087",22993
+Seattle,Audi,A7,HATCH,Used,White,Beige/Tan,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 28 Highway,2013,98004,"65,067",25585
+Seattle,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2017,98004,"31,932",27991
+Seattle,Mercedes-Benz,CLA 250,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 37 Highway,2016,98004,"24,650",27995
+Seattle,Chevrolet,Camaro,COUPE,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,98004,"22,271",30494
+Seattle,Subaru,Crosstrek,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,98004,"7,437",31990
+Seattle,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,98004,"31,490",36485
+Seattle,Toyota,Tacoma,TRUCKS,Used,White,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,98004,"26,218",39485
+Seattle,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,98004,"39,810",47398
+Seattle,Hyundai,Palisade,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,98004,"17,640",47905
+Seattle,Tesla,Model S,HATCH,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2016,98004,"29,584",58997
+Seattle,Toyota,Corolla,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,98007,"51,702",18577
+Seattle,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,98007,"10,428",36986
+Seattle,Subaru,Ascent,SUV,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,98007,"25,047",37995
+Seattle,Mercedes-Benz,GLA 250,SUV,Used,Gray,Crystal Grey,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,98005,"10,878",37998
+Seattle,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,98001,"27,826",24950
+Seattle,Toyota,Prius,HATCH,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2016,98001,"44,562",25500
+Seattle,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,98001,"23,404",25500
+Seattle,BMW,X1,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2017,98001,"37,614",26500
+Seattle,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,98001,"4,994",46500
+Seattle,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,98001,"19,416",47950
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,98005,"27,201",32999
+Seattle,Mercedes-Benz,Metris,VANS,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,19 City / 23 Highway,2018,98005,"31,776",38588
+Seattle,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,98034,"6,400",45881
+Seattle,Dodge,Charger,SEDAN,Used,Red,Black/Light Frost Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2013,98133,"89,305",12800
+Seattle,Kia,Soul,HATCH,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2015,98133,"64,928",13980
+Seattle,BMW,535i,SEDAN,Used,Gray,Black,,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2012,98133,"74,100",14980
+Seattle,Lexus,ES 350,SEDAN,Used,White,Parchment W/Piano Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,98133,"8,131",38980
+Seattle,Toyota,4Runner,SUV,Used,Blue,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2016,98026,"49,705",35500
+Seattle,Audi,allroad,WAGON,Used,White,Beige/Brown,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2015,98005,"65,891",21386
+Seattle,BMW,320i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,98005,"31,147",26950
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,98005,"18,027",29568
+Seattle,BMW,330e,SEDAN,Certified,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,98005,"18,306",31989
+Seattle,BMW,i3,HATCH,Used,White,Deka Dark,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,98005,"15,707",32498
+Seattle,BMW,X2,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,98005,"15,991",33991
+Seattle,BMW,330i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98005,"25,696",33991
+Seattle,Subaru,Outback,SUV,Used,Black,Java Brown,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,98005,"27,156",33998
+Seattle,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2017,98005,"25,744",33998
+Seattle,BMW,i3,HATCH,Used,Gray,Deka Dark,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,98005,"5,494",34466
+Seattle,Toyota,Camry,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,98005,"17,442",34491
+Seattle,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98005,"31,216",36386
+Seattle,Honda,Pilot,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,98005,"35,802",36489
+Seattle,Porsche,Panamera,HATCH,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2013,98005,"71,692",36998
+Seattle,Ford,Edge,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,98005,"5,550",37955
+Seattle,BMW,530i xDrive,SEDAN,Used,White,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98005,"29,641",42887
+Seattle,Dodge,Durango,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 22 Highway,2018,98005,"28,268",43788
+Seattle,Chevrolet,Colorado,TRUCKS,Used,Green,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 18 Highway,2018,98005,"33,995",43998
+Seattle,BMW,540i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,98005,"24,702",45398
+Seattle,Acura,RDX,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2020,98005,"15,882",48389
+Seattle,Land Rover,Range Rover Velar,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2019,98005,"26,343",50788
+Seattle,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,98005,"23,858",50988
+Seattle,BMW,M340i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,98005,"17,052",54920
+Seattle,Mercedes-Benz,CLS 450,SEDAN,Used,Gray,Magma Grey/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,98005,"6,177",66455
+Seattle,BMW,X3 M,SUV,Used,Gray,Black W/Contrast Stiching,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2020,98005,"8,912",69952
+Seattle,BMW,840i xDrive,CONVERT,Used,Blue,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,98005,"15,939",84855
+Seattle,Toyota,C-HR,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,98125,"4,233",28995
+Seattle,Toyota,4Runner,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,98006,587,49788
+Seattle,Volkswagen,Eos,CONVERT,Used,White,Cornsilk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2010,98133,"111,869",7751
+Seattle,Hyundai,Tucson,SUV,Used,White,Taupe,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 25 Highway,2011,98133,"89,896",9991
+Seattle,Dodge,Grand Caravan,VANS,Used,White,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2015,98133,"56,932",14991
+Seattle,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2013,98133,"48,961",15771
+Seattle,Hyundai,Venue,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,98133,"9,403",21941
+Seattle,Honda,CR-V,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,98133,"34,516",27941
+Seattle,Honda,Insight,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 45 Highway,2019,98133,"27,769",27991
+Seattle,Hyundai,Palisade,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,98133,"19,161",39880
+Seattle,Toyota,Corolla,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2020,98055,"21,839",23981
+Seattle,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,98055,"20,034",25981
+Seattle,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,98055,"22,095",29981
+Seattle,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 24 Highway,2019,98057,"14,292",26991
+Seattle,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,98057,"71,254",18713
+Seattle,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,98057,"54,679",22824
+Seattle,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2020,98057,"29,676",23715
+Seattle,Chevrolet,Trax,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,98057,"22,904",24412
+Seattle,Kia,Stinger,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2018,98057,"22,743",31663
+Seattle,Ford,Transit Connect,VANS,Used,White,Pewter,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,98057,"25,773",31740
+Seattle,Nissan,Frontier,TRUCKS,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2020,98057,"12,169",32064
+Seattle,Chevrolet,Colorado,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,98057,"54,535",34320
+Seattle,Chevrolet,Camaro,COUPE,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,98057,"34,062",36475
+Seattle,Chevrolet,Colorado,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,98057,"41,267",36678
+Seattle,Ford,Transit 250,VANS,Used,White,Pewter,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2017,98057,"30,179",39758
+Seattle,Ford,Transit 250,VANS,Used,White,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,,2019,98057,"22,530",43980
+Seattle,Chevrolet,Corvette,COUPE,Used,Gray,Kalahari,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,98057,"18,345",46555
+Seattle,Chevrolet,Suburban,SUV,Used,Charcoal,Jet Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,98057,"14,193",47852
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,98057,"13,284",50426
+Seattle,RAM,2500,TRUCKS,Used,Red,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,98057,"6,210",59678
+Seattle,RAM,2500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,98057,"18,294",61681
+Seattle,Chevrolet,Silverado 3500,TRUCKS,Used,White,Saddle,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2015,98057,"47,407",66912
+Seattle,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,98057,"20,214",68688
+Seattle,RAM,3500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,98057,"8,604",69486
+Seattle,Hyundai,Elantra,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,98057,"10,064",22998
+Seattle,Hyundai,Elantra,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,98057,"2,422",24295
+Seattle,BMW,328i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2014,98134,"73,529",18200
+Seattle,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,98134,"26,187",19335
+Seattle,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,98134,"30,351",22390
+Seattle,Mercedes-Benz,GLK 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2014,98134,"55,087",24405
+Seattle,Volvo,S60,SEDAN,Used,White,Off-Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,98134,"24,526",25070
+Seattle,Subaru,Impreza,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,98134,"26,998",25495
+Seattle,Lexus,ES 350,SEDAN,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2015,98134,"50,116",26055
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 34 Highway,2016,98134,"35,275",26510
+Seattle,Mercedes-Benz,SLK 250,CONVERT,Used,Red,Black,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2015,98134,"46,427",26885
+Seattle,Acura,RDX,SUV,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2016,98134,"24,000",27030
+Seattle,Buick,Regal,HATCH,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,98134,"32,791",27110
+Seattle,Kia,Seltos,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2021,98134,"5,311",28295
+Seattle,Jaguar,XK,HATCH,Used,White,Warm Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2014,98134,"39,657",28420
+Seattle,BMW,430i Gran Coupe xDrive,HATCH,Used,White,Coral Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2017,98134,"39,089",28935
+Seattle,BMW,535i,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2016,98134,"40,979",29050
+Seattle,Lexus,RX 350,SUV,Used,White,Saddle Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,98134,"47,753",30145
+Seattle,Mercedes-Benz,CLA 250,SEDAN,Certified,Red,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,98134,"30,179",30480
+Seattle,Mercedes-Benz,CLA 250,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,98134,"21,507",30635
+Seattle,Audi,A4,SEDAN,Used,Black,Atlas Beige/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,98134,"24,763",30680
+Seattle,Subaru,Forester,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,98134,"12,479",30795
+Seattle,Mercedes-Benz,GLA 250,SUV,Used,White,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,98134,"29,422",31025
+Seattle,MAZDA,CX-5,SUV,Used,Blue,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,98134,"25,018",31260
+Seattle,Hyundai,Santa Fe,SUV,Used,Blue,Black/Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,98134,"14,660",32265
+Seattle,BMW,330e,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,98134,"33,709",32510
+Seattle,Mercedes-Benz,CLA 250,SEDAN,Certified,Blue,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,98134,"18,401",32670
+Seattle,Audi,A6,SEDAN,Used,Blue,Nougat Brown,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,21 City / 29 Highway,2017,98134,"43,476",32955
+Seattle,Mercedes-Benz,CLA 250,SEDAN,Certified,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,98134,"14,448",33020
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"18,574",33280
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"21,317",33465
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98134,"24,647",33470
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,98134,"23,853",33495
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"15,544",33990
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"28,366",34085
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"18,992",34435
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Blue,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98134,"20,405",34825
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,98134,"21,009",35040
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,Gray,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98134,"22,448",35490
+Seattle,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98134,"22,279",35520
+Seattle,Mercedes-Benz,E 300,SEDAN,Certified,White,Macchiato Beige / Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,98134,"40,942",35760
+Seattle,Mercedes-Benz,A 220,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2019,98134,"7,846",36080
+Seattle,Lexus,IS 300,SEDAN,Used,White,Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,98134,"23,023",36350
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98134,"23,826",36500
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,Black,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,98134,"13,095",36955
+Seattle,Mercedes-Benz,GLA 250,SUV,Used,Gray,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,98134,"12,276",37025
+Seattle,Mercedes-Benz,GLA 250,SUV,Certified,White,Sahara Beige,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98134,"7,977",37230
+Seattle,Land Rover,Discovery Sport,SUV,Used,Orange,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,98134,"21,958",37745
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98134,"22,918",38400
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Silver,Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98134,"17,475",39235
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98134,"11,656",39995
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,98134,"22,004",40520
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98134,"6,725",40595
+Seattle,Mercedes-Benz,GLB 250,SUV,Used,White,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2020,98134,"5,095",41990
+Seattle,Mercedes-Benz,E 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,98134,"34,602",42130
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,98134,"8,591",42445
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,98134,"13,557",42995
+Seattle,Mercedes-Benz,C 300,SEDAN,Certified,White,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,98134,"14,012",43715
+Seattle,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 24 Highway,2019,98134,"26,760",43890
+Seattle,Volvo,XC90,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2017,98134,"40,368",44610
+Seattle,Land Rover,Range Rover Evoque,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,98134,"15,010",45270
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,98134,"14,337",47525
+Seattle,Porsche,Macan,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,98134,"25,486",48500
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,Black,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,98134,"9,567",48585
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,98134,"16,025",48650
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,98134,"3,130",49040
+Seattle,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Magma Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,98134,"9,461",50045
+Seattle,Mercedes-Benz,GLC 300,SUV,Used,Blue,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,98134,7,52385
+Seattle,Mercedes-Benz,GLS 450,SUV,Certified,Black,Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2018,98134,"30,569",54805
+Seattle,Mercedes-Benz,C 43 AMG,SEDAN,Certified,Black,Amg Saddle Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,98134,"8,904",55170
+Seattle,Mercedes-Benz,C 43 AMG,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,98134,"12,538",59125
+Seattle,Mercedes-Benz,C 43 AMG,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2021,98134,"7,720",62785
+Seattle,Mercedes-Benz,C 63 AMG,SEDAN,Certified,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2017,98134,"17,398",63055
+Seattle,Mercedes-Benz,GLS 450,SUV,Certified,Black,Ginger Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,98134,"25,969",64085
+Seattle,Mercedes-Benz,GLS 450,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,98134,"25,883",64250
+Seattle,Chevrolet,Suburban,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2020,98134,"7,717",65955
+Seattle,Mercedes-Benz,GLE 43 AMG,SUV,Certified,Blue,Ginger Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,98134,"21,690",73785
+Seattle,Mercedes-Benz,GLE 63 AMG,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 18 Highway,2019,98134,"12,721",96990
+Seattle,Honda,Fit,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2016,98007,"49,723",18991
+Seattle,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,98007,"25,021",23662
+Seattle,Toyota,Tacoma,TRUCKS,Certified,White,Trd Pro Leather In Black With ,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,98007,"8,190",56997
+Seattle,Tesla,Model 3,SEDAN,Used,Red,,Single-Speed,Electric,Electric,All wheel drive,,2020,98007,"2,080",64995
+Seattle,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2017,98007,"25,998",67997
+Seattle,Tesla,Model 3,SEDAN,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,98134,"19,540",45995
+Seattle,Tesla,Model X,SUV,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2016,98168,"43,682",65000
+Seattle,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2016,98034,"31,963",25864
+Seattle,Hyundai,Elantra,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,98105,"26,105",15773
+Seattle,MAZDA,MAZDA6,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2015,98105,"45,320",17998
+Seattle,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2019,98105,"21,120",25945
+Seattle,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,98105,"18,649",32191
+Seattle,Honda,Accord,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,98105,"14,569",36985
+Seattle,Volkswagen,Jetta,SEDAN,Certified,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,98105,"39,320",19000
+Seattle,Volkswagen,Tiguan,SUV,Certified,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,98105,"28,467",26000
+Seattle,Volkswagen,Tiguan,SUV,Certified,Red,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,98105,"21,679",26000
+Seattle,Mercedes-Benz,E 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2009,98108,"59,893",15840
+Seattle,Toyota,Corolla,SEDAN,Used,Blue,Light Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2020,98108,"23,099",24840
+Seattle,Volkswagen,Golf,WAGON,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2019,98108,"26,470",32480
+Seattle,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,98108,"47,667",39840
+Seattle,Toyota,4Runner,SUV,Used,Black,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,98108,"32,061",41480
+Seattle,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 22 Highway,2020,98108,"10,902",56840
+Seattle,BMW,M4,COUPE,Used,Blue,Black,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2017,98037,"26,359",59999
+Seattle,INFINITI,QX80,SUV,Certified,Gray,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2019,98037,"22,121",59999
+Seattle,Honda,Civic,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,98004,"41,192",17500
+Seattle,Kia,Optima,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 30 Highway,2015,98004,"54,681",21000
+Seattle,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2014,98004,"52,325",25500
+Seattle,Lexus,ES 350,SEDAN,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2014,98004,"50,298",26000
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,98004,"13,743",44000
+Seattle,Lexus,RX 350L,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,98004,"42,947",44000
+Seattle,Lexus,RX 350,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,98004,"14,344",50000
+Seattle,Lexus,LC 500,CONVERT,Used,Red,Toasted Caramel,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,98004,"9,817",107000
+Seattle,Alfa Romeo,Giulia,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98034,"20,260",38777
+Seattle,Alfa Romeo,Stelvio,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,98034,"22,079",42777
+Seattle,Toyota,Corolla,SEDAN,Certified,Black,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,98034,"26,127",20990
+Seattle,Toyota,Corolla,SEDAN,Certified,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,98034,"16,938",24990
+Seattle,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2018,98034,"24,087",27990
+Seattle,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,98034,"14,721",32990
+Seattle,Toyota,RAV4,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,98034,"14,871",37990
+Seattle,Toyota,Sienna,VANS,Certified,Red,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,98034,"28,830",39990
+Seattle,Toyota,Tacoma,TRUCKS,Used,White,Cement,,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2021,98034,"10,017",46990
+Seattle,Toyota,4Runner,SUV,Certified,Red,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,98034,"27,511",47990
+Seattle,Honda,Accord,SEDAN,Used,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,98005,"20,004",30491
+Seattle,Alfa Romeo,Giulia,SEDAN,Used,Gray,Crema,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,98005,"33,777",30741
+Seattle,Volvo,S90,SEDAN,Used,White,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,98005,"19,280",36991
+Seattle,INFINITI,Q50,SEDAN,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,98005,"2,049",39991
+Seattle,INFINITI,QX50,SUV,Certified,Blue,Wheat/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,98005,"9,899",40991
+Seattle,INFINITI,QX50,SUV,Certified,Gray,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,98005,"2,957",41991
+Seattle,Jaguar,XE,SEDAN,Used,Red,Pimento Red/Ebony Inserts & St,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,20 City / 29 Highway,2018,98005,"15,098",43991
+Seattle,Volvo,XC90,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,98005,"26,615",46991
+Seattle,INFINITI,Q60,COUPE,Certified,Silver,Monaco Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,98005,"12,576",53991
+Seattle,Volvo,S90,SEDAN,Certified,Blue,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,98105,"18,954",39010
+Seattle,Subaru,Ascent,SUV,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,98107,"19,051",40999
+Seattle,Volkswagen,Tiguan,SUV,Certified,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,98107,"30,781",26999
+Seattle,Volkswagen,Tiguan,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,98107,"21,868",28999
+Seattle,Lexus,IS 250C,CONVERT,Used,Silver,Alabaster,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2012,98312,"46,979",25417
+Seattle,Volkswagen,GTI,HATCH,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 31 Highway,2019,98312,"6,360",34248
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,98312,259,56053
+Seattle,MINI,Cooper,HATCH,Certified,Orange,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,98125,"25,025",27989
+Seattle,MINI,Cooper,HATCH,Certified,Off White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,98125,"21,849",28989
+Seattle,MINI,Cooper,HATCH,Certified,Green,Malt Brown,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 33 Highway,2021,98125,"4,453",31974
+Seattle,MINI,Cooper Countryman,SUV,Used,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,98125,"9,886",32989
+Seattle,MINI,Cooper Countryman,SUV,Certified,Black,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,98125,"20,626",34989
+Seattle,MINI,Cooper Clubman,WAGON,Certified,Red,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2020,98125,"3,061",36989
+Seattle,MINI,Cooper Countryman,SUV,Certified,White,Carbon Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,,2019,98125,"20,344",37989
+Seattle,MINI,Cooper,CONVERT,Certified,Off White,Malt Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,98125,"16,937",41989
+Seattle,Volkswagen,Passat,SEDAN,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,98272,"42,079",20995
+Seattle,Ford,Transit Connect,VANS,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2014,98272,"60,083",22995
+Seattle,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2017,98272,"26,566",24995
+Seattle,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,98272,"21,015",29995
+Seattle,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,98272,"18,005",38995
+Seattle,Tesla,Model 3,SEDAN,Used,Silver,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,98272,"13,423",52995
+Seattle,Toyota,Sequoia,SUV,Used,Gray,Redrock/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2017,98272,"28,066",58995
+Seattle,Chevrolet,Silverado 3500,TRUCKS,Used,White,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2015,98272,"46,709",65995
+Seattle,Volkswagen,Tiguan,SUV,Used,Black,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,98027,"17,127",29399
+Seattle,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2017,98027,"27,876",32283
+Seattle,Tesla,Model S,HATCH,Used,Blue,Gray,Single-Speed,Electric,Electric,2 wheel drive - rear,,2013,98027,"85,829",34287
+Seattle,Nissan,370Z,COUPE,Used,Gray,Charcoal,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 26 Highway,2020,98027,"11,913",37863
+Seattle,Jaguar,F-PACE,SUV,Used,Blue,Jet,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 23 Highway,2017,98027,"24,834",40999
+Seattle,Ford,Mustang,COUPE,Used,Green,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,98027,"5,630",47990
+Seattle,Audi,S5,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,98027,"38,270",55444
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,98027,"17,500",57794
+Seattle,Ford,Expedition,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,98027,"9,135",66488
+Seattle,GMC,Terrain,SUV,Used,Brown,Brownstone,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2012,98057,"120,871",9995
+Seattle,Hyundai,Elantra,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,98057,"14,857",23995
+Seattle,Honda,Civic,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,98057,"17,715",25995
+Seattle,MINI,Cooper,CONVERT,Used,Gray,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2018,98057,"19,608",26988
+Seattle,Hyundai,Santa Fe,SUV,Used,Red,Espresso/Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,98057,"16,294",33000
+Seattle,Hyundai,Sonata,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,98057,"5,561",36988
+Seattle,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,98057,"3,935",36971
+Seattle,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,98133,"53,386",18880
+Seattle,Volkswagen,Jetta,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,98133,"12,801",23880
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,Silver,Sport Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2015,98133,"57,252",24500
+Seattle,BMW,X3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,98133,"34,794",27500
+Seattle,Honda,Odyssey,VANS,Used,Silver,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,98133,"11,161",35880
+Seattle,BMW,530i xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,98133,"33,098",35980
+Seattle,Subaru,WRX,SEDAN,Used,Blue,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,98133,"17,113",36500
+Seattle,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,98133,"32,755",39880
+Seattle,Maserati,Ghibli,SEDAN,Used,White,Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,98133,"34,392",48880
+Seattle,Cadillac,Escalade,SUV,Used,Black,Jet Black With Jet Black Accen,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,98133,"53,321",55880
+Seattle,Lexus,LS 500,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2018,98133,"18,969",56880
+Seattle,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2019,98133,"12,848",57500
+Seattle,Lexus,RX 450h,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,31 City / 28 Highway,2022,98133,"2,614",59880
+Seattle,Mercedes-Benz,S 560,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2018,98133,"25,376",65880
+Seattle,BMW,M4,COUPE,Used,Gray,Black,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 25 Highway,2019,98133,"22,604",66880
+Seattle,Subaru,Legacy,SEDAN,Used,Gray,Slate Black Cloth  Cloth,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2017,98005,"37,728",23995
+Seattle,Audi,A3,SEDAN,Used,Gray,Black  Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2018,98005,"18,606",32995
+Seattle,Porsche,Panamera,HATCH,Used,Gray,Black Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,98005,"7,314",84995
+Seattle,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,10,27376
+Seattle,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,10,38863
+Seattle,Nissan,Frontier,TRUCKS,Used,,,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,10,38863
+Seattle,Nissan,Frontier,TRUCKS,Used,,,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,10,38863
+Seattle,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,,38863
+Seattle,Nissan,Frontier,TRUCKS,Used,Gray,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,98026,10,38863
+Seattle,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2016,98036,"57,444",23000
+Seattle,MAZDA,MAZDA3,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2015,98033,"95,275",14250
+Seattle,Jeep,Renegade,SUV,Used,Red,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2015,98033,"50,441",15985
+Seattle,MAZDA,MAZDA3,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2016,98033,"47,048",18399
+Seattle,Kia,Forte,SEDAN,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,98033,"17,190",18987
+Seattle,Kia,Forte,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2020,98033,"16,746",20587
+Seattle,Acura,MDX,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2016,98033,"47,666",28986
+Seattle,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,98033,"36,264",29992
+Seattle,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,98033,"15,921",33985
+Seattle,MAZDA,CX-5,SUV,Certified,Gray,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,98033,"8,187",35985
+Seattle,MAZDA,CX-5,SUV,Used,White,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,98033,"10,262",39995
+Seattle,Chevrolet,Colorado,TRUCKS,Certified,Orange,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 18 Highway,2019,98033,"30,538",43487
+Seattle,Nissan,Titan,TRUCKS,Used,Black,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,98033,"18,591",44521
+Seattle,Chevrolet,Corvette,COUPE,Certified,White,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,98033,"33,017",51425
+Seattle,Chevrolet,Corvette,CONVERT,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 21 Highway,2015,98033,"10,021",74992
+Seattle,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,98036,"18,217",22812
+Seattle,Ford,Mustang,COUPE,Used,Blue,Ebony,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2017,98036,"28,291",23020
+Seattle,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,98036,"20,374",28090
+Seattle,Chevrolet,Traverse,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,All wheel drive,15 City / 22 Highway,2017,98036,"47,760",28397
+Seattle,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,49 City / 43 Highway,2019,98036,"5,942",28887
+Seattle,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2020,98036,"17,267",30221
+Seattle,Subaru,Outback,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,98036,"21,162",30998
+Seattle,Subaru,WRX,SEDAN,Used,White,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,98036,"10,408",32183
+Seattle,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,98036,"27,242",34484
+Seattle,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,98036,"39,558",36865
+Seattle,Mercedes-Benz,C 300,SEDAN,Used,White,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,98036,"14,514",36987
+Seattle,Ford,Ranger,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,98036,"8,001",38798
+Seattle,GMC,Acadia,SUV,Used,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,98036,"19,294",38893
+Seattle,Lincoln,MKX,SUV,Used,Burgundy,Ganache,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - front,18 City / 25 Highway,2018,98036,"36,265",39298
+Seattle,Toyota,Tacoma,TRUCKS,Used,Gray,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2018,98036,"13,829",39499
+Seattle,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,98036,"46,057",40538
+Seattle,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2018,98036,"21,097",40971
+Seattle,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,98036,"11,491",40991
+Seattle,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,98036,"11,211",41782
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,98036,"18,359",41948
+Seattle,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,98036,"22,483",43998
+Seattle,GMC,Sierra 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2020,98036,"9,328",44815
+Seattle,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,98036,"12,888",45815
+Seattle,Toyota,4Runner,SUV,Used,Black,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,98036,"19,857",48434
+Seattle,Lincoln,Corsair,SUV,Used,Red,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,98036,"2,478",49470
+Seattle,Toyota,Tundra,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,98036,"25,860",49991
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,98036,"16,787",49991
+Seattle,Lincoln,Corsair,SUV,Certified,Black,Ebony/Cashew,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,98036,"10,364",50089
+Seattle,Lincoln,Nautilus,SUV,Certified,White,Medium Slate,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,98036,"14,340",50493
+Seattle,Ford,F150,TRUCKS,Used,White,Navy Pier,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2018,98036,"18,391",52221
+Seattle,Jeep,Wrangler,SUV,Used,Yellow,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,98036,"26,277",52998
+Seattle,Toyota,Highlander,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2021,98036,"7,223",53756
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,98036,"19,422",54815
+Seattle,Ford,Expedition Max,SUV,Certified,White,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2018,98036,"16,382",54971
+Seattle,Chevrolet,Corvette,COUPE,Used,Black,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,98036,"12,424",55890
+Seattle,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,98036,"18,922",56971
+Seattle,Ford,Transit 350,VANS,Used,Silver,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2019,98036,"14,472",60808
+Seattle,Chevrolet,Corvette,COUPE,Used,White,Adrenaline Red,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,98036,"4,080",64056
+Seattle,Chevrolet,Tahoe,SUV,Used,Black,Cocoa/Mahogany,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2020,98036,"16,684",71890
+Seattle,Ford,Expedition Max,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,98036,"13,490",73933
+Seattle,Ford,F350,TRUCKS,Used,Silver,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,98036,"20,105",75730
+Seattle,Chevrolet,Tahoe,SUV,Used,Beige,Jet Black/Maple Sugar,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,98036,"9,240",80049
+Seattle,Chevrolet,Camaro,COUPE,Used,Yellow,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2015,98032,"31,703",30445
+Seattle,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2015,98032,"66,998",31100
+Seattle,Ford,Escape,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,98032,"12,591",32900
+Seattle,INFINITI,Q60,COUPE,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2017,98032,"49,456",36900
+Seattle,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2019,98032,"27,924",37900
+Seattle,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,98032,"18,563",38900
+Seattle,Lincoln,Continental,SEDAN,Used,Blue,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2017,98032,"12,413",38900
+Seattle,Lexus,GX 460,SUV,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2016,98032,"59,501",38900
+Seattle,Nissan,Murano,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,98032,"5,599",39900
+Seattle,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,98032,"22,144",39900
+Seattle,Nissan,Titan,TRUCKS,Used,White,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,98032,"31,782",41900
+Seattle,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,98032,"24,802",42800
+Seattle,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,98032,"11,908",43900
+Seattle,GMC,Canyon,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,98032,"11,552",45800
+Seattle,Buick,Enclave,SUV,Used,Black,Dark Galvanized/Ebony Accents,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2021,98032,"2,190",45900
+Seattle,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,98032,"17,327",50800
+Seattle,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,98032,"9,447",52900
+Seattle,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,98032,"8,648",54900
+Seattle,Nissan,Armada,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 18 Highway,2020,98032,"12,206",60800
+Seattle,GMC,Sierra 3500,TRUCKS,Used,Black,Dark Ash/Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,98032,"14,111",72900
+Seattle,Honda,CR-V,SUV,Used,Silver,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 29 Highway,2014,98027,"42,414",23495
+Seattle,Kia,Soul,HATCH,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2015,98033,"64,940",11988
+Seattle,Honda,Civic,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,98033,"65,094",17988
+Seattle,Honda,Civic,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,98033,"41,804",22988
+Seattle,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,98033,"17,459",22988
+Seattle,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,98033,"27,330",23988
+Seattle,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,98033,"4,382",23988
+Seattle,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,98033,"7,603",24488
+Seattle,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2018,98033,"25,643",24588
+Seattle,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,98033,"11,695",24988
+Seattle,Honda,Civic,SEDAN,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2020,98033,"5,619",25988

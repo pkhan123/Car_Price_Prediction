@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Miami,Chevrolet,Cruze,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,33126,"36,448",15481
+Miami,Audi,Q3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2018,33137,"32,030",25991
+Miami,Cadillac,XT5,SUV,Certified,,Kona Brown Sauvage,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,33137,"4,956",46991
+Miami,Lexus,IS 350,SEDAN,Used,Gray,Black W/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,33166,"5,398",50447
+Miami,Cadillac,SRX,SUV,Used,Brown,Shale W/Brownstone Accents,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2012,33143,"85,881",13990
+Miami,Chevrolet,Equinox,SUV,Used,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,33143,"24,364",20490
+Miami,Chevrolet,Equinox,SUV,Used,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,33143,"24,748",22490
+Miami,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,33143,"32,407",24490
+Miami,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2019,33143,"28,686",27490
+Miami,Hyundai,Elantra,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,33137,"35,986",17760
+Miami,Hyundai,Kona,SUV,Certified,White,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,33137,"22,373",21313
+Miami,Hyundai,Kona,SUV,Certified,Black,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,33137,"12,139",21732
+Miami,Hyundai,Santa Fe,SUV,Used,Gray,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,33137,"29,252",24940
+Miami,Mercedes-Benz,GLA 250,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,33137,"13,178",35000
+Miami,Hyundai,Santa Fe,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,33137,"19,118",36136
+Miami,BMW,X3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2021,33137,"6,184",47174
+Miami,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2016,33137,"67,531",17921
+Miami,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,33137,"22,365",19491
+Miami,Cadillac,ATS,SEDAN,Used,Red,Light Neutral W/Medium Cashmer,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2015,33137,"56,662",19521
+Miami,Mercedes-Benz,CLA 250,SEDAN,Used,White,Sahara Beige/Black,Automatic,Flexible Fuel,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2017,33137,"59,097",23991
+Miami,Cadillac,XT5,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,33137,"35,979",33911
+Miami,Cadillac,CT4,SEDAN,Used,Black,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2020,33137,"5,058",49791
+Miami,Cadillac,Escalade ESV,SUV,Used,Tan,,Automatic,Gasoline,8-Cylinder,All wheel drive,12 City / 16 Highway,2005,33142,"201,000",5500
+Miami,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2012,33142,"113,820",9999
+Miami,Chevrolet,Cruze,HATCH,Used,Orange,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,33054,"41,705",16999
+Miami,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Black W/Red Stitching,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,33054,"12,229",27999
+Miami,Hyundai,Santa Fe,SUV,Used,Gray,Espresso/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,33054,"11,303",28999
+Miami,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,33054,"17,933",36249
+Miami,Audi,Q3,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,33126,"17,958",38900
+Miami,Porsche,Cayenne,SUV,Certified,Silver,Graphite Blue/Chalk,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,33126,"14,488",79900
+Miami,INFINITI,QX30,SUV,Certified,White,Wheat,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33134,"39,124",24991
+Miami,INFINITI,QX30,SUV,Used,White,Wheat,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33134,"19,180",26993
+Miami,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,33134,"5,454",27992
+Miami,INFINITI,QX60,SUV,Certified,Blue,High Contrast Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33134,"22,079",36491
+Miami,Toyota,C-HR,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,33156,"4,994",22854
+Miami,Lexus,RX 350,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33156,"26,329",43852
+Miami,Chevrolet,Camaro,COUPE,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2016,33150,"45,796",21498
+Miami,Hyundai,Santa Fe,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2021,33150,"4,689",32998
+Miami,Ford,Explorer,SUV,Certified,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,33150,"33,099",31191
+Miami,Ford,Expedition,SUV,Used,White,Medium Soft Ceramic,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,33150,"27,513",50991
+Miami,Nissan,Altima,SEDAN,Used,Silver,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33055,"21,310",23991
+Miami,Chrysler,300,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2014,33126,"61,454",15498
+Miami,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2016,33126,"51,884",15498
+Miami,Nissan,Pathfinder,SUV,Used,Red,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2016,33126,"57,327",21498
+Miami,Hyundai,Kona,SUV,Used,Blue,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,33126,"18,174",22998
+Miami,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,33126,"28,649",23498
+Miami,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2020,33126,"15,215",23898
+Miami,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,33126,"25,150",24498
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,33126,"40,049",24998
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,33126,"48,559",25998
+Miami,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,33126,"33,009",26998
+Miami,Chrysler,Pacifica,VANS,Used,Silver,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,33126,"26,400",27998
+Miami,BMW,X2,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,33126,"39,630",27998
+Miami,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,33126,"28,383",29998
+Miami,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2018,33126,"30,782",32998
+Miami,Lexus,IS 300,SEDAN,Used,Silver,Flaxen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,33126,"23,090",32998
+Miami,Audi,A6,SEDAN,Used,Black,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,33126,"29,193",34598
+Miami,BMW,X3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,33126,"27,789",35998
+Miami,Alfa Romeo,Stelvio,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,33126,"23,008",36998
+Miami,Tesla,Model S,HATCH,Used,Blue,Gray,Single-Speed,Electric,Electric,2 wheel drive - rear,,2014,33126,"63,615",39998
+Miami,Porsche,Macan,SUV,Used,Brown,Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2016,33126,"48,584",39998
+Miami,Mercedes-Benz,SLC 43 AMG,CONVERT,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2017,33126,"40,839",42997
+Miami,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,33155,"25,628",24943
+Miami,Honda,CR-V,SUV,Certified,Red,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,33155,"7,085",35854
+Miami,GMC,Sierra 2500,TRUCKS,Used,Black,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,33155,"11,359",79863
+Miami,Buick,Encore,SUV,Used,White,Shale,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,33172,"24,908",21990
+Miami,Toyota,Corolla,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,33172,"8,366",21990
+Miami,Toyota,Corolla,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,33172,"15,462",23990
+Miami,Toyota,C-HR,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,33172,"28,614",23990
+Miami,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,33172,"28,831",24990
+Miami,Toyota,RAV4,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,33172,"35,707",24990
+Miami,Toyota,Camry,SEDAN,Used,Turquoise,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,33172,"13,938",25990
+Miami,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,33172,"22,828",25990
+Miami,Toyota,Camry,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,33172,"3,403",27990
+Miami,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,33172,"16,277",27990
+Miami,Toyota,Camry,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,33172,"21,967",29990
+Miami,Toyota,RAV4,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,33172,"23,394",31990
+Miami,Toyota,RAV4,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,33172,"16,435",31990
+Miami,Toyota,RAV4,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,33172,"15,009",31990
+Miami,Dodge,Challenger,COUPE,Used,,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,33155,"6,467",49990
+Miami,Lincoln,Nautilus,SUV,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,33172,"17,878",32990
+Miami,Lincoln,Nautilus,SUV,Certified,White,Ebony / Terracotta,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2020,33172,"6,780",46590
+Miami,Lincoln,Nautilus,SUV,Certified,Blue,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,33172,"10,255",47690
+Miami,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,33144,"38,575",28999
+Miami,Ford,Explorer,SUV,Used,Black,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,33144,"29,474",35999
+Miami,Lexus,NX 300,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,33144,"18,656",37999
+Miami,Toyota,4Runner,SUV,Used,Gray,Black/Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 19 Highway,2020,33144,"6,478",42899
+Miami,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2016,33186,"30,920",29991
+Miami,Mercedes-Benz,CLA 250,SEDAN,Certified,Gray,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2017,33134,"13,661",27812
+Miami,Mercedes-Benz,GLA 250,SUV,Certified,White,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33134,"23,259",30930
+Miami,Mercedes-Benz,GLA 250,SUV,Certified,Red,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,33134,"26,973",31603
+Miami,Mercedes-Benz,CLA 250,SEDAN,Certified,Black,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,33134,"20,105",33230
+Miami,Mercedes-Benz,A 220,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2019,33134,"26,544",33247
+Miami,Mercedes-Benz,GLA 250,SUV,Certified,Silver,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,33134,"25,556",33391
+Miami,Mercedes-Benz,C 300,SEDAN,Certified,Red,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,33134,"15,084",35989
+Miami,Mercedes-Benz,GLA 250,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,33134,"7,193",36112
+Miami,Mercedes-Benz,C 300,COUPE,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,33134,"22,984",42481
+Miami,Mercedes-Benz,C 300,CONVERT,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 31 Highway,2017,33134,"32,598",44634
+Miami,Mercedes-Benz,GLE 400,SUV,Certified,Blue,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,33134,"28,678",48387
+Miami,Mercedes-Benz,GLE 400,SUV,Certified,Black,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,33134,"21,128",49761
+Miami,Mercedes-Benz,GLS 450,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2018,33134,"34,955",55706
+Miami,Mercedes-Benz,E 450,COUPE,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,33134,"14,428",58542
+Miami,BMW,430i,CONVERT,Used,Blue,Ivory White/Dark Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33126,"26,223",33990
+Miami,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2015,33169,"69,193",15888
+Miami,Audi,A3,CONVERT,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 33 Highway,2015,33169,"80,195",17988
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 34 Highway,2016,33169,"44,981",24988
+Miami,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,33169,"49,285",25588
+Miami,Mercedes-Benz,GLC 300,SUV,Used,Silver,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2016,33169,"49,921",27988
+Miami,Maserati,Quattroporte,SEDAN,Used,Gray,Nero,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2017,33169,"58,195",39988
+Miami,Volvo,XC90,SUV,Used,Blue,Blond/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2019,33143,"35,940",40490
+Miami,Volvo,XC60,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,33143,"22,549",47490
+Miami,Volvo,XC90,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,33143,"20,798",51490
+Miami,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,33130,"9,544",23500
+Miami,Nissan,Altima,SEDAN,Used,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33130,"22,700",23800
+Miami,MAZDA,CX-30,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2021,33130,"14,754",28102
+Miami,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,33130,"28,293",32590
+Miami,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,33130,"44,355",23900
+Miami,Tesla,Model S,HATCH,Used,Red,Black,Single-Speed,Electric,Electric,All wheel drive,,2016,33130,"43,076",55900
+Miami,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2013,33143,"94,204",14490
+Miami,BMW,328i,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2015,33143,"58,539",17990
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,Black,,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,33143,"69,243",26490
+Miami,Chevrolet,Traverse,SUV,Used,Red,Ebony/Saddle Up,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,15 City / 22 Highway,2017,33143,"46,289",29990
+Miami,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,33143,"11,018",34990
+Miami,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,33143,"23,682",36990
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,33143,"8,346",44990
+Miami,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2021,33143,"3,335",47990
+Miami,Chevrolet,Tahoe,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2021,33143,"9,785",56490
+Miami,Honda,Fit,HATCH,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,33137,"19,913",19743
+Miami,Hyundai,Kona,SUV,Certified,Gray,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2018,33137,"32,072",21200
+Miami,Hyundai,Sonata,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,33137,"33,708",22826
+Miami,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,33137,"19,396",22842
+Miami,Hyundai,Kona,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,33137,"3,385",23000
+Miami,Jeep,Renegade,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,33137,"17,668",23214
+Miami,Hyundai,Sonata,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2020,33137,"15,632",23584
+Miami,Hyundai,Kona,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2021,33137,"10,285",23598
+Miami,Hyundai,Kona,SUV,Certified,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2019,33137,"21,037",23658
+Miami,Hyundai,Tucson,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,33137,"11,255",23980
+Miami,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2019,33137,"29,375",25405
+Miami,Hyundai,Tucson,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2020,33137,"14,106",25685
+Miami,Hyundai,Tucson,SUV,Certified,Off White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2021,33137,"9,344",26090
+Miami,Hyundai,Santa Fe,SUV,Certified,Black,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,33137,"28,582",27534
+Miami,Hyundai,Santa Fe,SUV,Certified,White,Black/Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,33137,"18,039",27556
+Miami,Hyundai,Tucson,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2021,33137,"4,171",27712
+Miami,Hyundai,Santa Fe,SUV,Certified,Blue,Espresso/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,33137,"16,618",28619
+Miami,Hyundai,Santa Fe,SUV,Certified,Green,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,33137,"9,078",29279
+Miami,Hyundai,Santa Fe,SUV,Certified,Green,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,33137,"12,066",30278
+Miami,BMW,X1,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,33137,"30,690",31575
+Miami,Nissan,Murano,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2021,33137,"1,640",32875
+Miami,Genesis,G70,SEDAN,Certified,Silver,Black/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,33137,"29,130",33755
+Miami,Lexus,RX 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,33137,"42,567",34025
+Miami,Genesis,G70,SEDAN,Certified,Black,Black/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,33137,"19,355",34139
+Miami,Mercedes-Benz,C 300,SEDAN,Used,White,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,33137,"25,885",34495
+Miami,Genesis,G70,SEDAN,Certified,Gray,Black/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,33137,"15,001",35146
+Miami,Hyundai,Santa Fe,SUV,Certified,White,Espresso/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,33137,"7,212",37198
+Miami,Genesis,G70,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,33137,"8,701",40115
+Miami,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33137,"29,643",41872
+Miami,Audi,Q7,SUV,Used,Silver,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,33137,"22,815",44052
+Miami,Tesla,Model Y,SUV,Used,Blue,White/Black,Single-Speed,Electric,Electric,All wheel drive,,2020,33137,"15,889",67120
+Miami,MINI,Cooper,HATCH,Used,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,33137,"17,778",26777
+Miami,MINI,Cooper Countryman,SUV,Used,Red,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2019,33137,"28,296",27423
+Miami,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,33137,"20,579",28999
+Miami,BMW,228i xDrive Gran Coupe,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,33137,"10,968",37650
+Miami,Jaguar,E-PACE,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,33137,"17,164",38450
+Miami,BMW,330i,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,33137,"17,228",38650
+Miami,BMW,X1,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,33137,"2,761",39450
+Miami,Land Rover,Range Rover Evoque,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 29 Highway,2019,33137,"25,233",40650
+Miami,BMW,430i,CONVERT,Certified,White,Night Blue/Dark Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,33137,"25,681",47899
+Miami,BMW,Z4,CONVERT,Certified,Blue,Cognac,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2019,33137,"13,072",51777
+Miami,BMW,X4,SUV,Used,Black,Tacora Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,33137,"8,730",63650
+Miami,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,33137,"22,084",70850
+Miami,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,33137,"27,362",19954
+Miami,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,33137,"23,042",22922
+Miami,Cadillac,ATS,COUPE,Used,White,Morello Red W/Jet Black Accent,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2015,33137,"83,164",23331
+Miami,Audi,Q3,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2018,33137,"46,507",24921
+Miami,Cadillac,XT5,SUV,Used,Black,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,33137,"36,498",28752
+Miami,Mercedes-Benz,C 300,COUPE,Used,White,Saddle Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,33137,"41,706",29891
+Miami,Cadillac,XT5,SUV,Certified,Blue,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,33137,"30,322",30791
+Miami,BMW,X2,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,33137,"13,202",32821
+Miami,Buick,Enclave,SUV,Used,White,Brandy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,33137,"34,378",32921
+Miami,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,33137,"71,519",32991
+Miami,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,33137,"31,286",33255
+Miami,Acura,RLX,SEDAN,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 29 Highway,2018,33137,"20,149",33833
+Miami,Cadillac,XT5,SUV,Certified,Black,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,33137,"28,255",33972
+Miami,Genesis,G70,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,33137,"18,033",33991
+Miami,Cadillac,XT5,SUV,Certified,,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,33137,"18,753",37912
+Miami,Cadillac,CT5,SEDAN,Certified,,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2020,33137,"13,331",45321
+Miami,Mercedes-Benz,GLE 400,SUV,Used,Blue,Silk Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,33137,"22,233",46935
+Miami,Porsche,Cayenne,SUV,Used,White,Black/Bordeaux Red,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 19 Highway,2020,33137,"13,010",133993
+Miami,Lexus,ES 350,SEDAN,Used,White,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,33181,"8,921",36998
+Miami,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,33014,"15,212",37750
+Miami,MAZDA,CX-5,SUV,Used,White,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,33172,"28,484",27900
+Miami,Acura,TL,SEDAN,Used,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2009,33142,"103,156",7999
+Miami,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,33177,"11,260",22490
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,33177,"20,977",36490
+Miami,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,33177,"10,189",36490
+Miami,Chevrolet,Cruze,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,33135,"36,861",16793
+Miami,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33135,"21,254",20498
+Miami,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,33135,"19,806",23290
+Miami,Nissan,Rogue Sport,SUV,Certified,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,33135,"9,749",23985
+Miami,Nissan,Kicks,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,33135,"18,062",23992
+Miami,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,33135,"14,096",24992
+Miami,Nissan,Sentra,SEDAN,Certified,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,33135,18,24995
+Miami,Nissan,Altima,SEDAN,Certified,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,33135,"18,732",25952
+Miami,Nissan,Altima,SEDAN,Certified,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,33135,"18,998",25991
+Miami,Nissan,Rogue Sport,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,33135,"10,250",25995
+Miami,Nissan,Murano,SUV,Certified,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2019,33135,"22,935",25995
+Miami,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,33135,"6,814",26460
+Miami,Nissan,Rogue Sport,SUV,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2021,33135,"5,069",27384
+Miami,Honda,Accord,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,33135,"24,563",27495
+Miami,Nissan,Murano,SUV,Certified,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2019,33135,"24,793",27590
+Miami,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,33135,"24,837",28490
+Miami,Nissan,Altima,SEDAN,Certified,Silver,Sport,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2021,33135,"5,812",29395
+Miami,Nissan,Murano,SUV,Used,Red,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,33135,"24,600",30289
+Miami,Nissan,Murano,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2021,33135,"7,193",32350
+Miami,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,33135,"11,832",32997
+Miami,Nissan,Armada,SUV,Used,White,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2019,33135,"28,059",38977
+Miami,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,33169,"6,906",34399
+Miami,Toyota,Highlander,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2020,33169,"17,572",35899
+Miami,Lexus,NX 300,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,33169,"10,944",41799
+Miami,Hyundai,Elantra,SEDAN,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,33054,"48,505",14999
+Miami,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,33054,"55,733",15999
+Miami,Chevrolet,Trax,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,33054,"47,935",17499
+Miami,Kia,Soul,HATCH,Used,Silver,Gray 2-Tone,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,33054,"25,565",17499
+Miami,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,33054,"46,584",18999
+Miami,FIAT,500X,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 29 Highway,2018,33054,"39,030",20749
+Miami,BMW,330e,SEDAN,Used,White,Saddle Brown/Dark Brown,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2017,33054,"41,212",23999
+Miami,BMW,320i xDrive,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,33054,"31,909",26999
+Miami,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,33054,"7,806",27249
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,33054,"26,492",27499
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Blue,Crema,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,33054,"44,095",27749
+Miami,Hyundai,Sonata,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,33054,"25,899",27999
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,33054,"9,883",29999
+Miami,Chevrolet,Bolt,WAGON,Used,Gray,Dark Galvanized Gray,Single-Speed,Electric,Electric,2 wheel drive - front,,2021,33054,"2,571",31499
+Miami,BMW,330e,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,33054,"26,966",31999
+Miami,Lexus,IS 300,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,33054,"28,261",31999
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33054,"40,305",32499
+Miami,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,33054,"27,839",33999
+Miami,Toyota,Tacoma,TRUCKS,Used,Red,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2016,33054,"57,864",33999
+Miami,Alfa Romeo,Giulia,SEDAN,Used,White,Black/Ice,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33054,"28,651",34499
+Miami,Toyota,Tundra,TRUCKS,Used,Red,,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2015,33054,"68,090",34999
+Miami,Lexus,RX 350,SUV,Used,Silver,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,33054,"33,373",35999
+Miami,Mercedes-Benz,GLE 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,33054,"51,843",38499
+Miami,Volvo,V60,WAGON,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,33054,"16,549",40999
+Miami,BMW,540i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,33054,"36,390",42999
+Miami,BMW,330i,SEDAN,Used,White,Black W/Oyster Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,33054,"10,733",43499
+Miami,Lincoln,Nautilus,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,33054,"19,625",45999
+Miami,Audi,A3,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,33126,"18,700",27900
+Miami,Audi,A3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,33126,"25,652",27900
+Miami,Honda,Pilot,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,33126,"50,218",28400
+Miami,Audi,A4,SEDAN,Used,Blue,Atlas Beige/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,33126,"26,520",30500
+Miami,Audi,A4,SEDAN,Used,White,Nougat Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,33126,"35,424",30900
+Miami,Audi,A4,SEDAN,Used,White,Atlas Beige/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,33126,"20,888",31400
+Miami,Audi,A4,SEDAN,Used,Blue,Nougat Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,33126,"21,744",32500
+Miami,Jaguar,F-PACE,SUV,Certified,Blue,Latte/Espresso Stitch,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2018,33126,"59,308",32900
+Miami,Jaguar,E-PACE,SUV,Certified,Black,Ebony/Sienna Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,33126,"33,399",35900
+Miami,Jaguar,E-PACE,SUV,Certified,White,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,33126,"28,304",38500
+Miami,Audi,Q5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,33126,"20,242",41900
+Miami,Ford,Explorer,SUV,Used,White,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,33126,"4,482",44500
+Miami,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,33126,"15,552",45900
+Miami,Audi,S4,SEDAN,Used,Gray,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2019,33126,"26,322",49900
+Miami,Audi,S4,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2019,33126,"23,422",50900
+Miami,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2020,33126,"1,495",72900
+Miami,Toyota,Tacoma,TRUCKS,Used,White,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 23 Highway,2017,33134,"42,063",28495
+Miami,MINI,Cooper Countryman,SUV,Used,White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,33134,"17,325",28921
+Miami,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,33134,"19,517",32998
+Miami,Mercedes-Benz,E 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,33134,"36,132",38474
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,33134,"24,461",38495
+Miami,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,33162,"13,758",27000
+Miami,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33162,"15,887",38775
+Miami,Nissan,Sentra,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,33172,"12,405",19995
+Miami,Lexus,IS 250,SEDAN,Used,White,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2015,33134,"58,826",23530
+Miami,INFINITI,Q50,SEDAN,Certified,Black,Stone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33134,"22,888",28929
+Miami,INFINITI,Q50,SEDAN,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33134,"29,265",29924
+Miami,INFINITI,Q70,SEDAN,Certified,White,Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2018,33134,"28,090",30855
+Miami,INFINITI,QX60,SUV,Certified,White,Java,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,33134,"55,025",30914
+Miami,INFINITI,Q50,SEDAN,Certified,Black,Wheat,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33134,"23,052",30922
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Black,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,33134,"33,690",31630
+Miami,INFINITI,Q50,SEDAN,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33134,"20,811",32921
+Miami,INFINITI,QX60,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33134,"25,439",33610
+Miami,INFINITI,QX60,SUV,Certified,White,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,33134,"23,713",34511
+Miami,INFINITI,QX60,SUV,Certified,White,Java,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33134,"24,458",34538
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Red,Tan/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2020,33134,"14,260",34711
+Miami,Mercedes-Benz,GLE 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2017,33134,"39,742",34942
+Miami,Nissan,Murano,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,33134,"11,797",35457
+Miami,INFINITI,QX60,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33134,"24,593",35927
+Miami,INFINITI,Q60,COUPE,Certified,Blue,Stone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2019,33134,"21,348",37515
+Miami,Volkswagen,Atlas,SUV,Used,Black,Dark Beige/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 23 Highway,2021,33134,"3,579",39815
+Miami,BMW,M240i,COUPE,Used,Gray,Coral Red,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2020,33134,"24,594",44910
+Miami,Maserati,Quattroporte,SEDAN,Used,Gray,Cuoio,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2018,33134,"26,504",54927
+Miami,Porsche,Boxster,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2015,33134,"11,757",62999
+Miami,INFINITI,QX80,SUV,Certified,Gray,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2021,33134,"6,335",68922
+Miami,Audi,RS 5,COUPE,Used,Green,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2018,33134,"4,328",72934
+Miami,Mercedes-Benz,S 550,CONVERT,Used,Blue,Designo Saddle Brown/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2017,33134,"27,848",83724
+Miami,BMW,528i,SEDAN,Used,Blue,Venetian Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2016,33156,"17,906",26964
+Miami,Lexus,RX 350,SUV,Certified,Silver,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33156,"32,492",41852
+Miami,Lexus,LS 500,SEDAN,Used,White,Parchment,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2018,33156,"4,320",59994
+Miami,Lexus,GX 460,SUV,Certified,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,33156,"11,092",59999
+Miami,Porsche,Cayenne,SUV,Used,Blue,Beige/Tan,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,33146,"24,093",69850
+Miami,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,33150,"53,288",12998
+Miami,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 33 Highway,2015,33150,"63,965",17998
+Miami,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2015,33150,"53,920",19998
+Miami,Nissan,Sentra,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,33150,"20,555",20998
+Miami,Lincoln,MKX,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2017,33150,"65,323",21998
+Miami,Honda,HR-V,SUV,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2020,33150,"25,669",24798
+Miami,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 26 Highway,2017,33150,"46,762",29998
+Miami,Ford,EcoSport,SUV,Certified,White,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,33150,"20,931",19991
+Miami,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,33150,"13,409",19991
+Miami,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,17 City / 22 Highway,2018,33150,"22,137",20291
+Miami,Ford,EcoSport,SUV,Certified,Red,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2019,33150,"10,615",21391
+Miami,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,33150,"11,432",21991
+Miami,Ford,Fusion,SEDAN,Certified,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,33150,"16,945",22391
+Miami,Toyota,Corolla,SEDAN,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 36 Highway,2020,33150,"12,953",23049
+Miami,Ford,Escape,SUV,Certified,White,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,33150,"19,662",26091
+Miami,Ford,Fusion,SEDAN,Certified,Red,Dark Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2018,33150,"34,050",26391
+Miami,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,33150,"17,995",26991
+Miami,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,33150,"11,506",31991
+Miami,Ford,Explorer,SUV,Certified,White,Medium Stone/Medium Light Ston,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,33150,"13,372",32191
+Miami,Ford,Ranger,TRUCKS,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,33150,"24,996",35591
+Miami,Cadillac,XT5,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2017,33150,"45,610",35991
+Miami,Ford,Explorer,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2021,33150,"8,280",38991
+Miami,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,33150,"24,670",39191
+Miami,GMC,Savana 2500,VANS,Used,White,Jet Black/Medium Dark Pewter,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2019,33150,"23,040",41991
+Miami,Ford,F150,TRUCKS,Certified,Black,Camelback,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,33150,"15,683",51791
+Miami,Ford,F250,TRUCKS,Certified,White,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,33150,"10,071",56791
+Miami,Ford,F150,TRUCKS,Certified,Red,Java,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,33150,"15,888",57991
+Miami,MAZDA,CX-5,SUV,Used,White,Sand,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2015,33166,"66,848",20747
+Miami,Nissan,Kicks,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2021,33166,"7,130",26447
+Miami,Mercedes-Benz,GLE 350,SUV,Used,Black,Black Pearl/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2016,33166,"68,807",29997
+Miami,BMW,530i,SEDAN,Used,Gray,Ivory White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33166,"56,321",32999
+Miami,Nissan,Sentra,SEDAN,Certified,Gray,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,33055,"9,801",23991
+Miami,INFINITI,Q50,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33055,"12,373",30991
+Miami,Jeep,Patriot,SUV,Used,Gray,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 27 Highway,2015,33126,"76,597",11998
+Miami,Ford,Fusion,SEDAN,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2016,33126,"72,710",13998
+Miami,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 34 Highway,2016,33126,"70,609",14498
+Miami,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2014,33126,"71,842",14498
+Miami,Dodge,Journey,SUV,Used,Gray,Black/Red,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2015,33126,"66,657",14998
+Miami,Jeep,Renegade,SUV,Used,Gray,Ski Gray/Bark Brown,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2016,33126,"58,626",15598
+Miami,Nissan,Rogue Sport,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,33126,"55,239",18998
+Miami,Honda,Civic,COUPE,Used,White,Black/Ivory,Manual,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2017,33126,"44,789",18998
+Miami,Toyota,Tacoma,TRUCKS,Used,White,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2015,33126,"74,847",18998
+Miami,Dodge,Journey,SUV,Used,White,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2018,33126,"37,926",19398
+Miami,Kia,Soul,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 33 Highway,2021,33126,"7,865",19898
+Miami,Honda,Civic,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,33126,"41,706",19998
+Miami,BMW,428i Gran Coupe xDrive,HATCH,Used,Blue,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2015,33126,"73,810",20498
+Miami,Nissan,Rogue,SUV,Used,Red,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,33126,"60,352",20998
+Miami,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,33126,"57,421",20998
+Miami,Audi,A3,SEDAN,Used,Black,Chestnut Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2017,33126,"63,312",20998
+Miami,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,33126,"52,742",22498
+Miami,Subaru,Impreza,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2020,33126,"14,220",22498
+Miami,Toyota,C-HR,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,33126,"19,940",23398
+Miami,Ford,Explorer,SUV,Used,Silver,Medium Light Camel,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,33126,"45,167",23398
+Miami,Volkswagen,Tiguan,SUV,Used,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,33126,"45,942",23998
+Miami,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,33126,"78,834",24998
+Miami,Mercedes-Benz,SLK 250,CONVERT,Used,Red,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2014,33126,"47,282",25498
+Miami,Mercedes-Benz,GLE 350,SUV,Used,White,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2017,33126,"73,933",27998
+Miami,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2016,33126,"65,063",27998
+Miami,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,33126,"23,635",28998
+Miami,BMW,430i,CONVERT,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33126,"57,344",29998
+Miami,INFINITI,QX60,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33126,"37,279",31998
+Miami,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,33126,"41,942",32998
+Miami,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,33126,"15,205",33398
+Miami,Mercedes-Benz,GLE 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,33126,"45,202",35998
+Miami,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2018,33126,"37,252",36998
+Miami,Lexus,RX 350L,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,33126,"40,075",37498
+Miami,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,11 City / 16 Highway,2013,33126,"45,071",43398
+Miami,Porsche,Macan,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,33126,"35,381",43898
+Miami,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,33126,"38,190",44998
+Miami,Jeep,Gladiator,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,33126,"4,780",47498
+Miami,Mercedes-Benz,GLE 400,SUV,Used,Blue,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,33126,"19,773",47898
+Miami,Porsche,Macan,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,33126,"45,420",49998
+Miami,Jaguar,I-PACE,SUV,Used,Black,Ebony,Single-Speed,Electric,Electric,All wheel drive,80 City / 72 Highway,2019,33126,"19,036",51998
+Miami,BMW,M550i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,33126,"29,138",58998
+Miami,Mercedes-Benz,S 450,SEDAN,Used,Gray,Nut Brown/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2018,33126,"28,788",61298
+Miami,Mercedes-Benz,S 450,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2018,33126,"19,295",62298
+Miami,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2014,33147,"78,483",17900
+Miami,Honda,CR-V,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2018,33135,"39,136",24899
+Miami,Honda,Accord,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2012,33126,"84,000",8491
+Miami,Hyundai,Accent,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 36 Highway,2016,33126,"47,802",11491
+Miami,Hyundai,Elantra,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,33126,"57,568",13341
+Miami,Kia,Forte,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2017,33126,"46,458",13691
+Miami,Nissan,Versa,SEDAN,Used,Black,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 39 Highway,2017,33126,"17,319",13991
+Miami,Volkswagen,Jetta,SEDAN,Used,Blue,Other,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 40 Highway,2017,33126,"49,480",14291
+Miami,Kia,Optima,SEDAN,Used,Gray,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2016,33126,"48,710",14391
+Miami,Nissan,Versa,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 39 Highway,2017,33126,"21,598",14491
+Miami,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,33126,"42,204",14791
+Miami,Hyundai,Veloster,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2017,33126,"39,146",15191
+Miami,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2017,33126,"30,296",16491
+Miami,Nissan,Sentra,SEDAN,Used,Red,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,33126,"20,011",18091
+Miami,Nissan,Altima,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 37 Highway,2018,33126,"29,084",18991
+Miami,Honda,HR-V,SUV,Used,Black,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2016,33126,"46,447",19691
+Miami,INFINITI,QX56,SUV,Used,Silver,Other,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2013,33126,"80,042",19991
+Miami,Hyundai,Santa Fe,SUV,Used,Black,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,33126,"26,815",19991
+Miami,Acura,ILX,SEDAN,Used,White,Graystone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2017,33126,"34,952",20831
+Miami,Volkswagen,Tiguan,SUV,Used,Black,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2017,33126,"25,262",21191
+Miami,Honda,HR-V,SUV,Used,Red,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2018,33126,"11,900",21491
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 34 Highway,2016,33126,"49,912",21691
+Miami,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,33126,"38,224",21991
+Miami,Chrysler,300,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,33126,"37,413",22951
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Black,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,33126,"47,915",23991
+Miami,BMW,320i,SEDAN,Used,Black,Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,33126,"27,224",24191
+Miami,BMW,320i,SEDAN,Used,White,Venetian Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,33126,"36,047",24191
+Miami,Audi,A6,SEDAN,Used,Gray,Other,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,20 City / 29 Highway,2016,33126,"51,218",24491
+Miami,Nissan,Maxima,SEDAN,Used,Black,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,33126,"34,592",24991
+Miami,Volkswagen,Tiguan,SUV,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,33126,"36,000",24991
+Miami,Toyota,RAV4,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,33126,"23,000",24991
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,33126,"34,093",25091
+Miami,BMW,330i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,33126,"30,070",25891
+Miami,Ford,Mustang,COUPE,Used,Black,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,33126,"22,731",25991
+Miami,BMW,320i,SEDAN,Used,Red,Venetian Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,33126,"39,840",26091
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2017,33126,"40,384",26391
+Miami,Mercedes-Benz,GLA 250,SUV,Used,Red,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33126,"28,921",26491
+Miami,BMW,320i,SEDAN,Used,Beige,Venetian Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,33126,"28,267",26491
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2017,33126,"32,718",26831
+Miami,BMW,X3,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,33126,"30,222",26991
+Miami,INFINITI,QX60,SUV,Used,Gray,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,33126,"46,250",26991
+Miami,Chevrolet,Camaro,COUPE,Used,White,Medium Ash Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2018,33126,"21,488",27781
+Miami,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,33126,"57,111",27991
+Miami,Mercedes-Benz,GLA 250,SUV,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33126,"24,451",27991
+Miami,Alfa Romeo,Giulia,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"38,841",28261
+Miami,Alfa Romeo,Stelvio,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"30,331",28291
+Miami,Mercedes-Benz,C 300,SEDAN,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,33126,"40,130",28291
+Miami,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,33126,"29,846",28331
+Miami,Mercedes-Benz,GLA 250,SUV,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,33126,"35,789",28391
+Miami,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33126,"34,086",28491
+Miami,BMW,430i Gran Coupe,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33126,"31,394",29491
+Miami,Lexus,IS 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,33126,"34,877",29631
+Miami,Mercedes-Benz,E 300,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,33126,"46,409",29691
+Miami,Chevrolet,Colorado,TRUCKS,Used,Blue,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2016,33126,"47,942",29991
+Miami,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,33126,"29,142",30081
+Miami,BMW,330i,SEDAN,Used,Gray,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,33126,"24,577",30191
+Miami,Alfa Romeo,Stelvio,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"20,802",31991
+Miami,Alfa Romeo,Stelvio,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"38,839",32191
+Miami,Alfa Romeo,Stelvio,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"28,284",32441
+Miami,Porsche,Cayenne,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2016,33126,"54,193",32991
+Miami,Alfa Romeo,Stelvio,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,33126,"30,723",33281
+Miami,BMW,430i Gran Coupe xDrive,HATCH,Used,Black,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,33126,"34,095",33291
+Miami,Lexus,GX 460,SUV,Used,White,Other,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2016,33126,"54,401",34891
+Miami,Mercedes-Benz,E 300,SEDAN,Used,White,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2017,33126,"29,022",35671
+Miami,Mercedes-Benz,E 300,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,33126,"35,619",35691
+Miami,Jeep,Wrangler,SUV,Used,Silver,Other,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,33126,"30,461",37591
+Miami,Lincoln,Navigator,SUV,Used,Off White,Other,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,15 City / 21 Highway,2017,33126,"34,696",38591
+Miami,Audi,Q5,SUV,Used,White,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,33126,"27,227",38941
+Miami,Maserati,Ghibli,SEDAN,Used,Red,Other,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 24 Highway,2018,33126,"26,216",41491
+Miami,Maserati,Ghibli,SEDAN,Used,Gray,Other,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,33126,"38,130",42191
+Miami,Maserati,Ghibli,SEDAN,Used,White,Other,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 24 Highway,2018,33126,"34,121",42991
+Miami,BMW,X5,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,33126,"20,452",43891
+Miami,BMW,X5,SUV,Used,Gray,Other,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,33126,"16,922",45261
+Miami,Maserati,Levante,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 20 Highway,2018,33126,"22,868",51371
+Miami,Porsche,Panamera,HATCH,Used,Black,Other,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,33126,"18,037",79991
+Miami,Chevrolet,Cruze,SEDAN,Used,Blue,Medium Titanium,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2014,33157,"46,300",10998
+Miami,Nissan,Altima,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,33157,"58,548",13498
+Miami,Nissan,Altima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 39 Highway,2016,33157,"59,814",13798
+Miami,Nissan,Altima,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 39 Highway,2016,33157,"55,572",14498
+Miami,Nissan,Kicks,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2018,33157,"30,074",18498
+Miami,Nissan,Versa,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,33157,"4,703",18798
+Miami,Nissan,Kicks,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2019,33157,"13,197",18998
+Miami,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,33157,"32,514",18998
+Miami,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33157,"29,068",19498
+Miami,Nissan,Altima,SEDAN,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33157,"2,084",20498
+Miami,Nissan,Rogue Sport,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,33157,"26,772",20998
+Miami,GMC,Terrain,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,33157,"37,927",21998
+Miami,Nissan,Altima,SEDAN,Used,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33157,"26,068",21998
+Miami,Nissan,Altima,SEDAN,Used,Silver,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,33157,"19,769",23998
+Miami,Nissan,Altima,SEDAN,Used,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,33157,"8,658",24498
+Miami,Nissan,Kicks,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,33157,951,25998
+Miami,Ford,Mustang,COUPE,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2020,33157,"15,925",28498
+Miami,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2019,33157,"23,201",33998
+Miami,INFINITI,Q50,SEDAN,Used,White,Quilted Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,33157,"29,622",35998
+Miami,Ford,F150,TRUCKS,Used,,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,33157,"35,338",37498
+Miami,Nissan,Armada,SUV,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,33157,"13,826",39598
+Miami,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,33157,"29,544",40298
+Miami,Volkswagen,Atlas,SUV,Used,Black,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,33157,"12,427",42998
+Miami,Mercedes-Benz,C 43 AMG,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,33157,"18,641",46998
+Miami,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,33157,"5,557",49998
+Miami,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,33157,"26,520",54998
+Miami,Nissan,Pathfinder,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2016,33155,"85,538",17931
+Miami,Hyundai,Sonata,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2021,33155,"13,154",25989
+Miami,Chevrolet,Tahoe,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2020,33155,"22,963",62895
+Miami,Chevrolet,Corvette,COUPE,Used,Gray,Red,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 23 Highway,2016,33155,"12,006",74422
+Miami,Lexus,ES 350,SEDAN,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2013,33172,"64,456",20990
+Miami,Lincoln,MKC,SUV,Used,Silver,Espresso,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2017,33172,"47,057",21990
+Miami,Lincoln,MKZ,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 33 Highway,2016,33172,"32,591",21990
+Miami,Nissan,Altima,SEDAN,Used,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,33172,"29,149",22990
+Miami,Lincoln,MKC,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,33172,"17,401",23990
+Miami,Lincoln,MKC,SUV,Certified,Black,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,33172,"18,132",25990
+Miami,Lincoln,Continental,SEDAN,Certified,White,Cappuccino,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2018,33172,"48,537",28990
+Miami,Mercedes-Benz,GLA 250,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,33172,"29,844",29590
+Miami,Lincoln,Nautilus,SUV,Certified,Beige,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,33172,"16,959",31990
+Miami,Buick,Enclave,SUV,Used,Silver,Dark Galvanized,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,33172,"31,408",32990
+Miami,Lincoln,Continental,SEDAN,Used,Gray,Cappuccino,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2018,33172,"39,489",32990
+Miami,Mercedes-Benz,GLC 300,SUV,Used,Black,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,33172,"23,368",35990
+Miami,Lincoln,Nautilus,SUV,Certified,Black,Coffee / Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,33172,"17,139",36990
+Miami,Ford,Explorer,SUV,Used,Red,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,33172,"19,438",37590
+Miami,Lincoln,Nautilus,SUV,Certified,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,33172,"8,961",37990
+Miami,Lincoln,Nautilus,SUV,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2020,33172,"2,157",38990
+Miami,Nissan,Armada,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,33172,"10,258",39990
+Miami,Kia,Telluride,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2021,33172,"5,636",42990
+Miami,Toyota,Land Cruiser,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 18 Highway,2019,33172,"9,717",89990
+Miami,Ford,Fiesta,SEDAN,Certified,Burgundy,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,33144,"15,394",14999
+Miami,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,33144,"42,798",17998

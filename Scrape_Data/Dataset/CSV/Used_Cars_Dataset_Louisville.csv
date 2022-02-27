@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Louisville,Subaru,Legacy,SEDAN,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2018,40216,"26,539",20419
+Louisville,Chevrolet,Camaro,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2021,40216,"9,882",49855
+Louisville,Hyundai,Genesis Coupe,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2015,40207,"30,476",24849
+Louisville,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,47129,"16,122",27271
+Louisville,Hyundai,Tucson,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2020,47129,"18,301",26995
+Louisville,RAM,3500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,47129,"23,786",73900
+Louisville,Honda,Civic,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,40216,"11,533",26934
+Louisville,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,40216,"9,158",54949
+Louisville,Nissan,Altima,SEDAN,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,40207,"11,134",23862
+Louisville,Nissan,Murano,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,40207,"33,345",23886
+Louisville,Nissan,Altima,SEDAN,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,40207,"16,949",26079
+Louisville,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2021,40207,"11,128",30800
+Louisville,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2015,40258,"57,312",29900
+Louisville,Toyota,Prius,HATCH,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2016,47129,"85,869",17641
+Louisville,Chrysler,300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,47129,"25,963",29849
+Louisville,Nissan,Leaf,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,124 City / 101 Highway,2017,40299,"28,430",15389
+Louisville,Hyundai,Kona,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,40299,"22,057",21489
+Louisville,Subaru,Forester,SUV,Used,Green,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2017,40299,"37,569",24689
+Louisville,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,40299,"24,800",24989
+Louisville,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,40299,"6,282",25339
+Louisville,Honda,Accord,SEDAN,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,40299,"21,370",28989
+Louisville,Ford,Flex,SUV,Used,White,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,40299,"25,510",30889
+Louisville,Alfa Romeo,Giulia,SEDAN,Used,Black,Black/Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,40299,"30,938",31489
+Louisville,Alfa Romeo,Stelvio,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,40299,"34,702",32789
+Louisville,BMW,530i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,40299,"31,703",37189
+Louisville,MAZDA,CX-5,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,40222,"32,354",25900
+Louisville,Toyota,Corolla,SEDAN,Used,White,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,40222,"5,848",27400
+Louisville,Chrysler,Pacifica,VANS,Used,Blue,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,40222,"34,799",30000
+Louisville,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,40222,"19,316",38800
+Louisville,Hyundai,Tucson,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,47129,"28,969",24879
+Louisville,Audi,S5,HATCH,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,47129,"15,970",56416
+Louisville,Hyundai,Tucson,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2020,40222,"8,312",30000
+Louisville,Genesis,G70,SEDAN,Used,Gray,Black/Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,40222,"11,176",38000
+Louisville,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2016,40299,"37,934",15000
+Louisville,Honda,Fit,HATCH,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,40299,"9,167",21800
+Louisville,Tesla,Model Y,SUV,Used,Red,Black,Single-Speed,Electric,Electric,All wheel drive,,2021,40299,"3,840",66000
+Louisville,Lexus,GX 460,SUV,Used,White,Ecru,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,40299,"6,215",70000
+Louisville,Toyota,Camry,SEDAN,Certified,Black,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,40222,"4,839",28000
+Louisville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,47130,"7,253",52988
+Louisville,Ford,Fusion,SEDAN,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2015,47129,"49,588",17282
+Louisville,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,47129,"70,355",17925
+Louisville,Chrysler,200,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,47129,"41,115",17933
+Louisville,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,47129,"19,169",19661
+Louisville,Chevrolet,Cruze,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,47129,"18,840",20465
+Louisville,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,47129,"26,664",26805
+Louisville,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,47129,"30,745",29995
+Louisville,BMW,435i,CONVERT,Used,White,Coral Red/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2015,47129,"59,302",30495
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2021,47129,"2,310",59010
+Louisville,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2015,40216,"62,699",22105
+Louisville,Mercedes-Benz,C 300,SEDAN,Used,Black,Black With Gray/Ash Stitching,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,40216,"47,189",23310
+Louisville,MAZDA,MAZDA6,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,40216,"28,399",23915
+Louisville,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,40216,"24,967",24094
+Louisville,MAZDA,MAZDA3,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 32 Highway,2020,40216,"19,085",24158
+Louisville,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,40216,"25,217",25266
+Louisville,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,40216,"37,623",26436
+Louisville,Volkswagen,Passat,SEDAN,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,40216,"14,154",26988
+Louisville,Subaru,Crosstrek,SUV,Used,Black,Black W/Orange Stitching,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,40216,"8,667",28656
+Louisville,Subaru,Crosstrek,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,40216,"3,927",32132
+Louisville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2015,40216,"55,804",33924
+Louisville,Subaru,Ascent,SUV,Used,Blue,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,40216,"16,116",38445
+Louisville,Volkswagen,Atlas,SUV,Used,Gray,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,40216,"17,969",39258
+Louisville,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,40216,"22,068",44627
+Louisville,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,47129,"29,564",31665
+Louisville,Dodge,Challenger,COUPE,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2014,40216,"49,097",20225
+Louisville,Jeep,Wrangler,SUV,Used,Silver,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2017,40216,"49,125",28700
+Louisville,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,40216,"59,633",33500
+Louisville,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,40216,"15,270",40650
+Louisville,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,40216,"35,946",41568
+Louisville,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,40216,"11,950",47888
+Louisville,Ford,EcoSport,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,40216,"38,823",19850
+Louisville,Chevrolet,Colorado,TRUCKS,Used,Red,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2017,40216,"38,263",22159
+Louisville,Honda,Civic,SEDAN,Used,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,40216,"38,674",23763
+Louisville,Honda,Accord,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,40216,"17,897",25828
+Louisville,Jeep,Compass,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,40216,"11,690",26824
+Louisville,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2018,40216,"36,861",38691
+Louisville,BMW,428i Gran Coupe xDrive,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 34 Highway,2016,40258,"55,627",25995
+Louisville,Lexus,IS 200t,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2017,40258,"42,716",29989
+Louisville,Chrysler,200,SEDAN,Used,Silver,Blackcloth,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,40299,"41,819",17998
+Louisville,Volkswagen,Atlas,SUV,Used,White,Titan Blackleather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 26 Highway,2018,40299,"46,261",29997
+Louisville,Ford,Fusion,SEDAN,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2015,40207,"90,196",14073
+Louisville,Ford,Explorer,SUV,Used,Gray,Medium Light Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,40207,"90,308",17531
+Louisville,Nissan,Rogue Sport,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,40207,"32,442",22809
+Louisville,Nissan,Kicks,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,40207,"8,510",25968
+Louisville,Buick,Encore GX,SUV,Used,Red,Ebony With Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2021,40207,"1,976",30532
+Louisville,Nissan,Frontier,TRUCKS,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2020,40207,"10,200",31572
+Louisville,Toyota,RAV4,SUV,Used,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,40207,"22,220",32107
+Louisville,Nissan,Titan,TRUCKS,Certified,Gray,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2021,40207,"7,650",56947
+Louisville,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,40299,"11,989",27995
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,40299,"11,904",57840
+Louisville,Subaru,Legacy,SEDAN,Used,Red,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2017,40207,"34,390",22000
+Louisville,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2017,40207,"45,035",24250
+Louisville,Nissan,Pathfinder,SUV,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2017,40207,"44,156",29800
+Louisville,Lincoln,MKC,SUV,Used,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,40207,"26,194",33300
+Louisville,Ford,Ranger,TRUCKS,Used,Green,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2021,40207,"3,233",36800
+Louisville,Lincoln,MKZ,SEDAN,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2019,40207,"12,947",38800
+Louisville,Maserati,GranTurismo,COUPE,Used,Blue,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 21 Highway,2013,40207,"52,414",38800
+Louisville,Honda,Civic,HATCH,Used,Black,Red/Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2017,40207,"21,140",39987
+Louisville,BMW,440i xDrive,COUPE,Used,Gray,Coral Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,40207,"23,565",40500
+Louisville,Subaru,Ascent,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,40207,"10,815",42000
+Louisville,Alfa Romeo,Giulia,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2021,40207,"4,856",42800
+Louisville,Lexus,GX 460,SUV,Used,Gray,Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2017,40207,"20,256",45000
+Louisville,Maserati,Quattroporte,SEDAN,Used,White,Marrone,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 23 Highway,2017,40207,"22,444",49000
+Louisville,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,40207,"17,142",51000
+Louisville,Dodge,Charger,SEDAN,Used,Orange,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,40207,"1,399",53000
+Louisville,Jeep,Gladiator,TRUCKS,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,40207,"1,563",54500
+Louisville,BMW,M440i,CONVERT,Used,Black,Tacora Red,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,23 City / 31 Highway,2021,40207,"7,695",67500
+Louisville,Lincoln,Navigator,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2019,40207,"29,055",72000
+Louisville,Maserati,GranTurismo,COUPE,Used,Black,Bordeaux,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 21 Highway,2018,40207,"6,468",78500
+Louisville,MAZDA,MAZDA3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,40258,"26,496",19900
+Louisville,MAZDA,MAZDA6,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,40258,"47,849",20500
+Louisville,Hyundai,Santa Fe,SUV,Used,White,Espresso/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,40258,"23,895",31000
+Louisville,Hyundai,Santa Fe,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,40258,"19,971",35900
+Louisville,Ford,F150,TRUCKS,Used,Burgundy,Dark Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,40258,"19,911",36500
+Louisville,Nissan,Titan,TRUCKS,Used,Brown,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,40258,"41,070",41000
+Louisville,RAM,2500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2019,40258,"22,264",57500
+Louisville,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,40232,"34,102",27500
+Louisville,Ford,Ranger,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,40232,"8,443",29000
+Louisville,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,40232,"12,028",29500
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2017,40232,"45,041",34250
+Louisville,MAZDA,MAZDA3,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2016,47129,"57,358",17729
+Louisville,Toyota,Yaris,SEDAN,Used,,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2019,47129,"16,067",20987
+Louisville,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2016,47129,"10,768",21887
+Louisville,Nissan,Altima,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,47129,"31,449",22959
+Louisville,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,47129,"28,225",23563
+Louisville,Nissan,Sentra,SEDAN,Used,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,47129,"5,348",24463
+Louisville,Nissan,Rogue Sport,SUV,Used,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,47129,"18,455",25223
+Louisville,Lexus,NX 300,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,47129,"56,882",31238
+Louisville,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,47129,"13,488",31999
+Louisville,Ford,F150,TRUCKS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,47129,"46,895",35795
+Louisville,BMW,X4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,47129,"25,899",46340
+Louisville,Chevrolet,Malibu,SEDAN,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,47129,"27,040",22677
+Louisville,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,47129,"17,206",23252
+Louisville,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2021,47129,"3,483",25706
+Louisville,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,47129,"35,945",28999
+Louisville,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,47129,"26,651",33718
+Louisville,Kia,Stinger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,40299,"30,447",42000
+Louisville,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2018,40299,"42,370",19489
+Louisville,Ford,Fusion,SEDAN,Used,Blue,Medium Light Stone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,40299,"41,775",21189
+Louisville,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,40299,"26,974",21699
+Louisville,MAZDA,MAZDA3,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2018,40299,"31,819",21989
+Louisville,Hyundai,Santa Fe,SUV,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,40299,"38,733",22389
+Louisville,Hyundai,Santa Fe,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,40299,"49,901",22489
+Louisville,Hyundai,Kona,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,40299,"23,235",23489
+Louisville,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2020,40299,"24,002",24189
+Louisville,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,40299,"30,679",24289
+Louisville,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,40299,"27,127",25689
+Louisville,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,40299,"45,613",25889
+Louisville,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,40299,"26,270",26189
+Louisville,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,40299,"25,184",26589
+Louisville,Hyundai,Santa Fe,SUV,Used,Black,Black/Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,40299,"24,927",26989
+Louisville,Toyota,Camry,SEDAN,Used,Silver,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,40299,"50,091",26989
+Louisville,Dodge,Challenger,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,40299,"32,855",27289
+Louisville,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,40299,"28,277",27489
+Louisville,MAZDA,CX-5,SUV,Used,Black,Silk Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,40299,"16,844",27689
+Louisville,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,40299,"24,407",27989
+Louisville,Kia,Sorento,SUV,Used,Silver,Satin Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,40299,"21,439",28789
+Louisville,Lincoln,MKZ,SEDAN,Used,Blue,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,40299,"34,873",28989
+Louisville,Hyundai,Santa Fe,SUV,Used,Gray,Espresso/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,40299,"27,035",29189
+Louisville,BMW,X3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2017,40299,"19,964",29489
+Louisville,BMW,330i,SEDAN,Used,Gray,Coral Red/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,40299,"31,862",29789
+Louisville,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,40299,"38,584",30989
+Louisville,Toyota,Avalon,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2019,40299,"26,739",32399
+Louisville,Subaru,Outback,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,40299,"24,518",32889
+Louisville,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2019,40299,"29,495",33289
+Louisville,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,40299,"43,004",33789
+Louisville,Audi,A4,SEDAN,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,40299,"20,258",33989
+Louisville,Subaru,Outback,SUV,Used,Black,Titanium Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,40299,"12,944",34189
+Louisville,Ford,Explorer,SUV,Used,Black,Ebony Black W/Fire Orange,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,40299,"24,998",34389
+Louisville,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2017,40299,"50,109",34889
+Louisville,Volvo,XC60,SUV,Used,Brown,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,40299,"37,904",35789
+Louisville,Lexus,RX 350,SUV,Used,Silver,Noble Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,40299,"39,021",36999
+Louisville,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,40299,"44,479",40889
+Louisville,BMW,X5,SUV,Used,White,Amaro Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,40299,"29,727",40989
+Louisville,Chevrolet,Tahoe,SUV,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,40299,"29,403",41889
+Louisville,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,40299,"29,259",42389
+Louisville,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,40299,"17,604",45189
+Louisville,Chevrolet,Camaro,COUPE,Used,Yellow,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,40299,"24,684",37500
+Louisville,Ford,Escape,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2017,40207,"58,517",22337
+Louisville,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,40207,"39,015",22495
+Louisville,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,40207,"20,808",24640
+Louisville,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,40207,"27,978",25786
+Louisville,Nissan,Sentra,SEDAN,Certified,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,40207,"4,331",26577
+Louisville,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,40207,"27,936",29980
+Louisville,BMW,X3,SUV,Used,White,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 29 Highway,2021,40207,"7,917",45739
+Louisville,FIAT,124 Spider,CONVERT,Used,Red,Nero (Black),Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 36 Highway,2018,40207,"28,289",24607
+Louisville,Nissan,Kicks,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2018,40218,"9,790",19988
+Louisville,Nissan,Altima,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,40218,"18,364",26988
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,40218,"17,287",38988
+Louisville,Chevrolet,Colorado,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,40218,"53,477",32555
+Louisville,Kia,Forte,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,40207,"33,501",19808
+Louisville,Nissan,Maxima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 30 Highway,2016,40207,"41,670",25777
+Louisville,Toyota,Tacoma,TRUCKS,Used,Red,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2017,40207,"23,489",38000
+Louisville,RAM,1500,TRUCKS,Used,White,Diesel Gray Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2019,40218,"4,948",39988
+Louisville,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,40213,"16,464",29990
+Louisville,Ford,Ranger,TRUCKS,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,40213,"27,326",36490
+Louisville,Ford,Ranger,TRUCKS,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,40213,"6,039",37990
+Louisville,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,40213,"39,102",38990
+Louisville,Ford,Transit 250,VANS,Used,White,Charcoal,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,,2018,40213,"31,275",43490
+Louisville,Ford,Transit 250,VANS,Used,White,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,,2019,40213,"23,830",45990
+Louisville,INFINITI,Q50,SEDAN,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2020,40299,"10,355",40988
+Louisville,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2014,40222,"65,195",17000
+Louisville,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,40222,"37,369",25000
+Louisville,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,40222,"33,905",25550
+Louisville,MAZDA,CX-5,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,40222,"27,392",31650
+Louisville,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,40222,"8,173",33400
+Louisville,GMC,Sierra 1500,TRUCKS,Used,Gray,Neutral,Automatic,Gasoline,8-Cylinder,All wheel drive,11 City / 14 Highway,2002,47129,"160,437",6999
+Louisville,Chevrolet,Sonic,HATCH,Used,White,Jet Black/Dark Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2017,47129,"28,376",16066
+Louisville,Hyundai,Elantra,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,47129,"23,532",19304
+Louisville,Ford,F250,TRUCKS,Used,White,Camel,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2008,47129,"141,497",20999
+Louisville,RAM,1500,TRUCKS,Used,Gray,Red/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,47129,"29,847",48918
+Louisville,Hyundai,Elantra,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2020,40222,"10,676",21500
+Louisville,Hyundai,Sonata,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,40222,"29,991",21500
+Louisville,Hyundai,Equus,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2015,40222,"56,721",22000
+Louisville,Honda,CR-V,SUV,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,40222,"38,458",28500
+Louisville,Hyundai,Sonata,SEDAN,Certified,Black,Dark Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,40222,"7,616",29000
+Louisville,Hyundai,Santa Fe,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2018,40222,"26,888",33000
+Louisville,Mercedes-Benz,GLC 300,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,40222,"30,928",36900
+Louisville,Genesis,G70,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,40222,"4,572",37500
+Louisville,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2018,40299,"37,006",21000
+Louisville,Honda,HR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 31 Highway,2020,40299,"19,652",27000
+Louisville,Toyota,RAV4,SUV,Used,Gray,Nutmeg,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,40299,"41,934",28000
+Louisville,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,47 City / 47 Highway,2018,40299,"53,301",28329
+Louisville,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,40299,"20,651",30227
+Louisville,Acura,ILX,SEDAN,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2020,40299,"14,701",31856
+Louisville,Ford,Edge,SUV,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,40203,"25,185",27480
+Louisville,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2016,40299,"78,264",18861
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2019,40299,"40,713",47810
+Louisville,Lincoln,MKX,SUV,Used,Gold,Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2012,40215,"75,565",17990
+Louisville,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,40258,"39,915",24991
+Louisville,Honda,Accord,SEDAN,Used,Red,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,47 City / 47 Highway,2018,40258,"58,652",29440
+Louisville,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2021,40258,"8,941",30462
+Louisville,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2021,40258,"12,120",37987
+Louisville,Chevrolet,SS,SEDAN,Used,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2015,40258,"53,833",43794
+Louisville,Land Rover,Range Rover Evoque,SUV,Used,Green,Almond/Almond,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2017,40222,"39,408",32397
+Louisville,Toyota,Tacoma,TRUCKS,Used,Gray,Stratus Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,40222,"10,470",35667
+Louisville,Jeep,Wrangler,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2019,40222,"16,026",44502
+Louisville,Mercedes-Benz,E 63 AMG,SEDAN,Used,Gray,Saddle Brown/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 23 Highway,2019,40222,"21,217",95844
+Louisville,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,40222,"28,319",21900
+Louisville,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,40222,"19,304",22500
+Louisville,Ford,Escape,SUV,Used,Blue,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,40222,"19,030",22750
+Louisville,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,40222,"45,554",23465
+Louisville,Ford,Explorer,SUV,Used,Off White,Medium Stone/Medium Light Ston,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,40222,"37,364",33990
+Louisville,Ford,Edge,SUV,Certified,Blue,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,40222,"38,190",33990
+Louisville,Ford,Explorer,SUV,Certified,Burgundy,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,40222,"28,006",35000
+Louisville,RAM,2500,TRUCKS,Used,Black,Gone,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2018,40222,"5,477",46000
+Louisville,Ford,F150,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,40222,"29,119",47000
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Used,Red,Jet Black/Umber,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,40222,"9,368",79900
+Louisville,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,29 City / 41 Highway,2020,40222,"11,681",29480
+Louisville,Toyota,Camry,SEDAN,Certified,White,Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,40222,"15,213",32887
+Louisville,Toyota,Avalon,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,40222,"15,149",36787
+Louisville,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,40222,"19,816",38899
+Louisville,Toyota,4Runner,SUV,Certified,White,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,40222,"21,119",38986
+Louisville,Toyota,Avalon,SEDAN,Certified,Blue,Cognac,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,40222,"2,504",43000
+Louisville,Toyota,Tacoma,TRUCKS,Certified,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,40222,"4,896",49000
+Louisville,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,47130,"46,095",18500
+Louisville,Nissan,Altima,SEDAN,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,47130,"28,410",27456
+Louisville,Hyundai,Tucson,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,47130,"24,780",31999
+Louisville,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,47130,"21,346",32365
+Louisville,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,47130,"47,400",41999
+Louisville,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,47130,"50,210",54000
+Louisville,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,47130,"7,461",56498
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,47130,"5,528",64389
+Louisville,BMW,M550i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,40245,"39,527",53998
+Louisville,Chevrolet,Tahoe,SUV,Used,Gray,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2007,47129,"205,770",6995
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2007,47129,"182,207",10995
+Louisville,Honda,Accord,SEDAN,Used,Silver,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2014,47129,"78,710",17797
+Louisville,Chevrolet,Trax,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,47129,"48,588",19595
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,White,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2010,47129,"80,825",19995
+Louisville,Chevrolet,Equinox,SUV,Certified,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,47129,"45,531",25610
+Louisville,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,47129,"31,701",27998
+Louisville,GMC,Acadia,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,47129,"12,169",33420
+Louisville,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,47129,"34,150",33455
+Louisville,Ford,Ranger,TRUCKS,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,47129,"17,735",39850
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,47129,"25,572",39959
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2019,47129,"25,906",43933
+Louisville,Ford,F150,TRUCKS,Used,Gray,Black Medium Dark Slate,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2021,47129,"7,150",47684
+Louisville,Dodge,Charger,SEDAN,Used,Brown,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,47129,"20,345",48333
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,47129,"6,119",49352
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2021,47129,"7,010",56988
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Certified,White,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,47129,"20,819",78995
+Louisville,Chevrolet,Suburban,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,47129,"4,728",80995
+Louisville,Chevrolet,Spark,HATCH,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,40216,"11,614",16768
+Louisville,Jeep,Renegade,SUV,Used,White,Brown,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2015,40216,"54,830",17255
+Louisville,Hyundai,Elantra,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,40216,"43,950",18000
+Louisville,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2017,40216,"68,185",18999
+Louisville,Dodge,Grand Caravan,VANS,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2017,40216,"61,625",19252
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Ebony,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2013,40216,"91,036",19521
+Louisville,Ford,Taurus,SEDAN,Used,Gray,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2017,40216,"54,712",19650
+Louisville,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2016,40216,"43,603",19857
+Louisville,MAZDA,CX-3,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2016,40216,"46,942",21353
+Louisville,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,40216,"79,776",22000
+Louisville,Volkswagen,Jetta,SEDAN,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,40216,"44,396",22113
+Louisville,Jeep,Renegade,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2018,40216,"36,526",22129
+Louisville,Ford,Fusion,SEDAN,Used,Silver,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,40216,"9,873",22948
+Louisville,Volkswagen,Jetta,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2017,40216,"26,232",22956
+Louisville,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,40216,"31,006",25000
+Louisville,Subaru,Forester,SUV,Used,Blue,Gray,Manual,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,40216,"14,210",27332
+Louisville,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2018,40216,"48,912",28597
+Louisville,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,40216,"40,747",28829
+Louisville,Subaru,Outback,SUV,Used,Green,Java Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,40216,"29,293",33476
+Louisville,MAZDA,CX-5,SUV,Used,Red,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,40216,"9,378",33599
+Louisville,Lexus,ES 350,SEDAN,Used,White,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,40216,"38,528",37000
+Louisville,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,40216,"20,240",38802
+Louisville,BMW,X3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 29 Highway,2021,40216,"7,000",47898
+Louisville,Volkswagen,Atlas,SUV,Used,Black,Mauro Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2021,40216,"11,500",49415
+Louisville,Kia,Stinger,SEDAN,Used,Orange,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,47129,"33,855",39587
+Louisville,Toyota,Tacoma,TRUCKS,Used,White,Black/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,47129,"20,669",41448
+Louisville,Hyundai,Genesis Coupe,COUPE,Used,Silver,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2010,40216,"157,380",5899
+Louisville,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,40216,"77,088",13613
+Louisville,Ford,Fiesta,SEDAN,Used,Green,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,40216,"32,329",16867
+Louisville,Dodge,Journey,SUV,Used,Gray,Red,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2015,40216,"48,812",18398
+Louisville,Chrysler,300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,40216,"32,220",24499
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2015,40216,"87,644",29986
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,White,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,40216,"45,715",37986
+Louisville,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,40216,"31,645",38400
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,40216,"32,312",40600
+Louisville,Jeep,Wrangler,SUV,Used,Red,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 25 Highway,2021,40216,"10,000",43619
+Louisville,RAM,2500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2018,40216,"52,766",48900
+Louisville,Kia,Sportage,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2015,40216,"81,130",15415
+Louisville,Subaru,Outback,SUV,Used,Blue,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2015,40216,"83,523",15749
+Louisville,Hyundai,Venue,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,40216,"15,249",20897
+Louisville,MAZDA,MX-5 Miata,CONVERT,Used,Black,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 36 Highway,2016,40216,"65,895",21787
+Louisville,GMC,Terrain,SUV,Used,Red,Medium Ash Gray/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,40216,"23,976",27232
+Louisville,Kia,Niro,SUV,Used,Silver,Charcoal,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,,2020,40216,"18,647",30628
+Louisville,Honda,Pilot,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,40216,"42,318",37909
+Louisville,Honda,Odyssey,VANS,Used,,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,40216,"40,555",39248
+Louisville,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,40216,"18,923",42613
+Louisville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,40216,"2,000",49038
+Louisville,Jeep,Patriot,SUV,Used,Brown,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2014,40258,"51,973",15195
+Louisville,Volkswagen,Passat,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2015,40258,"59,937",15995
+Louisville,Chevrolet,Equinox,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2014,40258,"65,705",17695
+Louisville,Scion,iQ,HATCH,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2014,40258,"35,449",11915
+Louisville,Chrysler,300,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2016,40258,"72,164",22995
+Louisville,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,40258,"47,376",22995
+Louisville,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,40258,"21,705",27503
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,40258,"23,677",31995
+Louisville,Land Rover,Discovery,SUV,Used,Brown,Tan,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2017,40258,"59,746",39995
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,40258,"15,663",50995
+Louisville,Volkswagen,Jetta,SEDAN,Used,Gray,Titan Blackleather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,40299,"29,513",18997
+Louisville,Volkswagen,Beetle,HATCH,Certified,Black,Titan Blackcloth,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 33 Highway,2018,40299,"23,870",22388
+Louisville,Volkswagen,Jetta,SEDAN,Certified,Red,Storm Gray/Blackleather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,40299,"24,875",22998
+Louisville,Volkswagen,Beetle,CONVERT,Used,Gray,Titan Blackleather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 33 Highway,2019,40299,"10,936",34988
+Louisville,Volkswagen,Atlas,SUV,Used,Gray,Titan Blackleather,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 24 Highway,2021,40299,"13,126",46998
+Louisville,Nissan,Rogue Sport,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2017,40207,"62,877",21478
+Louisville,Kia,K5,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 38 Highway,2021,40207,"13,185",25101
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Medium Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2006,40299,"224,099",8995
+Louisville,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,40299,"29,648",28995
+Louisville,Jeep,Grand Cherokee,SUV,Used,Green,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,40014,"28,343",41995
+Louisville,Pontiac,Solstice,CONVERT,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2008,40207,"49,306",13000
+Louisville,Porsche,Boxster,CONVERT,Used,Black,Black,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 29 Highway,2006,40207,"63,670",19000
+Louisville,MAZDA,CX-5,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2016,40207,"16,364",23950
+Louisville,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,40207,"29,465",27250
+Louisville,Ford,Mustang,CONVERT,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,40207,"29,222",27900
+Louisville,Nissan,Rogue,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,40207,248,28000
+Louisville,Mercedes-Benz,C 300,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,40207,"47,162",28988
+Louisville,Alfa Romeo,Giulia,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,40207,"14,805",29500
+Louisville,Subaru,Outback,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2017,40207,"37,920",29800
+Louisville,Mercedes-Benz,C 300,COUPE,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,40207,"54,287",31508
+Louisville,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,40207,"16,412",32000
+Louisville,Ford,Transit Connect,VANS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 27 Highway,2019,40207,"17,515",32250
+Louisville,RAM,ProMaster,VANS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2018,40207,"59,138",33000
+Louisville,Toyota,Avalon,SEDAN,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,40207,"14,660",37000
+Louisville,GMC,Acadia,SUV,Used,Black,Cocoa/ Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,40207,"31,924",37500
+Louisville,Lexus,IS 300,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,40207,"19,532",37800
+Louisville,Lexus,RX 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,40207,"19,613",41000
+Louisville,Ford,Mustang,COUPE,Used,Black,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,40207,"3,941",41250
+Louisville,Chrysler,Pacifica,VANS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,40207,"13,665",41500
+Louisville,Maserati,GranTurismo,COUPE,Used,White,Bordeaux,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 21 Highway,2013,40207,"51,525",43000
+Louisville,Tesla,Model 3,SEDAN,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,40207,"26,386",44500
+Louisville,Kia,Stinger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2021,40207,"8,462",46000
+Louisville,Chrysler,Pacifica,VANS,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,29 City / 30 Highway,2021,40207,"14,051",47500
+Louisville,Honda,Ridgeline,TRUCKS,Used,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2021,40207,"4,098",48500
+Louisville,Tesla,Model 3,SEDAN,Used,White,White/Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,40207,"9,547",48800
+Louisville,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,40207,"22,022",52000
+Louisville,Nissan,Titan,TRUCKS,Used,Black,Black/Brown,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,40207,"24,515",55000
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Used,Red,Saddle,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,40207,"33,293",64250
+Louisville,Porsche,911,CONVERT,Used,,Mojave Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2021,40207,"3,411",137000
+Louisville,Toyota,Tacoma,TRUCKS,Used,Red,Oak,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 22 Highway,2000,40213,"210,461",6950
+Louisville,Ford,F150,TRUCKS,Used,Red,Medium Flint,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2008,40258,"257,047",6950
+Louisville,Jeep,Patriot,SUV,Used,White,Light Pebble Beige/Dark Slate ,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 26 Highway,2014,40258,"76,381",11900
+Louisville,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,40258,"79,968",16750
+Louisville,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,40258,"32,831",19900
+Louisville,Ford,Fusion,SEDAN,Used,White,Dark Earth Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2018,40258,"44,835",20250
+Louisville,Subaru,Crosstrek,SUV,Used,Red,Black,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 29 Highway,2018,40258,"24,257",25500
+Louisville,Ford,Mustang,COUPE,Used,White,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2020,40258,"27,057",27900
+Louisville,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2021,40258,"9,737",28000
+Louisville,Cadillac,ATS,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2018,40258,"35,055",30300
+Louisville,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2016,40258,"42,849",33000
+Louisville,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2014,40258,"28,771",35400
+Louisville,Nissan,Titan,TRUCKS,Used,Red,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,40258,"64,878",35900
+Louisville,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 21 Highway,2019,40258,"19,043",57000
+Louisville,Subaru,Forester,SUV,Certified,Silver,Blackleather,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,40299,"27,487",34000
+Louisville,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,47129,"16,315",28700
+Louisville,Honda,Ridgeline,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,47129,"11,637",38300
+Louisville,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,47129,"18,550",43100
+Louisville,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,47129,"2,752",56700
+Louisville,GMC,Sierra 2500,TRUCKS,Used,Gray,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2018,47129,"25,898",62100
+Louisville,Buick,Regal,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2015,40232,"50,694",15676
+Louisville,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,23 City / 29 Highway,2019,40232,"24,859",23987
+Louisville,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2020,40232,"21,159",27387
+Louisville,Jeep,Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2020,40232,"20,951",29500
+Louisville,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2019,40232,"36,307",35275
+Louisville,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2015,40232,"49,847",35829
+Louisville,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,40232,"42,836",49000
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,40232,"21,105",52500
+Louisville,Jeep,Gladiator,TRUCKS,Used,Beige,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2020,40232,"18,463",52848
+Louisville,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,40232,"10,671",60000
+Louisville,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2019,40232,"22,848",72500
+Louisville,Porsche,911,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2012,40232,"32,189",77400
+Louisville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,10 City / 14 Highway,2021,40232,"2,945",95000
+Louisville,Kia,K5,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,40213,"7,646",32015
+Louisville,Ford,Fiesta,HATCH,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,47129,"25,840",17500
+Louisville,Toyota,Corolla,SEDAN,Used,Gray,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,47129,"72,663",17705
+Louisville,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2014,47129,"85,179",19203
+Louisville,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,47129,"33,381",23500
+Louisville,Ford,EcoSport,SUV,Used,Blue,Medium Light Stone,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,47129,"11,900",24344
+Louisville,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2018,47129,"36,828",24523
+Louisville,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2017,47129,"43,426",24899
+Louisville,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,47129,"24,585",24997
+Louisville,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,47129,"23,960",25315
+Louisville,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,47129,"35,258",25581
+Louisville,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2020,47129,"13,276",31303
+Louisville,Hyundai,Sonata,SEDAN,Used,Black,Dark Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,47129,"6,099",34550
+Louisville,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,47129,"32,733",34570
+Louisville,Mercedes-Benz,E 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,47129,"23,218",41600
+Louisville,Toyota,Sienna,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2019,47129,"28,634",42633
+Louisville,Jeep,Wrangler,SUV,Used,Gray,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2021,47129,"5,340",44907
+Louisville,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,47129,"17,146",53642
+Louisville,BMW,i3,HATCH,Used,White,Atelier European Dark,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2018,40213,"25,250",24990
+Louisville,Cadillac,Escalade ESV,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,40213,"28,025",68490
+Louisville,Mitsubishi,Outlander Sport,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2021,47129,"8,860",23364
+Louisville,Kia,Sorento,SUV,Used,White,Stone Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,47129,"17,970",27405
+Louisville,Ford,Fiesta,HATCH,Used,Blue,Medium Light Stone,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 34 Highway,2015,47129,"68,086",15799
+Louisville,Hyundai,Sonata,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2017,47129,"52,115",18609
+Louisville,Ford,Edge,SUV,Used,White,Dune,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2017,47129,"62,936",19390
+Louisville,Volkswagen,Jetta,SEDAN,Used,White,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,47129,"34,947",20266
+Louisville,Hyundai,Elantra,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2020,47129,"26,379",20674
+Louisville,Kia,Forte,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2020,47129,"9,709",21668
+Louisville,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,47129,"38,588",22186
+Louisville,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,47129,"13,843",22983
+Louisville,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,47129,"35,831",23247
+Louisville,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,47129,"28,985",23474
+Louisville,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2018,47129,"35,324",25275
+Louisville,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,47129,"74,658",26911
+Louisville,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,47129,"23,403",26999
+Louisville,Honda,CR-V,SUV,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,47129,"18,900",27925
+Louisville,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,47129,"40,619",28836
+Louisville,Jeep,Cherokee,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 27 Highway,2019,47129,"34,393",28998
+Louisville,Honda,CR-V,SUV,Used,,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,47129,"42,066",29226
+Louisville,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,47129,"36,806",29578
+Louisville,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,47129,"28,294",29753
+Louisville,Cadillac,CT6,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,47129,"38,800",35894
+Louisville,Honda,Passport,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,47129,"28,289",39901
+Louisville,Honda,Odyssey,VANS,Used,Black,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,47129,"33,435",42781
+Louisville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,47129,"12,266",44444
+Louisville,Jeep,Gladiator,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,47129,"6,970",54347
+Louisville,Honda,Civic,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,40299,"23,645",25000
+Louisville,Lexus,ES 350,SEDAN,Certified,Black,Stratus Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,40299,"55,161",31000
+Louisville,Lexus,RX 350L,SUV,Certified,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,40299,"38,500",45000
+Louisville,Mercedes-Benz,GLB 250,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,40299,"8,290",48000
+Louisville,Lexus,RX 350L,SUV,Certified,Brown,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,40299,"16,854",48000
+Louisville,Lexus,RX 350,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,40299,"19,398",50000
+Louisville,Lexus,LC 500,COUPE,Certified,Black,Rioja Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2018,40299,"33,727",78000
+Louisville,GMC,Sierra 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,40165,"52,564",35000
+Louisville,Chevrolet,Silverado 2500,TRUCKS,Used,Brown,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2015,40165,"97,696",46000
+Louisville,Ford,F350,TRUCKS,Used,Silver,Steel,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2015,40165,"11,316",47000
+Louisville,Lincoln,Nautilus,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,40165,"12,399",51000
+Louisville,Ford,F250,TRUCKS,Used,Green,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,40165,"59,933",55000
+Louisville,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,40165,"11,323",60000
+Louisville,Audi,A7,HATCH,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 28 Highway,2014,40299,"54,633",28591
+Louisville,Lincoln,MKC,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,40299,"29,470",29991
+Louisville,Alfa Romeo,Giulia,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2020,40299,"10,946",34591
+Louisville,BMW,X3,SUV,Used,White,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,40299,"26,748",38991
+Louisville,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,40299,"25,004",39991
+Louisville,BMW,440i Gran Coupe,HATCH,Used,Gray,Venetian Beige/Dk. Oyster,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,40299,"26,845",40791
+Louisville,BMW,M4,COUPE,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,40299,"6,715",72991
+Louisville,Dodge,Ram 1500 Truck,TRUCKS,Used,Black,Medium Slate Gray,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 18 Highway,2006,47129,"150,776",12905
+Louisville,Toyota,Avalon,SEDAN,Used,Green,Ivory,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2012,47129,"80,118",14473
+Louisville,Nissan,Rogue,SUV,Used,Black,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2015,47129,"64,386",16506
+Louisville,Nissan,Maxima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,47129,"31,602",27419
+Louisville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 20 Highway,2019,47129,"15,654",39305
+Louisville,INFINITI,Q60,COUPE,Used,Yellow,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,47129,"29,907",43990
+Louisville,RAM,1500,TRUCKS,Used,White,Grey,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,40219,"18,170",43988
+Louisville,Ford,Mustang,COUPE,Used,Black,Red,,Gasoline,8-Cylinder,2 wheel drive - rear,,2008,40243,"108,020",12990
+Louisville,Ford,Windstar,VANS,Used,Gray,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 22 Highway,1998,40165,"180,024",1350
+Louisville,Ford,Fiesta,HATCH,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2017,40299,"8,690",15989
+Louisville,Ford,Fiesta,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2018,40299,"22,655",15989
+Louisville,Ford,Focus,HATCH,Used,Red,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2018,40299,"39,166",17189
+Louisville,Mitsubishi,Mirage G4,SEDAN,Used,Gray,Dark Gray,Automatic,Gasoline,3-Cylinder,2 wheel drive - front,35 City / 41 Highway,2021,40299,"3,820",17219
+Louisville,Hyundai,Elantra,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,40299,"32,225",18389
+Louisville,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,40299,"28,451",18869
+Louisville,Ford,C-MAX,HATCH,Used,Silver,Charcoal Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 38 Highway,2018,40299,"37,465",18929
+Louisville,Honda,Fit,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,40299,"18,361",18949
+Louisville,Ford,Fusion,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2017,40299,"27,317",19599
+Louisville,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,40299,"29,810",20169
+Louisville,Kia,Forte,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,40299,"27,451",20179
+Louisville,Volkswagen,Jetta,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,40299,"24,665",20349
+Louisville,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,40299,"16,406",20589
+Louisville,MAZDA,MAZDA3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,40299,"40,081",20729
+Louisville,Nissan,Kicks,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2018,40299,"34,124",20790

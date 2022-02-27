@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Las Vegas,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,89101,"51,123",19002
+Las Vegas,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,89104,"28,717",28499
+Las Vegas,Nissan,Versa,SEDAN,Used,Brown,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,89014,"5,450",21995
+Las Vegas,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,89118,"7,472",33595
+Las Vegas,Chevrolet,Volt,HATCH,Used,White,Jet Black/Jet Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 42 Highway,2018,89146,"39,413",19999
+Las Vegas,Cadillac,XT5,SUV,Used,Gray,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,89146,"39,869",32999
+Las Vegas,Cadillac,XT4,SUV,Certified,Red,Light Platinum/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2021,89146,"4,014",35999
+Las Vegas,Cadillac,XT4,SUV,Certified,White,Sedona/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,89146,"23,436",38999
+Las Vegas,Cadillac,CT5,SEDAN,Certified,Blue,Sahara Beige With Jet Black Ac,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2021,89146,"9,614",46999
+Las Vegas,Toyota,C-HR,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2021,89146,"6,046",26491
+Las Vegas,Toyota,Corolla,SEDAN,Certified,White,Light Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2020,89146,"10,988",26999
+Las Vegas,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2018,89146,"15,258",27991
+Las Vegas,Toyota,Tundra,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2017,89146,"24,762",38991
+Las Vegas,Chevrolet,Trax,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,89104,"34,559",18297
+Las Vegas,Chevrolet,Trax,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,89104,"35,092",19097
+Las Vegas,Chevrolet,Trax,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,89146,"22,586",21482
+Las Vegas,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2020,89146,"17,917",45994
+Las Vegas,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,89101,"77,261",31395
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Used,Off White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,89102,"31,084",32993
+Las Vegas,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,89102,"22,051",34498
+Las Vegas,Volkswagen,Atlas,SUV,Used,Red,Shetland Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,89102,"23,216",36999
+Las Vegas,Lexus,RX 450hL,SUV,Used,White,Birch,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,29 City / 28 Highway,2021,89102,"2,397",62591
+Las Vegas,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2018,89102,"39,472",63681
+Las Vegas,Nissan,Sentra,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,89149,"5,846",22387
+Las Vegas,Chevrolet,Trax,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,89015,"4,879",19988
+Las Vegas,Toyota,Tacoma,TRUCKS,Used,Silver,Grey,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2015,89117,"54,306",27999
+Las Vegas,Lexus,ES 350,SEDAN,Used,,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,89117,"25,737",36999
+Las Vegas,Mercedes-Benz,GLS 550,SUV,Certified,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2019,89117,"27,445",79995
+Las Vegas,Toyota,Yaris,SEDAN,Used,Gray,Blue Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2019,89149,"16,312",19000
+Las Vegas,Kia,Niro,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 46 Highway,2019,89149,"19,604",24000
+Las Vegas,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89149,"27,097",28000
+Las Vegas,Chevrolet,Corvette,CONVERT,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,89149,"19,238",50000
+Las Vegas,Pontiac,Solstice,CONVERT,Used,Red,Ebony,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,17 City / 26 Highway,2006,89117,"72,433",9499
+Las Vegas,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,89117,"25,849",21499
+Las Vegas,Honda,CR-V,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,89117,"48,130",21999
+Las Vegas,Honda,Accord,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,89117,"7,370",26999
+Las Vegas,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,89117,"30,249",28499
+Las Vegas,Honda,Pilot,SUV,Certified,Red,Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,89117,"27,464",39999
+Las Vegas,Honda,Passport,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,89117,"21,157",39999
+Las Vegas,Lexus,RX 350,SUV,Used,Black,Saddle Brown Leather,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,89117,"12,263",41999
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,89104,"34,820",35947
+Las Vegas,BMW,340i,SEDAN,Used,Gray,Black/Dark Oyster,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,89104,"30,205",40329
+Las Vegas,Chevrolet,Blazer,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,89104,"6,317",39754
+Las Vegas,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,89014,"10,172",35499
+Las Vegas,Nissan,Sentra,SEDAN,Used,Black,Charcoal,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2019,89104,"29,581",17752
+Las Vegas,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,89104,"35,245",23889
+Las Vegas,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,89104,"52,809",26652
+Las Vegas,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,29 City / 41 Highway,2020,89104,"14,298",26998
+Las Vegas,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2022,89104,"2,698",27351
+Las Vegas,Acura,ILX,SEDAN,Used,Off White,Brown,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2019,89104,"19,685",27987
+Las Vegas,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,89104,"10,625",30552
+Las Vegas,Volkswagen,Tiguan,SUV,Used,Green,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,89014,"35,330",22949
+Las Vegas,Hyundai,Elantra,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,89014,"38,277",18995
+Las Vegas,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,89014,"26,109",26987
+Las Vegas,Toyota,RAV4,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,89011,"19,246",31988
+Las Vegas,BMW,X4,SUV,Used,Gray,Saddle Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2016,89014,"56,359",33995
+Las Vegas,Toyota,RAV4,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,89011,325,38988
+Las Vegas,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2017,89011,"67,187",18984
+Las Vegas,MAZDA,CX-5,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89011,"23,747",25984
+Las Vegas,MAZDA,CX-5,SUV,Certified,Black,Parchment,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89011,"26,145",29984
+Las Vegas,MAZDA,CX-5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89011,"22,929",30984
+Las Vegas,MAZDA,CX-5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,89011,"12,110",31984
+Las Vegas,Ford,Escape,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,89107,"36,370",21208
+Las Vegas,Ford,Fusion,SEDAN,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,89107,"37,068",21997
+Las Vegas,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,89107,"19,258",24050
+Las Vegas,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2021,89107,"7,175",24091
+Las Vegas,Toyota,Corolla,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,89107,"3,556",24175
+Las Vegas,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,89107,"13,104",29773
+Las Vegas,Ford,Ranger,TRUCKS,Certified,Gold,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,89107,"16,712",32411
+Las Vegas,Toyota,Avalon,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,89107,"6,089",38487
+Las Vegas,Ford,Explorer,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,89107,"14,272",38710
+Las Vegas,Ford,F150,TRUCKS,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,89107,"15,418",38745
+Las Vegas,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 28 Highway,2021,89107,"8,903",48566
+Las Vegas,Ford,Explorer,SUV,Certified,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2020,89107,"17,287",50651
+Las Vegas,INFINITI,QX60,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,89146,"46,011",30999
+Las Vegas,Cadillac,XT5,SUV,Certified,Silver,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,89146,"29,582",33996
+Las Vegas,Cadillac,XT5,SUV,Certified,White,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,89146,"40,504",35999
+Las Vegas,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,89146,"21,857",36999
+Las Vegas,Lexus,ES 350,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,89146,"36,004",38999
+Las Vegas,Mercedes-Benz,GLC 300,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,89146,"31,030",45999
+Las Vegas,Ford,Focus,SEDAN,Used,Gold,Medium Light Stone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 38 Highway,2018,89146,"28,005",18888
+Las Vegas,MINI,Cooper Countryman,SUV,Used,Black,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2019,89146,"15,222",28795
+Las Vegas,MINI,Cooper,HATCH,Used,Blue,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2020,89146,"14,953",28993
+Las Vegas,Nissan,Sentra,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,89146,"22,403",18493
+Las Vegas,Nissan,Altima,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,89146,"24,944",20652
+Las Vegas,Hyundai,Sonata,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,89146,"25,244",20985
+Las Vegas,Nissan,Sentra,SEDAN,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,89146,"26,918",21468
+Las Vegas,Jeep,Renegade,SUV,Used,Blue,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2019,89146,"16,069",23998
+Las Vegas,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2020,89146,"19,895",30989
+Las Vegas,Honda,Accord,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 48 Highway,2019,89146,"25,272",35991
+Las Vegas,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,89146,"29,955",36331
+Las Vegas,Mercedes-Benz,E 300,SEDAN,Used,Black,Nut Brown / Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89146,"39,048",39251
+Las Vegas,INFINITI,QX80,SUV,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2017,89146,"43,084",43698
+Las Vegas,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2021,89146,721,43698
+Las Vegas,Nissan,Armada,SUV,Certified,White,Almond,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 18 Highway,2019,89146,"25,401",44391
+Las Vegas,INFINITI,Q60,COUPE,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,89146,"8,705",48995
+Las Vegas,MAZDA,MAZDA3,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,89117,"41,660",18497
+Las Vegas,Kia,Sportage,SUV,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2017,89117,"32,232",22497
+Las Vegas,MAZDA,MAZDA3,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,89117,"21,633",22997
+Las Vegas,MAZDA,MAZDA3,SEDAN,Certified,Silver,Greige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2020,89117,"19,430",23997
+Las Vegas,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,89117,"10,877",26997
+Las Vegas,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,89117,"14,662",26997
+Las Vegas,MAZDA,CX-9,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,89117,"19,342",29997
+Las Vegas,MAZDA,CX-9,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,89117,"29,082",31497
+Las Vegas,Land Rover,Discovery Sport,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,89014,"6,548",39987
+Las Vegas,Land Rover,Discovery Sport,SUV,Used,White,Acorn,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 23 Highway,2021,89014,"5,406",46987
+Las Vegas,Hyundai,Elantra,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,89146,"20,915",19652
+Las Vegas,Toyota,Corolla,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,89146,"22,973",22289
+Las Vegas,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,89146,"31,992",26989
+Las Vegas,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2021,89146,"12,294",27999
+Las Vegas,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2018,89146,"25,526",29491
+Las Vegas,Toyota,Tacoma,TRUCKS,Certified,Black,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2017,89146,"29,935",35998
+Las Vegas,Toyota,Tacoma,TRUCKS,Certified,Silver,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2019,89146,"16,680",35998
+Las Vegas,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,89146,"25,337",37889
+Las Vegas,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,89146,"28,863",39252
+Las Vegas,Toyota,Tacoma,TRUCKS,Certified,Red,Cement,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,89146,"9,786",40781
+Las Vegas,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,89146,"29,288",42451
+Las Vegas,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,89146,"15,708",42991
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,89146,"8,709",43398
+Las Vegas,Toyota,Tundra,TRUCKS,Certified,Red,Black/Brown,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2016,89146,"39,965",44889
+Las Vegas,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,89146,"8,844",46389
+Las Vegas,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,89146,"7,956",52998
+Las Vegas,Mercedes-Benz,GLE 350,SUV,Used,Black,Espresso Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,89146,"16,187",61995
+Las Vegas,Audi,A6,SEDAN,Used,Black,Okapi Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,89146,"13,108",41990
+Las Vegas,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,89146,"14,336",23949
+Las Vegas,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,89146,"7,950",24989
+Las Vegas,Dodge,Challenger,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,89146,"17,945",29212
+Las Vegas,Nissan,Pathfinder,SUV,Used,Red,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,89146,"34,215",32481
+Las Vegas,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,89146,"18,103",40848
+Las Vegas,Toyota,Sienna,VANS,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,89146,"10,938",44398
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,89146,"4,047",52598
+Las Vegas,Lexus,GX 460,SUV,Used,Blue,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,89146,"3,849",63745
+Las Vegas,Lincoln,MKX,SUV,Used,White,Light Stone/Medium Light Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,89011,"52,556",23400
+Las Vegas,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,89011,"30,418",31250
+Las Vegas,Lexus,ES 350,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,89011,"12,556",35099
+Las Vegas,Lexus,GX 460,SUV,Certified,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2016,89011,"50,738",41500
+Las Vegas,Lexus,RX 350,SUV,Certified,Gray,Stratus Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,89011,"26,269",42999
+Las Vegas,Lexus,RC 350,COUPE,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2018,89011,"29,035",44500
+Las Vegas,Lexus,IS 350,SEDAN,Certified,Black,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2020,89011,"15,856",47099
+Las Vegas,Hyundai,Sonata,SEDAN,Used,Red,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2014,89104,"68,172",13995
+Las Vegas,Toyota,Camry,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2013,89104,"76,266",14795
+Las Vegas,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,89104,"20,323",19797
+Las Vegas,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2017,89104,"43,655",25597
+Las Vegas,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,89146,"30,243",23352
+Las Vegas,GMC,Canyon,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2017,89146,"43,006",33742
+Las Vegas,Cadillac,CT6,SEDAN,Used,Gray,Light Platinum With Jet Black ,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89146,"23,911",40979
+Las Vegas,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,89146,"39,222",40992
+Las Vegas,Volkswagen,Jetta,SEDAN,Used,Silver,,Automatic,Gasoline,5-Cylinder,2 wheel drive - front,24 City / 31 Highway,2011,89101,"83,088",9845
+Las Vegas,GMC,Yukon XL,SUV,Used,White,Cocoa/Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2020,89101,"30,440",68203
+Las Vegas,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,89102,"29,958",26589
+Las Vegas,BMW,X1,SUV,Used,Black,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,89102,"23,675",28876
+Las Vegas,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,89102,"21,853",28995
+Las Vegas,Chevrolet,Camaro,COUPE,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,89102,"16,667",29998
+Las Vegas,Lexus,NX 200t,SUV,Used,Black,F Sport Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2015,89102,"47,222",30621
+Las Vegas,BMW,330i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"19,378",32889
+Las Vegas,Toyota,Highlander,SUV,Used,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,89102,"31,916",32998
+Las Vegas,BMW,330i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"29,205",32998
+Las Vegas,BMW,330i,SEDAN,Certified,White,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"20,772",33798
+Las Vegas,BMW,430i Gran Coupe,HATCH,Certified,White,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"33,554",35498
+Las Vegas,BMW,228i xDrive Gran Coupe,SEDAN,Used,Black,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,89102,"3,559",36949
+Las Vegas,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2020,89102,"13,257",36952
+Las Vegas,Ford,Explorer,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,89102,"19,789",37398
+Las Vegas,BMW,X3,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,89102,"20,378",37475
+Las Vegas,BMW,530i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"22,701",37995
+Las Vegas,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,89102,"21,089",37998
+Las Vegas,BMW,X3,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,89102,"23,954",38375
+Las Vegas,BMW,530i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89102,"24,813",38495
+Las Vegas,BMW,330i,SEDAN,Certified,White,Mocha,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,89102,"24,605",39991
+Las Vegas,BMW,X3,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,89102,"19,270",39998
+Las Vegas,Mercedes-Benz,C 300,COUPE,Used,White,Saddle Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89102,"19,811",40735
+Las Vegas,BMW,X5,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 25 Highway,2018,89102,"25,810",44998
+Las Vegas,Land Rover,Range Rover Velar,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2018,89102,"48,670",48620
+Las Vegas,Tesla,Model S,HATCH,Used,White,Tan,Single-Speed,Electric,Electric,All wheel drive,,2015,89102,"34,252",51941
+Las Vegas,BMW,Z4,CONVERT,Certified,Red,Ivory White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2019,89102,"8,893",54289
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,89102,"4,520",57899
+Las Vegas,Lexus,GX 460,SUV,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,89102,"7,101",59998
+Las Vegas,Land Rover,Range Rover,SUV,Used,Black,Ebony/Ebony/Ebony/Ivory,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,89102,"54,787",72991
+Las Vegas,BMW,M4,CONVERT,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2020,89102,"15,865",76989
+Las Vegas,BMW,750i xDrive,SEDAN,Used,Blue,Zagora Beige,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2021,89102,"7,852",96561
+Las Vegas,BMW,M8,CONVERT,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2020,89102,"9,156",124992
+Las Vegas,Acura,TLX,SEDAN,Certified,Burgundy,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,89117,"23,121",30497
+Las Vegas,Acura,RDX,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,89117,"29,980",40997
+Las Vegas,Acura,MDX,SUV,Certified,Blue,Graystone,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,89117,"16,459",43997
+Las Vegas,Acura,MDX,SUV,Certified,Blue,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,89117,"24,334",45497
+Las Vegas,Honda,Civic,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2015,89130,"29,628",18990
+Las Vegas,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,89130,"13,225",24995
+Las Vegas,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,89130,"36,840",28410
+Las Vegas,Hyundai,Santa Fe,SUV,Used,Brown,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 25 Highway,2019,89130,"23,653",32990
+Las Vegas,Kia,Optima,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,,2020,89130,"11,808",33848
+Las Vegas,Toyota,Highlander,SUV,Used,Red,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,89130,"21,278",35490
+Las Vegas,Lexus,ES 350,SEDAN,Used,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,89130,"29,180",35997
+Las Vegas,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,89130,"70,285",37529
+Las Vegas,Dodge,Journey,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2020,89117,"17,550",24999
+Las Vegas,MINI,Cooper,HATCH,Used,,Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,89117,"12,383",25999
+Las Vegas,Honda,Accord,SEDAN,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,89117,"19,449",26499
+Las Vegas,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 35 Highway,2021,89117,322,33899
+Las Vegas,Land Rover,Discovery Sport,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,89117,"21,702",38999
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Used,Blue,Magma Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,89117,"23,545",38999
+Las Vegas,Mercedes-Benz,E 300,SEDAN,Used,Blue,Macchiato Beige / Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89117,"31,531",39995
+Las Vegas,Mercedes-Benz,C 300,CONVERT,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2018,89117,"39,300",39995
+Las Vegas,Mercedes-Benz,E 300,SEDAN,Certified,Brown,Macchiato Beige / Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89117,"22,416",39995
+Las Vegas,Audi,S4,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,89117,"14,029",53795
+Las Vegas,Mercedes-Benz,E 450,CONVERT,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,89117,"17,077",71995
+Las Vegas,Maserati,GranTurismo,COUPE,Used,Gray,Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 21 Highway,2018,89117,"3,058",81995
+Las Vegas,Kia,Rio,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 41 Highway,2020,89149,"3,790",19000
+Las Vegas,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,89149,"34,492",25500
+Las Vegas,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,89149,"10,735",27000
+Las Vegas,Honda,CR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,89149,"10,584",28000
+Las Vegas,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,89117,"44,614",16499
+Las Vegas,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,89117,"59,453",25999
+Las Vegas,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,89117,"31,319",26999
+Las Vegas,Honda,Accord,SEDAN,Certified,Gray,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,89117,"19,308",28499
+Las Vegas,Ford,Edge,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,89117,"22,245",31999
+Las Vegas,Honda,Pilot,SUV,Certified,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,89117,"14,973",38999
+Las Vegas,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,89117,"9,670",42999
+Las Vegas,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,89117,"12,692",46999
+Las Vegas,BMW,X3,SUV,Used,Red,Oyster,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,89104,"22,975",51323
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,89104,"33,646",36980
+Las Vegas,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,89104,"10,750",37225
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,89104,"16,581",40977
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,89104,"29,748",42846
+Las Vegas,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,89104,"13,529",43053
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,89104,"12,040",43308
+Las Vegas,GMC,Acadia,SUV,Certified,White,Cocoa/ Shale,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,89104,"21,605",43415
+Las Vegas,Chevrolet,Blazer,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,89104,"13,326",47993
+Las Vegas,Land Rover,Discovery Sport,SUV,Used,White,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 25 Highway,2017,89014,"47,197",28999
+Las Vegas,Cadillac,XT5,SUV,Certified,Purple,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,89014,"33,881",34999
+Las Vegas,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,89014,"29,592",41599
+Las Vegas,Cadillac,XT5,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2021,89014,"9,638",57499
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,89119,"7,121",46000
+Las Vegas,Honda,HR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2020,89014,"8,760",25835
+Las Vegas,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,89014,"29,929",26136
+Las Vegas,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,89014,"26,601",28998
+Las Vegas,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,89014,"22,774",29355
+Las Vegas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89014,"31,791",30384
+Las Vegas,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,89014,"11,491",30997
+Las Vegas,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,89014,"11,786",31496
+Las Vegas,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,89014,"17,457",32880
+Las Vegas,Honda,Pilot,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,89014,"38,216",35858
+Las Vegas,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,89014,"7,736",35994
+Las Vegas,Honda,Odyssey,VANS,Certified,Off White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2021,89014,"6,762",41890
+Las Vegas,Kia,Telluride,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2020,89014,"14,579",43999
+Las Vegas,Honda,Pilot,SUV,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,89014,"19,140",47203
+Las Vegas,Jeep,Renegade,SUV,Used,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2016,89149,"45,208",16000
+Las Vegas,Ford,Edge,SUV,Used,Blue,Ceramic,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,89149,"25,252",38200
+Las Vegas,Alfa Romeo,Stelvio,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,89149,"14,690",39000
+Las Vegas,Audi,S4,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,89149,"23,181",43500
+Las Vegas,Land Rover,Discovery Sport,SUV,Used,Blue,Light Oyster/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,89149,"8,345",48987
+Las Vegas,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,89149,"5,489",54987
+Las Vegas,Toyota,Tacoma,TRUCKS,Certified,Gray,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,89149,"24,882",28825
+Las Vegas,Toyota,RAV4,SUV,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,89149,"17,469",35920
+Las Vegas,Toyota,Avalon,SEDAN,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,89149,"18,539",39987
+Las Vegas,Hyundai,Elantra,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,89104,"17,293",22652
+Las Vegas,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,89104,"57,572",26579
+Las Vegas,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,89104,"22,088",26595
+Las Vegas,Subaru,Legacy,SEDAN,Used,Red,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2020,89104,"9,081",29552
+Las Vegas,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,89104,"7,709",30552
+Las Vegas,Honda,Pilot,SUV,Used,Silver,Beige/Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,89104,"49,522",30595
+Las Vegas,Honda,CR-V,SUV,Certified,,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,89104,"16,044",30852
+Las Vegas,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,89104,"9,418",30917
+Las Vegas,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,89104,"9,574",33552
+Las Vegas,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,89104,"6,842",33998
+Las Vegas,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,89104,"11,047",35585
+Las Vegas,Mercedes-Benz,E 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,89104,"40,440",39952
+Las Vegas,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,89104,"22,786",28388
+Las Vegas,Buick,Encore,SUV,Used,Silver,Titanium,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2015,89014,"49,005",17652
+Las Vegas,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,89014,"30,957",18295
+Las Vegas,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2017,89014,"40,255",19889
+Las Vegas,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,89014,"35,280",20251
+Las Vegas,Kia,Soul,HATCH,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,89014,"10,526",20495
+Las Vegas,FIAT,124 Spider,CONVERT,Used,Black,Nero (Black),Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 35 Highway,2017,89014,"2,808",21665
+Las Vegas,Ford,Fusion,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,89014,"20,397",21998
+Las Vegas,Jeep,Renegade,SUV,Used,Blue,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2018,89014,"20,791",21998
+Las Vegas,MAZDA,MX-5 Miata,CONVERT,Used,Red,Black W/Red Stitching,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,27 City / 34 Highway,2016,89014,"26,505",22949
+Las Vegas,Hyundai,Tucson,SUV,Used,Red,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2016,89014,"36,163",23452
+Las Vegas,Volkswagen,Tiguan,SUV,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,89014,"26,061",23795
+Las Vegas,MAZDA,MX-5 Miata,CONVERT,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,27 City / 34 Highway,2016,89014,"38,234",23985
+Las Vegas,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2017,89014,"36,474",23995
+Las Vegas,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,89014,"37,060",23998
+Las Vegas,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,89014,"17,893",24941
+Las Vegas,Mercedes-Benz,CLA 250,SEDAN,Used,Silver,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2017,89014,"31,520",26997
+Las Vegas,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89014,"31,880",27798
+Las Vegas,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,89014,"20,711",27998
+Las Vegas,Dodge,Durango,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,89014,"48,058",27998
+Las Vegas,Hyundai,Tucson,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2020,89014,"13,893",27998
+Las Vegas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89014,"30,323",28552
+Las Vegas,Dodge,Challenger,COUPE,Used,Red,Dark Slate Gray,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2012,89014,"56,038",28552
+Las Vegas,Lexus,ES 350,SEDAN,Used,Black,Black W/Linear Wood,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,89014,"49,771",30998
+Las Vegas,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2018,89014,"18,937",34491
+Las Vegas,Ford,F150,TRUCKS,Used,Brown,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2016,89014,"27,330",35548
+Las Vegas,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,89014,"29,693",35989
+Las Vegas,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2016,89014,"30,998",36475
+Las Vegas,Audi,S4,SEDAN,Used,White,Rotor Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,89014,"26,014",42755
+Las Vegas,Chevrolet,Silverado 2500,TRUCKS,Used,,Jet Black,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2020,89014,"15,864",44995
+Las Vegas,INFINITI,QX80,SUV,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2018,89014,"35,903",45491
+Las Vegas,Chevrolet,Corvette,COUPE,Used,Blue,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 29 Highway,2015,89014,"22,358",51835
+Las Vegas,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,89014,"6,231",53889
+Las Vegas,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,89014,"27,705",62871
+Las Vegas,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,89014,"7,317",21993
+Las Vegas,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,89014,"27,595",27989
+Las Vegas,Lincoln,MKC,SUV,Used,Blue,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2018,89014,"33,059",29495
+Las Vegas,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,89014,"27,427",30989
+Las Vegas,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2016,89014,"20,069",32997
+Las Vegas,Jeep,Wrangler,SUV,Used,White,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,89014,"33,238",34991
+Las Vegas,INFINITI,QX30,SUV,Used,Black,Gallery White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2017,89149,"24,591",28250
+Las Vegas,Buick,Envision,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,89149,"11,888",35250
+Las Vegas,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,89149,"6,961",40975
+Las Vegas,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2021,89149,"3,070",47775
+Las Vegas,Ford,Focus,SEDAN,Used,,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,,2018,89014,"12,653",18991
+Las Vegas,Honda,CR-V,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2015,89014,"50,147",21481
+Las Vegas,Honda,CR-V,SUV,Used,Off White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,89014,"45,141",26650
+Las Vegas,Honda,Accord,SEDAN,Used,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,89014,"26,190",31280
+Las Vegas,Lincoln,Nautilus,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,89014,"22,199",40991
+Las Vegas,Chevrolet,Camaro,COUPE,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2013,89014,"40,831",19222
+Las Vegas,Acura,TLX,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2016,89014,"54,733",22888
+Las Vegas,Acura,RDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,89014,"25,856",38333
+Las Vegas,Ford,EcoSport,SUV,Certified,Green,Medium Stone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,89014,"39,803",19000
+Las Vegas,Ford,Escape,SUV,Certified,Blue,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,89014,"21,904",25000
+Las Vegas,Ford,Fusion,SEDAN,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,89014,"10,779",27000
+Las Vegas,Ford,Escape,SUV,Certified,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,89014,"17,250",27000
+Las Vegas,Ford,Fusion,SEDAN,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,89014,"12,111",27000
+Las Vegas,Ford,Escape,SUV,Certified,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,89014,"9,855",28000
+Las Vegas,MINI,Cooper,HATCH,Used,Orange,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,89014,"23,809",28000
+Las Vegas,Ford,Fusion,SEDAN,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,89014,"18,252",29000
+Las Vegas,Ford,Escape,SUV,Certified,White,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,89014,"15,101",29000
+Las Vegas,Ford,Fusion,SEDAN,Certified,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,89014,"9,613",30000
+Las Vegas,Ford,Escape,SUV,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,89014,"6,392",34000
+Las Vegas,Ford,Explorer,SUV,Certified,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,89014,"24,504",34000
+Las Vegas,Ford,Explorer,SUV,Certified,Blue,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2019,89014,"29,417",35000
+Las Vegas,Ford,F150,TRUCKS,Certified,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2020,89014,"17,651",37000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,89014,"13,442",37000
+Las Vegas,Ford,Explorer,SUV,Certified,White,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,89014,"12,321",38000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,89014,"11,638",38000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,89014,"18,000",40000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,89014,"11,530",40000
+Las Vegas,Ford,Explorer,SUV,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,89014,"9,222",40000
+Las Vegas,Ford,F150,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,89014,"24,876",41000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,89014,"18,320",42000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,89014,"17,596",43000
+Las Vegas,Ford,Explorer,SUV,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2021,89014,"7,104",44000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,89014,"7,137",44000
+Las Vegas,Ford,Ranger,TRUCKS,Certified,Red,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,89014,"10,072",45000
+Las Vegas,Ford,Edge,SUV,Certified,,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,89014,"14,551",45000
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,89014,"5,194",49000
+Las Vegas,Ford,Explorer,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2020,89014,"10,846",55000
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,89014,"2,552",56000
+Las Vegas,Ford,Expedition,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,89014,"26,648",57000
+Las Vegas,Ford,Expedition,SUV,Certified,,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,89014,"15,102",64000
+Las Vegas,Kia,Sorento,SUV,Used,Silver,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,89014,"27,495",28999
+Las Vegas,Jeep,Grand Cherokee L,SUV,Used,Silver,Global Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,89014,"5,029",46777
+Las Vegas,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,89014,"8,354",54999
+Las Vegas,Jeep,Renegade,SUV,Used,White,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2018,89014,"34,961",21749
+Las Vegas,Ford,Focus,HATCH,Used,Red,Charcoal Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2018,89014,"24,403",23949
+Las Vegas,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,89014,"35,686",24394
+Las Vegas,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,89014,"24,135",24891
+Las Vegas,Hyundai,Tucson,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,89011,"18,841",27988
+Las Vegas,BMW,330i xDrive,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,89014,"35,728",28598
+Las Vegas,INFINITI,Q50,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,89014,"26,309",29486
+Las Vegas,BMW,X2,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,89014,"28,712",29495
+Las Vegas,BMW,X2,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,89014,"18,882",30552
+Las Vegas,BMW,X1,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,89014,"29,524",30895
+Las Vegas,Ford,Escape,SUV,Used,Red,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,89011,"12,090",30988
+Las Vegas,BMW,330i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,89014,"29,911",31949
+Las Vegas,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,89014,"16,406",34498
+Las Vegas,BMW,330i xDrive,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,89014,"14,445",36980
+Las Vegas,BMW,530i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89014,"30,616",37495
+Las Vegas,BMW,X3,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,89014,"24,057",37998
+Las Vegas,BMW,330i,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,89014,"16,630",38251
+Las Vegas,BMW,530i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,89014,"29,602",38395
+Las Vegas,BMW,X3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2020,89014,"17,512",39985
+Las Vegas,Ford,Ranger,TRUCKS,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2021,89011,232,39988
+Las Vegas,BMW,X3,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,89014,"19,795",41365
+Las Vegas,Land Rover,Discovery,SUV,Used,Gray,Ebony/Ebony/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2018,89014,"39,454",41798
+Las Vegas,Lexus,NX 300,SUV,Used,White,Glazed Caramel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2021,89014,"6,607",41998
+Las Vegas,Audi,A5,HATCH,Used,Blue,Black W/Blue Stitching,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,89014,"16,387",42698
+Las Vegas,BMW,330i,SEDAN,Used,Blue,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,89014,"4,820",44381
+Las Vegas,INFINITI,QX80,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2019,89014,"31,603",49997
+Las Vegas,BMW,530i,SEDAN,Used,Gray,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 33 Highway,2021,89014,"6,636",49998
+Las Vegas,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,89014,"1,322",51996
+Las Vegas,Land Rover,Range Rover Evoque,SUV,Used,Silver,Cloud/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2020,89014,"7,299",55509
+Las Vegas,Land Rover,Range Rover Velar,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,21 City / 27 Highway,2018,89014,"35,908",56535
+Las Vegas,BMW,X5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,89014,"19,796",57949
+Las Vegas,BMW,X5,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,89014,"24,514",58591
+Las Vegas,BMW,M4,COUPE,Used,Orange,Sakhir Orange/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2019,89014,"29,989",59878
+Las Vegas,BMW,X5,SUV,Certified,White,Cognac,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,89014,"21,420",67788
+Las Vegas,INFINITI,QX80,SUV,Used,Blue,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2021,89014,"10,561",71399
+Las Vegas,Mercedes-Benz,GLC 63 AMG,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2020,89014,"5,780",78952
+Las Vegas,Chevrolet,Malibu,SEDAN,Used,Red,Dark Atmosphere/ Medium Ash Gr,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,89014,"12,280",23648
+Las Vegas,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,89014,"7,025",23896
+Las Vegas,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,89014,"12,189",25991
+Las Vegas,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,89014,"24,406",27420
+Las Vegas,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,89014,"22,598",28655
+Las Vegas,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,89014,"24,955",28856
+Las Vegas,Chevrolet,Equinox,SUV,Used,Gray,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,89014,"6,795",28945
+Las Vegas,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,89014,"16,591",38484
+Las Vegas,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,89014,"6,892",40872
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,89014,"2,172",41375
+Las Vegas,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,89014,"2,860",41983
+Las Vegas,Chevrolet,Suburban,SUV,Used,Purple,Jet Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,89014,"29,104",42216
+Las Vegas,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,89014,"14,131",42637
+Las Vegas,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2021,89014,"7,592",43697
+Las Vegas,Chevrolet,Blazer,SUV,Certified,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,89014,"16,009",44507
+Las Vegas,Audi,A5,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,89011,"24,342",40988
+Las Vegas,Audi,S4,SEDAN,Certified,Blue,Rotor Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,89011,"20,647",41748
+Las Vegas,Audi,Q8,SUV,Certified,Black,Saiga Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,89011,"25,434",72748
+Las Vegas,INFINITI,QX60,SUV,Used,White,Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,89118,"36,597",31997
+Las Vegas,Kia,K5,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2022,89118,"1,840",36497
+Las Vegas,MAZDA,MX-5 Miata,CONVERT,Used,Black,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2018,89014,"22,246",28474
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black Leather Insert,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,89014,"21,820",32994
+Las Vegas,Mercedes-Benz,GLA 250,SUV,Certified,White,Black Mb-Tex,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,89014,"17,687",34774
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Blue,Ash Leather Inserts,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,89014,"31,832",34994
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Silver,Stone Leather Insert,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,89014,"26,937",35992
+Las Vegas,Lexus,UX 200,SUV,Used,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,89014,"14,529",36983
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Black,Java Leather Inserts,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,89014,"26,623",39873
+Las Vegas,Toyota,RAV4,SUV,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2021,89014,"4,605",39994
+Las Vegas,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,89014,"14,299",41884
+Las Vegas,Mercedes-Benz,GLC 350e,SUV,Certified,Black,Sahara Beige Mb-Tex,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,89014,"26,606",42994
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,89014,"7,599",44494
+Las Vegas,Mercedes-Benz,GLC 350e,SUV,Certified,Gray,Black Mb-Tex,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,89014,"15,899",44994
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,White,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,89014,"7,952",44994
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,White,Biege,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,89014,"7,502",45992
+Las Vegas,Mercedes-Benz,C 300,SEDAN,Certified,Red,Biege,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,89014,"7,585",46993
+Las Vegas,Mercedes-Benz,GLC 300,SUV,Certified,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2021,89014,"7,572",47992
+Las Vegas,Mercedes-Benz,E 400,SEDAN,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,89014,"26,496",47994
+Las Vegas,Mercedes-Benz,GLB 250,SUV,Certified,Gray,Black Mb-Tex With Di,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,89014,"7,522",49992
+Las Vegas,Cadillac,Escalade,SUV,Used,Red,Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2015,89014,"43,908",53882
+Las Vegas,RAM,2500,TRUCKS,Used,Black,Black Mb-Tex,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,,2019,89014,"25,762",55884
+Las Vegas,Mercedes-Benz,S 450,SEDAN,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2018,89014,"38,278",61991
+Las Vegas,Mercedes-Benz,S 450,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2019,89014,"15,498",73992
+Las Vegas,Volkswagen,GTI,HATCH,Used,Gray,Titan Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2015,89011,"68,660",18984
+Las Vegas,Chevrolet,Equinox,SUV,Used,Orange,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,89011,"14,878",23984
+Las Vegas,MAZDA,CX-5,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,89011,"15,425",27984
+Las Vegas,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89011,"14,294",28484
+Las Vegas,MAZDA,CX-5,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,89011,"26,321",29484
+Las Vegas,MAZDA,CX-5,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,89011,"11,028",29484
+Las Vegas,MAZDA,CX-5,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,89011,"22,505",30984
+Las Vegas,FIAT,124 Spider,CONVERT,Used,Black,Nero (Black),Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 36 Highway,2020,89011,"7,038",32984
+Las Vegas,Chevrolet,Trax,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 34 Highway,2015,89102,"61,078",15495
+Las Vegas,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2013,89102,"73,683",15895
+Las Vegas,Hyundai,Veloster,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2015,89102,"55,318",15895
+Las Vegas,Ford,Fusion,SEDAN,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,89107,"32,213",21422
+Las Vegas,Ford,Mustang,COUPE,Certified,Gray,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,89107,"40,523",24887
+Las Vegas,BMW,320i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,89107,"44,625",25731
+Las Vegas,Dodge,Durango,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,89107,"47,717",27949
+Las Vegas,Ford,Mustang,COUPE,Certified,Black,Ebony,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2020,89107,"9,653",28513
+Las Vegas,Ford,Edge,SUV,Certified,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,89107,"12,374",30000
+Las Vegas,Cadillac,XTS,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,89107,"27,924",33000
+Las Vegas,Ford,F150,TRUCKS,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,89107,"50,828",36788
+Las Vegas,Ford,Explorer,SUV,Certified,,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,89107,"28,782",37987
+Las Vegas,Ford,F150,TRUCKS,Certified,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,89107,"32,731",38710
+Las Vegas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,89107,"41,292",41997
+Las Vegas,Honda,Odyssey,VANS,Used,Burgundy,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,89107,"29,902",43784
+Las Vegas,Ford,F150,TRUCKS,Certified,,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,89107,"13,463",54793
+Las Vegas,Ford,Fiesta,SEDAN,Certified,Green,Charcoal Black,Manual,Gasoline,3-Cylinder Turbo,2 wheel drive - front,31 City / 41 Highway,2017,89118,"6,435",15395
+Las Vegas,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,89118,"23,878",22995
+Las Vegas,Kia,Sportage,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,89118,"13,627",24995
+Las Vegas,Ford,Escape,SUV,Certified,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,89118,"19,841",27395
+Las Vegas,Ford,Fusion,SEDAN,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,89118,"9,075",28195
+Las Vegas,Toyota,Corolla,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2020,89118,"15,575",28595
+Las Vegas,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,89118,"28,234",28795
+Las Vegas,Ford,Edge,SUV,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,89118,"24,130",28950
+Las Vegas,Hyundai,Tucson,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2020,89118,"18,094",28995
+Las Vegas,Ford,Fusion,SEDAN,Certified,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,89118,"5,887",28995
+Las Vegas,Subaru,Legacy,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2019,89118,"12,873",30695
+Las Vegas,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,89118,"22,665",31995
+Las Vegas,Nissan,Frontier,TRUCKS,Used,Red,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,89118,"5,279",34900
+Las Vegas,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,89118,"6,275",34995
+Las Vegas,Toyota,4Runner,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2019,89118,"25,970",37595
+Las Vegas,Chevrolet,Blazer,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,89118,"29,111",42495
+Las Vegas,Subaru,WRX,SEDAN,Used,Blue,Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2021,89118,"4,940",47995
+Las Vegas,Mercedes-Benz,E 450,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2020,89118,"19,263",58495
+Las Vegas,Hyundai,Elantra,SEDAN,Certified,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2020,89131,"17,502",20500
+Las Vegas,Hyundai,Sonata,SEDAN,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,89131,"4,905",33500
+Las Vegas,Chrysler,300,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,89146,"35,239",21944
+Las Vegas,Chrysler,Pacifica,VANS,Certified,Red,Black/Lt Diesel Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,89146,"30,211",36973
+Las Vegas,Chrysler,Pacifica,VANS,Certified,Silver,Black/Black/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,89146,"21,267",40944
+Las Vegas,Tesla,Model X,SUV,Used,White,White,Single-Speed,Electric,Electric,All wheel drive,,2017,89146,"41,445",79982
+Las Vegas,Chevrolet,Equinox,SUV,Used,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,89146,"19,797",29996
+Las Vegas,Ford,Ranger,TRUCKS,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,89146,"19,353",33496
+Las Vegas,GMC,Acadia,SUV,Used,Silver,Dark Ash Gray/ Light Ash Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,89146,"20,992",34999
+Las Vegas,Cadillac,XT5,SUV,Used,Gray,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,89146,"31,597",34999
+Las Vegas,Cadillac,XT5,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,89146,"29,718",37996
+Las Vegas,Cadillac,XT5,SUV,Certified,Silver,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,89146,"38,121",38496
+Las Vegas,Cadillac,XT4,SUV,Certified,Black,Jet Black With Cinnamon Accent,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,89146,"17,489",41596
+Las Vegas,Toyota,4Runner,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2019,89146,"29,411",43997
+Las Vegas,Cadillac,Escalade,SUV,Certified,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,89146,"31,733",67998
+Las Vegas,Cadillac,Escalade ESV,SUV,Certified,Brown,Kona Brown With Jet Black Acce,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2020,89146,"18,842",77998
+Las Vegas,Land Rover,Range Rover Sport,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,17 City / 22 Highway,2019,89146,"42,056",81998
+Las Vegas,Cadillac,ATS,COUPE,Used,Blue,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2017,89146,"15,779",26500
+Las Vegas,Lexus,IS 200t,SEDAN,Certified,Black,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2016,89146,"49,579",28000
+Las Vegas,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,89146,"26,907",50500
+Las Vegas,Lexus,LC 500,CONVERT,Certified,White,Circuit Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,89146,"7,998",105000
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,89146,"24,243",32444
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,89146,"22,844",35444
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,89146,"24,548",35482
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,89146,"19,535",37982
+Las Vegas,Jeep,Wrangler,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,89146,"25,006",37994
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,89146,"26,642",39333
+Las Vegas,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,89146,"2,335",39992
+Las Vegas,Jeep,Wrangler,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,89146,"37,649",41444

@@ -1,0 +1,701 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+San Antonio,Toyota,Camry,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2021,78233,"5,507",38997
+San Antonio,Toyota,Supra,COUPE,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,78233,"7,094",51997
+San Antonio,Ford,F250,TRUCKS,Used,White,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78219,"19,135",80500
+San Antonio,Ford,Escape,SUV,Used,Blue,,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2019,78233,"26,196",24997
+San Antonio,Toyota,RAV4,SUV,Used,Purple,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,78233,"37,486",29287
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2016,78233,"70,840",31087
+San Antonio,Lexus,RX 350,SUV,Used,Blue,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78233,"41,044",39497
+San Antonio,Chevrolet,Traverse,SUV,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,78233,"24,576",48997
+San Antonio,Toyota,4Runner,SUV,Used,Red,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,78232,"7,924",53500
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,White,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,78232,"8,701",53500
+San Antonio,Lexus,ES 350,SEDAN,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2013,78216,"47,239",23895
+San Antonio,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,78216,"16,056",30985
+San Antonio,Cadillac,XT5,SUV,Used,Blue,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,78216,"33,258",36485
+San Antonio,Nissan,Titan,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2018,78216,"2,344",38895
+San Antonio,Lexus,ES 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,78216,"20,568",43895
+San Antonio,Lexus,ES 350,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,78216,"9,242",45995
+San Antonio,Lexus,ES 350,SEDAN,Used,Silver,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,78216,"6,700",47985
+San Antonio,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,78209,"1,506",29995
+San Antonio,Dodge,Journey,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2018,78233,"33,071",20801
+San Antonio,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,16 City / 23 Highway,2016,78233,"40,991",39345
+San Antonio,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,78233,"3,400",48709
+San Antonio,Toyota,4Runner,SUV,Used,Gray,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,78233,"7,553",63389
+San Antonio,Tesla,Model S,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,78233,"28,490",71996
+San Antonio,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,78217,"24,249",49981
+San Antonio,Honda,Odyssey,VANS,Used,Off White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,78216,"8,580",43977
+San Antonio,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,78216,"18,169",32977
+San Antonio,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,78216,"28,891",46977
+San Antonio,Porsche,Cayenne,SUV,Used,Black,Luxor Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2016,78249,"59,352",39900
+San Antonio,Ford,Escape,SUV,Used,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2017,78238,"36,619",20988
+San Antonio,Ford,Fusion,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,78238,"11,849",26988
+San Antonio,Ford,Fusion,SEDAN,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2020,78238,"14,309",26988
+San Antonio,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2018,78230,"37,358",65999
+San Antonio,Hyundai,Elantra,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,78233,"100,163",11997
+San Antonio,Toyota,RAV4,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,78233,"6,911",34997
+San Antonio,Dodge,Durango,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,78233,"22,722",35497
+San Antonio,Toyota,RAV4,SUV,Certified,Red,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,78233,"24,384",35992
+San Antonio,Toyota,RAV4,SUV,Certified,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,78233,"21,182",39997
+San Antonio,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2020,78233,"3,530",39997
+San Antonio,Toyota,4Runner,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2018,78233,"36,791",40995
+San Antonio,Honda,Odyssey,VANS,Used,Blue,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,78233,"30,782",41997
+San Antonio,Toyota,4Runner,SUV,Certified,Silver,,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,78233,"19,864",45997
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2019,78233,"20,122",48237
+San Antonio,Toyota,4Runner,SUV,Certified,Silver,,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,78233,"3,335",48494
+San Antonio,Toyota,Tundra,TRUCKS,Used,Black,,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,78233,"12,250",49997
+San Antonio,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,78238,"29,366",30000
+San Antonio,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,78238,"14,264",32000
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,78238,"28,559",38000
+San Antonio,Ford,Explorer,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78238,"11,041",45000
+San Antonio,Ford,F250,TRUCKS,Used,Red,Adobe,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,78238,"31,680",60000
+San Antonio,Ford,Escape,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2014,78216,"70,516",16895
+San Antonio,Lexus,RX 350,SUV,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,78216,"64,743",26485
+San Antonio,Ford,Edge,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,78216,"55,786",27895
+San Antonio,Lexus,LS 460,SEDAN,Used,Black,Black/Saddle Tan W/Burl,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2014,78216,"37,264",38895
+San Antonio,Toyota,4Runner,SUV,Used,Black,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,78216,"37,099",42895
+San Antonio,Honda,CR-V,SUV,Used,Gold,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,78233,"39,440",25900
+San Antonio,Lexus,IS 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,78233,"37,813",32900
+San Antonio,Cadillac,XT4,SUV,Certified,Silver,Light Platinum/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,78233,"13,622",40200
+San Antonio,Cadillac,CTS,SEDAN,Certified,Black,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,78233,"22,385",40900
+San Antonio,Cadillac,XT4,SUV,Certified,Silver,Light Platinum/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,78233,"17,252",40900
+San Antonio,Cadillac,XT4,SUV,Certified,Brown,Light Wheat/Jet Black With Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,78233,"15,147",41900
+San Antonio,Cadillac,XT4,SUV,Certified,Silver,Light Platinum/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2021,78233,196,45900
+San Antonio,Nissan,Armada,SUV,Used,Silver,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2019,78233,"27,976",46900
+San Antonio,Ford,Expedition,SUV,Used,Burgundy,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,78233,"16,193",53300
+San Antonio,Mitsubishi,Mirage G4,SEDAN,Used,Gray,Black,Automatic,Gasoline,3-Cylinder,2 wheel drive - front,35 City / 41 Highway,2019,78249,"17,038",15998
+San Antonio,Toyota,RAV4,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,78219,"18,495",32500
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,78219,"32,546",32900
+San Antonio,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,78219,"3,831",35500
+San Antonio,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2020,78219,"16,877",38900
+San Antonio,Ford,F150,TRUCKS,Certified,,Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2020,78219,"12,498",42500
+San Antonio,Ford,Mustang,COUPE,Certified,Silver,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,78219,"7,778",42900
+San Antonio,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,78219,"14,077",51900
+San Antonio,Ford,Expedition,SUV,Certified,Red,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,78219,"33,413",56900
+San Antonio,Ford,Expedition,SUV,Certified,Gray,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2020,78219,"16,922",71900
+San Antonio,Nissan,Sentra,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,78209,"26,026",20995
+San Antonio,Volkswagen,Passat,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,78209,"45,053",23995
+San Antonio,Nissan,Altima,SEDAN,Used,White,Brown,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,78209,"26,322",26995
+San Antonio,Nissan,Altima,SEDAN,Certified,Gray,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,78209,"6,026",27491
+San Antonio,Ford,Escape,SUV,Used,White,Tan,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,78209,"7,778",29991
+San Antonio,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2019,78209,"20,519",30449
+San Antonio,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,78209,"26,605",30991
+San Antonio,Nissan,Rogue Sport,SUV,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,78209,"9,430",30995
+San Antonio,GMC,Terrain,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,78209,"19,145",30995
+San Antonio,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,78209,"8,495",30995
+San Antonio,Subaru,BRZ,COUPE,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 27 Highway,2020,78209,"13,055",33991
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78209,"36,109",34449
+San Antonio,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,78209,"27,005",34991
+San Antonio,Honda,CR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,78209,"4,455",36449
+San Antonio,Nissan,Armada,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2019,78209,"24,409",40449
+San Antonio,GMC,Yukon,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,78209,"46,049",40995
+San Antonio,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,78209,"7,972",43449
+San Antonio,Toyota,Highlander,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2020,78209,"19,056",43449
+San Antonio,Mercedes-Benz,GLA 250,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2015,78249,"48,037",22998
+San Antonio,Lexus,ES 350,SEDAN,Used,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2014,78249,"57,986",23400
+San Antonio,Jeep,Grand Cherokee,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,78233,"34,751",32400
+San Antonio,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,78233,"16,084",43652
+San Antonio,Chevrolet,Silverado 2500,TRUCKS,Used,Red,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,78217,"58,827",59981
+San Antonio,Ford,F250,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2015,78217,"43,284",61994
+San Antonio,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,78217,"15,626",68981
+San Antonio,Ford,F250,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,78217,"9,766",71981
+San Antonio,RAM,3500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,78217,"11,706",73981
+San Antonio,RAM,2500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,78217,"28,192",79981
+San Antonio,Ford,F250,TRUCKS,Used,Silver,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78217,"9,043",81992
+San Antonio,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78217,"15,975",81993
+San Antonio,GMC,Sierra 2500,TRUCKS,Used,White,Jet Black With Kalahari Accent,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,78217,"9,552",88981
+San Antonio,Ford,F350,TRUCKS,Used,White,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,78217,"2,902",93981
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,78132,"4,071",39995
+San Antonio,GMC,Acadia,SUV,Used,Purple,Light Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,78154,"66,037",19276
+San Antonio,GMC,Terrain,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2017,78154,"49,061",23884
+San Antonio,Jeep,Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,78154,"26,830",24622
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2013,78154,"57,400",24987
+San Antonio,Honda,Ridgeline,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2017,78154,"43,255",26991
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,78154,"38,929",36985
+San Antonio,Honda,Ridgeline,TRUCKS,Used,Brown,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,78154,"19,075",41291
+San Antonio,Buick,Enclave,SUV,Certified,Silver,Shale With Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2020,78154,"12,011",41497
+San Antonio,GMC,Yukon XL,SUV,Certified,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,78154,"22,644",58874
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,,Dark Walnut/Dark Ash Grey,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 20 Highway,2021,78154,"3,047",69877
+San Antonio,Chevrolet,Trax,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,78154,"34,025",19995
+San Antonio,Chevrolet,Camaro,CONVERT,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2015,78154,"58,059",20995
+San Antonio,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,78154,"39,756",24059
+San Antonio,BMW,435i,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2016,78154,"46,964",29887
+San Antonio,Lexus,NX 200t,SUV,Used,Black,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2017,78154,"42,833",31569
+San Antonio,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,78154,"6,992",31995
+San Antonio,Subaru,Crosstrek,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,78154,"9,497",31995
+San Antonio,Toyota,Camry,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,78154,"9,219",33091
+San Antonio,Ford,F150,TRUCKS,Used,Silver,Dark Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,78154,"22,604",34271
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,White,Saddle,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2016,78154,"59,734",37995
+San Antonio,INFINITI,QX50,SUV,Used,Gray,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 29 Highway,2021,78154,"4,648",43298
+San Antonio,Chevrolet,Traverse,SUV,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2021,78154,"9,669",54995
+San Antonio,MAZDA,CX-5,SUV,Used,Red,Sand/Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2016,78216,"35,499",27284
+San Antonio,Acura,TLX,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2018,78216,"38,225",27526
+San Antonio,Acura,TLX,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2018,78216,"29,503",27930
+San Antonio,Nissan,Maxima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,78216,"39,782",27977
+San Antonio,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,78216,"36,639",28575
+San Antonio,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,78216,"29,410",28888
+San Antonio,Honda,CR-V,SUV,Certified,Silver,Ivory Clth,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78216,"10,895",29999
+San Antonio,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,78216,"16,161",30591
+San Antonio,Honda,CR-V,SUV,Certified,Black,Blk Clth,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78216,"9,191",30777
+San Antonio,Honda,Accord,SEDAN,Certified,Burgundy,Blk Clth,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,78216,"8,736",30785
+San Antonio,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,78216,"9,049",32565
+San Antonio,Acura,RLX,SEDAN,Used,Black,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,29 City / 30 Highway,2017,78216,"32,713",33997
+San Antonio,Honda,Pilot,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,78216,"9,303",34436
+San Antonio,Honda,Accord,SEDAN,Certified,Off White,Ivory,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,78216,"6,500",34693
+San Antonio,Honda,Accord,SEDAN,Certified,Silver,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,78216,"9,190",34880
+San Antonio,Honda,CR-V,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78216,"9,510",34977
+San Antonio,Honda,Pilot,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,78216,"15,171",35321
+San Antonio,Honda,Accord,SEDAN,Certified,Silver,Blk Clth,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,78216,"9,019",35514
+San Antonio,Honda,Ridgeline,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,78216,"27,376",36488
+San Antonio,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,78216,"27,713",36849
+San Antonio,Honda,Accord,SEDAN,Certified,Off White,Ivory,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,78216,"6,247",37888
+San Antonio,Honda,Passport,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2020,78216,"9,579",38977
+San Antonio,Nissan,Pathfinder,SUV,Used,Red,Almond,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2020,78216,"19,242",39888
+San Antonio,Honda,Passport,SUV,Certified,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2020,78216,"3,648",39897
+San Antonio,Honda,Pilot,SUV,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,78216,"9,140",40537
+San Antonio,Honda,Odyssey,VANS,Certified,Silver,Bge Lth,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,78216,"14,030",41888
+San Antonio,Honda,Pilot,SUV,Certified,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78216,"20,157",42977
+San Antonio,Acura,RDX,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2021,78216,"7,210",47977
+San Antonio,Honda,Odyssey,VANS,Certified,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,78216,"17,641",47977
+San Antonio,Honda,Odyssey,VANS,Certified,Off White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,78216,"6,452",53977
+San Antonio,Jeep,Wrangler,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,78216,"13,373",55199
+San Antonio,Chevrolet,Equinox,SUV,Used,Silver,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,78216,"9,560",28977
+San Antonio,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,78216,"14,815",33977
+San Antonio,Volkswagen,Atlas,SUV,Used,Gray,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,78216,"17,336",35628
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,78216,"19,156",46957
+San Antonio,Buick,Enclave,SUV,Used,White,Chestnut,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2020,78216,"19,112",47977
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,78216,"12,280",53977
+San Antonio,Nissan,Armada,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,78216,"2,598",58977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,78216,"31,598",34977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"29,614",36488
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"21,749",36977
+San Antonio,Lexus,ES 350,SEDAN,Used,Red,Flaxen W/Piano Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,78216,"8,406",37488
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"16,856",37977
+San Antonio,Lexus,RC 350,COUPE,Used,Silver,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2017,78216,"35,947",40977
+San Antonio,Mercedes-Benz,S 550,SEDAN,Used,Blue,Silk Beige/Espresso Brown,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2015,78216,"55,252",47977
+San Antonio,BMW,540i,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2020,78216,"10,471",48749
+San Antonio,Mercedes-Benz,S 550,SEDAN,Used,Black,Silk Beige/Espresso Brown,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2015,78216,"36,315",50977
+San Antonio,Lexus,RX 350,SUV,Used,White,Birch,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,78216,"4,939",53977
+San Antonio,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,78216,"7,200",68749
+San Antonio,Lexus,LX 570,SUV,Used,Silver,Parchment,Automatic,Gasoline,8-Cylinder,4 wheel drive,12 City / 16 Highway,2020,78216,"10,994",94977
+San Antonio,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,78211,"23,487",25491
+San Antonio,Toyota,Camry,SEDAN,Used,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,78211,"19,362",25491
+San Antonio,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,78211,"13,147",26891
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Blue,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2017,78211,"48,564",31591
+San Antonio,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,78211,"23,489",31951
+San Antonio,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,78230,"25,546",25488
+San Antonio,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2016,78230,"58,610",30998
+San Antonio,Ford,F150,TRUCKS,Used,White,Brunello,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2016,78230,"59,020",42997
+San Antonio,Toyota,RAV4,SUV,Used,Red,Call For Color,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,78229,"28,683",36991
+San Antonio,Dodge,Durango,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,78229,"36,124",37991
+San Antonio,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,78229,"9,652",57991
+San Antonio,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,78249,"41,726",39900
+San Antonio,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,78154,"28,360",61093
+San Antonio,Honda,HR-V,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2016,78249,"12,609",24995
+San Antonio,INFINITI,Q50,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,78249,"37,176",36995
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,78249,"20,170",53500
+San Antonio,Chevrolet,Cruze,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2016,78238,"47,842",16498
+San Antonio,Volkswagen,Jetta,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,78238,"16,359",24928
+San Antonio,Ford,F150,TRUCKS,Used,Blue,Steel Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2014,78238,"54,082",20999
+San Antonio,Ford,Explorer,SUV,Certified,Black,Medium Stone/Med Lt Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,78238,"36,809",35988
+San Antonio,Hyundai,Elantra,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,78233,"48,799",19997
+San Antonio,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,78233,"17,717",26997
+San Antonio,Chevrolet,Equinox,SUV,Used,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,78233,"38,714",29997
+San Antonio,Honda,Accord,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,78233,"30,407",29997
+San Antonio,Toyota,RAV4,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,78233,"24,519",31957
+San Antonio,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78233,"33,844",32497
+San Antonio,Kia,Sedona,VANS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2020,78233,"20,345",32996
+San Antonio,Ford,Edge,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,78233,"28,183",32997
+San Antonio,Toyota,RAV4,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,78233,"13,662",34995
+San Antonio,Toyota,Highlander,SUV,Used,Red,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,78233,"37,461",35787
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,78233,"33,198",35997
+San Antonio,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2018,78233,"18,196",38997
+San Antonio,Ford,Bronco Sport,SUV,Used,Gray,,Automatic,Gasoline,3-Cylinder Turbo,4 wheel drive,25 City / 28 Highway,2021,78233,"6,376",38997
+San Antonio,Toyota,4Runner,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,78233,"37,353",39796
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,78233,"13,984",39997
+San Antonio,Chevrolet,Tahoe,SUV,Used,Black,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,78233,"52,988",40298
+San Antonio,Toyota,Tundra,TRUCKS,Used,White,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2020,78233,"15,182",42997
+San Antonio,Audi,Q5,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,78233,"13,222",43997
+San Antonio,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,78233,"27,327",44496
+San Antonio,Toyota,Supra,COUPE,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,78233,"9,941",54494
+San Antonio,Toyota,Tundra,TRUCKS,Certified,Black,,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,78233,"15,211",55997
+San Antonio,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,78232,"35,953",20500
+San Antonio,Buick,Encore,SUV,Certified,Brown,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,78232,"24,692",21500
+San Antonio,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2017,78232,"33,276",22188
+San Antonio,Buick,Encore,SUV,Certified,White,Shale,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,78232,"19,025",25400
+San Antonio,Buick,Encore GX,SUV,Certified,Black,Ebony With Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,78232,"18,180",25900
+San Antonio,Ford,Escape,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,78232,"22,910",26000
+San Antonio,Toyota,Camry,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,78232,"44,680",26700
+San Antonio,Lexus,RX 350,SUV,Used,Gray,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,78232,"42,458",28500
+San Antonio,GMC,Terrain,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,78232,"4,869",30900
+San Antonio,MAZDA,CX-9,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,78232,"16,873",32900
+San Antonio,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,78232,"10,942",33500
+San Antonio,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,78232,"8,952",33500
+San Antonio,Honda,Ridgeline,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,78232,"9,510",34300
+San Antonio,Buick,Enclave,SUV,Certified,White,Dark Galvanized,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,78232,"39,857",35900
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,78232,"36,464",36500
+San Antonio,Chevrolet,Colorado,TRUCKS,Certified,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,78232,"17,346",36900
+San Antonio,Lincoln,Nautilus,SUV,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,78232,"25,013",38500
+San Antonio,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,78232,"24,778",38700
+San Antonio,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,78232,"27,974",38800
+San Antonio,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,78232,"25,718",38800
+San Antonio,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2021,78232,"5,755",42000
+San Antonio,BMW,540i,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,78232,"28,492",43500
+San Antonio,Toyota,Tundra,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2020,78232,"13,378",44000
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,78232,"6,435",44500
+San Antonio,Porsche,Panamera,HATCH,Used,Gray,Luxor Beige,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 23 Highway,2013,78232,"74,645",47900
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Gray,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2021,78232,"1,010",51000
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2021,78232,"6,501",51500
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,White,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2021,78232,"2,731",51700
+San Antonio,Toyota,Sequoia,SUV,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2018,78232,"28,955",54500
+San Antonio,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2021,78232,"3,408",63900
+San Antonio,RAM,2500,TRUCKS,Used,White,Lt Mountain Brown/Brown,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,78232,"22,545",69500
+San Antonio,Lincoln,Navigator,SUV,Used,White,Russet,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,78232,"9,926",83900
+San Antonio,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 31 Highway,2019,78216,"20,211",19895
+San Antonio,Mitsubishi,Outlander Sport,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2019,78216,"17,418",21995
+San Antonio,Mitsubishi,Eclipse Cross,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,25 City / 26 Highway,2019,78216,"27,396",23995
+San Antonio,BMW,X1,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2017,78216,"44,658",26995
+San Antonio,Mitsubishi,Outlander,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2020,78216,"12,290",27595
+San Antonio,Volkswagen,Passat,SEDAN,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,78216,"11,060",30995
+San Antonio,Lincoln,MKC,SUV,Used,Beige,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,78216,"9,237",37995
+San Antonio,Ford,Ranger,TRUCKS,Used,White,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2021,78216,"3,772",39995
+San Antonio,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78238,"40,256",32000
+San Antonio,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,78238,"9,709",50988
+San Antonio,Lexus,ES 300h,SEDAN,Used,White,Parchment,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 39 Highway,2013,78216,"68,716",21495
+San Antonio,Toyota,4Runner,SUV,Used,White,Sand Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2012,78216,"115,496",23895
+San Antonio,Lexus,ES 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2015,78216,"28,506",28495
+San Antonio,Chevrolet,Colorado,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2015,78216,"53,398",29895
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"15,345",32895
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"29,183",32895
+San Antonio,Lexus,ES 350,SEDAN,Certified,Beige,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,78216,"16,757",37595
+San Antonio,Lexus,ES 250,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2021,78216,"8,232",41395
+San Antonio,BMW,740i,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2016,78216,"20,223",43995
+San Antonio,Ford,Expedition,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,78216,"19,691",49395
+San Antonio,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,78216,"12,159",49895
+San Antonio,Lexus,RX 350,SUV,Certified,Silver,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,78216,371,52985
+San Antonio,Toyota,Supra,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,78216,"9,491",56995
+San Antonio,Kia,Telluride,SUV,Used,Black,Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,78216,"14,869",57895
+San Antonio,Mercedes-Benz,GLA 45 AMG,SUV,Used,Black,Titanium Grey/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2021,78216,"5,707",57895
+San Antonio,BMW,X5,SUV,Used,Blue,Ivory White/Night Blue,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,78216,"16,464",59895
+San Antonio,Lexus,LS 500,SEDAN,Certified,White,Chateau,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2018,78216,"25,236",62195
+San Antonio,Lexus,LS 500,SEDAN,Certified,Black,Parchment,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 30 Highway,2019,78216,"27,488",63385
+San Antonio,Lexus,LC 500,COUPE,Used,Black,Rioja Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2018,78216,"41,950",72895
+San Antonio,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,78216,"55,328",18995
+San Antonio,Chevrolet,Cruze,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,78216,"26,609",20995
+San Antonio,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,78216,"15,578",22495
+San Antonio,Ford,Escape,SUV,Used,Gold,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,78216,"10,002",23995
+San Antonio,Nissan,Frontier,TRUCKS,Used,Red,Beige,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2018,78216,"37,001",25995
+San Antonio,Honda,Civic,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,78216,"12,831",25995
+San Antonio,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,78216,"42,200",28995
+San Antonio,Lincoln,MKZ,SEDAN,Used,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,78216,"19,219",29995
+San Antonio,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,78216,"15,963",30795
+San Antonio,Lincoln,MKX,SUV,Used,Red,Ebony &#47; Terracotta,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2018,78216,"39,398",33995
+San Antonio,Lincoln,Continental,SEDAN,Used,Red,Cappuccino,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 26 Highway,2018,78216,"28,628",34995
+San Antonio,Ford,F150,TRUCKS,Used,Red,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,78216,"12,126",35595
+San Antonio,Lincoln,MKX,SUV,Used,Blue,Cappuccino,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 23 Highway,2018,78216,"37,145",35995
+San Antonio,Lincoln,Nautilus,SUV,Used,Brown,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,78216,"28,746",38995
+San Antonio,Lincoln,Corsair,SUV,Used,White,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,78216,"13,491",39995
+San Antonio,Lincoln,Nautilus,SUV,Used,Silver,Coffee,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,78216,"29,458",41995
+San Antonio,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,78216,"16,026",44795
+San Antonio,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,78216,"17,938",46995
+San Antonio,Jeep,Grand Cherokee,SUV,Used,Black,Ruby Red/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2020,78216,"15,045",48995
+San Antonio,Lincoln,Navigator,SUV,Used,Burgundy,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2018,78216,"29,964",65495
+San Antonio,Chevrolet,Silverado 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,78216,"27,101",66995
+San Antonio,INFINITI,QX80,SUV,Used,Blue,Graphite/Stone,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2019,78216,"11,546",67995
+San Antonio,GMC,Yukon,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2020,78216,"12,178",67995
+San Antonio,Kia,Sorento,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,78238,"16,151",28491
+San Antonio,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,78249,"22,423",27891
+San Antonio,Ford,F250,TRUCKS,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2016,78249,"58,394",45991
+San Antonio,Chevrolet,Equinox,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,78233,"75,809",18195
+San Antonio,MAZDA,MAZDA3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,78233,"44,851",18497
+San Antonio,Ford,Taurus,SEDAN,Used,White,Tan,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2016,78233,"67,800",18797
+San Antonio,Nissan,Rogue,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2015,78233,"44,650",21097
+San Antonio,Chevrolet,Equinox,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,78233,"49,911",21097
+San Antonio,Honda,CR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2017,78233,"36,250",25297
+San Antonio,Hyundai,Tucson,SUV,Used,Brown,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2020,78249,"18,820",26991
+San Antonio,Toyota,RAV4,SUV,Used,Blue,Call For Color,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,78249,"7,903",38991
+San Antonio,Ford,Mustang,COUPE,Certified,Silver,,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,78230,"24,435",25995
+San Antonio,Ford,Ranger,TRUCKS,Certified,Yellow,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,78230,"24,205",34995
+San Antonio,Ford,Explorer,SUV,Certified,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,78230,"20,387",37301
+San Antonio,Ford,Ranger,TRUCKS,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,78230,"21,412",37995
+San Antonio,Ford,F150,TRUCKS,Certified,White,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,78230,"16,210",38095
+San Antonio,Ford,Explorer,SUV,Certified,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78230,"17,349",39299
+San Antonio,Ford,Explorer,SUV,Certified,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78230,"19,550",39995
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,78230,"18,234",40419
+San Antonio,Ford,Explorer,SUV,Certified,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78230,"13,936",40995
+San Antonio,Toyota,Tacoma,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,78230,"4,514",40995
+San Antonio,Ford,F150,TRUCKS,Certified,White,,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 24 Highway,2021,78230,"1,500",41995
+San Antonio,Ford,F150,TRUCKS,Certified,Silver,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,78230,"12,791",41995
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,78230,"6,997",42519
+San Antonio,Ford,F150,TRUCKS,Certified,White,,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 24 Highway,2021,78230,"3,865",43095
+San Antonio,Ford,F150,TRUCKS,Certified,Black,,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,78230,"23,890",43519
+San Antonio,Ford,F150,TRUCKS,Certified,Blue,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,78230,"11,130",43995
+San Antonio,Ford,F150,TRUCKS,Used,Gray,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,78230,115,44095
+San Antonio,Ford,F150,TRUCKS,Certified,Gray,,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2021,78230,"2,007",45095
+San Antonio,Ford,F150,TRUCKS,Certified,,,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 24 Highway,2021,78230,"1,651",46301
+San Antonio,Ford,Explorer,SUV,Certified,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2021,78230,"5,421",47798
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Green,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,78230,"7,911",49995
+San Antonio,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,78230,"13,320",53995
+San Antonio,Ford,F150,TRUCKS,Certified,Gray,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2020,78230,"6,153",62222
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 20 Highway,2021,78230,"8,690",69919
+San Antonio,GMC,Yukon XL,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,78230,"2,525",86995
+San Antonio,Volkswagen,Tiguan,SUV,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,78233,"26,389",24500
+San Antonio,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,78233,"32,740",27900
+San Antonio,Cadillac,CTS,SEDAN,Used,White,Light Platinum With Jet Black ,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,78233,"58,595",28500
+San Antonio,MAZDA,CX-9,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,78233,"43,829",33900
+San Antonio,Cadillac,XT4,SUV,Certified,Black,Light Platinum/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2021,78233,"11,659",38900
+San Antonio,Cadillac,XT4,SUV,Certified,White,Jet Black With Cinnamon Accent,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,78233,"38,099",38900
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Brown,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,78233,"23,394",39900
+San Antonio,INFINITI,QX80,SUV,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2018,78233,"54,959",44500
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,78233,"40,466",45900
+San Antonio,Cadillac,Escalade,SUV,Certified,Gray,Shale With Cocoa Accents,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,78233,"53,940",53900
+San Antonio,Cadillac,Escalade ESV,SUV,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2018,78233,"48,507",62900
+San Antonio,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,78233,"8,857",77900
+San Antonio,Ford,Explorer,SUV,Used,Red,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2016,78219,"84,316",23900
+San Antonio,Ford,Edge,SUV,Used,Black,Dune,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,78219,"54,033",27888
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,78219,"79,252",29900
+San Antonio,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,78219,"15,665",39900
+San Antonio,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,78219,"14,498",40500
+San Antonio,Chevrolet,Camaro,COUPE,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,78006,"8,565",30700
+San Antonio,Chevrolet,Malibu,SEDAN,Used,Blue,Dark Atmosphere/Medium Ash Gra,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,78209,"53,038",19449
+San Antonio,Toyota,Corolla,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,78209,"45,528",19995
+San Antonio,Kia,Rio,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 41 Highway,2021,78209,"1,616",22995
+San Antonio,Nissan,Altima,SEDAN,Certified,Gray,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,78209,"20,910",25991
+San Antonio,Toyota,Highlander,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 25 Highway,2014,78209,"76,811",25995
+San Antonio,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2020,78209,"21,875",26995
+San Antonio,Nissan,Altima,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,78209,"23,734",26997
+San Antonio,Nissan,Altima,SEDAN,Certified,Silver,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,78209,"11,287",27449
+San Antonio,Nissan,Pathfinder,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,78209,"43,336",27995
+San Antonio,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,78209,"23,593",28995
+San Antonio,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,78209,"13,268",30449
+San Antonio,Toyota,Tacoma,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,78209,"26,779",35449
+San Antonio,BMW,340i,SEDAN,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2017,78209,"38,115",36449
+San Antonio,Nissan,Murano,SUV,Certified,White,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2019,78209,"19,553",36995
+San Antonio,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,78209,"29,248",44995
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,78209,"14,508",46449
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,78209,"26,307",51991
+San Antonio,Ford,Expedition,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,78209,"30,777",52995
+San Antonio,Cadillac,XT6,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2020,78209,"21,789",54449
+San Antonio,Ford,Expedition Max,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,78209,"17,326",61991
+San Antonio,Hyundai,Santa Fe,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,78249,"69,887",19460
+San Antonio,Ford,Escape,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,78249,"52,459",22135
+San Antonio,Honda,Civic,HATCH,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,78249,"37,591",25263
+San Antonio,Mercedes-Benz,SLC 300,CONVERT,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2017,78249,"42,794",37000
+San Antonio,Jeep,Compass,SUV,Used,Silver,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 26 Highway,2015,78233,"34,180",14500
+San Antonio,Volkswagen,Jetta,SEDAN,Used,Brown,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 39 Highway,2016,78233,"46,635",16125
+San Antonio,Chrysler,300,SEDAN,Used,Off White,Linen/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,78233,"58,003",19750
+San Antonio,Dodge,Challenger,COUPE,Used,Black,Dark Slate Gray,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2010,78233,"47,003",20913
+San Antonio,Honda,CR-V,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2015,78233,"45,832",21250
+San Antonio,Honda,CR-V,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,78233,"59,935",21806
+San Antonio,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,78233,"22,781",22900
+San Antonio,Mercedes-Benz,GLA 250,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2015,78233,"49,024",23000
+San Antonio,Lincoln,MKC,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2016,78233,"42,841",24053
+San Antonio,Honda,HR-V,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,78233,"14,491",24626
+San Antonio,Kia,Seltos,SUV,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2021,78233,"8,290",25000
+San Antonio,Jeep,Renegade,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 27 Highway,2019,78233,"19,368",26781
+San Antonio,Jeep,Renegade,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2021,78233,547,27185
+San Antonio,Volkswagen,Passat,SEDAN,Used,White,Shetland Beige & Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,78233,"13,470",27590
+San Antonio,Chevrolet,Colorado,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2018,78233,"29,680",28498
+San Antonio,Volkswagen,Jetta,SEDAN,Used,Gray,Titan Black W/Red Stitch,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2021,78233,"7,963",28935
+San Antonio,Dodge,Challenger,COUPE,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,78233,"23,616",28980
+San Antonio,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2015,78233,"43,916",29250
+San Antonio,Dodge,Durango,SUV,Certified,White,Lt Frost Beige/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,78233,"36,104",29250
+San Antonio,Dodge,Charger,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,78233,"25,916",29473
+San Antonio,Dodge,Challenger,COUPE,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,78233,"29,625",29887
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,White,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,78233,"66,388",30087
+San Antonio,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2016,78233,"44,408",30350
+San Antonio,Lexus,NX 200t,SUV,Used,Black,F Sport Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2017,78233,"47,116",31056
+San Antonio,Dodge,Charger,SEDAN,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,78233,"4,652",31651
+San Antonio,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,78233,"28,723",32145
+San Antonio,Jeep,Wrangler,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78233,"40,874",34575
+San Antonio,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 41 Highway,2021,78233,"4,070",36250
+San Antonio,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78233,"15,219",37500
+San Antonio,Cadillac,XT5,SUV,Used,,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,78233,"20,011",39000
+San Antonio,Jeep,Wrangler,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78233,"23,388",39594
+San Antonio,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,78233,"12,052",40299
+San Antonio,RAM,1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,78233,"4,358",40780
+San Antonio,Jeep,Gladiator,TRUCKS,Certified,Red,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2021,78233,"5,794",42000
+San Antonio,Maserati,Ghibli,SEDAN,Used,White,Cuoio,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,78233,"39,301",42987
+San Antonio,Jeep,Gladiator,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,78233,"15,981",47000
+San Antonio,Land Rover,Discovery Sport,SUV,Used,Black,Ebony W/Mars Red Stitch,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,78233,"14,541",47457
+San Antonio,Ford,Expedition,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,78233,"29,284",48000
+San Antonio,Dodge,Charger,SEDAN,Certified,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,78233,"9,070",48618
+San Antonio,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,78233,"9,299",53263
+San Antonio,Jeep,Gladiator,TRUCKS,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,78233,"4,588",56683
+San Antonio,Ford,F250,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2021,78233,"9,079",67000
+San Antonio,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 21 Highway,2020,78233,"12,050",77500
+San Antonio,Ford,F250,TRUCKS,Used,Red,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78233,"17,550",79346
+San Antonio,Ford,Fusion,SEDAN,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 33 Highway,2016,78130,"44,981",19289
+San Antonio,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,78130,"33,137",22299
+San Antonio,Toyota,Avalon,SEDAN,Used,Gray,Light Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 39 Highway,2016,78130,"37,599",25989
+San Antonio,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2016,78130,"34,884",26989
+San Antonio,Audi,Q5,SUV,Used,Gray,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2017,78130,"32,636",28709
+San Antonio,Lexus,IS 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2015,78130,"11,966",33999
+San Antonio,Ford,Mustang,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,78130,"4,695",45699
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,78130,"9,182",54389
+San Antonio,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2014,78217,"101,455",16981
+San Antonio,GMC,Acadia,SUV,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2017,78217,"43,509",26981
+San Antonio,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,78217,"6,799",36981
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,78217,"30,860",41981
+San Antonio,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,78217,"16,316",46981
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,78217,"9,598",62981
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,78217,"4,960",65981
+San Antonio,Ford,F350,TRUCKS,Used,Black,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,78217,"34,185",72981
+San Antonio,Ford,F250,TRUCKS,Used,Red,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,78217,"16,263",79981
+San Antonio,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78217,"11,606",84981
+San Antonio,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,78217,"9,327",84981
+San Antonio,RAM,3500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,78217,"10,264",85981
+San Antonio,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2018,78132,"25,389",68795
+San Antonio,Lincoln,Navigator,SUV,Used,White,Russet,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,78132,"14,292",85995
+San Antonio,Lexus,ES 350,SEDAN,Used,Red,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2014,78154,"100,479",19445
+San Antonio,Mitsubishi,Eclipse Cross,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 28 Highway,2020,78154,"25,747",22785
+San Antonio,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2014,78154,"115,238",25459
+San Antonio,Dodge,Charger,SEDAN,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,78154,"58,242",25491
+San Antonio,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,78154,"49,103",27981
+San Antonio,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,78154,"11,732",28974
+San Antonio,Chevrolet,Avalanche,TRUCKS,Used,White,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 21 Highway,2013,78154,"72,811",31495
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,78154,"14,536",31500
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Dark Ash With Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,78154,"46,775",32777
+San Antonio,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 25 Highway,2018,78154,"66,398",32991
+San Antonio,Buick,Enclave,SUV,Certified,White,Brandy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,78154,"45,135",33495
+San Antonio,GMC,Canyon,TRUCKS,Certified,Gray,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2021,78154,"13,385",35774
+San Antonio,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 26 Highway,2017,78154,"26,803",35777
+San Antonio,Chevrolet,Suburban,SUV,Used,White,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 22 Highway,2016,78154,"74,958",37954
+San Antonio,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78154,"34,329",39595
+San Antonio,Chevrolet,Corvette,COUPE,Used,Yellow,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2015,78154,"52,076",42781
+San Antonio,Audi,A5,CONVERT,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,78154,"17,720",45987
+San Antonio,GMC,Yukon,SUV,Used,Gold,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,78154,"64,844",48441
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2021,78154,"7,534",52985
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,78154,"28,073",53445
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Gray,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,78154,"30,507",57987
+San Antonio,GMC,Sierra 1500,TRUCKS,Certified,Black,Jet Black With Kalahari Accent,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,22 City / 26 Highway,2021,78154,"11,996",65447
+San Antonio,GMC,Yukon XL,SUV,Certified,White,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2021,78154,"12,174",73774
+San Antonio,RAM,2500,TRUCKS,Used,White,Lt Frost Beige/Mountain,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2021,78154,"11,070",77491
+San Antonio,Honda,CR-V,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78254,"16,512",34991
+San Antonio,Honda,Odyssey,VANS,Used,Gray,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,78254,"11,821",41991
+San Antonio,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,78154,"33,537",24495
+San Antonio,GMC,Terrain,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,78154,"38,823",26740
+San Antonio,Chevrolet,Colorado,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2015,78154,"70,889",26995
+San Antonio,Honda,Ridgeline,TRUCKS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2017,78154,"59,190",29495
+San Antonio,Dodge,Grand Caravan,VANS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2020,78154,"18,529",30870
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,White,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2014,78154,"41,108",31795
+San Antonio,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,78154,"21,412",39162
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,78154,"27,623",39495
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,78154,"25,357",39995
+San Antonio,Subaru,Ascent,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2021,78154,"12,846",40890
+San Antonio,Toyota,Tacoma,TRUCKS,Used,White,Black/Gun Metal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,78154,"19,944",41141
+San Antonio,Chevrolet,Tahoe,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,78154,"32,005",42495
+San Antonio,Kia,Telluride,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,78154,"27,900",44495
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Certified,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2019,78154,"37,217",46495
+San Antonio,Chevrolet,Suburban,SUV,Used,Silver,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,78154,"42,778",51852
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,78154,"22,915",51995
+San Antonio,Lexus,RX 350,SUV,Used,Black,Glazed Caramel,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,78154,"4,410",55384
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,78154,"5,792",58641
+San Antonio,Porsche,Cayenne,SUV,Used,Red,Espresso/Cognac,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 21 Highway,2015,78154,"43,556",58995
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,78154,"24,659",59495
+San Antonio,Chevrolet,Silverado 3500,TRUCKS,Used,Red,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,78154,"34,263",72995
+San Antonio,Cadillac,Escalade,SUV,Used,White,Parchment With Jet Black Accen,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,78154,768,115495
+San Antonio,Volvo,S90,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 35 Highway,2019,78209,"20,357",37968
+San Antonio,Jeep,Wrangler,SUV,Used,Red,,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2009,78258,"159,844",14999
+San Antonio,Pontiac,Solstice,CONVERT,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2008,78230,"45,526",10925
+San Antonio,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2015,78230,"64,928",19987
+San Antonio,Kia,Optima,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,78230,"34,427",21995
+San Antonio,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,78230,"10,325",27999
+San Antonio,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2016,78230,"53,025",28995
+San Antonio,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,78230,"27,739",28999
+San Antonio,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,78230,"27,315",29425
+San Antonio,Honda,Pilot,SUV,Used,Burgundy,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,78230,"44,010",29425
+San Antonio,Honda,CR-V,SUV,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,78230,"27,925",30250
+San Antonio,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78230,"17,460",31397
+San Antonio,Lexus,IS 200t,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2017,78230,"33,268",31425
+San Antonio,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,78230,"24,366",31995
+San Antonio,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2019,78230,"16,925",32250
+San Antonio,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,78230,"25,789",33397
+San Antonio,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,78230,"21,215",33992
+San Antonio,Honda,Pilot,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,78230,"21,570",34405
+San Antonio,Ford,Edge,SUV,Used,Blue,Ceramic,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,78230,"7,378",34475
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,78230,"23,111",34928
+San Antonio,Honda,CR-V,SUV,Used,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78230,"6,243",35999
+San Antonio,Ford,Explorer,SUV,Used,Red,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78230,"11,792",38397
+San Antonio,Acura,RDX,SUV,Certified,Off White,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2020,78230,"17,939",42488
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,78230,"17,859",44488
+San Antonio,Acura,MDX,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78230,"18,952",46488
+San Antonio,Ford,Mustang,COUPE,Used,Black,Ebony W/Dark Slate,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2020,78230,"3,813",69488
+San Antonio,Porsche,911,COUPE,Used,Gray,Black,,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2016,78230,"18,692",96990
+San Antonio,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,78238,"44,302",19981
+San Antonio,Toyota,C-HR,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,78238,"29,333",23981
+San Antonio,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,78238,"27,613",23985
+San Antonio,Toyota,Camry,SEDAN,Certified,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,78238,"9,453",30981
+San Antonio,Toyota,Highlander,SUV,Certified,Gold,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2021,78238,"8,671",39981
+San Antonio,Nissan,Rogue Sport,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,78216,"11,394",24977
+San Antonio,Honda,Civic,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,78216,"18,666",25535
+San Antonio,Honda,Civic,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,78216,"14,664",26262
+San Antonio,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,78216,"57,979",26762
+San Antonio,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,78216,"71,320",28744
+San Antonio,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,78216,"48,082",29377
+San Antonio,Acura,TLX,SEDAN,Used,Off White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 29 Highway,2019,78216,"32,626",33799
+San Antonio,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78216,"10,987",34277
+San Antonio,Honda,CR-V,SUV,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78216,"25,115",34977
+San Antonio,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78216,"20,039",35728
+San Antonio,Honda,Accord,SEDAN,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,78216,"14,109",38477
+San Antonio,Honda,Passport,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,78216,"16,304",43642
+San Antonio,Lexus,RX 350,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,78216,"39,235",44777
+San Antonio,Honda,Pilot,SUV,Certified,Black,Blk Clth,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,78216,"9,910",44888
+San Antonio,Honda,Pilot,SUV,Certified,,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,78216,"24,721",45007
+San Antonio,Honda,Pilot,SUV,Certified,Silver,Blk Clth,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,78216,"11,120",46777
+San Antonio,Honda,Odyssey,VANS,Certified,Gray,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,78216,"19,910",49777
+San Antonio,Honda,Pilot,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,78216,"16,121",49999
+San Antonio,Honda,Odyssey,VANS,Certified,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,78216,"16,306",50777
+San Antonio,GMC,Canyon,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2016,78216,"72,877",27977
+San Antonio,Toyota,Tundra,TRUCKS,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2016,78216,"71,991",35880
+San Antonio,Volvo,XC90,SUV,Used,Black,Amber,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2016,78216,"57,696",35977
+San Antonio,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,78216,"25,204",37977
+San Antonio,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,78216,"36,852",37977
+San Antonio,Kia,Sorento,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,78216,"9,211",41977
+San Antonio,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2018,78216,"22,672",43977
+San Antonio,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,78216,"44,837",50977
+San Antonio,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,78216,"3,222",51872
+San Antonio,Chevrolet,Corvette,CONVERT,Used,Yellow,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2017,78216,"41,083",51977
+San Antonio,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2020,78216,"16,511",52977
+San Antonio,Chevrolet,Corvette,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2019,78216,"8,272",72977
+San Antonio,Porsche,718 Cayman,COUPE,Used,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,78216,"3,788",78977
+San Antonio,Chevrolet,Corvette,CONVERT,Used,Gray,Jet Black,Manual,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,15 City / 22 Highway,2016,78216,"13,617",79997
+San Antonio,BMW,M4,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2021,78216,"12,730",89948
+San Antonio,BMW,528i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2016,78216,"48,166",24977
+San Antonio,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,78216,"55,171",27749
+San Antonio,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,78216,"42,314",30977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,78216,"50,285",33977
+San Antonio,Mercedes-Benz,CLA 250,SEDAN,Used,Brown,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,78216,"21,257",36977
+San Antonio,BMW,330i,SEDAN,Used,Gray,Oyster W/Black Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,78216,"32,451",37977
+San Antonio,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,78216,"29,914",38977
+San Antonio,Acura,MDX,SUV,Used,White,Espresso,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2017,78216,"40,435",38977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Blue,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,78216,"26,997",40977
+San Antonio,BMW,530i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,78216,"25,798",41488
+San Antonio,Volkswagen,Golf R,HATCH,Used,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,78216,"29,524",41977
+San Antonio,BMW,X5,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 25 Highway,2018,78216,"24,966",44977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Blue,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2020,78216,"16,204",45977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2020,78216,"9,428",45977
+San Antonio,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,78216,"24,680",46977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2021,78216,"7,986",49977
+San Antonio,Mercedes-Benz,GLC 300,SUV,Used,Gray,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2021,78216,"8,674",50977
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Black,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,78216,"9,262",54977
+San Antonio,Mercedes-Benz,S 550,SEDAN,Used,Black,Silk Beige/Espresso Brown,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2016,78216,"34,345",58749
+San Antonio,Land Rover,Range Rover Velar,SUV,Used,Blue,Eclipse/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2020,78216,"21,141",59749
+San Antonio,Lincoln,Aviator,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2020,78216,"12,048",65749
+San Antonio,Lexus,LS 500,SEDAN,Used,Silver,Noble Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 25 Highway,2020,78216,"12,664",74977
+San Antonio,Mercedes-Benz,C 63 AMG,CONVERT,Used,White,Platinum White/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 22 Highway,2018,78216,"24,571",82749
+San Antonio,Mercedes-Benz,C 63 AMG,CONVERT,Used,Red,Platinum White/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 22 Highway,2018,78216,"32,727",82749
+San Antonio,MAZDA,CX-5,SUV,Used,Gray,Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,78230,"7,758",37990
+San Antonio,Toyota,Supra,COUPE,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,78230,"9,477",58990
+San Antonio,Porsche,718 Boxster,CONVERT,Used,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2018,78230,"13,253",80990
+San Antonio,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,78211,"41,892",32951
+San Antonio,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,78211,"10,230",36891
+San Antonio,Toyota,Tundra,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,78211,"19,180",48491
+San Antonio,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2021,78211,"11,978",48991
+San Antonio,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2014,78230,"92,191",16997
+San Antonio,Jeep,Cherokee,SUV,Used,Brown,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,78230,"54,113",20998
+San Antonio,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,78230,"43,864",33997
+San Antonio,INFINITI,QX50,SUV,Used,White,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2019,78230,"38,521",34991
+San Antonio,Chrysler,Pacifica,VANS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,78230,"26,163",39997
+San Antonio,Mercedes-Benz,GLK 350,SUV,Used,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2014,78006,"39,311",24491
+San Antonio,Jeep,Renegade,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2020,78006,"10,382",26491
+San Antonio,Mercedes-Benz,GLC 300,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,78006,"16,206",46491
+San Antonio,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2017,78006,"49,698",22195
+San Antonio,Hyundai,Kona,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2021,78229,"2,857",32991
+San Antonio,Hyundai,Santa Fe,SUV,Certified,White,Espresso/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,78229,"5,634",37991
+San Antonio,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2013,78249,"78,285",15900
+San Antonio,Jeep,Cherokee,SUV,Used,Silver,Lt Frost Beige/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,78249,"24,298",24500
+San Antonio,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2016,78249,"47,857",30900
+San Antonio,Volvo,S90,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 34 Highway,2018,78249,"26,352",35500
+San Antonio,Ford,Explorer,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,78249,"12,119",36900
+San Antonio,Lincoln,MKC,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,78249,"12,119",38900
+San Antonio,Toyota,Venza,SUV,Used,Gray,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,40 City / 37 Highway,2021,78249,"6,987",38900
+San Antonio,Mercedes-Benz,C 300,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,78249,"16,509",39500
+San Antonio,Audi,A5,HATCH,Used,Burgundy,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,78249,"20,298",41200
+San Antonio,Lexus,RX 350,SUV,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78249,"29,465",42500
+San Antonio,Toyota,4Runner,SUV,Used,Black,Redwood,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2018,78249,"29,491",42900
+San Antonio,BMW,540i,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,78249,"36,714",42900
+San Antonio,Lexus,RX 350,SUV,Used,Silver,Noble Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,78249,"29,407",43500
+San Antonio,Lincoln,Nautilus,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,78249,"16,700",44900
+San Antonio,Volvo,XC90,SUV,Used,Blue,Blond/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,78249,"28,055",55900
+San Antonio,BMW,X3 M,SUV,Used,White,Black W/Beige Stitching,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2020,78249,"11,614",72900
+San Antonio,Lincoln,Navigator,SUV,Used,Burgundy,Ebony / Russet,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 20 Highway,2021,78249,"5,640",86900
+San Antonio,BMW,M850i xDrive,CONVERT,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2019,78249,"6,014",95900
+San Antonio,INFINITI,Q50,SEDAN,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,78006,"8,194",37777
+San Antonio,BMW,335i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 30 Highway,2014,78154,"69,674",21599
+San Antonio,Honda,Accord,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,78154,"28,833",24499
+San Antonio,Subaru,Crosstrek,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,78154,"33,615",26999
+San Antonio,Lexus,NX 300,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,78154,"23,350",36499
+San Antonio,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,78154,"22,862",41999
+San Antonio,Mitsubishi,Outlander Sport,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2020,78154,"11,650",21533
+San Antonio,Genesis,G70,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,78154,"12,431",35025
+San Antonio,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2020,78154,"8,082",47561
+San Antonio,Mercedes-Benz,GLE 350,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,78154,"15,571",59893
+San Antonio,Kia,Sorento,SUV,Used,Red,Stone Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2017,78249,"46,093",22500
+San Antonio,Nissan,Altima,SEDAN,Used,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,78249,"23,622",25927
+San Antonio,Honda,HR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,78249,"19,186",25995
+San Antonio,Honda,HR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,78249,"11,141",26995
+San Antonio,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,78249,"20,341",26995
+San Antonio,Honda,Accord,SEDAN,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,78249,"28,713",27199
+San Antonio,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,78249,"21,127",28995
+San Antonio,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,78249,"41,185",28995
+San Antonio,Honda,Pilot,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,78249,"70,919",28999
+San Antonio,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,78249,"29,110",29488
+San Antonio,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,78249,"21,162",30272
+San Antonio,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78249,"29,877",30688
+San Antonio,Honda,CR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78249,"29,637",30994
+San Antonio,Kia,Sportage,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,78249,"29,115",30995
+San Antonio,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,78249,"32,387",30995
+San Antonio,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,78249,"4,674",31497
+San Antonio,Honda,CR-V,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,78249,"43,138",31995
+San Antonio,Honda,CR-V,SUV,Certified,,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,78249,"7,688",32499
+San Antonio,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,78249,"30,885",32995
+San Antonio,Ford,Mustang,COUPE,Used,White,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2017,78249,"14,767",34442
+San Antonio,Honda,Passport,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,78249,"24,509",34500
+San Antonio,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,78249,"1,235",35999
+San Antonio,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,78249,"1,995",36599
+San Antonio,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,78249,963,36999
+San Antonio,Mercedes-Benz,GLE 350,SUV,Used,White,Porcelain/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,78249,"24,862",43995
+San Antonio,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,78249,"3,555",43995
+San Antonio,Chevrolet,Silverado 1500,TRUCKS,Used,White,Saddle,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,78249,"35,261",48995
+San Antonio,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,78249,"19,849",49480
+San Antonio,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2016,78248,"57,441",19962
+San Antonio,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2016,78248,"39,034",21992
+San Antonio,BMW,428i Gran Coupe,HATCH,Used,Silver,Ivory White/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2016,78248,"55,990",24362
+San Antonio,BMW,330i,SEDAN,Used,White,Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2017,78248,"49,845",24907
+San Antonio,BMW,320i,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"35,191",27262
+San Antonio,BMW,320i,SEDAN,Used,White,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"29,081",27762
+San Antonio,BMW,320i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"26,049",28172
+San Antonio,BMW,320i,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"31,623",28362
+San Antonio,BMW,320i,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"21,706",28762
+San Antonio,BMW,X2,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,78248,"32,685",29392
+San Antonio,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,78248,"30,109",29462
+San Antonio,BMW,320i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"31,217",29462
+San Antonio,BMW,330e,SEDAN,Certified,Blue,Venetian Beige,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,78248,"27,347",29662
+San Antonio,BMW,X1,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,78248,"27,081",29728
+San Antonio,BMW,320i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,78248,"28,231",29762
+San Antonio,BMW,X2,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,78248,"26,969",29778
+San Antonio,BMW,X2,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,78248,"39,507",29920
+San Antonio,BMW,330i,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,78248,"31,456",30985
+San Antonio,BMW,330e,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,78248,"28,053",31435
+San Antonio,BMW,X2,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,78248,"27,679",31462
+San Antonio,BMW,X4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2017,78248,"41,482",31987
+San Antonio,BMW,X2,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,78248,"39,657",32462
+San Antonio,BMW,530i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,78248,"33,546",32747
+San Antonio,BMW,330i xDrive,SEDAN,Used,Black,Cognac/Dark Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,78248,"27,526",32962
+San Antonio,BMW,330i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,78248,"19,798",33536
+San Antonio,BMW,530i,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,78248,"34,464",34269
+San Antonio,BMW,530i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,78248,"37,142",34762
+San Antonio,BMW,230i,COUPE,Certified,Black,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 32 Highway,2020,78248,"16,557",34931
+San Antonio,BMW,530e,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,78248,"38,910",34942
+San Antonio,BMW,530e,SEDAN,Used,Black,Canberra Beige/Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,78248,"38,322",35398
+San Antonio,BMW,430i,COUPE,Certified,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 33 Highway,2019,78248,"15,813",35762
+San Antonio,BMW,430i,COUPE,Used,White,Cognac/Dark Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,78248,"27,805",36492
+San Antonio,BMW,530i,SEDAN,Certified,Blue,Cognac,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,78248,"25,898",36762
+San Antonio,BMW,330i,SEDAN,Certified,Black,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,78248,"28,947",36962
+San Antonio,BMW,430i Gran Coupe xDrive,HATCH,Used,White,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,78248,"10,849",37296
+San Antonio,BMW,330i,SEDAN,Used,Black,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,78248,"25,378",37993
+San Antonio,BMW,530e,SEDAN,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 30 Highway,2019,78248,"29,936",38962
+San Antonio,BMW,X5,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 25 Highway,2018,78248,"38,096",39962
+San Antonio,BMW,440i,COUPE,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,78248,"28,885",39969
+San Antonio,BMW,M240i xDrive,CONVERT,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,78248,"13,521",41961
+San Antonio,BMW,330i,SEDAN,Certified,White,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2020,78248,"13,181",41962

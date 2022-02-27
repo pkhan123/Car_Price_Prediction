@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+New York,Toyota,Highlander,SUV,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,11377,"25,848",34607
+New York,Buick,Encore,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,11377,"12,031",24257
+New York,Honda,Odyssey,VANS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2011,11372,"103,635",13889
+New York,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"23,311",26998
+New York,Subaru,Ascent,SUV,Certified,Brown,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,11372,"23,467",37998
+New York,MAZDA,CX-9,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,11372,"4,278",38000
+New York,INFINITI,QX60,SUV,Used,White,Java,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,11423,"37,544",26550
+New York,Jeep,Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 25 Highway,2018,07643,"17,155",31891
+New York,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,07604,"23,367",40895
+New York,Audi,S4,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2019,11354,"16,242",49135
+New York,Honda,Clarity,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,44 City / 40 Highway,2018,11432,"16,672",23777
+New York,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,11432,"46,830",24999
+New York,Acura,TLX,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,11432,"13,790",27777
+New York,Hyundai,Santa Fe,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2019,11432,"18,021",27777
+New York,INFINITI,Q50,SEDAN,Used,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,11432,"15,648",29999
+New York,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,11432,"34,708",33777
+New York,Mercedes-Benz,GLE 400,SUV,Used,Gray,Black Pearl/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,11432,"15,300",46999
+New York,Mercedes-Benz,GLS 450,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,10019,"20,000",61901
+New York,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 25 Highway,2013,10019,"76,464",14222
+New York,BMW,X1,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2014,10019,"58,874",15922
+New York,Audi,A4,SEDAN,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2016,07631,"42,016",21000
+New York,Land Rover,Discovery Sport,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,07631,"11,005",48000
+New York,Mercedes-Benz,E 450,COUPE,Used,Black,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,07631,"20,876",55000
+New York,Chevrolet,Trax,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,07047,"28,417",21995
+New York,Acura,TLX,SEDAN,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2020,11377,"18,497",28700
+New York,Acura,MDX,SUV,Certified,Silver,Graystone,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2017,11377,"41,510",33142
+New York,Acura,MDX,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,,2019,11377,"29,269",35408
+New York,Acura,MDX,SUV,Certified,Brown,Espresso,Automatic,Gasoline,6-Cylinder,All wheel drive,,2019,11377,"23,990",36000
+New York,Cadillac,XT5,SUV,Used,,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,11377,"15,369",39500
+New York,Acura,MDX,SUV,Certified,Off White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,,2020,11377,"6,173",41000
+New York,Acura,MDX,SUV,Certified,Off White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,11377,"13,388",44000
+New York,Acura,MDX,SUV,Certified,,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,26 City / 27 Highway,2020,11377,"13,705",49500
+New York,Nissan,Pathfinder,SUV,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 25 Highway,2013,07093,"74,971",12888
+New York,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,07093,"28,779",23888
+New York,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,07093,"6,022",33888
+New York,Honda,Pilot,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,07093,"25,601",39888
+New York,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,07093,"26,487",40888
+New York,Honda,Civic,HATCH,Used,Black,Black/Red,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,07093,"8,534",43888
+New York,Porsche,Panamera,HATCH,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2013,07306,"46,765",41407
+New York,INFINITI,Q50,SEDAN,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2014,11030,"63,696",18075
+New York,Subaru,Ascent,SUV,Used,Red,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,11030,"25,200",33150
+New York,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,07305,"30,828",28206
+New York,Honda,Pilot,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2022,07305,"6,856",43999
+New York,Honda,Pilot,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2022,07305,930,46557
+New York,GMC,Terrain,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,11377,"22,593",28237
+New York,Subaru,Forester,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2012,11372,"61,167",14889
+New York,MAZDA,CX-5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 29 Highway,2016,11372,"46,227",18998
+New York,Subaru,Legacy,SEDAN,Certified,Silver,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2019,11372,"15,631",20998
+New York,Subaru,Impreza,HATCH,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,11372,"21,775",21998
+New York,MAZDA,CX-3,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2019,11372,"27,967",24998
+New York,MAZDA,MAZDA6,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,11372,"5,151",25998
+New York,MAZDA,MX-5 Miata,CONVERT,Certified,,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,11372,"5,313",26488
+New York,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2015,11372,"66,469",26588
+New York,Hyundai,Kona,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2019,11372,"15,659",26640
+New York,Subaru,Crosstrek,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,11372,"23,008",26788
+New York,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,11372,"38,540",26995
+New York,Subaru,Crosstrek,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,11372,"24,465",26998
+New York,Subaru,Forester,SUV,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,11372,"7,672",28588
+New York,MAZDA,CX-9,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,11372,"35,039",28889
+New York,Nissan,Pathfinder,SUV,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11372,"27,255",28995
+New York,Subaru,Forester,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,11372,"16,856",31688
+New York,Hyundai,Santa Fe,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 22 Highway,2018,11372,"33,599",32281
+New York,BMW,X2,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2019,11372,"14,755",33995
+New York,Mercedes-Benz,E 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,11423,"49,399",30750
+New York,Lexus,IS 300,SEDAN,Certified,,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,11021,"16,725",36995
+New York,Lexus,RX 350L,SUV,Certified,White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,11021,"13,016",49245
+New York,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2020,07632,"2,782",32888
+New York,Hyundai,Elantra,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,07652,"23,325",19995
+New York,Hyundai,Santa Fe,SUV,Certified,White,Black/Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2019,07652,"29,930",26995
+New York,Hyundai,Kona,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2019,07652,"9,299",27995
+New York,Hyundai,Santa Fe,SUV,Certified,Silver,Black/Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,07652,"10,091",29195
+New York,Honda,Pilot,SUV,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,07205,"28,086",34500
+New York,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2017,07013,"33,417",23561
+New York,Nissan,Altima,SEDAN,Used,Gray,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 35 Highway,2020,10466,"18,838",25950
+New York,Nissan,Altima,SEDAN,Used,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,10466,"26,280",26950
+New York,INFINITI,Q60,COUPE,Used,Red,Stone,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2017,10466,"34,246",29950
+New York,Nissan,Maxima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2020,10466,"14,310",33950
+New York,BMW,M6,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,14 City / 20 Highway,2014,11520,"43,327",46599
+New York,Porsche,Cayenne,SUV,Used,Black,Carrera Red/Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2014,07205,"75,730",29850
+New York,Acura,RDX,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2020,11203,"10,834",39964
+New York,Chevrolet,Camaro,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2012,11375,"30,123",18450
+New York,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 27 Highway,2019,11375,"35,631",31890
+New York,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,11375,"7,485",35450
+New York,Mercedes-Benz,E 43 AMG,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,11375,"34,403",50990
+New York,Hyundai,Elantra,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,07470,"27,809",16980
+New York,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,11756,"2,681",21796
+New York,Chevrolet,Spark,HATCH,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2018,07604,"43,194",12995
+New York,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,07604,"31,784",27995
+New York,Land Rover,Range Rover Evoque,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2019,07604,"41,582",35995
+New York,Mercedes-Benz,G 550,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,12 City / 15 Highway,2014,07604,"36,174",76995
+New York,Audi,Q5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,07631,"35,539",37021
+New York,Audi,S4,SEDAN,Used,Gray,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,07631,"9,358",57080
+New York,Audi,A8,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,07631,"29,589",63000
+New York,Audi,Q5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 28 Highway,2021,11354,"7,334",44900
+New York,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,11432,"54,814",25777
+New York,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2016,11432,"81,688",28999
+New York,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,11021,"23,995",32995
+New York,Lexus,RX 350,SUV,Used,White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2013,07006,"71,303",21916
+New York,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,07006,"12,044",31631
+New York,Toyota,Highlander,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,07006,"28,180",36768
+New York,Subaru,Outback,SUV,Certified,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,07631,"12,186",26900
+New York,Subaru,Ascent,SUV,Used,Silver,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,07631,"12,010",32200
+New York,Land Rover,Discovery Sport,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,07652,"3,991",44000
+New York,Porsche,Macan,SUV,Certified,White,Agate Grey,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2017,10019,"30,935",39995
+New York,Volvo,XC60,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,10019,"13,635",40995
+New York,Mercedes-Benz,SLC 300,CONVERT,Used,Gray,Bengal Red/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2019,10019,"10,080",49995
+New York,Porsche,Macan,SUV,Certified,Blue,Black/Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,10019,"38,427",52995
+New York,BMW,M2,COUPE,Used,White,Black W/Blue Stitching,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2018,10019,"17,470",53995
+New York,Porsche,Macan,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,10019,"32,488",55500
+New York,Porsche,Macan,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,10019,"17,594",55500
+New York,Porsche,Macan,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,10019,"13,228",57995
+New York,BMW,M440i xDrive,COUPE,Used,Black,Tacora Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2021,10019,"6,699",64995
+New York,Mercedes-Benz,S 450,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2018,10019,"26,287",64995
+New York,Porsche,Macan,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,10019,"32,806",66995
+New York,Porsche,Cayenne,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,10019,"25,852",69995
+New York,Porsche,Cayenne,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,10019,"5,119",77995
+New York,Porsche,Cayenne,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,10019,"5,260",78995
+New York,Porsche,Panamera,HATCH,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,,20 City / 26 Highway,2018,10019,"13,629",79995
+New York,Porsche,911,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2013,10019,"39,093",80495
+New York,Porsche,Cayenne,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,10019,"4,688",80995
+New York,Porsche,Cayenne,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,10019,"7,808",80995
+New York,Porsche,Panamera,HATCH,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,10019,"9,318",81995
+New York,Porsche,Panamera,HATCH,Used,White,Black/Luxor Beige,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,20 City / 25 Highway,2018,10019,"22,168",85995
+New York,BMW,M850i xDrive,CONVERT,Used,Black,Cognac,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2022,10019,"1,367",115995
+New York,Porsche,911,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,10019,"10,785",149995
+New York,Mercedes-Benz,CLA 250,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,10019,"31,904",31905
+New York,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,10019,"9,013",46374
+New York,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,10019,"9,013",47760
+New York,Mercedes-Benz,E 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,10019,"29,260",47901
+New York,Mercedes-Benz,E 450,COUPE,Certified,Blue,Silk Beige/Espresso,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,10019,"12,888",59901
+New York,Mercedes-Benz,GLS 450,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,10019,"25,383",61901
+New York,Mercedes-Benz,GLS 450,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,10019,"23,619",64901
+New York,Subaru,Crosstrek,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,10019,"39,524",23995
+New York,Subaru,Crosstrek,SUV,Used,Gray,Black,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 29 Highway,2019,10019,"28,516",24495
+New York,Audi,Q5,SUV,Used,Black,Chestnut Brown,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 26 Highway,2016,10019,"54,008",28995
+New York,Jeep,Grand Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,10019,"36,300",33995
+New York,Volkswagen,Atlas,SUV,Used,Black,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,10019,"32,863",34995
+New York,Audi,A6,SEDAN,Certified,White,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,10019,"25,718",35495
+New York,Lexus,IS 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,10019,"34,690",35995
+New York,Audi,A3,SEDAN,Certified,White,Chestnut Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,10019,"13,493",36995
+New York,Audi,A5,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,10019,"18,541",40995
+New York,Audi,A5,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2021,10019,"6,037",43995
+New York,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,10019,"4,360",46495
+New York,Audi,SQ5,SUV,Certified,Blue,Rotor Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2018,10019,"29,422",46995
+New York,Audi,A6,SEDAN,Certified,Blue,Pearl Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2020,10019,"7,266",47995
+New York,Audi,S6,SEDAN,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,10019,"24,574",51995
+New York,Audi,Q7,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2019,10019,"26,421",58995
+New York,Honda,CR-V,SUV,Certified,Off White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,11209,"28,287",32798
+New York,Volkswagen,Jetta,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2015,10019,"52,742",14422
+New York,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,10019,"14,662",25922
+New York,Volkswagen,Tiguan,SUV,Used,Gray,Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,10019,"29,703",27922
+New York,GMC,Terrain,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,10019,"18,686",28922
+New York,Mercedes-Benz,C 300,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,10019,"10,847",35222
+New York,Mercedes-Benz,GLC 300,SUV,Used,Blue,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,10019,"23,765",37622
+New York,Lexus,ES 350,SEDAN,Used,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,10019,"19,530",43922
+New York,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,11435,"34,039",18278
+New York,Honda,Civic,SEDAN,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,11435,"12,336",20661
+New York,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,11435,"23,165",21937
+New York,Honda,Civic,HATCH,Certified,White,Black/Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,11435,"37,919",21938
+New York,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,11435,"3,618",22253
+New York,Honda,Civic,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,11435,"16,933",22384
+New York,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,11435,"26,525",22943
+New York,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,11435,"10,815",23497
+New York,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,11435,"29,650",23619
+New York,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,11435,"9,353",23916
+New York,Honda,CR-V,SUV,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,11435,"23,864",24278
+New York,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,11435,"19,403",24288
+New York,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2018,11435,"8,403",24421
+New York,Honda,Accord,SEDAN,Certified,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,11435,"18,733",24686
+New York,Honda,HR-V,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,11435,"15,429",25762
+New York,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,11435,"13,632",26217
+New York,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,11435,"26,268",26272
+New York,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,11435,"23,255",26551
+New York,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,11435,"14,216",26891
+New York,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,11435,"19,850",27262
+New York,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,11435,"7,837",27318
+New York,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,11435,"17,988",27328
+New York,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,11435,"25,106",27349
+New York,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,11435,"24,768",27531
+New York,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,11435,"16,721",28981
+New York,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,11435,"12,075",29281
+New York,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,11435,"22,584",29986
+New York,Honda,Accord,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,07631,"35,343",24002
+New York,Porsche,Cayenne,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,07631,"17,552",82000
+New York,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07424,"22,905",25971
+New York,Chevrolet,Equinox,SUV,Used,Beige,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07424,"15,414",26338
+New York,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,10314,"4,387",31900
+New York,Porsche,Panamera,HATCH,Used,Brown,Luxor Beige,Automatic,Gasoline,8-Cylinder,All wheel drive,16 City / 24 Highway,2010,07407,"80,264",24995
+New York,Lexus,IS 350,SEDAN,Used,Black,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2015,07407,"68,717",24995
+New York,Ford,Explorer,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,07407,"16,022",37995
+New York,BMW,320i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,07470,"27,590",26500
+New York,BMW,X5,SUV,Used,Black,Canberra Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,07470,"16,259",59500
+New York,Acura,ILX,SEDAN,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2019,11377,"35,871",24000
+New York,Acura,ILX,SEDAN,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2020,11377,"13,882",25400
+New York,Acura,TLX,SEDAN,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,11377,"42,625",26532
+New York,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11377,"42,363",29899
+New York,Acura,TLX,SEDAN,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 31 Highway,2021,11377,"4,318",35000
+New York,Acura,TLX,SEDAN,Certified,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 29 Highway,2020,11377,"7,049",35000
+New York,Acura,MDX,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,,2019,11377,"25,618",36000
+New York,Acura,MDX,SUV,Certified,Off White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,,2020,11377,"12,522",39088
+New York,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,07065,"34,181",27900
+New York,Honda,Accord,SEDAN,Certified,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,07093,"13,173",27588
+New York,Honda,Pilot,SUV,Used,Off White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2020,07093,"6,537",39888
+New York,Mitsubishi,Eclipse Cross,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,25 City / 26 Highway,2018,11234,"18,037",24995
+New York,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,11234,"23,000",25995
+New York,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,11234,"25,708",25995
+New York,Chrysler,Pacifica,VANS,Used,Burgundy,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2017,11234,"41,623",25995
+New York,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 27 Highway,2019,11234,"24,694",29995
+New York,Toyota,Tacoma,TRUCKS,Used,Black,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2016,11234,"14,554",36995
+New York,Dodge,Durango,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 22 Highway,2021,11234,"1,713",52995
+New York,Mercedes-Benz,GLC 300,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,11101,"35,908",32999
+New York,BMW,530i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,11101,"35,964",33289
+New York,Mercedes-Benz,C 300,COUPE,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2018,11101,"37,770",34176
+New York,Mercedes-Benz,CLA 250,SEDAN,Used,White,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,11101,"19,757",39856
+New York,Mercedes-Benz,GLE 350,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,11101,"37,315",39994
+New York,Mercedes-Benz,GLE 43 AMG,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,11101,"20,945",50856
+New York,Mercedes-Benz,E 350,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,11101,"11,484",52544
+New York,Mercedes-Benz,GLS 450,SUV,Certified,Black,Ginger Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,11101,"18,341",62994
+New York,Mercedes-Benz,C 63 AMG,CONVERT,Certified,White,Red Pepper/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 22 Highway,2018,11101,"15,220",75963
+New York,Mercedes-Benz,SL 450,CONVERT,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2019,11101,"4,059",79997
+New York,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,11581,"28,097",26698
+New York,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,11581,"14,635",27498
+New York,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,11581,"9,844",33998
+New York,Mercedes-Benz,ML 350,SUV,Used,Silver,Black,Automatic,Flexible Fuel,6-Cylinder,All wheel drive,18 City / 22 Highway,2015,07205,"59,361",24900
+New York,Toyota,Highlander,SUV,Certified,,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,07205,"21,845",36900
+New York,Toyota,Highlander,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,07205,"21,272",38900
+New York,Lexus,ES 350,SEDAN,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,07631,"15,403",35029
+New York,Lexus,GS 350,SEDAN,Certified,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,07631,"37,405",36980
+New York,Lexus,RX 350,SUV,Certified,Gray,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,07631,"23,525",38659
+New York,Lexus,ES 330,SEDAN,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2005,11096,"52,604",9985
+New York,Honda,Civic,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,07305,"22,698",20840
+New York,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,07305,"3,683",21294
+New York,Toyota,Corolla,SEDAN,Used,Black,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,07305,"9,395",21450
+New York,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,07305,"3,560",21500
+New York,Honda,HR-V,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,07305,"29,817",22684
+New York,Honda,HR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,07305,"25,331",24737
+New York,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,07305,"17,696",25025
+New York,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,07305,"21,005",26406
+New York,Honda,Accord,SEDAN,Used,Charcoal,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,07305,"12,463",27969
+New York,Kia,Stinger,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,07305,"29,937",28193
+New York,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,07305,"24,499",28713
+New York,Honda,CR-V,SUV,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,07305,"27,349",29213
+New York,Honda,Passport,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,07305,"29,712",30962
+New York,Lexus,ES 350,SEDAN,Used,Black,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,07305,"25,147",30998
+New York,Honda,Odyssey,VANS,Used,,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,07305,"36,101",32182
+New York,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,07305,"1,306",32409
+New York,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 48 Highway,2021,07305,"1,077",32653
+New York,Lexus,NX 300,SUV,Used,Silver,Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,07305,"29,031",33999
+New York,Lexus,NX 300,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,07305,"24,836",34449
+New York,Honda,Ridgeline,TRUCKS,Used,White,Black/Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,07305,"13,536",34841
+New York,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,07305,"38,460",35969
+New York,Toyota,Tacoma,TRUCKS,Used,Blue,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,07305,"25,265",36923
+New York,Honda,Odyssey,VANS,Used,Gray,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,07305,"26,138",36994
+New York,Honda,Civic,HATCH,Certified,Black,Red/Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,07305,"32,352",37470
+New York,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,07305,"9,428",39999
+New York,BMW,530i xDrive,SEDAN,Used,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,11003,"28,869",30450
+New York,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,11003,"27,910",46950
+New York,Nissan,Sentra,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,11432,"22,311",17777
+New York,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,11432,"10,531",23777
+New York,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,11432,"20,203",34777
+New York,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,11432,"8,000",35777
+New York,Toyota,Sienna,VANS,Used,Gray,Bisque,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2019,11432,"21,885",35777
+New York,Nissan,Rogue,SUV,Used,Blue,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2016,07631,"44,192",19405
+New York,Mercedes-Benz,C 300,COUPE,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,07631,"24,911",40995
+New York,Kia,Stinger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,07631,"14,739",41271
+New York,Volkswagen,Tiguan,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2017,07306,"65,671",18194
+New York,Nissan,Murano,SUV,Used,Orange,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2015,07306,"62,925",22180
+New York,Subaru,Crosstrek,SUV,Used,White,Ivory,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 30 Highway,2017,07306,"28,902",22724
+New York,INFINITI,QX50,SUV,Used,White,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2017,07306,"42,956",23023
+New York,INFINITI,QX30,SUV,Used,White,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,07306,"31,450",26988
+New York,INFINITI,Q50,SEDAN,Used,White,Wheat,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,07306,"34,501",28890
+New York,Lexus,ES 350,SEDAN,Used,White,Parchment W/Birds Eye,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,07306,"29,321",29749
+New York,Jaguar,XF,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,07306,"32,386",31802
+New York,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,07306,"25,655",44212
+New York,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,07306,"16,220",47456
+New York,Tesla,Model S,HATCH,Used,Black,Ultra White Tesla Premium Seat,Single-Speed,Electric,Electric,All wheel drive,,2017,11231,"16,741",55200
+New York,Buick,Encore,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,11550,"16,108",23977
+New York,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,11550,"24,461",27277
+New York,Hyundai,Sonata,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,10801,"14,625",16495
+New York,Buick,Encore,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,10801,"26,062",17495
+New York,Buick,Encore,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,11377,"25,344",21219
+New York,Buick,Encore,SUV,Used,Brown,Shale,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,11377,"11,968",21680
+New York,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,11377,"13,087",22789
+New York,Buick,Enclave,SUV,Used,White,Choccachino,Automatic,Gasoline,6-Cylinder,All wheel drive,15 City / 22 Highway,2016,11377,"27,961",25498
+New York,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,11377,"23,616",25876
+New York,GMC,Terrain,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,11377,"17,251",26095
+New York,Cadillac,ATS,SEDAN,Used,Blue,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2018,11377,"37,284",26198
+New York,Honda,Passport,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,11377,"20,875",28590
+New York,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,11377,"27,648",30464
+New York,Buick,Enclave,SUV,Used,Silver,Dark Galvanized,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,11377,"34,867",31233
+New York,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,11377,"35,197",33667
+New York,Cadillac,XT5,SUV,Used,Gray,Sahara Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,11377,"21,660",34080
+New York,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,11377,"22,966",34656
+New York,Buick,Enclave,SUV,Used,Black,Dark Galvanized,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,11377,"22,346",35359
+New York,Cadillac,XT5,SUV,Used,Blue,Sahara Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,11377,"18,515",37656
+New York,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2019,11377,"21,513",39990
+New York,Cadillac,CT6,SEDAN,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,11377,"32,467",40433
+New York,Cadillac,XT5,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,11377,"10,090",47713
+New York,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,11377,"14,725",52187
+New York,Cadillac,Escalade ESV,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,11377,"25,363",63791
+New York,Chevrolet,Camaro,COUPE,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,10467,"14,988",26900
+New York,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,11581,"16,157",22533
+New York,Honda,Fit,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2013,11372,"92,619",9889
+New York,Hyundai,Elantra,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,11372,"41,262",16911
+New York,Nissan,Sentra,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,11372,"29,631",17488
+New York,Nissan,Rogue,SUV,Used,Green,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2014,11372,"39,061",17998
+New York,Hyundai,Elantra,SEDAN,Certified,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,11372,"10,501",18833
+New York,Nissan,Sentra,SEDAN,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,11372,"22,012",19588
+New York,Nissan,Sentra,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,11372,"10,112",19998
+New York,Hyundai,Tucson,SUV,Used,Gray,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2017,11372,"30,460",20999
+New York,Hyundai,Sonata,SEDAN,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,11372,"26,430",21537
+New York,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"47,457",21889
+New York,Nissan,Altima,SEDAN,Certified,Gray,Dark,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,11372,"29,683",22392
+New York,Subaru,Crosstrek,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,11372,"35,182",22488
+New York,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"13,810",22572
+New York,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,11372,"11,644",23112
+New York,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"33,834",23488
+New York,Hyundai,Kona,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,11372,"26,258",23533
+New York,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"36,027",23688
+New York,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"37,713",23788
+New York,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"26,344",23788
+New York,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"35,877",23788
+New York,Acura,RDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2013,11372,"24,996",23889
+New York,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,11372,"40,244",23889
+New York,Subaru,Impreza,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 38 Highway,2019,11372,"13,903",23889
+New York,Ford,EcoSport,SUV,Used,Red,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2021,11372,"2,407",23995
+New York,Nissan,Rogue,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"20,842",23998
+New York,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"25,453",23998
+New York,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"28,053",23998
+New York,Subaru,Forester,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,11372,"23,723",23998
+New York,Nissan,Altima,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,11372,"19,112",24288
+New York,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"11,270",24488
+New York,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2019,11372,"7,176",24497
+New York,Nissan,Altima,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,11372,"26,412",24588
+New York,Honda,HR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,11372,"16,875",24676
+New York,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,11372,"14,083",24889
+New York,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,11372,"10,891",24998
+New York,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,11372,"19,115",25157
+New York,Hyundai,Kona,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2019,11372,"12,855",25334
+New York,Nissan,Maxima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,11372,"34,181",25488
+New York,Honda,HR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,11372,"11,757",25588
+New York,MAZDA,CX-5,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"15,687",25688
+New York,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,11372,"14,170",25889
+New York,Subaru,Impreza,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2021,11372,"12,527",25889
+New York,Nissan,Murano,SUV,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,11372,"29,803",26488
+New York,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,11372,"28,163",26998
+New York,Nissan,Altima,SEDAN,Certified,Black,Sport,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,11372,"9,341",26998
+New York,MAZDA,CX-5,SUV,Certified,Blue,Silk Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"39,812",26998
+New York,Subaru,Crosstrek,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,11372,"29,494",26998
+New York,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,11372,"8,272",27597
+New York,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,11372,"5,985",27745
+New York,Subaru,Forester,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,11372,"31,051",27788
+New York,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"24,613",27889
+New York,Nissan,Murano,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,11372,"23,146",27889
+New York,Nissan,Frontier,TRUCKS,Certified,Silver,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2018,11372,"30,096",27889
+New York,Subaru,Crosstrek,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,11372,"20,700",27889
+New York,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,11372,"3,270",27990
+New York,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,11372,"2,660",27995
+New York,Ford,EcoSport,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,11372,"9,040",27995
+New York,Nissan,Frontier,TRUCKS,Certified,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2018,11372,"23,924",27998
+New York,MAZDA,CX-5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"36,791",27998
+New York,Nissan,Pathfinder,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11372,"32,952",28479
+New York,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"13,640",28588
+New York,MAZDA,CX-5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"30,234",28588
+New York,Nissan,Murano,SUV,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,11372,"6,065",28889
+New York,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,11372,"4,848",28998
+New York,MAZDA,MAZDA6,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2021,11372,"4,597",28998
+New York,Subaru,Forester,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,11372,"40,466",29500
+New York,Nissan,Pathfinder,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11372,"20,177",29588
+New York,Nissan,Maxima,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,11372,"13,085",29889
+New York,MAZDA,CX-5,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,11372,"23,742",29998
+New York,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11372,"18,196",30889
+New York,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,11372,"11,454",30889
+New York,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,11372,"21,914",30896
+New York,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,11372,"27,520",30898
+New York,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 36 Highway,2020,11372,"2,423",30998
+New York,Subaru,WRX,SEDAN,Certified,Silver,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,11372,"8,633",31488
+New York,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,11372,"25,615",31498
+New York,Nissan,Maxima,SEDAN,Certified,Red,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2020,11372,"12,441",31889
+New York,Subaru,Forester,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,11372,"25,852",31889
+New York,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,11372,"14,224",31998
+New York,Subaru,Forester,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,11372,"15,866",31998
+New York,MAZDA,CX-9,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,11372,"31,998",32995
+New York,MAZDA,CX-5,SUV,Certified,White,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2021,11372,"1,850",33288
+New York,Subaru,Crosstrek,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,11372,"22,342",33388
+New York,Subaru,Ascent,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,11372,"17,895",33488
+New York,MAZDA,MAZDA6,SEDAN,Certified,Red,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2021,11372,"3,362",33998
+New York,Hyundai,Sonata,SEDAN,Used,Gray,Dark Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,11372,"3,025",34782
+New York,MAZDA,CX-5,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,11372,"5,434",35488
+New York,Hyundai,Tucson,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2021,11372,"3,248",35609
+New York,MAZDA,CX-5,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,11372,"3,962",36998
+New York,MAZDA,CX-5,SUV,Certified,Red,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2021,11372,"3,530",36998
+New York,MAZDA,CX-9,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,11372,"12,050",39588
+New York,BMW,530i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,11372,"35,633",39998
+New York,Mercedes-Benz,GLA 250,SUV,Used,Blue,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,11372,"9,134",40449
+New York,MAZDA,CX-9,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,11372,"4,242",41998
+New York,MAZDA,CX-9,SUV,Certified,Black,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,11372,"6,756",44998
+New York,Tesla,Model 3,SEDAN,Used,Red,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,11372,"41,396",47995
+New York,Ford,Explorer,SUV,Used,Red,Sandstone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,23 City / 26 Highway,2021,11372,"4,170",50990
+New York,Ford,Explorer,SUV,Used,Red,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2021,11372,"1,190",55990
+New York,Chevrolet,Malibu,SEDAN,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,07305,"21,853",18800
+New York,Chevrolet,Malibu,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,07305,"28,480",19600
+New York,Subaru,Impreza,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 37 Highway,2018,07305,"29,132",19700
+New York,Kia,Forte,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2020,07305,"17,791",21000
+New York,Kia,Sportage,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,07305,"10,479",22900
+New York,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,07305,"12,963",22900
+New York,Kia,Sportage,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,07305,"25,491",23500
+New York,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,07305,"22,100",23900
+New York,MINI,Cooper,HATCH,Used,Red,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 37 Highway,2021,07305,"4,409",23900
+New York,MAZDA,CX-5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,07305,"14,009",24800
+New York,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2019,07305,"29,358",25000
+New York,Kia,Sorento,SUV,Certified,Red,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2018,07305,"28,535",25400
+New York,Kia,Sorento,SUV,Certified,Black,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,07305,"28,837",26700
+New York,Kia,Sorento,SUV,Certified,Blue,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,07305,"29,802",28800
+New York,Kia,Sorento,SUV,Certified,White,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,07305,"22,875",29400
+New York,Kia,Sportage,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2020,07305,"7,353",29600
+New York,Kia,Sportage,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 23 Highway,2019,07305,"27,021",29900
+New York,Kia,Stinger,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,07305,"32,554",31500
+New York,Kia,Sorento,SUV,Certified,Black,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,07305,"13,065",31700
+New York,Subaru,WRX,SEDAN,Used,Silver,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,07305,"13,106",31900
+New York,Honda,CR-V,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,07305,"9,881",32200
+New York,Toyota,Highlander,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,07305,"26,225",32900
+New York,Kia,Telluride,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2020,07305,"17,415",43500
+New York,Toyota,Sienna,VANS,Used,Brown,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,11021,"16,476",31495
+New York,INFINITI,QX60,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,11021,"19,806",32995
+New York,Lexus,RX 350L,SUV,Certified,White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,11021,"28,069",38595
+New York,Lexus,GX 460,SUV,Certified,Gray,Ecru,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,11021,"10,158",52995
+New York,Lexus,LS 500,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2018,11021,"14,231",57124
+New York,Toyota,Corolla,SEDAN,Certified,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,07632,"5,944",21166
+New York,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,07632,"28,653",21234
+New York,Toyota,Corolla,SEDAN,Certified,Silver,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,07632,"16,604",23888
+New York,Toyota,Camry,SEDAN,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,07632,"26,123",24677
+New York,Toyota,RAV4,SUV,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,07632,"28,111",25991
+New York,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2018,07632,"28,701",26836
+New York,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,07632,"6,481",31761
+New York,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,07632,"29,193",33417
+New York,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,07632,"13,639",33888
+New York,Toyota,RAV4,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,07632,"17,899",34361
+New York,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,07632,"38,449",35487
+New York,Toyota,4Runner,SUV,Certified,Blue,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,07632,"13,465",47642
+New York,Hyundai,Elantra,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,07652,"23,665",18895
+New York,Hyundai,Elantra,SEDAN,Certified,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,07652,"6,858",20095
+New York,Hyundai,Sonata,SEDAN,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,07652,"14,299",25495
+New York,Hyundai,Santa Fe,SUV,Certified,Red,Black/Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,07652,"25,014",25595
+New York,Hyundai,Tucson,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,07652,"18,621",26695
+New York,Hyundai,Santa Fe,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,07652,"21,337",28995
+New York,Hyundai,Tucson,SUV,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,07652,"10,850",30595
+New York,Hyundai,Kona,SUV,Certified,Silver,Gray,Single-Speed,Electric,Electric,2 wheel drive - front,,2021,07652,"1,685",40875
+New York,Kia,Forte,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2018,10469,"25,594",13990
+New York,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2019,10469,"3,898",18490
+New York,Lexus,IS 300,SEDAN,Used,Silver,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,10469,"42,264",26690
+New York,INFINITI,Q50,SEDAN,Used,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,10469,"27,432",26990
+New York,Hyundai,Tucson,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2021,10469,"4,493",28990
+New York,Cadillac,XT5,SUV,Used,White,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,10469,"17,209",31990
+New York,Alfa Romeo,Stelvio,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,10469,"17,797",31990
+New York,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,10469,"22,253",32990
+New York,Mercedes-Benz,CLS 550,SEDAN,Used,Black,Crystal Grey/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2017,10469,"31,962",44990
+New York,Honda,Accord,SEDAN,Certified,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,07205,"20,234",28900
+New York,Honda,Accord,SEDAN,Certified,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,07205,"17,485",28900
+New York,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,07205,"24,456",31500
+New York,Honda,Odyssey,VANS,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2021,07205,"11,377",34500
+New York,Nissan,Sentra,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,07205,"7,244",17894
+New York,INFINITI,Q50,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,07205,"29,555",26475
+New York,Audi,A5,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,07205,"19,055",38894
+New York,Porsche,Panamera,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2021,07205,"2,091",119894
+New York,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,10466,"11,118",29950
+New York,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,07013,"26,104",23137
+New York,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,07013,"23,960",23750
+New York,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,07013,"11,212",24693
+New York,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07013,"18,235",24746
+New York,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,07013,"35,267",24891
+New York,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07013,"15,105",26222
+New York,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07013,"22,199",26299
+New York,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,07013,"12,399",26897
+New York,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,07013,"27,531",29070
+New York,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,07013,"39,204",36659
+New York,Chevrolet,Tahoe,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,07013,"23,205",45495
+New York,Mercedes-Benz,Metris,VANS,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2016,07074,"30,963",32600
+New York,Volvo,XC60,SUV,Used,Blue,Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,07074,"15,175",47000
+New York,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,10466,"21,286",37950
+New York,Mercedes-Benz,C 43 AMG,COUPE,Used,Gray,Cranberry Red/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,10466,"52,562",41950
+New York,Chevrolet,Traverse,SUV,Certified,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,07039,"26,060",40777
+New York,Acura,MDX,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,07470,"21,267",41900
+New York,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,10466,"16,320",34150
+New York,BMW,M3,SEDAN,Used,Silver,Red,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2017,10466,"46,959",48450
+New York,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2021,11550,"7,087",26995
+New York,Hyundai,Elantra,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,11550,"19,802",15985
+New York,Hyundai,Sonata,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,11550,"28,858",22990
+New York,Land Rover,Range Rover Evoque,SUV,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 30 Highway,2016,07205,"45,833",26900
+New York,BMW,435i,COUPE,Used,White,Coral Red/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2015,07205,"26,371",31895
+New York,Porsche,Panamera,HATCH,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 23 Highway,2010,07205,"79,038",37995
+New York,Porsche,Panamera,HATCH,Used,Gray,Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2014,07205,"68,355",41900
+New York,BMW,X6,SUV,Used,White,Cognac,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,07205,"55,162",47500
+New York,BMW,M3,SEDAN,Used,White,Sakhir Orange/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2015,07205,"40,218",49895
+New York,BMW,X6,SUV,Used,White,Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2019,07205,"25,963",58900
+New York,Honda,Ridgeline,TRUCKS,Used,Black,,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,11590,"31,915",28998
+New York,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,11590,"26,647",31944
+New York,BMW,M4,COUPE,Used,Green,Black,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2021,07631,"6,036",89988
+New York,Subaru,Crosstrek,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,07643,"28,370",24995
+New York,Honda,Accord,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,07643,"23,262",34056

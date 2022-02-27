@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Albuquerque,Ford,EcoSport,SUV,Used,Gray,,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2021,87107,"8,757",24990
+Albuquerque,Chevrolet,Camaro,COUPE,Used,Red,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,87107,"21,166",41119
+Albuquerque,Lexus,NX 200t,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2015,87109,"54,408",29991
+Albuquerque,MINI,Cooper Countryman,SUV,Certified,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2020,87109,"9,106",34991
+Albuquerque,Honda,CR-V,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2019,87107,"20,373",26990
+Albuquerque,Honda,CR-V,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,87107,"36,795",27990
+Albuquerque,Honda,Civic,COUPE,Used,Silver,Black/Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 39 Highway,2016,87124,"57,338",18601
+Albuquerque,Ford,Escape,SUV,Certified,Gold,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87124,"32,153",21597
+Albuquerque,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,87124,"29,655",24178
+Albuquerque,Hyundai,Santa Fe,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 26 Highway,2018,87124,"39,750",24454
+Albuquerque,Ford,Escape,SUV,Certified,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87124,"33,938",24904
+Albuquerque,Ford,Fusion,SEDAN,Certified,Gray,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,87124,"15,348",25665
+Albuquerque,Ford,Escape,SUV,Certified,Gold,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,87124,"4,162",27224
+Albuquerque,Ford,Edge,SUV,Certified,Blue,Dune,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,87124,"27,196",28756
+Albuquerque,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,87124,"12,376",28976
+Albuquerque,Toyota,Avalon,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87124,"26,155",36019
+Albuquerque,Ford,Edge,SUV,Certified,Red,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,87124,"23,769",38640
+Albuquerque,Ford,Explorer,SUV,Certified,Black,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2021,87124,"9,929",40155
+Albuquerque,Ford,Mustang,COUPE,Used,Silver,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,87124,395,41104
+Albuquerque,Ford,Mustang,COUPE,Certified,Blue,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,87124,"1,005",41280
+Albuquerque,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,87124,"29,350",41939
+Albuquerque,Ford,F150,TRUCKS,Certified,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,87124,"24,265",42246
+Albuquerque,Ford,F150,TRUCKS,Certified,White,Medium Light Camel,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,87124,"16,516",50801
+Albuquerque,Ford,F150,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,87124,"16,914",53698
+Albuquerque,Chevrolet,Silverado 2500,TRUCKS,Used,Red,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,87124,"26,610",56502
+Albuquerque,Ford,F350,TRUCKS,Certified,Red,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,87124,"19,668",65717
+Albuquerque,Ford,F250,TRUCKS,Certified,Red,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,87124,"47,895",67333
+Albuquerque,Nissan,Frontier,TRUCKS,Used,Gray,Steel,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2018,87109,"34,819",26995
+Albuquerque,BMW,X2,SUV,Certified,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,87109,"23,935",29995
+Albuquerque,MINI,Cooper Countryman,SUV,Certified,Blue,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,87109,"5,999",31795
+Albuquerque,BMW,i3,HATCH,Certified,,,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,87109,"4,218",36995
+Albuquerque,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,87109,"11,611",38995
+Albuquerque,Kia,Sportage,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2022,87109,"2,375",39991
+Albuquerque,Cadillac,XT5,SUV,Used,,,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,87109,"14,533",42495
+Albuquerque,MINI,Cooper Countryman,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2020,87109,"10,636",46495
+Albuquerque,BMW,M4,COUPE,Used,,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,87109,"39,410",58995
+Albuquerque,Chrysler,Pacifica,VANS,Used,White,Black/Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,87114,"7,882",45995
+Albuquerque,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,87114,"3,858",54999
+Albuquerque,Mercedes-Benz,GLE 43 AMG,SUV,Used,Off White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,87114,"34,516",59999
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,87114,"13,669",39943
+Albuquerque,Ford,Fusion,SEDAN,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,87112,"25,396",24493
+Albuquerque,Ford,Escape,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 28 Highway,2016,87123,"34,636",22999
+Albuquerque,Toyota,4Runner,SUV,Certified,White,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,87123,"4,131",44999
+Albuquerque,Scion,FR-S,COUPE,Used,Red,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2016,87124,"30,213",23491
+Albuquerque,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,87124,"14,426",28991
+Albuquerque,Honda,Odyssey,VANS,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,87124,"5,290",42991
+Albuquerque,MAZDA,MAZDA6,SEDAN,Used,Silver,Sand,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,87109,"61,919",20531
+Albuquerque,Ford,Mustang,COUPE,Used,Red,Ebony,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2017,87109,"31,492",26288
+Albuquerque,Lexus,RC 350,COUPE,Used,Blue,F-Sport Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2015,87109,"72,518",31127
+Albuquerque,Toyota,Avalon,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87109,"21,341",37859
+Albuquerque,Toyota,Avalon,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,87109,"11,480",42281
+Albuquerque,Lexus,ES 350,SEDAN,Used,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,87109,"14,451",47991
+Albuquerque,Lexus,RC F,COUPE,Used,White,F-Sport Cabernet,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2015,87109,"17,625",56491
+Albuquerque,Lincoln,Navigator,SUV,Used,Beige,Medium Light Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2017,87113,"45,116",44598
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,87107,"14,122",32312
+Albuquerque,Chevrolet,Silverado 2500,TRUCKS,Used,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2015,87107,"34,332",57588
+Albuquerque,MINI,Cooper,CONVERT,Used,Black,,,Gasoline,4-Cylinder Turbo,2 wheel drive - front,,2015,87107,"45,594",17990
+Albuquerque,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,87107,"16,488",24590
+Albuquerque,Ford,Fusion,SEDAN,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,87107,"24,350",25990
+Albuquerque,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2020,87107,"5,848",26990
+Albuquerque,Ford,Escape,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,87107,"9,205",27990
+Albuquerque,Dodge,Challenger,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,87107,"22,761",30721
+Albuquerque,Ford,Edge,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,87107,"21,665",30921
+Albuquerque,Lincoln,MKC,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,87107,"29,830",35921
+Albuquerque,Ford,Explorer,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,87107,"25,489",36421
+Albuquerque,Honda,Passport,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,87107,"1,843",37921
+Albuquerque,Volkswagen,Atlas,SUV,Used,Blue,Dark Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,87107,"18,440",42921
+Albuquerque,Ford,F150,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,87107,"17,174",44221
+Albuquerque,Kia,Telluride,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,87107,"14,770",52921
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,87107,"9,761",53921
+Albuquerque,Ford,Expedition,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,87107,"8,831",59421
+Albuquerque,Ford,Escape,SUV,Certified,Gold,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87124,"55,075",19881
+Albuquerque,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2016,87124,"65,698",21386
+Albuquerque,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,87124,"70,245",23895
+Albuquerque,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,87124,"65,744",24342
+Albuquerque,Jeep,Compass,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,87124,"7,348",26568
+Albuquerque,Ford,F150,TRUCKS,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 26 Highway,2015,87124,"41,808",29422
+Albuquerque,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,87124,"27,423",33529
+Albuquerque,Land Rover,Discovery Sport,SUV,Used,White,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 25 Highway,2017,87124,"22,525",33733
+Albuquerque,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,87124,"20,639",36514
+Albuquerque,MAZDA,CX-5,SUV,Used,White,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,87124,"8,648",36695
+Albuquerque,Ford,Edge,SUV,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2021,87124,672,37089
+Albuquerque,Cadillac,XT5,SUV,Used,Red,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,87124,"25,899",40168
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,87124,"38,293",40876
+Albuquerque,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,87124,"31,437",41864
+Albuquerque,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2016,87124,"57,400",42153
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,87124,"29,980",42489
+Albuquerque,Ford,F250,TRUCKS,Used,White,Pecan,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2016,87124,"56,171",53217
+Albuquerque,Tesla,Model 3,SEDAN,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,87124,"17,474",54749
+Albuquerque,Ford,Expedition,SUV,Certified,Red,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,87124,"25,652",63007
+Albuquerque,Subaru,Forester,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,87110,"16,946",29231
+Albuquerque,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,87110,"14,503",59997
+Albuquerque,GMC,Sierra 2500,TRUCKS,Used,Silver,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,87110,"39,737",66997
+Albuquerque,Nissan,Maxima,SEDAN,Used,White,Camel,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,87110,"45,914",24702
+Albuquerque,GMC,Canyon,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2017,87114,"37,648",29799
+Albuquerque,RAM,1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,87114,"19,929",42187
+Albuquerque,RAM,1500,TRUCKS,Certified,Gray,Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,87114,"8,441",47175
+Albuquerque,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,87114,"9,330",47607
+Albuquerque,RAM,1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,87114,"10,064",51521
+Albuquerque,RAM,1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,87114,"9,890",53111
+Albuquerque,RAM,2500,TRUCKS,Used,Red,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,,2019,87114,"25,698",56224
+Albuquerque,Volkswagen,Passat,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,87109,"43,686",19495
+Albuquerque,BMW,X5,SUV,Used,,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2015,87109,"96,935",26991
+Albuquerque,Honda,Civic,HATCH,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,87109,"20,156",26991
+Albuquerque,Buick,LaCrosse,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,87109,"39,925",26995
+Albuquerque,Honda,Accord,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,87109,"11,765",29795
+Albuquerque,Subaru,Crosstrek,SUV,Used,,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,87109,"21,498",31995
+Albuquerque,Subaru,Forester,SUV,Used,,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,87109,"16,612",33795
+Albuquerque,BMW,X2,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2019,87109,"33,941",34495
+Albuquerque,BMW,430i xDrive,CONVERT,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2018,87109,"52,028",37995
+Albuquerque,BMW,M235i xDrive Gran Coupe,SEDAN,Certified,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2020,87109,"24,082",40995
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,87109,"31,028",42995
+Albuquerque,Acura,RDX,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,87109,"29,609",43795
+Albuquerque,BMW,M550i xDrive,SEDAN,Certified,,,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,87109,"37,057",55995
+Albuquerque,BMW,M340i xDrive,SEDAN,Certified,,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,87109,"13,591",57995
+Albuquerque,BMW,X5,SUV,Used,,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 25 Highway,2021,87109,"13,189",65995
+Albuquerque,BMW,X3 M,SUV,Certified,Gray,Lksw Black Extended Meri,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2020,87109,"21,184",74991
+Albuquerque,BMW,X6 M,SUV,Certified,,,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2019,87109,"14,284",84995
+Albuquerque,Toyota,Corolla,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2014,87114,"57,485",16995
+Albuquerque,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2018,87114,"32,805",22450
+Albuquerque,Volkswagen,Passat,SEDAN,Used,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,87114,"17,499",29995
+Albuquerque,MAZDA,CX-9,SUV,Used,Red,Sand,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,87114,"28,480",33950
+Albuquerque,Honda,Pilot,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,87114,"23,078",40950
+Albuquerque,Chrysler,Pacifica,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,87114,"21,041",42999
+Albuquerque,Ford,Explorer,SUV,Used,White,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2021,87114,"9,111",45995
+Albuquerque,Jeep,Grand Cherokee L,SUV,Used,Red,Global Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,87114,"6,652",49950
+Albuquerque,Toyota,Camry,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2022,87114,10,32899
+Albuquerque,Lexus,RC 350,COUPE,Used,Gray,F-Sport Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2015,87114,"53,484",33997
+Albuquerque,Genesis,G70,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,87114,"11,973",38999
+Albuquerque,Nissan,Titan,TRUCKS,Used,Black,Black/Brown,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,87114,"37,918",41994
+Albuquerque,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,87114,"21,851",28014
+Albuquerque,GMC,Sierra 1500,TRUCKS,Certified,Red,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,87114,"26,614",52850
+Albuquerque,Ford,Fusion,SEDAN,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2020,87112,"8,704",25993
+Albuquerque,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,87112,"16,681",33493
+Albuquerque,GMC,Acadia,SUV,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,87112,"39,499",36992
+Albuquerque,Alfa Romeo,Stelvio,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,87112,"31,692",38992
+Albuquerque,Volkswagen,ID.4,SUV,Used,White,Galaxy Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,87112,"4,098",46992
+Albuquerque,Ford,F250,TRUCKS,Certified,Silver,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2017,87112,"48,249",59992
+Albuquerque,Toyota,Tundra,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,87112,"9,433",65993
+Albuquerque,BMW,530i xDrive,SEDAN,Used,Black,Canberra Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,87109,"32,560",42997
+Albuquerque,BMW,530i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,87109,"28,097",42997
+Albuquerque,BMW,530i xDrive,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,87109,"29,103",42997
+Albuquerque,BMW,M550i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,87109,"30,175",62669
+Albuquerque,Ford,Escape,SUV,Used,Gold,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2017,87123,"25,663",22999
+Albuquerque,Ford,Explorer,SUV,Used,Silver,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,87123,"18,571",41999
+Albuquerque,Subaru,Outback,SUV,Used,Blue,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2022,87123,340,43999
+Albuquerque,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,87124,"39,858",26491
+Albuquerque,Honda,Civic,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2020,87124,"5,452",26991
+Albuquerque,Subaru,Outback,SUV,Used,Gray,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,87124,"18,765",33491
+Albuquerque,MAZDA,CX-9,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,87124,"15,607",35991
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,87124,"31,271",37991
+Albuquerque,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2021,87124,"3,455",40991
+Albuquerque,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2017,87124,"37,285",56791
+Albuquerque,MAZDA,MX-5 Miata,CONVERT,Used,Gray,Black W/Red Stitching,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 35 Highway,2018,87109,"17,020",28498
+Albuquerque,Acura,RDX,SUV,Used,Silver,Graystone,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2018,87109,"30,194",30428
+Albuquerque,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,87109,"24,050",30759
+Albuquerque,Volkswagen,Tiguan,SUV,Used,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,87109,"14,898",32455
+Albuquerque,Nissan,Titan,TRUCKS,Used,Gray,Black,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2016,87109,"50,121",36168
+Albuquerque,Land Rover,Discovery Sport,SUV,Used,Gray,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,87109,"29,868",37591
+Albuquerque,Toyota,Avalon,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87109,"14,249",38997
+Albuquerque,Lincoln,Continental,SEDAN,Used,White,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,87109,"14,799",50998
+Albuquerque,Chevrolet,Malibu,SEDAN,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,87107,"28,361",25758
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,87107,"48,582",34070
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,87107,"40,069",34987
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,87107,"46,947",36336
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Saddle,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2014,87107,"74,480",37450
+Albuquerque,Chevrolet,Camaro,COUPE,Certified,White,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2019,87107,"18,331",42998
+Albuquerque,Chevrolet,Blazer,SUV,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,87107,"30,422",43824
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,87107,"15,125",56902
+Albuquerque,Chevrolet,Malibu,SEDAN,Used,Red,Dark Atmosphere/ Medium Ash Gr,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,87107,"39,494",23890
+Albuquerque,Volkswagen,Tiguan,SUV,Used,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,87107,"25,230",26590
+Albuquerque,Ford,Escape,SUV,Used,White,,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,87107,"18,235",29421
+Albuquerque,Nissan,Rogue,SUV,Used,Gray,Platinum,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,87107,"19,705",29790
+Albuquerque,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2016,87107,"46,866",31921
+Albuquerque,Subaru,Outback,SUV,Used,White,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,87107,"13,421",35921
+Albuquerque,Ford,F150,TRUCKS,Certified,Red,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,87107,"39,340",35921
+Albuquerque,Lexus,ES 350,SEDAN,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,87107,"34,023",36321
+Albuquerque,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,87107,"38,952",37490
+Albuquerque,Ford,Edge,SUV,Used,Green,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,87107,"7,834",37921
+Albuquerque,Ford,F150,TRUCKS,Used,Gray,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,87107,"15,350",39490
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,87107,"12,297",51921
+Albuquerque,Ford,Expedition Max,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,87107,"17,460",63521
+Albuquerque,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 38 Highway,2016,87124,"87,759",19779
+Albuquerque,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87124,"44,329",23265
+Albuquerque,Nissan,Maxima,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,87124,"56,279",25083
+Albuquerque,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,47 City / 47 Highway,2018,87124,"42,451",25566
+Albuquerque,Chevrolet,Colorado,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,87124,"80,118",31058
+Albuquerque,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,87124,"47,914",34971
+Albuquerque,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,87124,"52,932",38250
+Albuquerque,Ford,Explorer,SUV,Certified,White,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,87124,"26,597",40339
+Albuquerque,Jeep,Gladiator,TRUCKS,Used,Beige,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,87124,"20,487",42422
+Albuquerque,Chevrolet,Tahoe,SUV,Used,,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,87110,"14,500",50950
+Albuquerque,Honda,Civic,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2020,87110,"16,084",27891
+Albuquerque,Hyundai,Elantra,SEDAN,Used,Black,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,87123,"64,760",15195
+Albuquerque,Chevrolet,Impala,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 29 Highway,2014,87123,"50,853",16095
+Albuquerque,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,87110,"15,720",27777
+Albuquerque,GMC,Sierra 2500,TRUCKS,Certified,White,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,87110,"22,430",70997
+Albuquerque,GMC,Yukon XL,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,87110,"1,453",85997
+Albuquerque,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87110,"44,451",20553
+Albuquerque,Chevrolet,Trax,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,87110,"18,330",23574
+Albuquerque,Chevrolet,Malibu,SEDAN,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,87110,"19,995",25601
+Albuquerque,Buick,Envision,SUV,Certified,Blue,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,87110,"5,796",34346
+Albuquerque,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,87110,"16,362",36080
+Albuquerque,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,87110,"17,529",36154
+Albuquerque,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,87110,"17,996",38891
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,87110,"42,502",38995
+Albuquerque,Ford,Explorer,SUV,Used,Red,Ebony With Light Slate Uppers,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,87110,"11,710",39313
+Albuquerque,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,18 City / 23 Highway,2020,87110,"8,220",39856
+Albuquerque,Chevrolet,Tahoe,SUV,Used,Silver,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,87110,"47,682",40667
+Albuquerque,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,87110,"26,492",41222
+Albuquerque,GMC,Sierra 2500,TRUCKS,Used,Blue,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2016,87110,"59,625",43310
+Albuquerque,Lincoln,Navigator,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,15 City / 21 Highway,2017,87110,"41,440",43995
+Albuquerque,GMC,Sierra 1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2020,87110,"3,323",44596
+Albuquerque,Chevrolet,Silverado 2500,TRUCKS,Used,White,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,87110,"14,936",49072
+Albuquerque,Ford,Expedition,SUV,Used,,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,87110,"21,352",50718
+Albuquerque,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,87110,"8,290",53916
+Albuquerque,Ford,F350,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2017,87110,"26,775",63533
+Albuquerque,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,87110,"6,802",76995
+Albuquerque,Ford,Mustang,COUPE,Used,Black,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2020,87114,"9,945",29961
+Albuquerque,Dodge,Durango,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,87114,"35,619",29961
+Albuquerque,Ford,Edge,SUV,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2020,87114,"22,405",32353
+Albuquerque,Lincoln,MKZ,SEDAN,Used,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,87114,"9,542",34943
+Albuquerque,Cadillac,XTS,SEDAN,Used,Silver,Shale With Jet Black Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,87114,"22,926",36945
+Albuquerque,RAM,1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,87114,"42,600",40752
+Albuquerque,Dodge,Challenger,COUPE,Certified,,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,87114,"12,093",40907
+Albuquerque,BMW,330i xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,87114,"9,765",45615
+Albuquerque,Dodge,Durango,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2021,87114,"5,012",45975
+Albuquerque,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,87114,"24,397",46003
+Albuquerque,Dodge,Charger,SEDAN,Certified,,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,87114,"12,824",48541
+Albuquerque,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,87114,"28,260",49823
+Albuquerque,RAM,1500,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87114,"6,349",56426
+Albuquerque,RAM,1500,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87114,"6,592",56521
+Albuquerque,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87114,"2,663",56542
+Albuquerque,RAM,1500,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87114,"4,546",56815
+Albuquerque,RAM,2500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2018,87114,"25,516",57456
+Albuquerque,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2019,87114,"28,004",69926
+Albuquerque,RAM,2500,TRUCKS,Certified,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2021,87114,"7,057",91179
+Albuquerque,Ford,Fusion,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,87109,"7,990",27295
+Albuquerque,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,87109,"22,737",29995
+Albuquerque,Ford,F250,TRUCKS,Used,White,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,87109,"11,507",65995
+Albuquerque,Lincoln,MKX,SUV,Used,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2013,87109,"95,752",15795
+Albuquerque,BMW,i3,HATCH,Used,Gray,,Single-Speed,Electric,Electric,2 wheel drive - rear,137 City / 111 Highway,2014,87109,"34,546",19991
+Albuquerque,Jeep,Grand Cherokee,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2016,87109,"72,515",24495
+Albuquerque,BMW,X1,SUV,Certified,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,87109,"32,540",32795
+Albuquerque,BMW,X2,SUV,Certified,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,87109,"41,594",32991
+Albuquerque,MINI,Cooper Countryman,SUV,Certified,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2021,87109,"12,896",36495
+Albuquerque,MINI,Cooper Countryman,SUV,Certified,,,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,,2019,87109,"20,902",36991
+Albuquerque,INFINITI,Q50,SEDAN,Used,Brown,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,87109,"14,223",37991
+Albuquerque,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,87109,"44,485",39991
+Albuquerque,Volvo,XC60,SUV,Used,White,Blond/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,87109,"24,571",46991
+Albuquerque,Jeep,Wrangler,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,87109,"5,740",49991
+Albuquerque,BMW,M340i xDrive,SEDAN,Certified,,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,87109,"25,459",54495
+Albuquerque,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87114,"26,580",26450
+Albuquerque,Honda,Civic,HATCH,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,87114,"24,635",28950
+Albuquerque,Toyota,RAV4,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,87114,"30,746",29450
+Albuquerque,Subaru,Outback,SUV,Used,Gray,Titanium Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,87114,"24,376",29450
+Albuquerque,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2019,87114,"14,268",29950
+Albuquerque,Chrysler,300,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,87114,"43,223",29995
+Albuquerque,GMC,Canyon,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2020,87114,"16,429",33995
+Albuquerque,Toyota,Tacoma,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,87114,"12,353",38995
+Albuquerque,Chrysler,Pacifica,VANS,Used,Silver,Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,87114,"49,787",39995
+Albuquerque,Kia,Stinger,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2022,87114,"7,821",44995
+Albuquerque,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,87114,"7,473",45995
+Albuquerque,Genesis,G70,SEDAN,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2020,87114,"14,782",47999
+Albuquerque,Jeep,Grand Cherokee L,SUV,Used,Gray,Wicker Beige/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,87114,"5,400",52950
+Albuquerque,Volkswagen,Jetta,SEDAN,Used,Orange,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,87114,"38,069",21998
+Albuquerque,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,87114,"16,013",33899
+Albuquerque,Toyota,Tundra,TRUCKS,Used,Black,Black W/Red Accent Stitching,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,87114,"9,179",64999
+Albuquerque,Cadillac,CTS,SEDAN,Used,Red,Light Platinum W/Jet Black Acc,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,14 City / 21 Highway,2017,87114,"16,597",81997
+Albuquerque,Land Rover,Range Rover Sport,SUV,Used,White,Almond W/Ivory Headlining,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,87114,"20,873",84500
+Albuquerque,Ford,Taurus,SEDAN,Used,White,Dune,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,87109,"20,835",24988
+Albuquerque,Jeep,Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,87109,"21,651",27688
+Albuquerque,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2015,87109,"63,049",31688
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,87109,"49,684",33988
+Albuquerque,Jeep,Grand Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,87109,"38,864",36388
+Albuquerque,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2017,87109,"15,837",36788
+Albuquerque,Ford,Fiesta,HATCH,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2018,87114,"52,287",15994
+Albuquerque,Chevrolet,Malibu,SEDAN,Certified,Burgundy,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,87114,"29,349",26731
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,87114,"30,019",39500
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,87114,"20,264",54995
+Albuquerque,Ford,Escape,SUV,Used,Green,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,87112,"24,600",26993
+Albuquerque,Ford,Escape,SUV,Certified,White,Chromite Gray/Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,87112,"20,195",28995
+Albuquerque,Volvo,XC90,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2016,87112,"83,404",29994
+Albuquerque,Subaru,Forester,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,87112,"6,212",39992
+Albuquerque,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,87112,"29,450",39995
+Albuquerque,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,87112,"7,961",41995
+Albuquerque,Ford,F250,TRUCKS,Certified,Black,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2018,87112,"47,006",45992
+Albuquerque,Ford,Edge,SUV,Certified,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,87112,"16,451",47995
+Albuquerque,Lincoln,Corsair,SUV,Used,Blue,Ebony/Medium Slate,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,87112,"8,481",49995
+Albuquerque,Ford,F350,TRUCKS,Certified,White,Adobe,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,87112,"82,605",56992
+Albuquerque,Ford,Expedition Max,SUV,Certified,White,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,87112,"20,259",61996
+Albuquerque,Lexus,GX 460,SUV,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,87112,"17,383",63992
+Albuquerque,BMW,320i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,87109,"23,663",31517
+Albuquerque,BMW,330e,SEDAN,Used,Orange,Venetian Beige,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,87109,"24,572",33997
+Albuquerque,BMW,540i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,87109,"30,675",50997
+Albuquerque,Chevrolet,Cruze,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2016,87113,"63,732",16195
+Albuquerque,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2013,87113,"97,057",19395
+Albuquerque,Nissan,Titan,TRUCKS,Used,White,Charcoal,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,12 City / 17 Highway,2015,87123,"67,338",32999
+Albuquerque,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,87123,"20,900",39999
+Albuquerque,Honda,Pilot,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,87123,"32,884",41999
+Albuquerque,Toyota,Highlander,SUV,Certified,Brown,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,87123,"40,581",41999
+Albuquerque,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,87123,"36,951",43999
+Albuquerque,Toyota,Land Cruiser,SUV,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,87123,"5,088",117000
+Albuquerque,Ford,Fusion,SEDAN,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,87124,"32,963",22791
+Albuquerque,Chevrolet,TrailBlazer,SUV,Used,Gray,Jet Black/Medium Ash Gray,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 31 Highway,2021,87124,"6,536",29991
+Albuquerque,Kia,Sportage,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,87124,"16,062",31491
+Albuquerque,Kia,K5,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,87124,"10,573",32791
+Albuquerque,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,87124,"10,164",36491
+Albuquerque,Honda,Ridgeline,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,87124,"25,174",36991
+Albuquerque,Honda,Pilot,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,87124,"10,788",38791
+Albuquerque,Acura,RDX,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2020,87124,"15,439",39791
+Albuquerque,Nissan,Frontier,TRUCKS,Used,White,Pro-4x,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2020,87124,"13,180",39791
+Albuquerque,Honda,Accord,SEDAN,Used,White,Ivory,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 34 Highway,2014,87109,"73,723",19998
+Albuquerque,Honda,Accord,SEDAN,Used,,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,50 City / 45 Highway,2015,87109,"45,059",23771
+Albuquerque,Jeep,Compass,SUV,Used,White,Ruby Red/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,87109,"35,548",27949
+Albuquerque,Ford,Explorer,SUV,Used,Red,Dark Earth Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2017,87109,"50,136",28398
+Albuquerque,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,87109,"18,880",28998
+Albuquerque,Mercedes-Benz,GLA 250,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2016,87109,"41,599",28998
+Albuquerque,Lexus,RC 350,COUPE,Used,Silver,F-Sport Playa,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2015,87109,"64,780",33998
+Albuquerque,Cadillac,CTS,SEDAN,Used,Silver,Light Platinum With Jet Black ,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2019,87109,"35,599",35881
+Albuquerque,RAM,2500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2017,87109,"62,786",36999
+Albuquerque,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,87109,"30,479",38689
+Albuquerque,Lexus,RX 350,SUV,Used,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,87109,"43,289",40599
+Albuquerque,Honda,Odyssey,VANS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,87109,"32,859",40898
+Albuquerque,Lexus,RX 350,SUV,Used,White,Stratus Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,87109,"25,250",41991
+Albuquerque,Lexus,RC 350,COUPE,Used,Black,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2017,87109,"26,534",44991
+Albuquerque,GMC,Yukon,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2015,87109,"65,689",45299
+Albuquerque,Lexus,ES 300h,SEDAN,Used,Gray,Chateau,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 44 Highway,2020,87109,"5,727",48498
+Albuquerque,Lexus,GX 460,SUV,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2018,87109,"37,171",51251
+Albuquerque,Lexus,ES 350,SEDAN,Used,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,87109,"2,928",52991
+Albuquerque,Lexus,RX 350,SUV,Used,Silver,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,87109,"5,966",53991
+Albuquerque,Jeep,Wrangler,SUV,Used,Green,Heritage Tan/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2019,87109,"13,243",56398
+Albuquerque,Porsche,Cayenne,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 23 Highway,2017,87109,"55,451",64451
+Albuquerque,Lexus,GX 460,SUV,Used,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2020,87109,"17,342",65617
+Albuquerque,Ford,Escape,SUV,Used,Gold,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2017,87113,"73,624",17987
+Albuquerque,Lexus,RC 200t,COUPE,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2016,87113,"61,679",29776
+Albuquerque,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,87113,"67,734",31491
+Albuquerque,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,87113,"33,751",32941
+Albuquerque,Lincoln,Navigator,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2017,87113,"35,831",47373
+Albuquerque,Jeep,Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,87123,"57,381",22197
+Albuquerque,Chevrolet,Camaro,COUPE,Used,Red,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,87107,"42,656",27498
+Albuquerque,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,87107,"60,076",34576
+Albuquerque,Chevrolet,Equinox,SUV,Certified,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,87107,"23,142",35172
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2015,87107,"79,455",36299
+Albuquerque,Chevrolet,Colorado,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2020,87107,"22,250",43229
+Albuquerque,Mercedes-Benz,GLC 300,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2018,87124,"27,810",36950
+Albuquerque,Volvo,V90,WAGON,Used,White,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,87124,"17,083",49950
+Albuquerque,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,87107,"47,022",20990
+Albuquerque,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,87107,"42,806",23990
+Albuquerque,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,87107,"46,505",34490
+Albuquerque,Toyota,Tacoma,TRUCKS,Used,Gray,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,87107,"23,228",42921
+Albuquerque,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2021,87107,"11,810",46721
+Albuquerque,Volkswagen,Passat,SEDAN,Used,Black,Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 34 Highway,2014,87124,"101,695",12451
+Albuquerque,Hyundai,Sonata,SEDAN,Used,Brown,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2016,87124,"51,004",17755
+Albuquerque,Ford,Escape,SUV,Used,Silver,Medium Light Stone/Charcoal Bl,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,87124,"47,745",23194
+Albuquerque,Ford,Mustang,COUPE,Used,Yellow,Charcoal Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 26 Highway,2011,87124,"38,058",23791
+Albuquerque,Ford,F150,TRUCKS,Certified,Gold,Medium Light Camel,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,87124,"80,125",32557
+Albuquerque,Toyota,Highlander,SUV,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,87124,"60,615",33417
+Albuquerque,Volkswagen,Tiguan,SUV,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2021,87124,"11,293",34722
+Albuquerque,Ford,Explorer,SUV,Certified,Gray,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,87124,"55,277",38728
+Albuquerque,Ford,F150,TRUCKS,Certified,,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2019,87124,"33,298",40610
+Albuquerque,Ford,F150,TRUCKS,Certified,Gold,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,87124,"71,445",43671
+Albuquerque,Ford,F150,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,87124,"30,604",48895
+Albuquerque,RAM,2500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,87124,"26,963",66250
+Albuquerque,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,87110,"24,977",32991
+Albuquerque,Subaru,Ascent,SUV,Certified,White,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,87110,"14,388",46491
+Albuquerque,Subaru,Ascent,SUV,Certified,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,87110,"5,534",47991
+Albuquerque,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,87110,"8,602",53591
+Albuquerque,Kia,Rio,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2015,87123,"59,066",13395
+Albuquerque,Volkswagen,Jetta,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 34 Highway,2015,87123,"67,216",13995
+Albuquerque,Mitsubishi,Outlander Sport,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2016,87123,"110,746",14095
+Albuquerque,Hyundai,Elantra Coupe,COUPE,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2014,87123,"77,723",14195
+Albuquerque,Chrysler,200,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2015,87123,"74,954",14595
+Albuquerque,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2014,87123,"60,333",15595
+Albuquerque,Ford,Escape,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 30 Highway,2015,87123,"61,077",16395
+Albuquerque,Ford,Fusion,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2016,87123,"77,172",16395
+Albuquerque,Nissan,Sentra,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,87123,"35,382",19095
+Albuquerque,Ford,Fusion,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2015,87123,"62,470",19095
+Albuquerque,Ford,Escape,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2015,87123,"63,264",19597
+Albuquerque,Volkswagen,Tiguan,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 24 Highway,2017,87123,"45,703",20897
+Albuquerque,Lincoln,MKC,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2017,87123,"61,600",23597
+Albuquerque,Chevrolet,Malibu,SEDAN,Certified,Black,Dark Atmosphere/Medium Ash Gra,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,87110,"58,441",21997
+Albuquerque,Chevrolet,Equinox,SUV,Certified,Silver,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,87110,"28,269",27997
+Albuquerque,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,87110,"42,290",62997
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,87110,"9,637",63997
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,87110,"9,155",63997
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Jet Black/Umber,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 20 Highway,2020,87110,"14,502",65997
+Albuquerque,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87110,"47,236",22913
+Albuquerque,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,87110,"12,212",21036
+Albuquerque,Chevrolet,Impala,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,87110,"44,000",24445
+Albuquerque,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,87110,"34,620",24758
+Albuquerque,Chevrolet,Trax,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2020,87110,"11,409",25843
+Albuquerque,Chevrolet,Malibu,SEDAN,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,87110,"10,448",28707
+Albuquerque,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,87110,"32,363",29015
+Albuquerque,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,87110,"23,808",29396
+Albuquerque,Jeep,Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2021,87110,"2,095",31972
+Albuquerque,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,87110,"29,221",32922
+Albuquerque,GMC,Sierra 1500,TRUCKS,Certified,White,Dark Ash Seats With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,87110,"45,795",33327
+Albuquerque,Subaru,Crosstrek,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 33 Highway,2021,87110,"1,862",33352
+Albuquerque,Kia,Stinger,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,87110,"27,768",38904
+Albuquerque,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2020,87110,"14,612",39689
+Albuquerque,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,87110,"8,531",39838
+Albuquerque,RAM,1500,TRUCKS,Used,White,Light Mountain Brown/Blk,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,87110,"28,087",41158
+Albuquerque,Buick,Envision,SUV,Certified,Gray,Ebony Seats,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2021,87110,"8,423",43477
+Albuquerque,Toyota,Tacoma,TRUCKS,Used,Red,Black/Red,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2020,87110,"10,933",44304
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black/Dark Ash,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,87110,"58,845",44359
+Albuquerque,Chevrolet,Colorado,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 18 Highway,2019,87110,"25,614",44656
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,87110,"4,690",45181
+Albuquerque,Chevrolet,Silverado 2500,TRUCKS,Used,White,Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2017,87110,"54,651",45726
+Albuquerque,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,87110,"12,537",48804
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,87110,"19,782",50035
+Albuquerque,Chevrolet,Silverado 2500,TRUCKS,Used,White,Dark Ash/Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,87110,"23,745",53050
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,87110,"3,080",58374
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,87110,"8,075",60621
+Albuquerque,GMC,Sierra 1500,TRUCKS,Certified,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,87110,"6,704",61006
+Albuquerque,GMC,Sierra 2500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,87110,"9,544",62103
+Albuquerque,RAM,2500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,87110,"12,017",65212
+Albuquerque,GMC,Sierra 1500,TRUCKS,Certified,Black,Jet Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,22 City / 26 Highway,2021,87110,"7,917",66023
+Albuquerque,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,87110,"13,075",66192
+Albuquerque,GMC,Yukon XL,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2019,87110,"20,500",73995
+Albuquerque,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,87110,"14,958",76995
+Albuquerque,GMC,Yukon XL,SUV,Certified,Beige,Teak/Light Shale,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,87110,"3,676",93976
+Albuquerque,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,87114,"19,058",25443
+Albuquerque,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,87114,"52,074",28636
+Albuquerque,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,87114,"19,017",31254
+Albuquerque,Nissan,Frontier,TRUCKS,Used,Gray,Pro-4x,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2020,87114,"18,374",38937
+Albuquerque,Ford,Explorer,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,87114,"7,693",44841
+Albuquerque,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2018,87114,"45,170",54072
+Albuquerque,RAM,1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87114,"12,862",55693
+Albuquerque,Jeep,Grand Cherokee,SUV,Certified,Red,Ski Gray/Indigo,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2020,87114,"15,533",56511
+Albuquerque,Ford,Expedition,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2021,87114,"9,582",56943
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,87114,"5,594",66954
+Albuquerque,RAM,2500,TRUCKS,Used,Silver,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,87114,"26,349",69905
+Albuquerque,RAM,2500,TRUCKS,Used,Blue,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,87114,"14,173",71454
+Albuquerque,RAM,2500,TRUCKS,Used,White,Indigo/Frost,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,87114,"17,478",84693
+Albuquerque,Ford,Fusion,SEDAN,Used,Gold,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2017,87109,"67,366",22995
+Albuquerque,Kia,Sorento,SUV,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,87109,"33,914",27995
+Albuquerque,Ford,Escape,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,87109,"11,132",28395
+Albuquerque,Buick,Envision,SUV,Used,Black,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,87109,"16,857",34995
+Albuquerque,Honda,Civic,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,87109,"20,050",24495
+Albuquerque,Lexus,GX 460,SUV,Used,White,,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2011,87109,"117,808",24995
+Albuquerque,BMW,528i,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2015,87109,"26,181",25995
+Albuquerque,Ford,Mustang,COUPE,Used,,,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2018,87109,"25,465",27495
+Albuquerque,Honda,CR-V,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,87109,"15,702",32495
+Albuquerque,BMW,X3,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2016,87109,"11,480",33995
+Albuquerque,Toyota,Tacoma,TRUCKS,Used,Gray,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2017,87109,"45,451",38995
+Albuquerque,RAM,1500,TRUCKS,Used,,,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,87109,"25,068",48991
+Albuquerque,BMW,M340i,SEDAN,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2021,87109,"12,115",59795
+Albuquerque,Jeep,Compass,SUV,Used,Orange,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2021,87114,"16,835",28995
+Albuquerque,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2020,87114,"10,725",28999
+Albuquerque,Toyota,Prius Prime,HATCH,Used,,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2020,87114,"10,113",34995
+Albuquerque,Ford,Ranger,TRUCKS,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,87114,"33,698",38995
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,87114,"74,152",39990
+Albuquerque,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,87114,"46,925",40999
+Albuquerque,Subaru,Outback,SUV,Used,Silver,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,87114,"15,207",41995
+Albuquerque,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,87114,"26,046",42999
+Albuquerque,Ford,Mustang,COUPE,Used,Green,Ebony With Green Stitch,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,87114,"8,404",48500
+Albuquerque,Jeep,Grand Cherokee L,SUV,Used,Gray,Global Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2022,87114,"1,683",49995
+Albuquerque,Jeep,Grand Cherokee L,SUV,Used,White,Global Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,87114,"4,581",53995
+Albuquerque,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,87114,999,53999
+Albuquerque,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 22 Highway,2020,87114,"9,097",57995
+Albuquerque,BMW,M235i,COUPE,Used,Gray,Coral Red/Black,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2015,87114,"70,738",29200
+Albuquerque,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2018,87114,"41,458",57989
+Albuquerque,Cadillac,ATS,SEDAN,Used,Red,Jet Black W/Jet Black Accents,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2013,87109,"88,653",16220
+Albuquerque,Toyota,Corolla,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2016,87109,"45,988",18988
+Albuquerque,Chevrolet,Impala,SEDAN,Used,Silver,Jet Black/Dark Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2014,87109,"72,028",20388
+Albuquerque,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 42 Highway,2016,87109,"84,959",20988
+Albuquerque,Mitsubishi,Outlander,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2019,87109,"17,918",26788
+Albuquerque,Nissan,Rogue Sport,SUV,Used,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,87109,"14,074",29720
+Albuquerque,MAZDA,MAZDA6,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2019,87109,"16,909",30488
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,87109,"36,557",32788
+Albuquerque,Ford,Explorer,SUV,Used,Silver,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,87109,"35,431",34988
+Albuquerque,Subaru,Outback,SUV,Used,Silver,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,87109,"12,366",36888
+Albuquerque,Ford,F150,TRUCKS,Used,Red,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2016,87109,"34,844",37688
+Albuquerque,Subaru,Ascent,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,87109,"2,213",48788
+Albuquerque,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2020,87109,"2,290",52988
+Albuquerque,Nissan,Armada,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,87109,"11,044",60788
+Albuquerque,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,87114,"40,884",22946
+Albuquerque,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,87114,"59,242",23989
+Albuquerque,Hyundai,Veloster,HATCH,Used,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2020,87114,"26,575",29997
+Albuquerque,Toyota,4Runner,SUV,Used,,,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2017,87114,"72,850",37625
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,87114,"33,677",45895
+Albuquerque,Lincoln,MKZ,SEDAN,Used,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 39 Highway,2019,87112,"48,286",31996
+Albuquerque,Ford,F150,TRUCKS,Certified,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,87112,"24,311",38995
+Albuquerque,Ford,F150,TRUCKS,Certified,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,87112,"26,627",39992
+Albuquerque,Nissan,Titan,TRUCKS,Used,White,Beige,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,87112,"11,945",39995
+Albuquerque,Honda,Ridgeline,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,87112,"21,205",42995
+Albuquerque,Cadillac,XT5,SUV,Used,Black,Maple Sugar,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,87112,"11,694",45993
+Albuquerque,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,87112,"2,650",46993
+Albuquerque,Ford,Expedition,SUV,Certified,White,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,87112,"30,671",56995
+Albuquerque,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2019,87112,"31,600",57993
+Albuquerque,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,87112,"22,547",57995
+Albuquerque,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,87114,"29,993",30351
+Albuquerque,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,87109,"36,499",33251
+Albuquerque,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,87109,"25,083",33997
+Albuquerque,Mercedes-Benz,GLC 300,SUV,Used,Red,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,87109,"16,654",46997
+Albuquerque,BMW,M850i xDrive,COUPE,Used,White,Night Blue/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,87109,"17,743",87997
+Albuquerque,Chevrolet,Sonic,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2012,87113,"61,995",12395
+Albuquerque,Hyundai,Elantra,SEDAN,Used,Gold,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2013,87113,"89,523",12695
+Albuquerque,Hyundai,Elantra,SEDAN,Used,Blue,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,87113,"60,037",14295

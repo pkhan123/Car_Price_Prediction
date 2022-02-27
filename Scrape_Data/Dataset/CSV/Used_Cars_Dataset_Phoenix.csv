@@ -1,0 +1,801 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Phoenix,Lexus,ES 350,SEDAN,Used,Gray,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2013,85014,"87,798",20000
+Phoenix,Volkswagen,Passat,SEDAN,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2021,85014,"7,131",27000
+Phoenix,Lexus,ES 350,SEDAN,Used,Red,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,85014,"29,849",33000
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,85014,"19,984",42000
+Phoenix,Hyundai,Elantra,SEDAN,Used,Red,Medium Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2021,85014,"9,145",24600
+Phoenix,Honda,CR-V,SUV,Used,Off White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,85014,"21,248",29300
+Phoenix,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,85014,"21,277",20998
+Phoenix,Dodge,Challenger,COUPE,Used,Gray,Dark Slate Gray,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2014,85014,"50,141",24998
+Phoenix,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85014,"23,974",24998
+Phoenix,Nissan,Sentra,SEDAN,Certified,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,85014,"7,249",25498
+Phoenix,Hyundai,Veloster,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2016,85014,"55,336",13699
+Phoenix,Jeep,Patriot,SUV,Used,Green,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2017,85014,"47,827",17998
+Phoenix,MAZDA,MAZDA3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,85014,"40,476",20384
+Phoenix,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,85014,"6,585",29662
+Phoenix,Toyota,Camry,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85014,"17,762",29980
+Phoenix,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,85015,"21,726",26000
+Phoenix,Kia,Stinger,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2019,85015,"26,550",31573
+Phoenix,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,85015,"27,715",33000
+Phoenix,Ford,Transit 350,VANS,Used,,Charcoal Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,,2017,85015,"48,249",44573
+Phoenix,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,85015,"33,893",44573
+Phoenix,RAM,1500,TRUCKS,Used,Gray,Mountain Brown/Frost,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,85251,"23,444",53632
+Phoenix,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85284,"10,187",27991
+Phoenix,Toyota,RAV4,SUV,Used,,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2021,85014,"1,941",40500
+Phoenix,Chevrolet,Spark,HATCH,Used,Red,Light Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 37 Highway,2015,85014,"99,756",8700
+Phoenix,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2014,85014,"86,121",15000
+Phoenix,Dodge,Grand Caravan,VANS,Used,Silver,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2016,85014,"79,850",17300
+Phoenix,Ford,Fusion,SEDAN,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,85014,"30,715",22300
+Phoenix,Honda,Civic,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"25,536",22900
+Phoenix,Nissan,Altima,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,85014,"4,745",24600
+Phoenix,Honda,HR-V,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2020,85014,"24,417",24800
+Phoenix,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,85014,"21,047",26500
+Phoenix,Honda,Pilot,SUV,Certified,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,85014,"52,149",28200
+Phoenix,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,85014,"23,115",28600
+Phoenix,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,85014,"8,522",32900
+Phoenix,Honda,Passport,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,85014,"15,908",35398
+Phoenix,RAM,ProMaster,VANS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2018,85014,"52,169",36500
+Phoenix,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85014,"4,779",23900
+Phoenix,Volkswagen,Tiguan,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,85014,"33,171",27800
+Phoenix,Subaru,Crosstrek,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,85014,"25,273",30500
+Phoenix,Toyota,RAV4,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85014,"13,048",33900
+Phoenix,Subaru,Ascent,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,85014,"11,130",43500
+Phoenix,Ford,Mustang,COUPE,Used,Red,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2015,85014,"64,273",20998
+Phoenix,Nissan,Rogue,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,85014,"49,012",22298
+Phoenix,Chevrolet,Equinox,SUV,Used,Orange,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,85014,"54,324",23498
+Phoenix,Nissan,Altima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,85014,"12,644",24898
+Phoenix,Nissan,Altima,SEDAN,Certified,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,85014,"38,406",24998
+Phoenix,Nissan,Rogue Sport,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2021,85014,"5,407",28798
+Phoenix,Ford,Explorer,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,85014,"54,202",30998
+Phoenix,Chevrolet,Express 2500,VANS,Used,White,Seats Front Bucket With Custom,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2018,85014,"53,793",34998
+Phoenix,RAM,1500,TRUCKS,Used,Gray,Red/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,85014,"82,003",35998
+Phoenix,Toyota,Tacoma,TRUCKS,Used,White,Black/Caramel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,85014,"25,088",35998
+Phoenix,Ford,Edge,SUV,Used,White,Ceramic,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2020,85014,"14,001",38888
+Phoenix,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,85014,"23,648",29956
+Phoenix,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2020,85014,"7,736",37764
+Phoenix,Volkswagen,Atlas,SUV,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2021,85014,"11,850",39990
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,85014,"10,129",41997
+Phoenix,Honda,Passport,SUV,Used,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,85023,"6,131",45893
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2017,85023,"28,130",35996
+Phoenix,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2017,85022,"24,442",26790
+Phoenix,Hyundai,Tucson,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2021,85022,"7,148",30490
+Phoenix,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,85022,"15,861",31290
+Phoenix,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85284,"8,844",37500
+Phoenix,MINI,Cooper Clubman,WAGON,Used,Off White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,,2022,85284,10,35360
+Phoenix,Toyota,RAV4,SUV,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,85284,"4,430",40998
+Phoenix,Ford,Mustang,COUPE,Used,Black,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2014,85015,"113,332",13000
+Phoenix,Ford,Mustang,COUPE,Used,Green,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2014,85015,"90,123",14573
+Phoenix,Chevrolet,Camaro,COUPE,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2014,85015,"75,630",17373
+Phoenix,Acura,TLX,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,85015,"29,433",30000
+Phoenix,Audi,A3,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,85015,"9,339",30573
+Phoenix,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 26 Highway,2015,85015,"58,602",31573
+Phoenix,Dodge,Challenger,COUPE,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,85015,"24,016",33573
+Phoenix,Toyota,Sienna,VANS,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,85015,"34,473",33573
+Phoenix,Lexus,NX 300,SUV,Used,White,Glazed Caramel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,85015,"35,894",34373
+Phoenix,Ford,Taurus,SEDAN,Used,Gray,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2018,85015,"21,089",34573
+Phoenix,Jeep,Wrangler,SUV,Used,White,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2018,85015,"22,612",35000
+Phoenix,Chevrolet,Colorado,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2017,85015,"32,671",35573
+Phoenix,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,85015,"43,596",35773
+Phoenix,Ford,F250,TRUCKS,Used,White,,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2015,85015,"41,971",36573
+Phoenix,Volkswagen,Arteon,SEDAN,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,85015,"2,568",38000
+Phoenix,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,85015,"22,694",38573
+Phoenix,Nissan,Murano,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,85015,"14,110",39000
+Phoenix,Volvo,XC60,SUV,Used,White,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,85015,"36,847",39573
+Phoenix,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,85015,"43,492",40000
+Phoenix,Ford,F150,TRUCKS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,85015,"19,388",40000
+Phoenix,Chevrolet,Camaro,COUPE,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,85015,"23,604",41000
+Phoenix,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2019,85015,"22,666",41573
+Phoenix,Ford,Mustang,COUPE,Used,Red,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,85015,"8,273",42000
+Phoenix,Toyota,4Runner,SUV,Used,Silver,Black Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2018,85015,"33,677",43000
+Phoenix,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,85015,"25,527",43000
+Phoenix,Mercedes-Benz,C 43 AMG,COUPE,Used,White,Crystal Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2017,85015,"45,800",44573
+Phoenix,Toyota,Tacoma,TRUCKS,Used,Green,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,85015,"8,758",45000
+Phoenix,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,85015,"15,064",45273
+Phoenix,Jeep,Wrangler,SUV,Certified,Silver,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2018,85015,"14,902",46373
+Phoenix,Chevrolet,Corvette,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,85015,"36,467",47573
+Phoenix,Ford,Expedition Max,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2020,85015,"19,540",49000
+Phoenix,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 22 Highway,2020,85015,"21,952",54573
+Phoenix,Mercedes-Benz,SLC 43 AMG,CONVERT,Used,Off White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,85015,"5,333",61000
+Phoenix,RAM,2500,TRUCKS,Certified,Red,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,85015,"22,990",62000
+Phoenix,RAM,2500,TRUCKS,Used,Black,Light Mountain Brown/Mountain ,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,85015,"15,620",68000
+Phoenix,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,85226,"35,484",42050
+Phoenix,Lexus,RX 350,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,85226,"23,234",44100
+Phoenix,Porsche,911,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,13 City / 21 Highway,2003,85257,"104,475",44945
+Phoenix,Ford,Fiesta,HATCH,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,85251,"19,836",15970
+Phoenix,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2021,85251,"3,585",23950
+Phoenix,Subaru,WRX,SEDAN,Used,Blue,.,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2015,85251,"35,596",31750
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,White,Saddle,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,85251,"49,348",42950
+Phoenix,Chevrolet,Corvette,COUPE,Used,Orange,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2016,85251,"34,503",48500
+Phoenix,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,85251,"27,160",54946
+Phoenix,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,85251,"9,866",54991
+Phoenix,Mercedes-Benz,C 63 AMG,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2018,85251,"20,331",74250
+Phoenix,Mitsubishi,Outlander,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2019,85251,"19,821",23800
+Phoenix,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,85251,"23,506",29990
+Phoenix,MAZDA,CX-5,SUV,Used,White,Caturra Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,85251,"3,190",38727
+Phoenix,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,85251,"32,975",39300
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,85251,"24,863",43000
+Phoenix,Mercedes-Benz,E 450,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,85251,"18,960",68975
+Phoenix,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2015,85015,"61,258",19197
+Phoenix,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85015,"36,188",26397
+Phoenix,Ford,Explorer,SUV,Used,Gold,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,85015,"37,206",28597
+Phoenix,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,85284,"42,568",15995
+Phoenix,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,85284,"49,073",27998
+Phoenix,Acura,MDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,85382,"23,447",29997
+Phoenix,INFINITI,QX50,SUV,Used,Gray,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,85382,"15,102",37987
+Phoenix,Acura,TLX,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2021,85382,"7,704",43721
+Phoenix,Hyundai,Sonata,SEDAN,Used,Red,Dark Gray/Camel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,85260,"5,571",32578
+Phoenix,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,85260,"12,172",38667
+Phoenix,Toyota,Camry,SEDAN,Used,Red,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85284,"18,930",27949
+Phoenix,Toyota,Camry,SEDAN,Certified,,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2018,85284,"33,911",27985
+Phoenix,Toyota,Tacoma,TRUCKS,Certified,Black,Black/Orange,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,85284,"18,883",43998
+Phoenix,Hyundai,Kona,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,85284,"20,017",23991
+Phoenix,Hyundai,Sonata,SEDAN,Used,Red,Dark Gray/Camel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,85284,"7,497",33492
+Phoenix,Kia,Stinger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,85284,"23,236",41981
+Phoenix,Mercedes-Benz,SL 63 AMG,CONVERT,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,12 City / 19 Highway,2009,85014,"70,600",34499
+Phoenix,Ford,Escape,SUV,Used,Silver,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2016,85014,"34,239",19000
+Phoenix,Ford,Ranger,TRUCKS,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,85014,"18,670",32500
+Phoenix,Subaru,Forester,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,85014,"19,855",33000
+Phoenix,Dodge,Durango,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85014,"17,614",34000
+Phoenix,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85014,"12,660",35000
+Phoenix,Tesla,Model 3,SEDAN,Used,Black,White,Single-Speed,Electric,Electric,All wheel drive,,2018,85014,"16,423",49500
+Phoenix,Tesla,Model 3,SEDAN,Used,White,White/Black,Single-Speed,Electric,Electric,All wheel drive,,2020,85014,"13,765",57500
+Phoenix,Buick,Encore,SUV,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,85014,"7,470",25566
+Phoenix,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 39 Highway,2016,85014,"46,299",15100
+Phoenix,Chevrolet,Impala,SEDAN,Used,Gray,Dark Titanium/Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,85014,"61,917",16400
+Phoenix,Nissan,Altima,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 39 Highway,2016,85014,"59,903",16500
+Phoenix,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2012,85014,"120,362",16700
+Phoenix,Hyundai,Sonata,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 36 Highway,2015,85014,"53,517",16900
+Phoenix,Lexus,RX 350,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2013,85014,"122,135",18200
+Phoenix,Audi,A4,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2014,85014,"43,909",18400
+Phoenix,Toyota,Corolla,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2018,85014,"37,016",20200
+Phoenix,Jeep,Renegade,SUV,Used,Blue,Ski Gray/Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2018,85014,"31,761",20800
+Phoenix,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,85014,"36,393",21990
+Phoenix,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,85014,"24,628",22600
+Phoenix,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,85014,"16,231",23100
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Ebony,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2013,85014,"79,589",23600
+Phoenix,Hyundai,Kona,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2018,85014,"22,418",23600
+Phoenix,INFINITI,QX80,SUV,Used,White,Wheat,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2014,85014,"94,808",24900
+Phoenix,Volvo,XC60,SUV,Used,Black,Soft Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2016,85014,"29,955",26500
+Phoenix,Nissan,Rogue,SUV,Used,Black,Platinum,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2018,85014,"31,756",26600
+Phoenix,Dodge,Charger,SEDAN,Used,,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,85014,"39,436",26600
+Phoenix,Nissan,Rogue Sport,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,85014,"10,821",27200
+Phoenix,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2017,85014,"41,383",29400
+Phoenix,Land Rover,Discovery Sport,SUV,Used,Gray,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2019,85014,"36,840",32800
+Phoenix,Mercedes-Benz,GLA 250,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,85014,"15,763",33998
+Phoenix,Honda,Ridgeline,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,85014,"38,337",34900
+Phoenix,Honda,Accord,SEDAN,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,85014,"11,949",35400
+Phoenix,Honda,Ridgeline,TRUCKS,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,85014,"13,062",36100
+Phoenix,Mercedes-Benz,GLE 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,85014,"38,055",37100
+Phoenix,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,85014,"17,570",38998
+Phoenix,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,85014,"23,720",39990
+Phoenix,Maserati,Ghibli,SEDAN,Used,White,Rosso,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2017,85014,"24,372",41900
+Phoenix,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,85014,"23,336",44800
+Phoenix,Mercedes-Benz,C 43 AMG,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,85014,"28,989",48700
+Phoenix,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2020,85014,"7,488",51900
+Phoenix,Chevrolet,Silverado 2500,TRUCKS,Used,White,Dark Ash/Jet Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2017,85014,"40,840",51900
+Phoenix,Nissan,Armada,SUV,Used,Blue,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,85014,"13,071",56300
+Phoenix,INFINITI,JX35,SUV,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 23 Highway,2013,85014,"46,592",17994
+Phoenix,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,85014,"27,901",20497
+Phoenix,INFINITI,Q50,SEDAN,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2018,85014,"33,035",28994
+Phoenix,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,85014,"22,830",37892
+Phoenix,INFINITI,QX80,SUV,Certified,Gray,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2018,85014,"25,628",47994
+Phoenix,Chevrolet,Camaro,COUPE,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,85014,"64,716",17900
+Phoenix,Subaru,Forester,SUV,Certified,Black,,Manual,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,85014,"30,990",22900
+Phoenix,Volkswagen,Passat,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2021,85014,"3,724",23900
+Phoenix,Volkswagen,Tiguan,SUV,Certified,White,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,85014,"36,672",24900
+Phoenix,Volkswagen,Jetta,SEDAN,Certified,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,85014,"32,164",28900
+Phoenix,Volkswagen,Atlas,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 26 Highway,2018,85014,"37,895",29999
+Phoenix,Subaru,Outback,SUV,Certified,Gray,,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,85014,"18,591",32900
+Phoenix,Jeep,Wrangler,SUV,Used,Silver,,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,85014,"29,482",34900
+Phoenix,Honda,Ridgeline,TRUCKS,Used,Blue,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,85014,"27,993",40800
+Phoenix,RAM,1500,TRUCKS,Used,Gray,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,85014,"14,565",40900
+Phoenix,Nissan,Versa,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 39 Highway,2018,85014,"52,613",14498
+Phoenix,BMW,328i,SEDAN,Used,Black,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2015,85014,"48,626",19998
+Phoenix,Nissan,Versa,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,85014,"9,052",19998
+Phoenix,MAZDA,CX-3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 34 Highway,2020,85014,"18,898",22498
+Phoenix,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2021,85014,"10,026",23998
+Phoenix,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Diesel,4-Cylinder Turbo,2 wheel drive - front,28 City / 39 Highway,2018,85014,"39,881",23998
+Phoenix,Nissan,Sentra,SEDAN,Certified,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,85014,"1,217",26698
+Phoenix,Nissan,Altima,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,85014,"16,333",26998
+Phoenix,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,85014,"23,708",29698
+Phoenix,Nissan,Frontier,TRUCKS,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,85014,"9,300",29998
+Phoenix,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,85014,"6,027",30998
+Phoenix,Toyota,RAV4,SUV,Used,Blue,Bk,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,85014,"7,422",33998
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,85014,"12,237",44998
+Phoenix,Dodge,Durango,SUV,Used,Green,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 22 Highway,2019,85014,"24,604",45998
+Phoenix,GMC,Yukon,SUV,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,85014,"48,382",49888
+Phoenix,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,85014,"31,695",43999
+Phoenix,Dodge,Journey,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2020,85014,"13,325",27817
+Phoenix,Hyundai,Sonata,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,85014,"4,504",27881
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,85014,"37,675",35122
+Phoenix,Toyota,Tundra,TRUCKS,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 18 Highway,2009,85014,"138,325",17899
+Phoenix,Chrysler,200,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,85014,"52,901",18000
+Phoenix,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,85014,"69,209",20589
+Phoenix,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,85014,"60,944",20998
+Phoenix,Toyota,Corolla,SEDAN,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"18,551",22488
+Phoenix,Subaru,Impreza,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,85014,"21,612",22999
+Phoenix,Dodge,Journey,SUV,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2018,85014,"58,735",23312
+Phoenix,INFINITI,Q60,COUPE,Used,Silver,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2015,85014,"28,429",23488
+Phoenix,Toyota,Corolla,SEDAN,Used,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"23,176",23674
+Phoenix,Hyundai,Tucson,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,85014,"36,540",23698
+Phoenix,MAZDA,CX-3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2019,85014,"17,144",24688
+Phoenix,Toyota,Camry,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,85014,"33,609",26335
+Phoenix,Toyota,Corolla,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2020,85014,"16,967",26649
+Phoenix,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,85014,"8,195",27488
+Phoenix,Land Rover,Range Rover Evoque,SUV,Used,Red,Almond/Almond,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 30 Highway,2016,85014,"72,481",27846
+Phoenix,Toyota,Corolla,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"12,292",27865
+Phoenix,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85014,"16,609",27999
+Phoenix,Honda,Accord,SEDAN,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,85014,"44,344",28997
+Phoenix,Subaru,WRX,SEDAN,Used,Red,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,85014,"27,076",30899
+Phoenix,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85014,"26,470",30997
+Phoenix,Mercedes-Benz,C 300,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,85014,"25,420",37998
+Phoenix,Toyota,Tacoma,TRUCKS,Certified,Silver,Graphite,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2019,85014,"24,173",39742
+Phoenix,Toyota,RAV4,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,85014,"17,400",41996
+Phoenix,INFINITI,Q50,SEDAN,Used,Black,Stone,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,85014,"25,955",45924
+Phoenix,GMC,Acadia,SUV,Used,Black,Dark Galvanized/Light Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,85014,"19,043",46790
+Phoenix,Buick,Encore,SUV,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,85382,"25,289",22996
+Phoenix,Kia,Sorento,SUV,Used,Gray,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,85040,"53,613",20950
+Phoenix,Porsche,Panamera,HATCH,Used,White,Brown,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2017,85027,"19,700",97900
+Phoenix,Honda,Civic,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,85251,"30,764",23600
+Phoenix,MAZDA,MX-5 Miata RF,CONVERT,Used,Gray,Charcoal,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,85251,"12,012",29550
+Phoenix,Acura,RDX,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,85251,"16,315",36599
+Phoenix,Lexus,NX 300,SUV,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,85251,"16,320",38996
+Phoenix,Cadillac,CT6,SEDAN,Used,White,Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,85251,"20,620",49299
+Phoenix,Jeep,Wrangler,SUV,Used,White,Brown,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,,2021,85251,891,57799
+Phoenix,Porsche,Panamera,HATCH,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2012,85251,"32,511",42000
+Phoenix,Ford,Taurus,SEDAN,Certified,White,Dune,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,85301,"28,127",24888
+Phoenix,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,85301,"20,895",27888
+Phoenix,Ford,Edge,SUV,Certified,Silver,Dune,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,85301,"16,349",29888
+Phoenix,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,85301,"9,665",31888
+Phoenix,Ford,Ranger,TRUCKS,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,85301,"20,491",32888
+Phoenix,Ford,Ranger,TRUCKS,Certified,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,85301,"18,344",32888
+Phoenix,Honda,CR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,85301,"4,865",33888
+Phoenix,Ford,F150,TRUCKS,Certified,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,85301,"8,237",36888
+Phoenix,Ford,Bronco Sport,SUV,Certified,Blue,Ebony,Automatic,Gasoline,3-Cylinder Turbo,4 wheel drive,25 City / 28 Highway,2021,85301,"1,389",37488
+Phoenix,Ford,Ranger,TRUCKS,Certified,Orange,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2019,85301,"9,229",40888
+Phoenix,Lincoln,Nautilus,SUV,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,85301,"20,449",42888
+Phoenix,RAM,2500,TRUCKS,Used,Brown,Canyon Brown/Lt Beige,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,85301,"11,852",66888
+Phoenix,Nissan,Maxima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,85054,"36,902",26711
+Phoenix,Buick,Envision,SUV,Used,White,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,85323,"17,429",34981
+Phoenix,Toyota,Highlander,SUV,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2021,85323,"3,531",44981
+Phoenix,Nissan,Sentra,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85201,"21,701",20945
+Phoenix,Volkswagen,Tiguan,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2021,85323,"7,788",42970
+Phoenix,Audi,allroad,WAGON,Used,Gray,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2015,85323,"67,458",22000
+Phoenix,Mercedes-Benz,E 350,SEDAN,Used,Silver,Ash/Dark Grey Leather,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2011,85202,"80,837",13998
+Phoenix,Alfa Romeo,Giulia,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2017,85202,"40,183",26998
+Phoenix,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2019,85023,"22,718",38495
+Phoenix,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85023,"16,461",38998
+Phoenix,Dodge,Durango,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2021,85023,"8,855",72998
+Phoenix,Honda,CR-V,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 29 Highway,2014,85023,"58,153",21242
+Phoenix,Honda,Civic,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85023,"9,876",24395
+Phoenix,Honda,HR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,85023,"2,771",28591
+Phoenix,Honda,Ridgeline,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,85023,"14,229",37292
+Phoenix,Honda,Odyssey,VANS,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2021,85023,"7,635",39895
+Phoenix,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,85023,"33,886",24593
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Brown,Jet Black/Dark Ash,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2014,85023,"54,373",27530
+Phoenix,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,85023,"22,456",27717
+Phoenix,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2017,85023,"25,266",29776
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,85023,"20,234",35700
+Phoenix,Chevrolet,Corvette,COUPE,Used,Blue,Kalahari,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,85023,"26,762",50000
+Phoenix,Cadillac,XT6,SUV,Used,Red,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2021,85023,"12,146",56213
+Phoenix,Chevrolet,Suburban,SUV,Certified,White,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 22 Highway,2018,85023,"34,997",59252
+Phoenix,Ford,Fusion,SEDAN,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2018,85382,"12,410",17998
+Phoenix,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,85382,"38,472",42498
+Phoenix,MAZDA,CX-3,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 34 Highway,2019,85023,"24,272",22889
+Phoenix,Chevrolet,Trax,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,85023,"11,450",23889
+Phoenix,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85023,"16,306",25889
+Phoenix,INFINITI,QX30,SUV,Used,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,85284,"26,980",26387
+Phoenix,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,85284,"55,858",28687
+Phoenix,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2019,85284,"27,238",28987
+Phoenix,Hyundai,Veloster,HATCH,Used,Black,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,85284,"27,154",29387
+Phoenix,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2019,85284,"26,249",29387
+Phoenix,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,85284,"30,447",30987
+Phoenix,Alfa Romeo,Stelvio,SUV,Used,Red,Black/Chocolate,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,85284,"13,596",32587
+Phoenix,Lincoln,MKC,SUV,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,85284,"16,421",32987
+Phoenix,Audi,A4,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,85284,"35,822",33587
+Phoenix,Toyota,4Runner,SUV,Used,Gray,Black Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2018,85284,"26,920",36573
+Phoenix,Audi,S3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,85284,"28,267",38587
+Phoenix,Honda,Pilot,SUV,Used,Red,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,85284,"21,966",38987
+Phoenix,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,85284,"17,059",39587
+Phoenix,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,85284,"11,059",43975
+Phoenix,Genesis,G70,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2020,85284,"17,182",46987
+Phoenix,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,85284,"9,820",52987
+Phoenix,Ford,F250,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2019,85284,"26,487",54987
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2021,85022,"7,302",61490
+Phoenix,MAZDA,MAZDA6,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2016,85284,"46,039",22000
+Phoenix,Toyota,RAV4,SUV,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85284,"32,919",27000
+Phoenix,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85284,"37,039",27500
+Phoenix,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 31 Highway,2017,85284,"31,997",28250
+Phoenix,Dodge,Durango,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85284,"16,770",38500
+Phoenix,Jeep,Grand Cherokee,SUV,Certified,Off White,Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,85284,"13,729",39500
+Phoenix,BMW,X5,SUV,Used,White,Mocha,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,85284,"11,438",47500
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,85284,"1,066",48500
+Phoenix,RAM,2500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,,2019,85284,"19,704",57000
+Phoenix,MINI,Cooper,HATCH,Certified,Off White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,85284,"24,182",25998
+Phoenix,MINI,Cooper Countryman,SUV,Used,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2022,85284,10,35830
+Phoenix,MINI,Cooper Countryman,SUV,Used,Green,Black Pearl,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2022,85284,10,35830
+Phoenix,MINI,Cooper Countryman,SUV,Used,Blue,Satellite Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2022,85284,10,36450
+Phoenix,MINI,Cooper Countryman,SUV,Used,Blue,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2022,85284,10,36790
+Phoenix,Chevrolet,Cruze,HATCH,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 40 Highway,2018,85284,"33,080",18998
+Phoenix,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,85284,"48,654",19998
+Phoenix,Honda,Civic,SEDAN,Certified,White,Ivory,Manual,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 40 Highway,2018,85284,"23,527",22598
+Phoenix,Ford,Fusion,SEDAN,Used,White,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,85284,"29,478",22998
+Phoenix,Honda,Civic,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,85284,"27,029",22998
+Phoenix,Acura,RDX,SUV,Used,Red,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2015,85284,"46,846",23998
+Phoenix,Lexus,ES 350,SEDAN,Used,Silver,Black/Garnet,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2015,85284,"56,390",24598
+Phoenix,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,,2016,85284,"53,953",24998
+Phoenix,Honda,Accord,SEDAN,Certified,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,85284,"37,855",24998
+Phoenix,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85284,"13,103",24998
+Phoenix,Honda,CR-V,SUV,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,85284,"32,613",25598
+Phoenix,Honda,CR-V,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,85284,"37,510",25598
+Phoenix,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,85284,"5,006",25998
+Phoenix,Honda,CR-V,SUV,Used,Off White,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2018,85284,"35,199",25998
+Phoenix,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,85284,"11,432",25998
+Phoenix,Honda,HR-V,SUV,Certified,Off White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,85284,"25,136",26598
+Phoenix,Ford,Escape,SUV,Used,White,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,85284,"7,990",27598
+Phoenix,Buick,Envision,SUV,Used,Black,Chestnut Brown,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2017,85284,"30,057",27998
+Phoenix,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,85284,"43,506",27998
+Phoenix,Jeep,Compass,SUV,Used,White,Ruby Red/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,85284,"25,102",29998
+Phoenix,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,85284,"14,067",30998
+Phoenix,INFINITI,Q50,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,85284,"28,027",30998
+Phoenix,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,85284,"17,549",31998
+Phoenix,Toyota,Avalon,SEDAN,Used,Burgundy,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,85284,"33,829",32598
+Phoenix,Honda,Pilot,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,85284,"24,807",32998
+Phoenix,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2020,85284,"15,777",32998
+Phoenix,Honda,Pilot,SUV,Certified,Blue,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,85284,"15,369",33598
+Phoenix,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2015,85284,"57,915",33998
+Phoenix,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,85284,"10,073",33998
+Phoenix,Honda,Ridgeline,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,85284,"19,051",35998
+Phoenix,Toyota,4Runner,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,85284,"23,416",50400
+Phoenix,Honda,Accord,SEDAN,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,85388,"29,122",27977
+Phoenix,Audi,A5,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,85054,"26,889",39278
+Phoenix,BMW,330i,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,85054,"25,083",33997
+Phoenix,BMW,530i,SEDAN,Used,Gray,Ivory White W/Dark Coffee,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,85054,"31,270",34997
+Phoenix,Lincoln,MKC,SUV,Used,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,85054,"15,046",34997
+Phoenix,BMW,X1,SUV,Certified,Blue,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,85054,"8,109",35369
+Phoenix,BMW,X4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2017,85054,"38,441",36997
+Phoenix,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2021,85054,"4,004",37997
+Phoenix,Mercedes-Benz,E 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,85054,"24,654",37997
+Phoenix,BMW,435i,CONVERT,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 31 Highway,2016,85054,"34,043",38517
+Phoenix,BMW,330i xDrive,SEDAN,Certified,Gray,Black W/Contrast,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,85054,"26,743",40997
+Phoenix,BMW,530i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,85054,"22,292",40997
+Phoenix,Lexus,RX 350,SUV,Used,Silver,Stratus Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,85054,"22,039",43997
+Phoenix,BMW,530i,SEDAN,Certified,White,Cognac,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,85054,"11,765",45421
+Phoenix,Mercedes-Benz,GLC 300,SUV,Used,Red,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,85054,"16,654",46997
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2021,85054,"8,105",54785
+Phoenix,Porsche,911,COUPE,Used,Black,Black/Terracotta,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2009,85020,"51,960",61775
+Phoenix,Porsche,911,COUPE,Used,Blue,Platinum Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,,2015,85020,"67,768",61925
+Phoenix,Mercedes-Benz,E 350,SEDAN,Certified,Gray,Nut Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2021,85054,"3,767",61245
+Phoenix,Mercedes-Benz,E 350,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2021,85054,"5,781",62988
+Phoenix,Chevrolet,Tahoe,SUV,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,85338,"29,431",64900
+Phoenix,FIAT,500,HATCH,Used,Orange,Steam (White),Single-Speed,Electric,Electric,2 wheel drive - front,,2015,85015,"41,606",11573
+Phoenix,FIAT,500,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2018,85015,"23,661",12573
+Phoenix,Toyota,Tacoma,TRUCKS,Used,Gray,,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2011,85015,"154,806",19000
+Phoenix,Ford,Mustang,COUPE,Used,Black,Ebony,Manual,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2017,85015,"43,541",23000
+Phoenix,Jeep,Renegade,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,85015,"27,518",23573
+Phoenix,MAZDA,MAZDA3,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85015,"35,570",25000
+Phoenix,Lexus,GS 350,SEDAN,Used,Gray,F-Sport Cabernet,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2015,85015,"63,172",28000
+Phoenix,Chrysler,300,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,85015,"11,989",28573
+Phoenix,BMW,430i Gran Coupe,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,85015,"47,091",28573
+Phoenix,Dodge,Challenger,COUPE,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,85015,"23,364",28673
+Phoenix,Maserati,Ghibli,SEDAN,Used,Silver,Nero,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,15 City / 25 Highway,2014,85015,"45,236",29000
+Phoenix,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,85015,"25,091",29000
+Phoenix,Alfa Romeo,Giulia,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2017,85015,"33,977",30000
+Phoenix,Dodge,Challenger,COUPE,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,85015,"3,545",30573
+Phoenix,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,85015,"61,973",31000
+Phoenix,Toyota,4Runner,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 22 Highway,2014,85015,"81,074",31000
+Phoenix,Audi,A5,COUPE,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,85015,"35,919",31773
+Phoenix,MAZDA,MX-5 Miata,CONVERT,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2020,85015,"4,640",33000
+Phoenix,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2020,85015,"26,003",33573
+Phoenix,Jeep,Wrangler,SUV,Certified,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2018,85015,"22,694",34000
+Phoenix,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,85015,"17,528",36573
+Phoenix,BMW,530e,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 30 Highway,2019,85015,"26,685",37000
+Phoenix,Genesis,G70,SEDAN,Used,Black,Black/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,85015,"8,061",37573
+Phoenix,Lexus,IS 350,SEDAN,Used,White,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2018,85015,"19,701",40000
+Phoenix,RAM,1500,TRUCKS,Certified,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,85015,"10,124",40273
+Phoenix,Dodge,Charger,SEDAN,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,85015,"12,076",40573
+Phoenix,Ford,F150,TRUCKS,Used,Blue,Medium Light Camel,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,85015,"13,871",40573
+Phoenix,Dodge,Challenger,COUPE,Certified,Black,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,85015,"22,812",41000
+Phoenix,Lexus,IS 350,SEDAN,Used,Gray,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,85015,"23,933",41000
+Phoenix,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,85015,"22,570",41573
+Phoenix,Ford,F150,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2020,85015,"29,426",42000
+Phoenix,RAM,1500,TRUCKS,Certified,Black,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2020,85015,"6,537",42000
+Phoenix,Mercedes-Benz,GLC 350e,SUV,Used,Black,Black Mb-Tex,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,24 City / 27 Highway,2019,85015,"22,353",42573
+Phoenix,Tesla,Model 3,SEDAN,Used,Red,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2020,85015,"25,069",44000
+Phoenix,Mercedes-Benz,GLB 250,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,85015,"9,747",44573
+Phoenix,Volkswagen,Atlas,SUV,Used,White,Dark Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,85015,"12,868",44573
+Phoenix,GMC,Sierra 1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,85015,"23,688",45000
+Phoenix,Jeep,Grand Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,85015,"15,605",45000
+Phoenix,Lexus,IS 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2020,85015,"14,506",46573
+Phoenix,GMC,Sierra 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,85015,"25,696",46573
+Phoenix,Toyota,Tundra,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,85015,"29,964",48573
+Phoenix,Mercedes-Benz,C 300,COUPE,Used,Gray,Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2020,85015,"2,584",49573
+Phoenix,Lincoln,Nautilus,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2020,85015,"9,399",51573
+Phoenix,Ford,F150,TRUCKS,Used,Black,Black/Medium Dark Slate,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2021,85015,"3,426",52573
+Phoenix,RAM,2500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,85015,"35,165",53000
+Phoenix,Audi,SQ5,SUV,Used,Blue,Rotor Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2019,85015,"29,854",53573
+Phoenix,Jeep,Gladiator,TRUCKS,Certified,Beige,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,85015,"13,651",54000
+Phoenix,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,85015,"11,592",54275
+Phoenix,GMC,Yukon XL,SUV,Used,Gray,Cocoa/Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2017,85015,"48,636",54995
+Phoenix,Jeep,Gladiator,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,85015,"11,809",56000
+Phoenix,Jeep,Gladiator,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,85015,968,56000
+Phoenix,RAM,2500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,,2019,85015,"21,136",56773
+Phoenix,Ford,F150,TRUCKS,Used,Blue,,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2017,85015,"62,112",56773
+Phoenix,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,85015,"29,050",58000
+Phoenix,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2020,85015,"7,432",58575
+Phoenix,RAM,3500,TRUCKS,Used,Red,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2017,85015,"54,931",62000
+Phoenix,RAM,2500,TRUCKS,Certified,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2020,85015,"18,588",63000
+Phoenix,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 22 Highway,2018,85015,"17,738",64000
+Phoenix,RAM,2500,TRUCKS,Certified,Silver,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,85015,"25,782",66573
+Phoenix,Ford,F350,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,85015,"17,873",68000
+Phoenix,Ford,Expedition,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,85015,"11,290",69000
+Phoenix,GMC,Sierra 3500,TRUCKS,Used,White,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,85015,"39,112",69573
+Phoenix,RAM,2500,TRUCKS,Used,Blue,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2019,85015,"18,270",76000
+Phoenix,RAM,3500,TRUCKS,Used,White,Canyon Brown/Light Frost Beige,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,85015,"7,994",76575
+Phoenix,RAM,2500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2021,85015,"5,945",83000
+Phoenix,RAM,2500,TRUCKS,Used,White,Indigo/Frost,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2021,85015,"5,836",84000
+Phoenix,GMC,Yukon XL,SUV,Used,White,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,85015,"13,172",88000
+Phoenix,Lexus,ES 350,SEDAN,Used,,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,85226,"31,210",19685
+Phoenix,Lexus,ES 350,SEDAN,Used,Red,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,85226,"56,412",28338
+Phoenix,Cadillac,XT5,SUV,Used,Blue,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,85226,"35,927",36000
+Phoenix,Lexus,RX 350,SUV,Used,Black,Noble Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2016,85226,"30,512",37750
+Phoenix,Genesis,G90,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2018,85226,"15,515",45000
+Phoenix,Lexus,RC 350,COUPE,Used,,Other,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,85226,"6,677",55995
+Phoenix,Mercedes-Benz,GLE 350,SUV,Used,,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,19 City / 26 Highway,2020,85226,"18,470",59812
+Phoenix,Lexus,LC 500,CONVERT,Used,Red,Other,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,85226,"7,664",102950
+Phoenix,Volkswagen,Beetle,HATCH,Used,Silver,Beige/Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2015,85284,"61,827",13902
+Phoenix,Toyota,RAV4,SUV,Used,White,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,85284,"8,264",31329
+Phoenix,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,85284,"29,101",36321
+Phoenix,Volkswagen,Atlas,SUV,Used,Black,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,85284,"19,025",39429
+Phoenix,Lexus,ES 350,SEDAN,Used,Red,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,85284,"11,593",43528
+Phoenix,Audi,Q5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,85284,"19,391",47364
+Phoenix,Honda,Civic,SEDAN,Used,Blue,Other,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2021,85226,"3,090",25000
+Phoenix,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 34 Highway,2019,85226,"18,902",25000
+Phoenix,Lexus,NX 200t,SUV,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2016,85226,"20,426",28977
+Phoenix,Hyundai,Tucson,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,85226,"20,024",30990
+Phoenix,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,85226,"26,407",31866
+Phoenix,BMW,X4 M,SUV,Used,Gray,Sakhir Orange/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2021,85226,"3,182",81990
+Phoenix,Toyota,Prius,HATCH,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2018,85226,"25,206",26496
+Phoenix,Buick,Envision,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,85226,"29,999",28589
+Phoenix,Lexus,ES 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,85226,"23,330",35997
+Phoenix,Audi,A5,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,85226,"14,422",36943
+Phoenix,Audi,A4,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,85226,"9,056",36997
+Phoenix,BMW,740i,SEDAN,Used,White,Cognac,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2016,85226,"37,452",41979
+Phoenix,Tesla,Model S,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,All wheel drive,,2014,85226,"76,982",45895
+Phoenix,Audi,Q5,SUV,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,25 City / 29 Highway,2020,85226,"13,720",51974
+Phoenix,Chevrolet,Corvette,COUPE,Used,Orange,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2019,85226,"14,379",56881
+Phoenix,Mercedes-Benz,S 550,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 26 Highway,2017,85226,"21,450",60983
+Phoenix,Audi,S4,SEDAN,Used,Black,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2021,85226,"4,025",60997
+Phoenix,Audi,e-tron,SUV,Certified,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2019,85226,"14,858",66899
+Phoenix,INFINITI,G37,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2013,85281,"78,305",16595
+Phoenix,Volvo,S90,SEDAN,Used,Gray,Other,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2017,85226,"24,706",36795
+Phoenix,Porsche,Macan,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,85226,"10,207",71700
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,85257,681,59995
+Phoenix,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2015,85251,"77,970",12950
+Phoenix,Hyundai,Elantra,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2020,85251,"22,625",19950
+Phoenix,Kia,Cadenza,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2017,85251,"42,996",25950
+Phoenix,Mitsubishi,Outlander,SUV,Used,Black,Black,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,26 City / 26 Highway,2021,85251,"7,265",33500
+Phoenix,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,85251,"8,924",43950
+Phoenix,Honda,Odyssey,VANS,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,85251,"18,057",49950
+Phoenix,Audi,RS 5,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2018,85251,"21,090",72433
+Phoenix,Chevrolet,Tahoe,SUV,Used,White,Jet Black/Mahogany,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2020,85251,"6,105",72934
+Phoenix,Audi,A8,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 23 Highway,2020,85251,"14,794",79852
+Phoenix,MAZDA,MAZDA3,SEDAN,Used,Silver,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2016,85251,"43,108",18289
+Phoenix,MAZDA,MAZDA6,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85251,"15,825",23990
+Phoenix,Honda,CR-V,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,85251,"55,267",25462
+Phoenix,INFINITI,QX30,SUV,Used,Silver,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,85251,"31,959",26986
+Phoenix,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,85251,"31,273",27149
+Phoenix,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2017,85251,"40,091",31000
+Phoenix,MAZDA,MAZDA6,SEDAN,Certified,Blue,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2020,85251,"9,252",31215
+Phoenix,Honda,Odyssey,VANS,Used,Black,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,85251,"19,209",43650
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,85251,"11,975",44500
+Phoenix,Chevrolet,SS,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2015,85251,"23,526",46990
+Phoenix,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2019,85382,"26,298",31977
+Phoenix,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2016,85382,"56,711",37977
+Phoenix,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,85382,"19,542",43977
+Phoenix,RAM,1500,TRUCKS,Used,Off White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,85382,"24,146",46977
+Phoenix,Hyundai,Elantra,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,85015,"53,971",15695
+Phoenix,Chevrolet,Malibu,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,85015,"63,079",17895
+Phoenix,Kia,Sorento,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,85015,"44,681",26697
+Phoenix,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,85284,"38,667",17995
+Phoenix,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85284,"27,479",22991
+Phoenix,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,85284,"38,605",24982
+Phoenix,Audi,Q7,SUV,Used,Purple,Green,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,16 City / 22 Highway,2015,85284,"68,066",26212
+Phoenix,Nissan,Rogue,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85284,"28,303",26462
+Phoenix,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85284,"23,643",26495
+Phoenix,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85284,"7,958",26589
+Phoenix,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85284,"18,582",26652
+Phoenix,Nissan,Rogue Sport,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2021,85284,"1,978",27495
+Phoenix,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85284,"22,327",28435
+Phoenix,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85284,"23,982",28885
+Phoenix,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,85284,"17,727",30489
+Phoenix,Nissan,Frontier,TRUCKS,Certified,Gray,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2019,85284,"27,728",30495
+Phoenix,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 35 Highway,2020,85284,"9,643",30995
+Phoenix,Jeep,Wrangler,SUV,Used,Green,Heritage Tan/Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 25 Highway,2021,85284,"2,114",38995
+Phoenix,Nissan,Titan,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2020,85284,"13,819",39727
+Phoenix,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,85284,"46,938",43495
+Phoenix,Cadillac,Escalade,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,85284,"50,996",57998
+Phoenix,Chevrolet,Camaro,CONVERT,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2018,85206,"32,277",29481
+Phoenix,Toyota,Highlander,SUV,Used,Green,Sand Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2008,85382,"189,029",9995
+Phoenix,Kia,Optima,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,85382,"29,552",23399
+Phoenix,Nissan,Maxima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,85382,"63,279",24996
+Phoenix,Acura,RDX,SUV,Used,Off White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2020,85382,"21,515",39954
+Phoenix,Acura,MDX,SUV,Used,Red,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2020,85382,"19,852",48997
+Phoenix,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,85284,"5,438",42360
+Phoenix,BMW,M6,COUPE,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,14 City / 20 Highway,2015,85260,"68,209",42887
+Phoenix,Nissan,Sentra,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,85260,"38,324",17641
+Phoenix,Nissan,Sentra,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85260,"28,351",19610
+Phoenix,Nissan,Altima,SEDAN,Certified,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,85260,"29,775",25441
+Phoenix,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,85260,"17,078",49692
+Phoenix,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2016,85284,"39,647",21998
+Phoenix,Toyota,Corolla,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,85284,"22,420",23652
+Phoenix,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,85284,"15,308",24251
+Phoenix,Toyota,Corolla,HATCH,Certified,Orange,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2020,85284,"11,876",25589
+Phoenix,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,85284,"33,234",25595
+Phoenix,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,85284,"29,186",26989
+Phoenix,Toyota,Camry,SEDAN,Used,Black,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,85284,"20,048",27893
+Phoenix,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,85284,"37,478",28995
+Phoenix,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2017,85284,"47,236",29749
+Phoenix,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2019,85284,"18,599",30495
+Phoenix,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,85284,"9,164",30995
+Phoenix,Toyota,RAV4,SUV,Certified,Black,Nutmeg,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85284,"21,317",31284
+Phoenix,Toyota,Sienna,VANS,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,85284,"38,824",33475
+Phoenix,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,85284,"38,165",33481
+Phoenix,Toyota,RAV4,SUV,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85284,"20,981",34552
+Phoenix,MAZDA,MX-5 Miata RF,CONVERT,Used,Red,Sport Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 35 Highway,2020,85284,"6,300",34991
+Phoenix,Toyota,Tacoma,TRUCKS,Used,Silver,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2017,85284,"59,846",35972
+Phoenix,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85284,"26,599",36289
+Phoenix,Toyota,Tacoma,TRUCKS,Used,Gray,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2019,85284,"16,489",36489
+Phoenix,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2020,85284,"19,961",36889
+Phoenix,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,85284,"29,965",37308
+Phoenix,Toyota,Highlander,SUV,Certified,Blue,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,85284,"23,096",37995
+Phoenix,Toyota,Highlander,SUV,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,85284,"32,348",38592
+Phoenix,Toyota,4Runner,SUV,Certified,Red,Black Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2019,85284,"22,219",40479
+Phoenix,Subaru,Ascent,SUV,Used,Blue,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,85284,"27,026",40480
+Phoenix,Audi,A6,SEDAN,Used,Black,Okapi Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,85284,"19,678",45991
+Phoenix,MAZDA,MX-5 Miata,CONVERT,Used,Gray,Spicy Mocha,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 27 Highway,2013,85284,"40,238",20649
+Phoenix,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,85284,"39,724",25349
+Phoenix,Subaru,Crosstrek,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,85284,"25,285",28889
+Phoenix,Honda,Accord,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,85284,"11,197",31583
+Phoenix,BMW,530i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,85284,"41,362",32495
+Phoenix,Mercedes-Benz,GLA 250,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,85284,"13,494",35493
+Phoenix,Hyundai,Santa Fe,SUV,Certified,Green,Black/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,85284,"17,236",35542
+Phoenix,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,85284,"21,838",37498
+Phoenix,Genesis,G80,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2018,85284,"28,553",39789
+Phoenix,Chevrolet,Suburban,SUV,Used,White,Light Cashmere/Dark Cashmere L,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 21 Highway,2010,85008,"114,370",14995
+Phoenix,Lexus,ES 300h,SEDAN,Used,Gray,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 39 Highway,2013,85388,"88,224",18981
+Phoenix,Subaru,Legacy,SEDAN,Used,White,Titanium Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2020,85260,"8,076",25990
+Phoenix,Cadillac,ATS,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2016,85013,"45,625",44495
+Phoenix,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,85260,"6,806",65990
+Phoenix,Toyota,RAV4,SUV,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 31 Highway,2014,85260,"112,872",14970
+Phoenix,Lexus,IS 350,SEDAN,Used,White,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2014,85260,"68,593",25884
+Phoenix,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,85260,"37,253",25991
+Phoenix,GMC,Terrain,SUV,Used,White,Light Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2017,85260,"44,351",27984
+Phoenix,Chevrolet,Equinox,SUV,Certified,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,85260,"11,359",28657
+Phoenix,Cadillac,Escalade,SUV,Used,White,Cashmere,Automatic,Flexible Fuel,8-Cylinder,All wheel drive,13 City / 18 Highway,2014,85260,"46,712",34884
+Phoenix,GMC,Acadia,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,85260,"28,071",42884
+Phoenix,Buick,Enclave,SUV,Used,Black,Ebony With Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,85260,"7,231",52884
+Phoenix,Mercedes-Benz,SLC 43 AMG,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2020,85260,"4,550",69484
+Phoenix,Chevrolet,Tahoe,SUV,Certified,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,85260,"2,122",76998
+Phoenix,Mercedes-Benz,CLK 500,CONVERT,Used,Blue,Tan,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2006,85014,"122,376",8899
+Phoenix,BMW,535i,SEDAN,Used,Gray,Tan,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2011,85014,"106,559",12999
+Phoenix,Nissan,Sentra,SEDAN,Used,Black,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,85014,"47,309",14499
+Phoenix,Chevrolet,Trax,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,85014,"33,649",19699
+Phoenix,Mercedes-Benz,E 350,SEDAN,Used,Black,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2014,85014,"69,245",21599
+Phoenix,Mercedes-Benz,S 550,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,15 City / 25 Highway,2013,85014,"87,799",27999
+Phoenix,Nissan,Murano,SUV,Used,Gray,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,85014,"47,475",27500
+Phoenix,BMW,X2,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,85014,"17,836",32000
+Phoenix,Lexus,NX 200t,SUV,Used,Silver,F Sport Rioja Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2017,85014,"62,628",32500
+Phoenix,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,85014,"38,150",33000
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,85014,"69,564",42000
+Phoenix,Toyota,4Runner,SUV,Used,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,85014,"14,047",44500
+Phoenix,Toyota,Tundra,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2021,85014,"19,667",45000
+Phoenix,Chevrolet,Corvette,COUPE,Used,Gray,Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,85014,"43,120",45000
+Phoenix,Toyota,Tundra,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,85014,"25,656",47000
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,85014,"10,178",49000
+Phoenix,Ford,F250,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2019,85014,"36,393",55000
+Phoenix,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,85014,"11,300",64500
+Phoenix,Volkswagen,Jetta,SEDAN,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2017,85014,"48,095",15680
+Phoenix,Buick,Encore,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,85014,"23,113",21696
+Phoenix,GMC,Terrain,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,85014,"14,861",25962
+Phoenix,Chrysler,300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,85014,"13,390",28179
+Phoenix,Lexus,IS 300,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,85014,"26,820",35922
+Phoenix,Cadillac,XT4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,85014,"23,793",38187
+Phoenix,Cadillac,XT5,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,85014,"26,318",42947
+Phoenix,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,85014,"15,373",58431
+Phoenix,GMC,Sierra 3500,TRUCKS,Certified,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,85014,"43,687",72243
+Phoenix,Hyundai,Accent,HATCH,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 36 Highway,2015,85014,"63,706",12700
+Phoenix,Nissan,Versa,SEDAN,Used,Silver,Charcoal,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,85014,"20,265",12800
+Phoenix,Volkswagen,Passat,SEDAN,Used,Silver,Titan Black,Automatic,Diesel,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2013,85014,"72,834",14500
+Phoenix,MAZDA,MAZDA3,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2016,85014,"92,704",14600
+Phoenix,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2018,85014,"65,512",15200
+Phoenix,Toyota,Corolla,SEDAN,Used,Gray,Steel Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2016,85014,"80,112",16400
+Phoenix,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2016,85014,"64,830",16900
+Phoenix,Nissan,Sentra,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85014,"41,635",16900
+Phoenix,Ford,Fusion,SEDAN,Used,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,85014,"71,747",17400
+Phoenix,Ford,EcoSport,SUV,Used,Red,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,85014,"28,803",19300
+Phoenix,Chevrolet,Malibu,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,85014,"48,262",19400
+Phoenix,Nissan,Rogue Sport,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2017,85014,"52,508",19400
+Phoenix,Toyota,Corolla,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"70,024",19500
+Phoenix,Chevrolet,Trax,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,85014,"40,095",19700
+Phoenix,Jeep,Renegade,SUV,Used,White,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2017,85014,"18,845",19900
+Phoenix,Kia,Optima,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2018,85014,"59,505",20700
+Phoenix,Honda,Civic,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,85014,"60,078",22400
+Phoenix,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,85014,"48,774",22900
+Phoenix,Ford,Fusion,SEDAN,Used,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,85014,"25,282",22900
+Phoenix,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,85014,"30,083",22998
+Phoenix,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,85014,"13,893",23200
+Phoenix,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2020,85014,"20,533",23300
+Phoenix,Honda,Civic,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2018,85014,"49,962",23400
+Phoenix,Dodge,Journey,SUV,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,85014,"37,081",23500
+Phoenix,INFINITI,QX50,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2017,85014,"61,935",23900
+Phoenix,Hyundai,Santa Fe,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2017,85014,"55,060",23900
+Phoenix,Dodge,Grand Caravan,VANS,Used,Gray,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,85014,"60,268",24100
+Phoenix,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,85014,"65,109",24300
+Phoenix,Honda,HR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,85014,"29,016",24600
+Phoenix,Honda,Civic,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,85014,"26,996",24700
+Phoenix,Honda,Civic,COUPE,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 36 Highway,2020,85014,"26,446",25100
+Phoenix,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,85014,"51,751",25300
+Phoenix,Toyota,Camry,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85014,"21,725",25600
+Phoenix,Volkswagen,Atlas,SUV,Used,Black,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,85014,"73,146",27700
+Phoenix,Honda,Accord,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,85014,"23,782",27900
+Phoenix,Honda,Accord,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,85014,"17,659",29990
+Phoenix,Honda,Ridgeline,TRUCKS,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,85014,"68,262",29998
+Phoenix,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,85014,"9,960",30300
+Phoenix,Toyota,Highlander,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 25 Highway,2016,85014,"71,279",30600
+Phoenix,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,85014,"33,412",32900
+Phoenix,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,85014,"27,927",32998
+Phoenix,Honda,Odyssey,VANS,Certified,Black,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,85014,"35,451",33400
+Phoenix,Honda,CR-V,SUV,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,85014,"23,466",33998
+Phoenix,Honda,Passport,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,85014,"29,272",34400
+Phoenix,Chevrolet,Traverse,SUV,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,85014,"55,950",34500
+Phoenix,Honda,Ridgeline,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,85014,"25,950",35500
+Phoenix,Honda,CR-V,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,85014,"5,019",36150
+Phoenix,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,85014,"35,418",36900
+Phoenix,Honda,Passport,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2021,85014,"3,186",37400
+Phoenix,Honda,Passport,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,85014,"23,572",37400
+Phoenix,Honda,Odyssey,VANS,Certified,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,85014,"23,889",38800
+Phoenix,Honda,Pilot,SUV,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,85014,"17,953",38900
+Phoenix,Honda,Odyssey,VANS,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,85014,"20,819",39500
+Phoenix,Chevrolet,Trax,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 34 Highway,2016,85014,"78,195",11999
+Phoenix,INFINITI,QX50,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2017,85014,"42,167",26991
+Phoenix,Toyota,RAV4,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85014,"50,500",27201
+Phoenix,INFINITI,Q50,SEDAN,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,85014,"34,158",29994
+Phoenix,INFINITI,Q50,SEDAN,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,85014,"27,733",31492
+Phoenix,INFINITI,Q50,SEDAN,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,85014,"25,301",31692
+Phoenix,INFINITI,QX50,SUV,Used,Gray,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2019,85014,"41,217",32994
+Phoenix,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,85014,"42,935",33994
+Phoenix,Toyota,Camry,SEDAN,Used,Silver,Black/Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2021,85014,"7,125",35993
+Phoenix,INFINITI,QX50,SUV,Certified,Blue,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,85014,"15,336",36993
+Phoenix,Hyundai,Tucson,SUV,Used,Red,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,85014,"85,069",16500
+Phoenix,Honda,Civic,SEDAN,Used,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,85014,"25,999",21900
+Phoenix,Chevrolet,Traverse,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,15 City / 22 Highway,2016,85014,"79,812",21900
+Phoenix,Volkswagen,Tiguan,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,85014,"22,016",25500
+Phoenix,Volkswagen,Tiguan,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,85014,"35,063",25900
+Phoenix,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,85014,"8,931",26900
+Phoenix,Subaru,Crosstrek,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,85014,"24,193",27500
+Phoenix,GMC,Terrain,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,85014,"38,481",27900
+Phoenix,Subaru,Forester,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,85014,"29,169",27962
+Phoenix,Subaru,Forester,SUV,Certified,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,85014,"31,292",29544
+Phoenix,Ford,Explorer,SUV,Used,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,85014,"34,061",29900
+Phoenix,Subaru,Crosstrek,SUV,Certified,Red,,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,85014,"9,081",30900
+Phoenix,Subaru,Forester,SUV,Certified,Silver,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,85014,"28,115",32500
+Phoenix,Honda,Pilot,SUV,Used,Off White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,85014,"11,192",36500
+Phoenix,Subaru,Outback,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,85014,"6,352",40241
+Phoenix,Subaru,WRX,SEDAN,Used,Silver,,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2020,85014,"11,885",42691
+Phoenix,RAM,2500,TRUCKS,Used,White,,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2019,85014,"25,238",49999
+Phoenix,Nissan,Sentra,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85014,"36,599",18998
+Phoenix,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,85014,"60,104",19498
+Phoenix,Nissan,Versa,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,85014,"8,447",19498
+Phoenix,Nissan,Sentra,SEDAN,Certified,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,85014,"26,853",23777
+Phoenix,Hyundai,Santa Fe,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,85014,"42,666",25498
+Phoenix,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,85014,"18,750",25998
+Phoenix,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,85014,"48,849",25998
+Phoenix,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,85014,"28,436",27998
+Phoenix,Nissan,Rogue Sport,SUV,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,85014,"2,945",28898
+Phoenix,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,85014,"36,106",28998
+Phoenix,Subaru,WRX,SEDAN,Used,Blue,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,85014,"45,344",29598
+Phoenix,Nissan,Titan,TRUCKS,Certified,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2020,85014,"21,635",36998
+Phoenix,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,,2018,85014,"8,804",75998
+Phoenix,Ford,Fiesta,SEDAN,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2018,85014,"43,922",15999
+Phoenix,Ford,EcoSport,SUV,Used,Red,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,85014,"10,806",20592
+Phoenix,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2020,85014,"10,662",23888
+Phoenix,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,85014,"40,387",23999
+Phoenix,Ford,Escape,SUV,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,85014,"29,896",26000
+Phoenix,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2018,85014,"35,103",28988
+Phoenix,Hyundai,Sonata,SEDAN,Used,Black,Dark Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,85014,"13,111",29888
+Phoenix,Volkswagen,Passat,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,85014,"10,300",29888
+Phoenix,Chevrolet,Colorado,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2018,85014,"34,153",30388
+Phoenix,Toyota,Tundra,TRUCKS,Used,Black,,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2014,85014,"81,435",31888
+Phoenix,Ford,Explorer,SUV,Certified,,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,85014,"33,258",34888
+Phoenix,Chevrolet,Tahoe,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,85014,"92,129",35888
+Phoenix,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,85014,"35,920",36888
+Phoenix,Lincoln,MKC,SUV,Certified,Brown,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,85014,"11,822",36888
+Phoenix,Honda,Pilot,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,85014,"17,673",37538
+Phoenix,Kia,Stinger,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2019,85014,"27,599",38999
+Phoenix,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,85014,"21,367",39888
+Phoenix,Ford,Explorer,SUV,Certified,,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,85014,"26,268",39888
+Phoenix,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,85014,"17,792",41663
+Phoenix,Lincoln,Nautilus,SUV,Certified,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,85014,"11,740",42888
+Phoenix,Volkswagen,Atlas,SUV,Used,,,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,85014,"24,773",44589
+Phoenix,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,85014,"6,872",57888
+Phoenix,Cadillac,Escalade,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2020,85014,"12,561",74888
+Phoenix,Lincoln,Navigator,SUV,Used,White,Cappuccino,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 20 Highway,2021,85014,"11,023",88888
+Phoenix,MAZDA,MAZDA6,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,85014,"45,295",19970
+Phoenix,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,85014,"26,065",23760
+Phoenix,Kia,Optima,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,85014,"15,149",25881
+Phoenix,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,85014,"20,825",26202
+Phoenix,Kia,Cadenza,SEDAN,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,85014,"22,595",30981
+Phoenix,Kia,Optima,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 30 Highway,2020,85014,"14,007",31562
+Phoenix,Kia,Sorento,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,85014,"17,730",37646
+Phoenix,Ford,Ranger,TRUCKS,Used,,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,85014,"9,155",43298
+Phoenix,Scion,xD,HATCH,Used,,,,Gasoline,4-Cylinder,2 wheel drive - front,,2014,85014,"59,780",9881
+Phoenix,Hyundai,Elantra,SEDAN,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,85014,"22,332",20122
+Phoenix,Kia,Optima,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,85014,"15,945",20881
+Phoenix,Lexus,RX 350,SUV,Used,,,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,85014,"21,615",43458
+Phoenix,Ford,Mustang,COUPE,Used,Red,Ebony,,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 27 Highway,2016,85260,"32,485",23994
+Phoenix,Toyota,Highlander,SUV,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,85260,"20,715",38990
+Phoenix,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2013,85014,"77,787",16994
+Phoenix,Kia,Sorento,SUV,Used,Brown,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2014,85014,"86,892",17888
+Phoenix,Nissan,Sentra,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85014,"35,985",19888
+Phoenix,Hyundai,Tucson,SUV,Used,Silver,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,85014,"36,538",20999
+Phoenix,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2016,85014,"64,228",21937
+Phoenix,Toyota,Corolla,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,85014,"25,095",22480
+Phoenix,Toyota,Prius,HATCH,Certified,Silver,Moonstone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2016,85014,"41,590",22818
+Phoenix,Volkswagen,Tiguan,SUV,Used,Orange,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,85014,"26,118",24400
+Phoenix,Lexus,ES 350,SEDAN,Used,Blue,Parchment,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2015,85014,"85,937",24997
+Phoenix,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,85014,"7,205",25227
+Phoenix,Hyundai,Tucson,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,85014,"31,667",26499
+Phoenix,Honda,CR-V,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2017,85014,"37,386",26673
+Phoenix,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,85014,"51,671",26678
+Phoenix,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85014,"53,067",26970
+Phoenix,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,85014,"5,802",27281
+Phoenix,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85014,"34,706",27794
+Phoenix,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,85014,"44,802",27849
+Phoenix,Dodge,Journey,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2020,85014,"16,253",27887
+Phoenix,Toyota,Corolla,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,85014,"6,347",27931
+Phoenix,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85014,"18,831",27994
+Phoenix,Toyota,Camry,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,85014,"30,963",27995
+Phoenix,Toyota,RAV4,SUV,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,85014,"46,644",27997
+Phoenix,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,85014,"29,818",27997
+Phoenix,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85014,"13,197",28488
+Phoenix,Audi,A4,SEDAN,Used,White,Atlas Beige/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,85014,"57,097",28698
+Phoenix,Toyota,Tacoma,TRUCKS,Used,White,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2018,85014,"63,594",28898
+Phoenix,Toyota,C-HR,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2021,85014,"8,648",29828
+Phoenix,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,85014,"12,705",29894
+Phoenix,INFINITI,QX60,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,85014,"54,629",29988
+Phoenix,Toyota,C-HR,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,85014,"18,770",30494
+Phoenix,Kia,Stinger,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2018,85014,"29,780",30998
+Phoenix,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 19 Highway,2016,85014,"72,778",31899
+Phoenix,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,85014,"80,668",32688
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Used,Brown,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2015,85014,"93,580",32988
+Phoenix,Ford,Explorer,SUV,Used,,Medium Stone,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2019,85014,"60,629",33776
+Phoenix,Hyundai,Santa Fe,SUV,Used,Silver,Espresso/Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2020,85014,"29,900",33888
+Phoenix,GMC,Yukon,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,85014,"72,265",34888
+Phoenix,Toyota,Highlander,SUV,Certified,Black,Saddle Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,85014,"54,682",34888
+Phoenix,Ford,Mustang,COUPE,Used,Silver,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,85014,"16,646",36454
+Phoenix,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,85014,"16,109",37698
+Phoenix,Toyota,Avalon,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,85014,"44,559",37899
+Phoenix,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,85014,"9,481",38293
+Phoenix,Toyota,Camry,SEDAN,Certified,Off White,Black/Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2020,85014,"15,530",38719
+Phoenix,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,85014,"8,866",38899
+Phoenix,Toyota,Tacoma,TRUCKS,Used,Gray,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,85014,"47,711",39854
+Phoenix,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,85014,"42,494",39980
+Phoenix,Ford,F150,TRUCKS,Used,Red,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,85014,"25,109",39997
+Phoenix,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,85014,"50,001",39998
+Phoenix,Toyota,4Runner,SUV,Used,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,85014,"46,739",42908
+Phoenix,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2021,85014,"16,096",46786
+Phoenix,Volvo,XC90,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,85014,"28,608",46994
+Phoenix,Nissan,Sentra,SEDAN,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,85382,"22,253",19937
+Phoenix,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,85382,"15,259",21905
+Phoenix,Volkswagen,Atlas,SUV,Used,Black,Golden Oak/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,85382,"8,068",39991
+Phoenix,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,85382,"14,756",43793
+Phoenix,Pontiac,Solstice,CONVERT,Used,,Gray,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2008,85040,"41,526",12750
+Phoenix,Volkswagen,Jetta,SEDAN,Used,Brown,Titan Black/Palladium Gray,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 40 Highway,2017,85040,"38,574",15950
+Phoenix,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,85040,"53,405",17950
+Phoenix,Honda,S2000,CONVERT,Used,Silver,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2004,85040,"58,226",28950
+Phoenix,Toyota,Avalon,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,85040,"28,287",29950
+Phoenix,Jeep,Wrangler,SUV,Used,White,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2017,85040,"48,521",33450
+Phoenix,Nissan,Rogue,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,85251,"60,698",18550
+Phoenix,Nissan,Rogue Sport,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2017,85251,"26,122",19996
+Phoenix,MINI,Cooper,HATCH,Used,Black,Charcoal,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,85251,"15,176",23296

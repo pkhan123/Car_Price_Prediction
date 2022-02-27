@@ -1,0 +1,701 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Dallas,Mercedes-Benz,GLS 450,SUV,Used,White,Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2017,75235,"37,562",49559
+Dallas,Lincoln,Navigator,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 20 Highway,2021,75235,"4,762",88559
+Dallas,Volvo,XC90,SUV,Used,Blue,Amber,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,75209,"26,127",56991
+Dallas,Audi,Q8,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 21 Highway,2020,75209,"5,060",76995
+Dallas,Hyundai,Santa Fe,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2016,75234,"59,105",19987
+Dallas,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,75234,"16,513",47454
+Dallas,BMW,435i,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2015,75244,"33,116",30991
+Dallas,Chevrolet,Tahoe,SUV,Used,Black,Gone,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,75244,"47,779",40991
+Dallas,Ford,EcoSport,SUV,Used,Green,Medium Light Stone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,75041,"24,831",20500
+Dallas,Ford,Escape,SUV,Used,Gold,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,75041,"11,639",25991
+Dallas,Acura,MDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,75243,"30,669",32789
+Dallas,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,75062,"37,831",24934
+Dallas,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2021,75062,"3,433",27906
+Dallas,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,75062,"22,093",28902
+Dallas,RAM,1500,TRUCKS,Used,Blue,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2018,75062,"19,702",35878
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,75062,"22,810",39909
+Dallas,Jeep,Grand Cherokee,SUV,Used,Red,Light Frost/Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,75062,"27,205",39934
+Dallas,Tesla,Model 3,SEDAN,Used,Red,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,75001,"18,900",43958
+Dallas,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,75234,"9,664",25795
+Dallas,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,75234,"8,358",25883
+Dallas,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,75234,"15,734",31879
+Dallas,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2021,75234,"4,535",31972
+Dallas,Honda,Odyssey,VANS,Used,Silver,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,75234,"19,399",41440
+Dallas,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,75234,"23,779",42999
+Dallas,Toyota,4Runner,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 19 Highway,2021,75234,"9,605",43499
+Dallas,Lexus,ES 350,SEDAN,Used,Silver,Circuit Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2021,75234,"8,509",50959
+Dallas,Toyota,Tundra,TRUCKS,Used,Brown,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2021,75234,"8,320",53999
+Dallas,Mercedes-Benz,E 450,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,75235,"32,798",65559
+Dallas,MINI,Cooper,CONVERT,Used,Blue,Black Pearl,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,75209,"5,804",38491
+Dallas,Land Rover,Range Rover Sport,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2017,75209,"65,853",50991
+Dallas,INFINITI,Q50,SEDAN,Used,Black,Wheat,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,75209,"29,700",31981
+Dallas,Lincoln,Nautilus,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2020,75209,"19,965",48881
+Dallas,Mercedes-Benz,C 63 AMG,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2017,75209,"48,170",49981
+Dallas,Chrysler,Pacifica,VANS,Used,White,Caramel/Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,29 City / 30 Highway,2021,75209,"4,185",54481
+Dallas,Ford,Expedition,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2021,75209,"7,149",65481
+Dallas,BMW,650i,CONVERT,Used,White,Tan,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2010,75220,"100,800",16899
+Dallas,Mercedes-Benz,S 550,SEDAN,Used,Black,Tan,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2011,75220,"65,726",25899
+Dallas,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2016,75006,"57,716",31000
+Dallas,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2021,75006,"8,395",33000
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Black,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2016,75006,"54,110",39500
+Dallas,Ford,F150,TRUCKS,Certified,Silver,Black/Medium Dark Slate,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 24 Highway,2021,75006,"2,788",60000
+Dallas,Ford,F150,TRUCKS,Used,Red,Java,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 21 Highway,2020,75006,"10,713",65000
+Dallas,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,75080,"28,899",36999
+Dallas,Chrysler,Pacifica,VANS,Used,Red,Black/Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,75080,"25,000",38623
+Dallas,RAM,2500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2021,75080,"8,842",66999
+Dallas,Mitsubishi,Outlander Sport,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 30 Highway,2020,75150,"9,547",21994
+Dallas,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,75150,"25,453",22174
+Dallas,Lincoln,MKZ,SEDAN,Used,Off White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 33 Highway,2016,75150,"32,323",23842
+Dallas,Nissan,Rogue Sport,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,75150,"18,874",23997
+Dallas,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,75150,"7,863",31974
+Dallas,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,75150,"12,379",33457
+Dallas,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,75150,"5,226",33796
+Dallas,Nissan,Pathfinder,SUV,Certified,White,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2020,75150,"17,595",41977
+Dallas,Hyundai,Elantra,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,75150,"30,905",17950
+Dallas,Honda,Civic,COUPE,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2015,75150,"50,635",22950
+Dallas,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,75150,"37,821",47500
+Dallas,Ford,Expedition,SUV,Used,,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,75150,"39,627",49950
+Dallas,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,75062,"15,000",26980
+Dallas,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 48 Highway,2021,75062,"4,950",32000
+Dallas,Honda,Pilot,SUV,Used,,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2022,75062,"4,966",45935
+Dallas,Toyota,Prius,HATCH,Used,White,Bisque,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2014,75006,"72,834",16991
+Dallas,Hyundai,Elantra,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2020,75006,"18,132",23902
+Dallas,Hyundai,Venue,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,75006,"8,410",23991
+Dallas,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 21 Highway,2018,75006,"11,011",61991
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,75006,"2,805",63000
+Dallas,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,76053,"13,000",34495
+Dallas,Cadillac,ATS,SEDAN,Used,Silver,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,22 City / 32 Highway,2016,75050,"59,764",19394
+Dallas,Ford,Fusion,SEDAN,Used,Red,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,75050,"29,165",20278
+Dallas,Ford,Escape,SUV,Used,Blue,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,75050,"26,859",25395
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2015,75050,"57,390",29997
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,75050,"14,330",35323
+Dallas,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,75050,"4,262",42714
+Dallas,Ford,Expedition,SUV,Used,Black,Medium Soft Ceramic,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,75050,"17,024",51434
+Dallas,Porsche,911,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2018,75050,"4,308",109990
+Dallas,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2021,75234,"11,230",33987
+Dallas,Mercedes-Benz,C 400,SEDAN,Used,White,Sport Crystal Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2015,75234,"44,882",30796
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,75234,"30,766",33995
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,75234,"19,089",34995
+Dallas,BMW,530i,SEDAN,Used,White,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,75234,"24,874",37995
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,75234,"26,686",42915
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,75234,"24,813",42930
+Dallas,BMW,540i,SEDAN,Used,Blue,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,75234,"26,127",42955
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,75234,"24,981",42995
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"22,108",44920
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Red,Ginger Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"22,786",44925
+Dallas,BMW,M3,SEDAN,Used,White,Sonoma Beige,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,75234,"32,517",63975
+Dallas,Mercedes-Benz,E 450,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,75234,"26,859",65945
+Dallas,Mercedes-Benz,E 450,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2019,75234,"23,016",65995
+Dallas,Mercedes-Benz,GLS 450,SUV,Used,Black,Ginger Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,75234,"24,190",66995
+Dallas,Mercedes-Benz,S 550,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2017,75234,"49,472",68935
+Dallas,Porsche,Panamera,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,75234,"39,385",74905
+Dallas,Mercedes-Benz,GLS 550,SUV,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2019,75234,"29,947",75930
+Dallas,Mercedes-Benz,GLS 550,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2018,75234,"12,572",76572
+Dallas,Porsche,Panamera,HATCH,Used,White,Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,75234,"13,605",81920
+Dallas,BMW,M5,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,75234,"25,114",88955
+Dallas,Mercedes-Benz,S 560,SEDAN,Used,Black,Nut Brown,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2020,75234,"19,293",92925
+Dallas,Mercedes-Benz,S 560,SEDAN,Used,Off White,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2020,75234,"16,187",93940
+Dallas,Mercedes-Benz,S 560,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2020,75234,"6,228",96925
+Dallas,Toyota,4Runner,SUV,Used,White,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 19 Highway,2020,75244,"21,577",40988
+Dallas,Hyundai,Santa Fe,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,76017,"14,397",35500
+Dallas,Nissan,Titan,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2020,76017,"14,368",45891
+Dallas,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,75080,"11,236",24487
+Dallas,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 25 Highway,2015,75080,"65,770",28974
+Dallas,Toyota,RAV4,SUV,Used,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 29 Highway,2018,75080,"32,540",31874
+Dallas,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,75080,"8,567",37487
+Dallas,Toyota,Tacoma,TRUCKS,Used,Silver,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,75080,"4,154",45747
+Dallas,Toyota,Tundra,TRUCKS,Used,Blue,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,75080,"19,329",47874
+Dallas,Lexus,GX 460,SUV,Used,Black,Ecru,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2019,75080,"23,311",50874
+Dallas,Lexus,IS 250,SEDAN,Used,Gray,Black,,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2006,75062,"114,958",9250
+Dallas,Lexus,ES 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2012,75062,"63,798",18450
+Dallas,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,75062,"18,024",29750
+Dallas,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,75062,"15,146",30600
+Dallas,Ford,Escape,SUV,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2016,75209,"45,801",20833
+Dallas,Honda,Accord,SEDAN,Used,Blue,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"37,769",27485
+Dallas,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,75209,"22,636",27579
+Dallas,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,75209,"11,796",29800
+Dallas,Nissan,Rogue Sport,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,75209,"18,992",30499
+Dallas,Honda,CR-V,SUV,Used,Gold,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,75209,"23,306",30838
+Dallas,Honda,Accord,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,75209,"17,667",31923
+Dallas,Honda,Accord,SEDAN,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,75209,"10,437",31991
+Dallas,Honda,CR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,75209,"11,921",32719
+Dallas,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,75209,"13,040",32923
+Dallas,Honda,Accord,SEDAN,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,75209,"17,343",34279
+Dallas,Honda,Passport,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,75209,"25,280",34485
+Dallas,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2021,75209,"2,532",34943
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,75209,"29,650",35629
+Dallas,Honda,Passport,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2020,75209,"9,020",35979
+Dallas,Honda,Ridgeline,TRUCKS,Used,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,75209,"19,432",36487
+Dallas,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,75209,"8,219",36850
+Dallas,Honda,Passport,SUV,Certified,Red,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2020,75209,"15,926",37527
+Dallas,Honda,Odyssey,VANS,Certified,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,75209,"28,015",38499
+Dallas,Ford,Ranger,TRUCKS,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,75209,"18,858",38984
+Dallas,Honda,Passport,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2021,75209,"2,803",39994
+Dallas,Honda,Pilot,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,75209,"3,836",43589
+Dallas,Honda,Pilot,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,75209,"5,501",43811
+Dallas,Honda,Odyssey,VANS,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,75209,"25,555",45787
+Dallas,Audi,S5,HATCH,Used,Gray,Magma Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,75209,"17,006",59000
+Dallas,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,75080,"32,062",22999
+Dallas,RAM,2500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2021,75080,"7,934",50999
+Dallas,Jeep,Cherokee,SUV,Used,Gray,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,75235,"17,335",29863
+Dallas,Audi,Q3,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2018,75235,"15,283",30997
+Dallas,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75235,"17,739",31987
+Dallas,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75235,"18,808",31987
+Dallas,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75235,"13,166",31987
+Dallas,Subaru,Outback,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,75235,"25,247",32897
+Dallas,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,75235,"39,637",33997
+Dallas,MAZDA,MX-5 Miata RF,CONVERT,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 35 Highway,2021,75235,"1,421",35794
+Dallas,Chrysler,Pacifica,VANS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,75235,"17,793",35997
+Dallas,Chrysler,Pacifica,VANS,Used,White,Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,75235,"12,466",42987
+Dallas,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,75235,"11,668",43792
+Dallas,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,75235,"19,642",46581
+Dallas,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,12 City / 21 Highway,2020,75235,"17,301",78987
+Dallas,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2013,75243,"129,601",15900
+Dallas,Land Rover,Range Rover Sport,SUV,Certified,Gray,Ivory Ebony,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,17 City / 22 Highway,2020,75243,"14,301",100107
+Dallas,Honda,Passport,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,75062,"33,724",36905
+Dallas,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,10 City / 14 Highway,2021,75062,"4,003",95902
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,75062,"12,919",37995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,Brown,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,75062,"39,050",40000
+Dallas,Chevrolet,Tahoe,SUV,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,75062,"62,981",45995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2013,75001,"59,013",27988
+Dallas,Lexus,LS 460,SEDAN,Used,Gold,Parchment,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2010,75001,"71,979",20436
+Dallas,Ford,F150,TRUCKS,Used,,Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,75001,"45,945",34997
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,75234,"25,386",32996
+Dallas,Lexus,IS 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,75234,"32,690",34996
+Dallas,INFINITI,Q50,SEDAN,Used,Brown,Wheat,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2020,75234,"10,226",36496
+Dallas,INFINITI,QX50,SUV,Used,White,Wheat,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,75234,"5,950",42496
+Dallas,Land Rover,Range Rover,SUV,Used,Black,"Ebony, Premium Leath",Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,75234,"20,059",91996
+Dallas,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2013,75234,"75,740",14999
+Dallas,Toyota,Yaris,HATCH,Used,Gray,Blue Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,75234,"26,574",19887
+Dallas,Toyota,Prius,HATCH,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,52 City / 48 Highway,2019,75234,"32,341",28999
+Dallas,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,75234,"29,875",31950
+Dallas,Toyota,Tacoma,TRUCKS,Used,Red,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,75234,"28,287",32475
+Dallas,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,75234,"21,001",32857
+Dallas,Toyota,RAV4,SUV,Used,Silver,Nutmeg,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 29 Highway,2018,75234,"10,499",34999
+Dallas,INFINITI,Q60,COUPE,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2019,75234,"14,683",41799
+Dallas,Toyota,4Runner,SUV,Used,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,75234,"28,751",41854
+Dallas,Toyota,Tacoma,TRUCKS,Used,White,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,75234,"8,379",43998
+Dallas,Toyota,Tacoma,TRUCKS,Used,Green,Cement,,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2021,75234,"3,606",47996
+Dallas,BMW,428i Gran Coupe,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2016,76051,"45,413",27000
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Brown,Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,17 City / 22 Highway,2014,76051,"57,427",31750
+Dallas,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,76051,"21,073",32000
+Dallas,Mercedes-Benz,A 220,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2019,76051,"22,309",34000
+Dallas,Lexus,IS 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,76051,"33,697",36000
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,White,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,76051,"19,974",40000
+Dallas,Chevrolet,Blazer,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,76051,"10,229",40500
+Dallas,INFINITI,Q60,COUPE,Certified,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2019,76051,"12,750",41500
+Dallas,Subaru,Ascent,SUV,Used,White,Java Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,76051,"10,094",46000
+Dallas,Mercedes-Benz,S 550,SEDAN,Used,Green,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2015,76051,"42,426",49500
+Dallas,Lexus,RX 350,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,75075,"43,989",38905
+Dallas,Acura,RDX,SUV,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,75075,"25,074",41474
+Dallas,Acura,RDX,SUV,Certified,Gray,Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,75075,"19,396",41845
+Dallas,Mercedes-Benz,S 550,SEDAN,Used,Black,Cashmere,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,15 City / 25 Highway,2012,75219,"75,286",24500
+Dallas,Acura,ILX,SEDAN,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2019,75219,"29,329",27200
+Dallas,Acura,MDX,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2015,75219,"53,385",28900
+Dallas,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,75219,"19,795",31400
+Dallas,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,75219,"26,406",32500
+Dallas,INFINITI,Q50,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,75219,"28,252",32800
+Dallas,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,75219,"57,612",33700
+Dallas,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,75219,"25,793",43700
+Dallas,Acura,MDX,SUV,Certified,White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,75219,"28,787",43990
+Dallas,Acura,MDX,SUV,Certified,Off White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,,2020,75219,"17,804",43990
+Dallas,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2022,75219,"1,586",44400
+Dallas,Acura,MDX,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,75219,"11,342",47500
+Dallas,Lexus,GX 460,SUV,Used,Burgundy,Ecru,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2019,75219,"28,934",47700
+Dallas,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2017,75209,"16,822",25363
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Gray,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,75209,"59,210",26302
+Dallas,Audi,A3,SEDAN,Certified,White,Chestnut Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"35,831",26845
+Dallas,Audi,A3,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"39,628",27592
+Dallas,Audi,A3,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"29,034",27593
+Dallas,Audi,A3,SEDAN,Certified,Blue,Rock Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"24,022",27993
+Dallas,Audi,A3,SEDAN,Certified,Blue,Chestnut Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"29,773",28494
+Dallas,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,75209,"38,418",28693
+Dallas,Audi,A3,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,75209,"38,371",28992
+Dallas,Audi,Q3,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2018,75209,"25,778",30771
+Dallas,Mercedes-Benz,CLA 250,SEDAN,Used,White,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,75209,"16,701",31593
+Dallas,Audi,A4,SEDAN,Certified,Blue,Nougat Brown/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2018,75209,"17,506",31611
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Silver,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,75209,"39,350",32194
+Dallas,Jaguar,XJ,SEDAN,Used,Black,London Tan/Jet/Jet,Automatic,Gasoline,6-Cylinder Supercharged,2 wheel drive - rear,18 City / 27 Highway,2016,75209,"48,788",33995
+Dallas,Lexus,IS 300,SEDAN,Used,Black,Chateau,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2018,75209,"30,839",34154
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2017,75209,"46,181",35594
+Dallas,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,75209,"10,147",36122
+Dallas,Audi,Q5,SUV,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,75209,"34,448",38982
+Dallas,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,75209,"9,921",40795
+Dallas,BMW,530i,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,75209,"13,772",42993
+Dallas,Audi,A8,SEDAN,Used,White,Velvet Beige,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 29 Highway,2017,75209,"28,058",43263
+Dallas,Porsche,Macan,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,75209,"48,520",45124
+Dallas,Audi,Q5,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,75209,"25,651",45943
+Dallas,Audi,A4,SEDAN,Certified,Gray,Okapi Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,75209,"7,787",46944
+Dallas,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,75209,"3,885",63294
+Dallas,Audi,e-tron,SUV,Certified,White,Okapi Brown,Single-Speed,Electric,Electric,All wheel drive,,2019,75209,"21,764",66974
+Dallas,Porsche,911,COUPE,Used,Silver,Black,,Gasoline,6-Cylinder,2 wheel drive - rear,,2013,75209,"25,721",70915
+Dallas,Audi,Q8,SUV,Certified,Blue,Pando Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,75209,"16,701",80634
+Dallas,Hyundai,Genesis,SEDAN,Used,Red,Cashmere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2011,75238,"77,429",11000
+Dallas,Dodge,Charger,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,75238,"23,532",31000
+Dallas,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,75238,"11,987",39000
+Dallas,Ford,Fusion,SEDAN,Certified,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,75235,"27,517",23459
+Dallas,Nissan,Rogue Sport,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,75235,"19,181",23459
+Dallas,Ford,Escape,SUV,Certified,Red,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,75235,"8,750",30359
+Dallas,Ford,Escape,SUV,Certified,Green,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,75235,"9,780",30859
+Dallas,Ford,Edge,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2020,75235,"19,595",32259
+Dallas,Ford,Explorer,SUV,Certified,Black,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2018,75235,"31,754",32959
+Dallas,Lincoln,MKC,SUV,Used,Red,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 27 Highway,2019,75235,"15,126",34559
+Dallas,Ford,F150,TRUCKS,Certified,Red,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,75235,"18,322",36959
+Dallas,Ford,Bronco Sport,SUV,Certified,Black,Ebony,Automatic,Gasoline,3-Cylinder Turbo,4 wheel drive,25 City / 28 Highway,2021,75235,"6,551",37559
+Dallas,Ford,Explorer,SUV,Certified,,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,75235,"20,914",38959
+Dallas,Ford,F150,TRUCKS,Certified,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,75235,"24,052",41959
+Dallas,Honda,Odyssey,VANS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,75235,"28,416",43459
+Dallas,Ford,Explorer,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,75235,"12,658",43859
+Dallas,Ford,Explorer,SUV,Certified,White,Light Slate,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2021,75235,"4,840",46059
+Dallas,Ford,F150,TRUCKS,Certified,,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,75235,"21,400",51559
+Dallas,Ford,Explorer,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2021,75235,"9,850",57059
+Dallas,GMC,Yukon XL,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2018,75235,"25,295",62159
+Dallas,Jeep,Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,75209,"51,439",20991
+Dallas,Subaru,Impreza,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2018,75209,"37,523",22552
+Dallas,Toyota,RAV4,SUV,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,75209,"35,531",23483
+Dallas,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2018,75209,"37,800",27871
+Dallas,Ford,Escape,SUV,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2018,75209,"26,651",27983
+Dallas,Volvo,S60,SEDAN,Certified,White,Soft Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2018,75209,"33,889",28991
+Dallas,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,75209,"35,241",31991
+Dallas,Cadillac,XT5,SUV,Used,Black,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,75209,"33,676",32991
+Dallas,Honda,CR-V,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,75209,"15,130",33994
+Dallas,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 24 Highway,2019,75209,"24,218",34442
+Dallas,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2018,75209,"36,015",34991
+Dallas,BMW,340i,SEDAN,Used,White,Coral Red/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2017,75209,"32,948",35991
+Dallas,Jeep,Wrangler,SUV,Used,Red,Black/Heritage Tan,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,75209,"32,705",37991
+Dallas,Subaru,Ascent,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,75209,"18,344",37991
+Dallas,Volvo,S90,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,75209,"15,667",39993
+Dallas,Volvo,XC60,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,75209,"13,999",41991
+Dallas,Volvo,XC90,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,75209,"35,396",48882
+Dallas,Volvo,XC90,SUV,Used,,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,75209,"20,960",48991
+Dallas,Volvo,XC60,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,75209,"10,413",48991
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,75209,"23,497",51481
+Dallas,Lexus,LX 570,SUV,Used,Beige,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 18 Highway,2019,75209,"35,176",85991
+Dallas,INFINITI,QX70,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2017,75209,"43,655",29900
+Dallas,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2018,75209,"31,233",30900
+Dallas,Land Rover,Discovery Sport,SUV,Used,Silver,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 25 Highway,2019,75209,"22,832",37900
+Dallas,Toyota,Highlander,SUV,Used,Brown,Saddle Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,75209,"24,498",40900
+Dallas,Porsche,Boxster,CONVERT,Certified,Black,Luxor Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,22 City / 31 Highway,2014,75209,"20,789",46900
+Dallas,Jaguar,F-TYPE,HATCH,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,75209,"25,125",52900
+Dallas,Jeep,Wrangler,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,75209,"15,560",54900
+Dallas,Porsche,Macan,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,75209,"8,934",54900
+Dallas,Porsche,Macan,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2019,75209,"23,131",55900
+Dallas,Porsche,Macan,SUV,Certified,Brown,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,75209,"21,514",58900
+Dallas,Porsche,718 Boxster,CONVERT,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2019,75209,"23,190",62900
+Dallas,Porsche,Macan,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,75209,"13,750",62900
+Dallas,BMW,M440i xDrive,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2021,75209,"5,369",66900
+Dallas,Porsche,718 Boxster,CONVERT,Certified,Black,Black/Bordeaux Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2018,75209,"25,000",73900
+Dallas,Porsche,Panamera,HATCH,Used,Blue,Black/Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,75209,"21,237",80900
+Dallas,Porsche,Cayenne,SUV,Certified,White,Slate Grey,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,75209,"14,024",81900
+Dallas,Porsche,Panamera,HATCH,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,75209,"29,560",89900
+Dallas,BMW,M4,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2021,75209,"2,537",92900
+Dallas,Porsche,911,COUPE,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2017,75209,"25,229",93900
+Dallas,FIAT,124 Spider,CONVERT,Used,Gold,Nero (Black),Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 35 Highway,2017,75209,"9,291",22886
+Dallas,Kia,Soul,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 33 Highway,2021,75209,"6,872",25488
+Dallas,Lexus,GS 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2015,75209,"78,791",26788
+Dallas,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,75209,"35,370",27779
+Dallas,BMW,320i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,75209,"34,054",27996
+Dallas,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,75209,"24,164",27999
+Dallas,Hyundai,Santa Fe,SUV,Used,Orange,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,75209,"13,472",30888
+Dallas,Honda,Accord,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,75209,"26,253",30999
+Dallas,Cadillac,XT5,SUV,Used,White,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,75209,"30,177",34886
+Dallas,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,75209,"26,098",34997
+Dallas,Mercedes-Benz,GLA 250,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,75209,"29,201",35864
+Dallas,Kia,K5,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2022,75209,"5,344",35989
+Dallas,Cadillac,XT5,SUV,Used,Black,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,75209,"22,946",36888
+Dallas,Subaru,Forester,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,75209,"11,621",37684
+Dallas,Mercedes-Benz,CLA 250,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,75209,"8,089",38442
+Dallas,Cadillac,XT5,SUV,Used,Black,Maple Sugar,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2017,75209,"30,731",38969
+Dallas,Mercedes-Benz,C 300,SEDAN,Certified,Off White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,75209,"16,169",39762
+Dallas,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,75209,"16,368",39887
+Dallas,Mercedes-Benz,C 300,SEDAN,Certified,White,Magma Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,75209,"18,453",39899
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,75209,"23,364",39989
+Dallas,Jeep,Grand Cherokee,SUV,Used,White,Lt Frost Beige/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,75209,"17,464",41886
+Dallas,Mercedes-Benz,E 400,CONVERT,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2016,75209,"20,652",42886
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Silk Beige/ Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"18,135",43888
+Dallas,Volvo,XC40,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,75209,"10,368",43988
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"19,630",44788
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Magma Grey/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"18,604",44799
+Dallas,Mercedes-Benz,C 300,COUPE,Certified,Gray,Magma Grey,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,75209,"9,875",44844
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"15,251",44888
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"9,699",44888
+Dallas,Mercedes-Benz,E 300,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,75209,"29,253",46896
+Dallas,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Silk Beige/ Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,75209,"10,993",46988
+Dallas,Mercedes-Benz,S 550,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2014,75209,"35,654",47779
+Dallas,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,75209,"4,776",48999
+Dallas,Jaguar,F-PACE,SUV,Used,Gray,Ebony/Light Oyster Stitch,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,75209,"12,933",49774
+Dallas,Mercedes-Benz,GLE 400,SUV,Certified,Blue,Silk Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,75209,"21,603",51888
+Dallas,Mercedes-Benz,E 450,SEDAN,Certified,Off White,Macchiato Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2020,75209,"19,679",63887
+Dallas,Mercedes-Benz,S 450,SEDAN,Certified,Black,Silk Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2018,75209,"35,007",65774
+Dallas,Land Rover,Range Rover Sport,SUV,Used,White,Almond/Espresso/Alm/Ivory,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,75209,"34,136",67886
+Dallas,Mercedes-Benz,GLE 450,SUV,Certified,Silver,Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2020,75209,"19,598",70888
+Dallas,Mercedes-Benz,SL 450,CONVERT,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2017,75209,"15,711",71884
+Dallas,Land Rover,Range Rover Sport,SUV,Used,Black,Ebony/Ebony/Ebony/Ebony,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,17 City / 22 Highway,2019,75209,"25,699",88889
+Dallas,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,75209,"34,107",17991
+Dallas,Nissan,Altima,SEDAN,Used,Black,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,75209,"34,850",21391
+Dallas,BMW,435i,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2014,75209,"58,138",26985
+Dallas,MINI,Cooper,HATCH,Used,Blue,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,,2022,75209,"6,855",27750
+Dallas,MINI,Cooper,HATCH,Used,White,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,,2022,75209,"5,470",27750
+Dallas,MINI,Cooper,HATCH,Used,Black,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,28 City / 37 Highway,2021,75209,"8,584",28430
+Dallas,BMW,428i Gran Coupe,HATCH,Used,Black,Ivory White/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2016,75209,"41,335",28691
+Dallas,MINI,Cooper,HATCH,Used,White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2021,75209,"7,395",30895
+Dallas,MINI,Cooper Countryman,SUV,Used,Blue,White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,75209,"11,975",30985
+Dallas,MINI,Cooper Countryman,SUV,Used,Brown,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,75209,"13,335",31591
+Dallas,BMW,430i,COUPE,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,75209,"21,963",31985
+Dallas,MINI,Cooper,CONVERT,Used,Blue,Malt Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,75209,"17,982",31991
+Dallas,BMW,X2,SUV,Certified,Black,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,75209,"25,177",31991
+Dallas,MINI,Cooper,CONVERT,Used,White,Satellite Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,75209,"22,243",32991
+Dallas,BMW,320i,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2018,75209,"9,260",32991
+Dallas,MAZDA,CX-5,SUV,Used,Red,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,75209,"14,604",33491
+Dallas,RAM,1500,TRUCKS,Used,Red,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,75209,"30,800",33895
+Dallas,Toyota,Tundra,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2014,75209,"68,063",33991
+Dallas,Lexus,IS 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2015,75209,"19,609",33995
+Dallas,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,75209,"22,139",36391
+Dallas,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,75209,"3,905",36891
+Dallas,BMW,530i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,75209,"38,590",36991
+Dallas,BMW,228i Gran Coupe,SEDAN,Used,Red,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,75209,"7,747",37445
+Dallas,BMW,530e,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,75209,"27,632",37991
+Dallas,BMW,530e,SEDAN,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,75209,"14,041",38491
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Black,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,75209,"25,287",38895
+Dallas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,75209,"23,404",39391
+Dallas,BMW,330i,SEDAN,Certified,Black,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,75209,"24,066",39491
+Dallas,Cadillac,XT5,SUV,Used,Black,Kona Brown Sauvage,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,75209,"17,634",39791
+Dallas,BMW,X1,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,75209,"9,854",40445
+Dallas,BMW,X1,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,75209,"9,663",40545
+Dallas,BMW,X1,SUV,Used,Silver,Oyster/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,75209,"3,895",40695
+Dallas,BMW,X1,SUV,Used,White,Mocha,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,75209,"1,795",41895
+Dallas,BMW,330e,SEDAN,Used,Black,Canberra Beige,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,25 City / 33 Highway,2021,75209,"3,268",41985
+Dallas,BMW,530e,SEDAN,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 30 Highway,2019,75209,"10,559",41991
+Dallas,BMW,530i,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,75209,"29,022",42991
+Dallas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,75209,"7,875",43695
+Dallas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,75209,"7,622",43895
+Dallas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,75209,"8,041",44445
+Dallas,BMW,330i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"5,235",44445
+Dallas,BMW,X5,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 25 Highway,2018,75209,"28,935",44891
+Dallas,BMW,330i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"3,939",44940
+Dallas,BMW,330i,SEDAN,Used,Blue,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"4,241",44940
+Dallas,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"3,535",44990
+Dallas,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"5,652",44990
+Dallas,Toyota,Tacoma,TRUCKS,Used,Red,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,75209,"5,301",45391
+Dallas,BMW,330i,SEDAN,Used,Gray,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"4,177",45540
+Dallas,BMW,330i,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"4,422",45540
+Dallas,BMW,330i,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"7,516",45540
+Dallas,BMW,330i,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"4,479",45540
+Dallas,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"2,191",45595
+Dallas,BMW,330i,SEDAN,Used,Black,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2022,75209,"5,499",47120
+Dallas,BMW,540i,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,75209,"25,436",47991
+Dallas,BMW,750i,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2017,75209,"40,819",49491
+Dallas,BMW,640i Gran Turismo xDrive,HATCH,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,75209,"15,481",49991
+Dallas,INFINITI,QX80,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2018,75209,"34,522",50495
+Dallas,Ford,F150,TRUCKS,Used,Black,Navy Pier,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2018,75209,"39,607",52491
+Dallas,BMW,540i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,75209,"15,838",52991
+Dallas,Porsche,911,CONVERT,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2008,75209,"17,186",64985
+Dallas,BMW,750i,SEDAN,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 26 Highway,2019,75209,"28,955",64991
+Dallas,Audi,e-tron,SUV,Used,Gray,Black W/Rock Gray Stitch,Single-Speed,Electric,Electric,All wheel drive,,2019,75209,"22,799",65991
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 20 Highway,2021,75209,"3,936",66985
+Dallas,BMW,750i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,75209,"26,121",66991
+Dallas,Mercedes-Benz,GLS 63 AMG,SUV,Used,Black,Porcelain/Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,13 City / 17 Highway,2017,75209,"42,594",68691
+Dallas,BMW,M4,CONVERT,Used,Green,Golden Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2020,75209,"12,345",75991
+Dallas,BMW,X5 M,SUV,Used,White,Mugello Red,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2018,75209,"22,815",76995
+Dallas,BMW,ALPINA B7 xDrive,SEDAN,Used,Black,Cognac,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,75209,"23,080",87985
+Dallas,Porsche,911,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2018,75209,"33,544",93791
+Dallas,BMW,M8,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2020,75209,"8,758",111985
+Dallas,INFINITI,Q70,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2017,75209,"19,175",39981
+Dallas,Lincoln,Nautilus,SUV,Certified,White,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2019,75209,"9,511",44981
+Dallas,Lincoln,Continental,SEDAN,Certified,,Jade Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - front,18 City / 27 Highway,2018,75209,"10,936",45981
+Dallas,Chevrolet,Corvette,COUPE,Used,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2008,75001,"14,941",45991
+Dallas,Chevrolet,Camaro,COUPE,Used,White,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2019,75001,"21,049",45991
+Dallas,MINI,Cooper Countryman,SUV,Used,Blue,Carbon Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2012,75220,"96,670",9999
+Dallas,INFINITI,G37,SEDAN,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2013,75220,"76,387",15999
+Dallas,BMW,335i,CONVERT,Used,White,Tan,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2011,75220,"80,532",16899
+Dallas,Lexus,SC 430,CONVERT,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2004,75220,"91,565",16999
+Dallas,Hyundai,Santa Fe,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2015,75220,"54,732",19899
+Dallas,Cadillac,CTS,SEDAN,Used,Black,Light Cashmere With Medium Cas,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2015,75220,"64,631",21899
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 33 Highway,2015,75220,"69,928",21899
+Dallas,Cadillac,Escalade,SUV,Used,Black,Ebony W/Ebony Accents,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,14 City / 18 Highway,2011,75220,"78,403",24899
+Dallas,Mercedes-Benz,S 550,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,15 City / 25 Highway,2013,75220,"88,863",25899
+Dallas,Ford,Mustang,COUPE,Used,Silver,Ebony,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2017,75220,"21,675",27899
+Dallas,BMW,750i,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2015,75220,"67,522",30899
+Dallas,Lexus,RX 350,SUV,Used,Tan,Black W/Espresso Walnut Trim,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2017,75220,"44,274",35899
+Dallas,Porsche,Panamera,HATCH,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2013,75220,"43,938",39999
+Dallas,Volkswagen,Tiguan,SUV,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,75034,"1,620",38991
+Dallas,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,75006,"40,976",39000
+Dallas,Porsche,911,COUPE,Certified,Silver,Mojave Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2020,76051,"5,062",129900
+Dallas,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,76051,"18,433",43982
+Dallas,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2020,76051,"16,904",45982
+Dallas,Lexus,ES 350,SEDAN,Used,Red,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,76051,"13,897",42975
+Dallas,Lexus,ES 350,SEDAN,Used,Gray,Flaxen,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,76051,"11,132",43975
+Dallas,Toyota,Camry,SEDAN,Used,Off White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2014,75150,"76,608",15777
+Dallas,Nissan,Versa,SEDAN,Certified,White,Charcoal,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2019,75150,"15,442",15877
+Dallas,Nissan,Rogue Sport,SUV,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,75150,"19,376",27210
+Dallas,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,75150,"42,613",28777
+Dallas,Nissan,Frontier,TRUCKS,Certified,Red,Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2019,75150,"36,872",29997
+Dallas,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,75150,"10,978",37977
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2021,75057,"5,300",39898
+Dallas,Toyota,Corolla,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2016,76051,"30,714",17968
+Dallas,Toyota,Camry,SEDAN,Used,White,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,76051,"4,015",28749
+Dallas,Toyota,RAV4,SUV,Used,White,Nutmeg,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,76051,"11,881",32494
+Dallas,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 29 Highway,2021,76051,"7,326",43952
+Dallas,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2013,75150,"93,396",14500
+Dallas,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,75150,"21,954",28950
+Dallas,GMC,Acadia,SUV,Used,Silver,Gone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,75150,"40,834",30500
+Dallas,Ford,F150,TRUCKS,Used,Blue,Medium Dark Slate,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,75150,"11,104",51950
+Dallas,Volkswagen,Jetta,SEDAN,Used,White,Dark Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,76051,"22,748",23800
+Dallas,Ford,Mustang,COUPE,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2019,76051,"2,839",30289
+Dallas,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2016,76051,"52,861",32000
+Dallas,Audi,Q7,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,16 City / 22 Highway,2015,76051,"52,758",32500
+Dallas,Toyota,RAV4,SUV,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2020,76051,"14,046",33000
+Dallas,Chevrolet,Camaro,COUPE,Used,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2015,76051,"15,801",34000
+Dallas,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2019,76051,"22,409",35000
+Dallas,Ford,Explorer,SUV,Certified,,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,76051,"13,753",36978
+Dallas,Toyota,Tacoma,TRUCKS,Used,White,Cement,,Gasoline,6-Cylinder,4 wheel drive,,2020,76051,"19,897",42000
+Dallas,Jeep,Gladiator,TRUCKS,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,76051,"11,823",55000
+Dallas,Jeep,Wrangler,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2020,76051,"13,259",56500
+Dallas,Subaru,BRZ,COUPE,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2015,75062,"61,846",22619
+Dallas,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,75062,"45,240",24668
+Dallas,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,75062,"43,082",29950
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,75062,"14,939",46994
+Dallas,Chevrolet,Malibu,SEDAN,Used,Red,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,75228,"50,925",17527
+Dallas,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2015,75228,"32,438",23097
+Dallas,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,75228,"18,392",23627
+Dallas,Cadillac,ATS,SEDAN,Used,White,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2018,75228,"31,920",26877
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,75228,"6,140",28477
+Dallas,Chevrolet,Colorado,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,75228,"25,404",32217
+Dallas,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,75228,"23,112",32577
+Dallas,GMC,Terrain,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,75228,"25,140",33127
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,75228,"42,138",33257
+Dallas,Nissan,Maxima,SEDAN,Used,White,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,75228,"22,244",33627
+Dallas,Chevrolet,Camaro,CONVERT,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2017,75228,"46,707",33877
+Dallas,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2021,75228,"8,433",34997
+Dallas,Lexus,RX 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,75228,"39,421",37997
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Gideon/Very Dark Atmosphere,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2019,75228,"19,162",38627
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,75228,"15,191",41877
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,75228,"9,120",49557
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,75228,"4,225",51117
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,75228,"14,374",52361
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,75228,"8,770",53997
+Dallas,Chevrolet,Tahoe,SUV,Used,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,75228,"34,897",54997
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,75228,"1,416",56227
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,75228,115,56497
+Dallas,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,75228,"3,968",58447
+Dallas,Chevrolet,Suburban,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2021,75228,"4,510",72997
+Dallas,Chevrolet,Tahoe,SUV,Used,Red,Jet Black/Victory Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2021,75228,12,73997
+Dallas,Hyundai,Elantra,SEDAN,Used,Brown,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,75006,"69,121",15500
+Dallas,Hyundai,Elantra,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,75006,"49,254",16991
+Dallas,Ford,Explorer,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2014,75006,"87,296",21691
+Dallas,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2014,75006,"61,591",24991
+Dallas,INFINITI,Q50,SEDAN,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,75006,"51,750",28328
+Dallas,Ford,Explorer,SUV,Used,White,Medium Light Camel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,75006,"51,905",30991
+Dallas,Ford,Mustang,COUPE,Used,White,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2016,75006,"18,757",34591
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,75006,"51,240",37591
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,75006,"69,210",38891
+Dallas,Ford,Mustang,COUPE,Used,Red,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2020,75006,"16,486",39991
+Dallas,Dodge,Journey,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,75050,"35,853",23759
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Brown,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,75050,"97,530",25999
+Dallas,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2017,75050,"61,426",32492
+Dallas,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,75050,"39,334",36498
+Dallas,Ford,F150,TRUCKS,Used,White,Medium Light Camel,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2016,75050,"63,255",37785
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,75050,"10,795",39772
+Dallas,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,75050,"23,310",41999
+Dallas,RAM,2500,TRUCKS,Used,Red,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,75050,"45,023",49456
+Dallas,RAM,2500,TRUCKS,Used,White,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,75050,"57,332",49849
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gold,Dark Graystone/Medium Grayston,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2012,75234,"146,559",11987
+Dallas,Hyundai,Santa Fe,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 29 Highway,2013,75234,"91,835",14987
+Dallas,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,75234,"18,854",16987
+Dallas,Ford,Fusion,SEDAN,Used,White,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,75234,"18,589",23997
+Dallas,Jeep,Cherokee,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,75234,"5,628",28987
+Dallas,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,75234,"6,464",28988
+Dallas,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2019,75234,"22,680",40987
+Dallas,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,75234,"25,540",41488
+Dallas,Dodge,Charger,SEDAN,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,75234,801,42987
+Dallas,GMC,Yukon,SUV,Used,White,Light Tan,Automatic,Flexible Fuel,8-Cylinder,All wheel drive,13 City / 18 Highway,2012,75234,"139,960",16960
+Dallas,Mercedes-Benz,CLS 550,SEDAN,Used,Gray,Almond/Mocha,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2012,75234,"100,016",19915
+Dallas,BMW,740i,SEDAN,Used,Black,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2016,75234,"70,840",34945
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,White,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,75234,"39,069",34975
+Dallas,Mercedes-Benz,A 220,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2019,75234,"42,803",34995
+Dallas,Mercedes-Benz,C 300,CONVERT,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2017,75234,"74,718",34995
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,75234,"32,598",35974
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,Silver,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,75234,"53,332",35995
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"54,225",37995
+Dallas,Mercedes-Benz,GLC 300,SUV,Used,Blue,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,75234,"27,490",38995
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,White,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,75234,"39,319",41995
+Dallas,Mercedes-Benz,E 300,SEDAN,Used,White,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,75234,"32,868",42930
+Dallas,BMW,750i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2016,75234,"54,131",42945
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"34,638",42945
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Blue,Ginger Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"34,442",43950
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,75234,"32,025",43970
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Black,Crystal Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"31,237",43995
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Blue,Ginger Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"29,872",44988
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,75234,"26,330",45919
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,Blue,Espresso,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,75234,"21,531",45995
+Dallas,BMW,540i xDrive,SEDAN,Used,White,Cognac,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,75234,"25,967",46930
+Dallas,BMW,X5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,75234,"18,220",47995
+Dallas,BMW,540i xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,75234,"25,595",49975
+Dallas,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,75234,"74,574",53940
+Dallas,Mercedes-Benz,E 450,SEDAN,Used,Black,Nut Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2019,75234,"29,769",53970
+Dallas,Mercedes-Benz,E 450,COUPE,Used,Off White,Macchiato Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,75234,"37,591",54970
+Dallas,Mercedes-Benz,S 450,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2018,75234,"44,091",55985
+Dallas,BMW,M4,COUPE,Used,White,Sakhir Red,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,75234,"39,279",58995
+Dallas,Mercedes-Benz,SL 550,CONVERT,Used,Off White,Crystal Grey,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,16 City / 24 Highway,2016,75234,"36,394",59989
+Dallas,Mercedes-Benz,GLS 550,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2018,75234,"47,486",65995
+Dallas,Mercedes-Benz,SL 450,CONVERT,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2017,75234,"33,170",65997
+Dallas,Mercedes-Benz,S 450,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 28 Highway,2019,75234,"35,507",66915
+Dallas,Mercedes-Benz,S 560,SEDAN,Used,Black,Porcelain/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 27 Highway,2019,75234,"40,387",72995
+Dallas,Volkswagen,Jetta,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,75244,"21,291",20599
+Dallas,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,75244,"40,507",26988
+Dallas,Ford,Edge,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,75244,"50,502",29987
+Dallas,Buick,Envision,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,75244,"11,182",31988
+Dallas,Volkswagen,Atlas,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,75244,"24,718",35488
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,75244,"37,334",41488
+Dallas,Subaru,Outback,SUV,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2021,75244,"4,014",42988
+Dallas,Nissan,Sentra,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,75244,"16,464",21350
+Dallas,Nissan,Rogue Sport,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,75244,"25,588",22746
+Dallas,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,75244,"14,611",24654
+Dallas,Cadillac,XT5,SUV,Used,Silver,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,75244,"35,026",32989
+Dallas,Nissan,Rogue,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,75244,"5,784",34984
+Dallas,Subaru,Outback,SUV,Used,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,75093,"22,302",34499
+Dallas,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,75093,"20,239",44578
+Dallas,Hyundai,Tucson,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2019,76017,"37,460",25000
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,76017,"41,424",42991
+Dallas,Jeep,Wrangler,SUV,Used,White,Dark Saddle/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,21 City / 22 Highway,2020,76017,"17,367",50991
+Dallas,Toyota,Camry,SEDAN,Used,Black,Black/Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2020,75080,"28,796",36874
+Dallas,Toyota,Sienna,VANS,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,75080,"36,694",36974
+Dallas,Toyota,Highlander,SUV,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,75080,"25,134",45947
+Dallas,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 28 Highway,2017,75024,"24,618",29900
+Dallas,Lexus,LX 570,SUV,Used,Silver,Parchment,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 18 Highway,2019,75024,"27,521",85900
+Dallas,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2018,75075,"20,404",65797
+Dallas,Ford,Fusion,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,75080,"73,533",17499
+Dallas,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2019,75080,"40,369",25498
+Dallas,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2016,75080,"38,413",27999
+Dallas,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,75237,"26,501",22798
+Dallas,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2018,75237,"29,190",23991
+Dallas,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,75237,"23,874",33991
+Dallas,Toyota,RAV4,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,75237,"18,374",38991
+Dallas,Toyota,Tacoma,TRUCKS,Used,Gray,Graphite,,Gasoline,6-Cylinder,4 wheel drive,,2019,75237,"3,267",40991
+Dallas,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,76051,"18,448",21999
+Dallas,Hyundai,Santa Fe,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 28 Highway,2021,76051,"9,544",33000
+Dallas,INFINITI,QX50,SUV,Used,Blue,Wheat,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2019,76051,"28,191",36000
+Dallas,Ford,Edge,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 30 Highway,2015,75062,"67,162",20450
+Dallas,MAZDA,CX-5,SUV,Used,Blue,Silk Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,75062,"36,255",29200
+Dallas,Hyundai,Tucson,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 28 Highway,2021,75062,"4,329",38950
+Dallas,Hyundai,Palisade,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,75062,"28,801",41750
+Dallas,Jeep,Renegade,SUV,Used,Red,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2015,75041,"44,341",17500
+Dallas,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,75041,"8,539",24991
+Dallas,Hyundai,Santa Fe,SUV,Used,Red,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,75041,"17,886",31500
+Dallas,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,75041,"8,394",36500
+Dallas,Chevrolet,Camaro,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 26 Highway,2021,75041,"6,807",39991
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,75041,"21,972",47991
+Dallas,Honda,CR-V,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2012,75209,"83,617",17445
+Dallas,Chevrolet,Traverse,SUV,Used,White,Light Titanium/Dark Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,15 City / 22 Highway,2017,75209,"66,460",19972
+Dallas,Honda,Insight,SEDAN,Certified,Blue,Ivory,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 49 Highway,2019,75209,"6,675",24962
+Dallas,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2021,75209,"2,647",26988
+Dallas,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,75209,"41,608",27911
+Dallas,Honda,Civic,COUPE,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,75209,"15,430",27947
+Dallas,Honda,CR-V,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,75209,"51,236",29988
+Dallas,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,75209,"43,436",30990
+Dallas,Honda,Accord,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,75209,"24,492",31607
+Dallas,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2020,75209,"9,189",31727
+Dallas,Honda,Accord,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,75209,"20,036",32772
+Dallas,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,75209,"23,363",33222
+Dallas,Honda,Passport,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,75209,"35,447",34797
+Dallas,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,75209,"25,029",36924
+Dallas,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 19 Highway,2017,75209,"44,742",38544
+Dallas,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,75209,"28,418",38832
+Dallas,Honda,Pilot,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2020,75209,"28,814",38874
+Dallas,Honda,Pilot,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2021,75209,"10,262",39718
+Dallas,Honda,Odyssey,VANS,Used,White,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,75209,"30,200",40722
+Dallas,Honda,Pilot,SUV,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,75209,"11,723",42611
+Dallas,Lexus,GS 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2013,75080,"55,610",24999
+Dallas,Toyota,Tundra,TRUCKS,Used,Silver,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2014,75080,"111,471",29999
+Dallas,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2018,75080,"55,291",31799
+Dallas,Acura,TLX,SEDAN,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2018,75080,"48,060",32999
+Dallas,Ford,F150,TRUCKS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,75080,"39,515",40999
+Dallas,Ford,Expedition,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2019,75080,"44,764",47999
+Dallas,Ford,F450,TRUCKS,Used,White,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,75080,"5,422",99999
+Dallas,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,75235,"68,565",30000
+Dallas,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,75235,"23,788",30397
+Dallas,Ford,Mustang,CONVERT,Used,Red,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,75235,"12,220",30894
+Dallas,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75235,"20,455",30987
+Dallas,Chrysler,300,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,75235,"34,580",31987
+Dallas,BMW,330i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,75235,"46,772",33697
+Dallas,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 27 Highway,2019,75235,"23,734",34637
+Dallas,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,75235,"41,900",34893
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2016,75235,"40,431",34893
+Dallas,Lincoln,MKZ,SEDAN,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2017,75235,"42,837",34897
+Dallas,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75235,"13,983",34987
+Dallas,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 30 Highway,2019,75235,"22,478",35997
+Dallas,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,75235,"33,587",37887
+Dallas,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,75235,"3,036",40696
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,75235,"13,465",41897
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,75235,"38,302",42997
+Dallas,Jaguar,E-PACE,SUV,Used,Gray,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,75235,"21,380",43981
+Dallas,Kia,Stinger,SEDAN,Used,Gray,Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,75235,"21,682",44497
+Dallas,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2018,75235,"29,962",44749
+Dallas,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,75235,"17,319",45987
+Dallas,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2021,75235,"10,192",46997
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2021,75235,"12,009",48109
+Dallas,Lexus,IS 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,75235,"9,066",53997
+Dallas,Hyundai,Palisade,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2021,75235,"9,812",54687
+Dallas,Volkswagen,Passat,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,75243,"48,006",20235
+Dallas,Cadillac,SRX,SUV,Used,White,Shale W/Brownstone Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,75243,"78,420",20990
+Dallas,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,75243,"45,214",23156
+Dallas,Audi,Q5,SUV,Used,White,Pistachio Beige,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 26 Highway,2016,75243,"48,367",29500
+Dallas,BMW,640i Gran Coupe,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2013,75243,"21,933",32608
+Dallas,Cadillac,XT4,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2019,75243,"28,250",37100
+Dallas,Toyota,4Runner,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2017,75243,"42,145",37637
+Dallas,Land Rover,Discovery Sport,SUV,Certified,Blue,Crs Wnd Lth Trm Mic-Pip,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 25 Highway,2018,75243,"32,046",39647
+Dallas,Jaguar,F-PACE,SUV,Certified,Gray,Ebony,Automatic,Diesel,4-Cylinder Turbo,All wheel drive,26 City / 33 Highway,2018,75243,"31,651",39998
+Dallas,Land Rover,Discovery Sport,SUV,Certified,Red,Ebony/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2018,75243,"24,802",40900
+Dallas,Audi,Q5,SUV,Used,Blue,Atlas Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,75243,"21,728",42900
+Dallas,Jaguar,F-PACE,SUV,Certified,Blue,Latte/Espresso Stitch,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2018,75243,"26,699",43900
+Dallas,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,75243,587,50751
+Dallas,Audi,Q7,SUV,Used,Black,Nougat Brown,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2018,75243,"33,835",51900
+Dallas,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,75243,"28,679",56190
+Dallas,Mercedes-Benz,GLE 350,SUV,Used,White,Macchiato Beige/Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2020,75243,"11,972",63029
+Dallas,Land Rover,Range Rover,SUV,Certified,Black,Espresso/Almond/Ivory,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,75243,"37,449",83900
+Dallas,Cadillac,Escalade ESV,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 20 Highway,2021,75243,"1,777",114020
+Dallas,Jeep,Patriot,SUV,Certified,Silver,Dark Slate Gray,Manual,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2016,75062,"59,455",15869
+Dallas,Dodge,Journey,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,75062,"18,848",23852
+Dallas,Mercedes-Benz,ML 350,SUV,Used,Gray,Almond Beige/Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2015,75062,"62,884",25846
+Dallas,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,75062,"18,804",27615
+Dallas,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,75062,"20,498",31848
+Dallas,Jeep,Cherokee,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,75062,"5,418",31913
+Dallas,Dodge,Charger,SEDAN,Certified,,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2020,75062,"10,227",32841
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,75062,"35,840",33441
+Dallas,Land Rover,Discovery Sport,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 25 Highway,2019,75062,"11,615",36911
+Dallas,Dodge,Challenger,COUPE,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2021,75062,"5,871",38927
+Dallas,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2018,75062,"22,961",39458
+Dallas,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,75062,"20,512",39915
+Dallas,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 23 Highway,2021,75062,"8,122",40841
+Dallas,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,75062,"18,506",40901
+Dallas,BMW,750i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2016,75062,"39,551",42863
+Dallas,Jeep,Wrangler,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,75062,"4,692",42929
+Dallas,Audi,Q5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,75062,"27,344",44970
+Dallas,Dodge,Charger,SEDAN,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,75062,"16,900",45834
+Dallas,Lincoln,Nautilus,SUV,Used,Black,Slate,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 26 Highway,2020,75062,"7,113",46918
+Dallas,RAM,1500,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,75062,"25,503",47841
+Dallas,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,75062,"16,585",50930
+Dallas,Dodge,Challenger,COUPE,Certified,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2021,75062,"3,638",52927
+Dallas,Jeep,Wrangler,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,75062,"3,313",57741
+Dallas,GMC,Sierra 1500,TRUCKS,Used,Gray,Dark Walnut/Dark Ash Grey,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,75062,"13,254",60861
+Dallas,Ford,F250,TRUCKS,Used,White,Black / Dark Marsala,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,75062,"28,814",68943
+Dallas,MAZDA,MX-5 Miata,CONVERT,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,27 City / 36 Highway,2016,75229,"39,981",25990
+Dallas,Kia,Forte,SEDAN,Used,Blue,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2020,75062,"18,171",23997
+Dallas,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2018,75062,"34,915",29995
+Dallas,Alfa Romeo,Stelvio,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,75062,"31,354",35995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,75062,"9,323",36995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2019,75062,"15,601",38995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,75062,"23,804",39995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2021,75062,"8,162",41498
+Dallas,Jeep,Grand Cherokee,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,75062,"14,501",42995
+Dallas,Chevrolet,Camaro,COUPE,Certified,Blue,Medium Ash Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2020,75062,"16,367",43995
+Dallas,Honda,Odyssey,VANS,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,75062,"27,398",43997
+Dallas,Chevrolet,Colorado,TRUCKS,Certified,,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 18 Highway,2019,75062,"2,548",44989
+Dallas,Chevrolet,Blazer,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,75062,"17,389",44995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,15 City / 20 Highway,2020,75062,"25,301",44995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,75062,"11,898",45995
+Dallas,RAM,1500,TRUCKS,Used,Off White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,75062,"19,116",46999
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,75062,"22,465",48995
+Dallas,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,75062,"29,533",48997
+Dallas,Dodge,Challenger,COUPE,Used,,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2020,75062,"2,920",49536

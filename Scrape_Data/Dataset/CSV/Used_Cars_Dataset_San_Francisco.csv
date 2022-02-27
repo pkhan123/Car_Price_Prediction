@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+San Francisco,Audi,S5,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,16 City / 24 Highway,2011,94103,"53,013",21495
+San Francisco,Lexus,IS 250,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 30 Highway,2014,94103,"84,635",22995
+San Francisco,BMW,435i Gran Coupe,HATCH,Used,White,Coral Red Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2015,94103,"54,645",26995
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,94103,"18,875",35995
+San Francisco,BMW,X3,SUV,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"19,881",40295
+San Francisco,BMW,X3,SUV,Certified,White,Canberra Beige/Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"18,686",40595
+San Francisco,BMW,X6,SUV,Used,Gray,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2016,94103,"45,673",41995
+San Francisco,BMW,X6,SUV,Certified,Black,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,94103,"18,423",52995
+San Francisco,BMW,M3,SEDAN,Used,Blue,Opal White Extended Merino,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,,2018,94103,"27,731",68995
+San Francisco,GMC,Yukon,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 22 Highway,2019,94103,"20,281",69995
+San Francisco,BMW,M4,COUPE,Used,Red,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 23 Highway,2021,94103,"6,651",89995
+San Francisco,Toyota,Prius C,HATCH,Used,White,"1201: Gray, 1203 And1205:",Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 46 Highway,2012,94103,"20,010",14995
+San Francisco,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,94103,"25,013",19957
+San Francisco,Mercedes-Benz,CLA 250,SEDAN,Used,,2101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 37 Highway,2014,94103,"53,002",20767
+San Francisco,Nissan,Sentra,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,94103,"9,832",23495
+San Francisco,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 37 Highway,2016,94103,"30,473",23767
+San Francisco,BMW,X1,SUV,Used,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2017,94103,"39,476",23997
+San Francisco,MINI,Cooper,HATCH,Used,White,Carbon Black Leatherette,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,94103,"13,592",24995
+San Francisco,Ford,Escape,SUV,Used,Green,B1/Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,94103,"19,766",25787
+San Francisco,Volkswagen,Tiguan,SUV,Used,Orange,Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,94103,"30,445",25995
+San Francisco,Toyota,Prius,HATCH,Used,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2018,94103,"29,140",25997
+San Francisco,BMW,X1,SUV,Used,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,94103,"28,253",26697
+San Francisco,BMW,i3,HATCH,Certified,White,Deka Dark Cloth,Single-Speed,Electric,Electric,2 wheel drive - rear,124 City / 102 Highway,2019,94103,"29,782",27297
+San Francisco,BMW,X2,SUV,Certified,Silver,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,94103,"25,898",27897
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,94103,"32,601",28357
+San Francisco,BMW,330i,SEDAN,Certified,Black,Cognac Lthr W/Dark Brown Hglgt,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"30,601",28487
+San Francisco,Mercedes-Benz,GLA 250,SUV,Used,,,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2016,94103,"29,753",29295
+San Francisco,BMW,X2,SUV,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,94103,"26,341",29295
+San Francisco,MINI,Cooper Countryman,SUV,Used,Green,Carbon Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,94103,"21,584",29787
+San Francisco,MINI,Cooper Countryman,SUV,Used,Black,Carbon Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,94103,"16,855",29877
+San Francisco,BMW,i3,HATCH,Used,Gray,Deka Dark Cloth,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,94103,"18,569",30217
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,Black,111/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2016,94103,"46,466",30417
+San Francisco,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,94103,"28,564",31727
+San Francisco,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,94103,"22,824",31767
+San Francisco,Volkswagen,GTI,HATCH,Used,Blue,Titan Black Cloth,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2021,94103,"1,062",31947
+San Francisco,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,94103,"23,840",31995
+San Francisco,Acura,RDX,SUV,Used,White,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,94103,"23,469",32757
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,White,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2017,94103,"34,789",32767
+San Francisco,BMW,330i,SEDAN,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"22,898",33277
+San Francisco,BMW,530e,SEDAN,Certified,Black,Black Sensatec,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,94103,"32,427",34417
+San Francisco,Audi,A5,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,94103,"35,650",34827
+San Francisco,BMW,340i,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94103,"22,314",35767
+San Francisco,Lexus,RC 350,COUPE,Used,Silver,Rioja Red (F-Sport),Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2015,94103,"37,190",35977
+San Francisco,BMW,X3,SUV,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,94103,"19,127",36417
+San Francisco,BMW,530e,SEDAN,Certified,Blue,Black Dakota Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,94103,"20,651",36447
+San Francisco,BMW,X5,SUV,Used,Gray,Canberra Beige/Black Dakota Le,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2016,94103,"36,373",36495
+San Francisco,BMW,530e,SEDAN,Certified,White,Cognac Dakota Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,27 City / 31 Highway,2018,94103,"24,020",36677
+San Francisco,Jeep,Grand Cherokee,SUV,Used,,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,94103,"14,587",36877
+San Francisco,Toyota,Sienna,VANS,Used,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,94103,"37,365",36887
+San Francisco,BMW,340i,SEDAN,Certified,Gray,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94103,"33,506",37337
+San Francisco,Kia,Stinger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2020,94103,"10,328",37437
+San Francisco,BMW,340i,SEDAN,Certified,Gray,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94103,"34,806",37797
+San Francisco,Dodge,Charger,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,94103,"7,633",37987
+San Francisco,BMW,X3,SUV,Certified,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"17,699",38887
+San Francisco,BMW,440i Gran Coupe,HATCH,Certified,White,Black Sensatec/Red Stitching,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,94103,"23,685",38967
+San Francisco,BMW,540i,SEDAN,Certified,Black,Leather Dakota Black/Blue Stit,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,94103,"39,308",41777
+San Francisco,BMW,X5,SUV,Certified,White,Black Sensatec,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,94103,"24,512",42427
+San Francisco,BMW,340i Gran Turismo xDrive,HATCH,Certified,Gray,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,94103,"23,914",42495
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,94103,"17,830",44587
+San Francisco,Subaru,Ascent,SUV,Used,Blue,Brp30/Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,94103,"9,743",45277
+San Francisco,BMW,X5,SUV,Certified,Black,Black Sensatec,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,94103,"27,619",45687
+San Francisco,BMW,M235i xDrive Gran Coupe,SEDAN,Used,Black,Oyster Perforated Dakota,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2021,94103,"7,079",46217
+San Francisco,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,94103,"17,113",47997
+San Francisco,Volvo,S90,SEDAN,Used,,,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,26 City / 33 Highway,2018,94103,"33,714",48987
+San Francisco,Genesis,G80,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2021,94103,"4,630",51495
+San Francisco,Mercedes-Benz,E 450,COUPE,Used,,049/White,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2019,94103,"26,922",52147
+San Francisco,BMW,X5,SUV,Certified,Blue,Black Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"28,515",56487
+San Francisco,BMW,X5,SUV,Used,Black,Black Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"13,119",57427
+San Francisco,Toyota,Supra,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,94103,"17,346",58295
+San Francisco,BMW,X5,SUV,Certified,Black,Black Sensatec,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"17,772",58767
+San Francisco,BMW,M4,COUPE,Used,White,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,94103,"36,105",60827
+San Francisco,BMW,750i,SEDAN,Certified,Black,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 26 Highway,2019,94103,"17,647",65447
+San Francisco,BMW,M3,SEDAN,Used,White,Sakhir Orange/Black Ext Lthr,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2018,94103,"27,865",67495
+San Francisco,BMW,X3 M,SUV,Used,Gray,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2021,94103,"9,887",78995
+San Francisco,Audi,S6,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2021,94103,"4,140",79637
+San Francisco,BMW,X7,SUV,Used,Gray,Ivory White/Night Blue Merino,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,94103,"4,154",82997
+San Francisco,Ford,Mustang,COUPE,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2017,94014,"33,114",24999
+San Francisco,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,94014,"17,802",26499
+San Francisco,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2021,94014,"4,340",33499
+San Francisco,Acura,TLX,SEDAN,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 29 Highway,2019,94014,"20,224",36999
+San Francisco,Subaru,Outback,SUV,Used,White,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,94014,"6,237",37999
+San Francisco,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,94014,"5,708",39499
+San Francisco,Lexus,UX 200,SUV,Used,Silver,Tan,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,94014,"25,677",29999
+San Francisco,Lexus,UX 200,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,94014,"23,970",31999
+San Francisco,Audi,A6,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2017,94014,"19,789",31999
+San Francisco,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,94014,"26,645",32999
+San Francisco,Lexus,RX 350,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,94014,"22,519",41999
+San Francisco,Toyota,Highlander,SUV,Used,Blue,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,94014,"12,788",48999
+San Francisco,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,94014,"4,857",28990
+San Francisco,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,94014,"11,329",36990
+San Francisco,Volkswagen,Atlas,SUV,Used,Blue,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,94014,"5,392",51990
+San Francisco,BMW,340i,SEDAN,Certified,Gray,Black/Dark Oyster,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94403,"29,635",38488
+San Francisco,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94109,"34,559",24991
+San Francisco,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,94066,"6,145",26888
+San Francisco,Honda,CR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,94066,"8,249",35888
+San Francisco,Volvo,XC60,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,94901,"19,272",43600
+San Francisco,MINI,Cooper Countryman,SUV,Certified,Black,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2019,94925,"10,417",27900
+San Francisco,MINI,Cooper,HATCH,Certified,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,94925,"28,595",28900
+San Francisco,MINI,Cooper Countryman,SUV,Certified,Black,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,94925,"21,712",31900
+San Francisco,MINI,Cooper,HATCH,Certified,Green,Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,94925,"5,936",32500
+San Francisco,MINI,Cooper Clubman,WAGON,Certified,Silver,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2019,94925,"12,386",39900
+San Francisco,Mercedes-Benz,GLB 250,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,94002,"11,698",40498
+San Francisco,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,94596,"41,770",28500
+San Francisco,Toyota,Highlander,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 24 Highway,2018,94596,"29,527",32200
+San Francisco,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,94596,"4,522",36500
+San Francisco,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2013,94103,"63,290",17795
+San Francisco,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2016,94103,"78,090",17927
+San Francisco,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2017,94103,"28,437",18595
+San Francisco,MINI,Cooper Countryman,SUV,Used,Silver,Carbon Black Leatherette,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2016,94103,"43,369",19595
+San Francisco,Honda,Accord,SEDAN,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2014,94103,"50,986",19595
+San Francisco,Toyota,Prius,HATCH,Used,Silver,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2015,94103,"62,519",19995
+San Francisco,BMW,328i,CONVERT,Used,White,Cream Beige Sensatec,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 26 Highway,2013,94103,"60,705",20995
+San Francisco,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,94103,"58,837",21447
+San Francisco,BMW,335i xDrive,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 30 Highway,2013,94103,"62,180",21487
+San Francisco,Ford,Edge,SUV,Used,Silver,6b/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2017,94103,"39,486",22595
+San Francisco,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2020,94103,"11,984",22767
+San Francisco,MAZDA,MAZDA3,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,94103,"34,710",22795
+San Francisco,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,94103,"26,005",23407
+San Francisco,BMW,330e,SEDAN,Used,Black,Black Sensatec/Red Stitching,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2017,94103,"52,549",23997
+San Francisco,Hyundai,Venue,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,94103,"25,777",24295
+San Francisco,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,94103,"17,128",25395
+San Francisco,Honda,Accord,SEDAN,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,94103,"10,265",25995
+San Francisco,Volkswagen,Tiguan,SUV,Used,White,Black Leatherette,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,94103,"34,299",26237
+San Francisco,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,94103,"12,012",26995
+San Francisco,BMW,i3,HATCH,Certified,Gray,Tera,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,94103,"35,037",27827
+San Francisco,Toyota,Prius Prime,HATCH,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2018,94103,"41,879",27995
+San Francisco,Audi,Q5,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2016,94103,"43,140",27995
+San Francisco,BMW,330i,SEDAN,Used,Blue,Cognac Lr Dkbrwnhghlt/Cgncdash,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"17,744",28418
+San Francisco,BMW,X1,SUV,Used,Green,Canberra Beige Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,94103,"27,092",28488
+San Francisco,Nissan,370Z,COUPE,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,94103,"33,735",28595
+San Francisco,BMW,330i,SEDAN,Used,Gray,Cognac Lthr W/Dark Brown Hglgt,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"26,977",29295
+San Francisco,Lexus,ES 350,SEDAN,Used,White,Black W/Linear Wood,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,94103,"52,623",29327
+San Francisco,BMW,X1,SUV,Certified,Black,Black Perforated Dakota Leathe,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,94103,"23,816",29795
+San Francisco,Audi,A3,HATCH,Used,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,34 City / 39 Highway,2018,94103,"22,575",30767
+San Francisco,BMW,330i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"10,591",31495
+San Francisco,BMW,i3,HATCH,Certified,Black,Mega Carum Spice Grey Sensa,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,94103,"13,133",31595
+San Francisco,BMW,330e,SEDAN,Certified,Silver,Black Sensatec/Red Stitching,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - rear,28 City / 34 Highway,2018,94103,"20,349",31687
+San Francisco,BMW,330i,SEDAN,Used,Silver,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"8,465",31795
+San Francisco,Volkswagen,Atlas,SUV,Used,Gray,Titan Black V-Tex,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,94103,"24,655",32595
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,94103,"36,877",33297
+San Francisco,BMW,X5,SUV,Used,Gray,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2015,94103,"25,683",33495
+San Francisco,BMW,430i Gran Coupe,HATCH,Certified,Blue,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,94103,"19,540",34268
+San Francisco,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2018,94103,"8,977",34795
+San Francisco,BMW,228i Gran Coupe,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2021,94103,"8,784",34795
+San Francisco,BMW,230i,COUPE,Certified,Gray,Oyster/Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 32 Highway,2020,94103,"19,060",34795
+San Francisco,Subaru,Forester,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,94103,"6,470",34995
+San Francisco,BMW,530i,SEDAN,Used,Black,Black Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,94103,"41,869",35227
+San Francisco,BMW,X5,SUV,Used,Black,Mocha Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2016,94103,"45,482",35967
+San Francisco,BMW,330i,SEDAN,Used,Red,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2020,94103,"25,971",36447
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,94103,"18,247",36595
+San Francisco,BMW,330i,SEDAN,Certified,Gray,Canberra Beige Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2020,94103,"28,445",36717
+San Francisco,BMW,X3,SUV,Certified,Green,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,94103,"28,139",36897
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,Black,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,94103,"13,169",36995
+San Francisco,BMW,X3,SUV,Certified,Black,Black Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,94103,"27,795",36995
+San Francisco,BMW,340i,SEDAN,Certified,Black,Black Sensatec,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94103,"29,648",36995
+San Francisco,BMW,X3,SUV,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,94103,"28,422",36995
+San Francisco,BMW,340i,SEDAN,Certified,Silver,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2018,94103,"24,019",37495
+San Francisco,BMW,X2,SUV,Used,Silver,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2020,94103,"9,785",37727
+San Francisco,Hyundai,Santa Fe,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,94103,"14,290",37997
+San Francisco,Hyundai,Santa Fe,SUV,Used,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,94103,"13,854",38267
+San Francisco,BMW,X3,SUV,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"27,754",39398
+San Francisco,BMW,X3,SUV,Certified,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"30,520",39595
+San Francisco,BMW,440i Gran Coupe,HATCH,Certified,Gray,Venetianbeige/Darkoyster,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,94103,"18,605",39817
+San Francisco,BMW,X3,SUV,Certified,Black,Cognac Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2019,94103,"18,253",40295
+San Francisco,BMW,330i,SEDAN,Used,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,94103,"9,944",40495
+San Francisco,BMW,330i,SEDAN,Used,White,Cognac Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,94103,"9,746",40795
+San Francisco,Lexus,RC 300,COUPE,Used,White,Black (F-Sport Film),Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,94103,"28,415",41995
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 35 Highway,2020,94103,"6,774",41995
+San Francisco,Chrysler,Pacifica,VANS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,94103,"12,175",42517
+San Francisco,Land Rover,Range Rover Sport,SUV,Used,Black,Blk/Black,Automatic,Flexible Fuel,8-Cylinder Supercharged,4 wheel drive,14 City / 19 Highway,2015,94103,"66,763",42707
+San Francisco,BMW,440i Gran Coupe xDrive,HATCH,Certified,Gray,Black Dak Lthr W/ Oyster Hglgt,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2019,94103,"17,453",43798
+San Francisco,BMW,230i,CONVERT,Used,Gray,Coral Red Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2021,94103,"1,736",44637
+San Francisco,Audi,S4,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,94103,"28,243",44987
+San Francisco,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,94103,"12,611",44995
+San Francisco,BMW,540i xDrive,SEDAN,Certified,Silver,Black Dakota Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2018,94103,"23,430",44995
+San Francisco,Porsche,Macan,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,94103,"50,550",44997
+San Francisco,Audi,Q5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,94103,"10,762",45595
+San Francisco,BMW,430i,COUPE,Used,White,Black Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 34 Highway,2021,94103,"9,325",46795
+San Francisco,BMW,540d xDrive,SEDAN,Used,White,Cognac Dakota Leather,Automatic,Diesel,6-Cylinder Turbo,All wheel drive,26 City / 36 Highway,2018,94103,"51,718",47757
+San Francisco,Tesla,Model 3,SEDAN,Used,White,Blk/Black,Single-Speed,Electric,Electric,All wheel drive,,2018,94103,"43,067",47995
+San Francisco,Honda,Civic,HATCH,Used,White,Black/Red,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,94103,"12,622",47995
+San Francisco,Porsche,Macan,SUV,Used,Silver,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,94103,"36,455",48577
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,94103,"7,132",48795
+San Francisco,BMW,X3,SUV,Used,Gray,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 29 Highway,2021,94103,"13,402",48995
+San Francisco,Ford,Mustang,COUPE,Used,Black,Ebony W/Green Stitch,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,94103,"4,475",48997
+San Francisco,BMW,X5,SUV,Certified,White,Black Sensatec,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,94103,"18,598",49295
+San Francisco,BMW,640i Gran Coupe,SEDAN,Used,Blue,Ivory Wht/Blk Nappa Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2019,94103,"44,928",51995
+San Francisco,BMW,Z4,CONVERT,Used,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,94103,"6,647",53747
+San Francisco,BMW,X5,SUV,Certified,Blue,Cognac Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"34,695",53887
+San Francisco,Lexus,RX 350L,SUV,Used,Blue,Black Nuluxe<Sup> </Sup> With ,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2021,94103,"1,644",54297
+San Francisco,Porsche,Macan,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,94103,"12,851",56595
+San Francisco,BMW,M550i xDrive,SEDAN,Certified,Gray,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,94103,"26,430",56595
+San Francisco,BMW,X6,SUV,Certified,Gray,Canberra Beige/Black Dakota Le,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2019,94103,"20,269",56997
+San Francisco,BMW,430i,CONVERT,Used,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2021,94103,588,58877
+San Francisco,BMW,X5,SUV,Certified,White,Black Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"23,549",58995
+San Francisco,BMW,X5,SUV,Certified,Black,Black Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94103,"20,937",58995
+San Francisco,BMW,M4,COUPE,Used,,Black Full Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2019,94103,"28,506",66547
+San Francisco,Land Rover,Range Rover Sport,SUV,Used,White,Tou/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,94103,"37,017",67995
+San Francisco,BMW,M3,SEDAN,Used,White,Cloth/Leather Carbonstructure,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,94103,"13,857",68697
+San Francisco,BMW,X5,SUV,Certified,Blue,Black Vernasca Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,94103,"26,392",68795
+San Francisco,BMW,650i xDrive,CONVERT,Certified,White,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,94103,"24,541",69995
+San Francisco,BMW,X3 M,SUV,Used,Gray,Black Vernasca Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2020,94103,"11,569",71995
+San Francisco,Tesla,Model S,HATCH,Used,,,Single-Speed,Electric,Electric,All wheel drive,,2016,94103,"34,906",72727
+San Francisco,BMW,M850i xDrive,COUPE,Used,Black,Cognac Extended Merino Leathe,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,94103,"27,197",83477
+San Francisco,Audi,A4,SEDAN,Used,Blue,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2014,94014,"57,661",19999
+San Francisco,Honda,Civic,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,94014,"68,319",21999
+San Francisco,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,94014,"14,659",25999
+San Francisco,Honda,Civic,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,94014,"19,339",27499
+San Francisco,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94014,"26,910",27499
+San Francisco,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,94014,"59,753",27999
+San Francisco,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94014,"23,540",28499
+San Francisco,Honda,Accord,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,94014,"12,972",31498
+San Francisco,Honda,CR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,94014,"32,583",32499
+San Francisco,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,94014,"4,927",35999
+San Francisco,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,94014,"4,158",36999
+San Francisco,Honda,Pilot,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2020,94014,"18,512",37999
+San Francisco,Honda,Odyssey,VANS,Used,Green,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,94014,"30,853",37999
+San Francisco,Honda,Odyssey,VANS,Certified,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,94014,"25,490",37999
+San Francisco,Acura,RDX,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,94014,"29,477",38499
+San Francisco,Honda,Passport,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,94014,"8,852",39999
+San Francisco,Honda,Pilot,SUV,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,94014,"39,493",41999
+San Francisco,Honda,Pilot,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,94014,"34,947",42499
+San Francisco,Audi,A5,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,94014,"10,852",45999
+San Francisco,MAZDA,CX-9,SUV,Certified,White,Auburn,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,94901,"39,518",35988
+San Francisco,Toyota,Corolla,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2019,94014,"16,994",21999
+San Francisco,Honda,Civic,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 36 Highway,2019,94014,"20,546",23999
+San Francisco,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,94014,"27,771",28499
+San Francisco,Mercedes-Benz,CLA 250,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2018,94014,"33,770",28998
+San Francisco,Audi,Q3,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,94014,"27,118",29997
+San Francisco,Lexus,ES 350,SEDAN,Used,White,Parchment W/Birds Eye,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2016,94014,"39,218",29998
+San Francisco,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2019,94014,"17,676",31995
+San Francisco,Subaru,Outback,SUV,Certified,Blue,,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,94014,"25,198",32995
+San Francisco,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,94014,"24,235",33999
+San Francisco,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,94014,"34,940",34996
+San Francisco,Lexus,UX 250h,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,94014,"23,552",35999
+San Francisco,Subaru,Forester,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,94014,"8,362",36996
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 27 Highway,2019,94014,"28,180",36998
+San Francisco,Lexus,NX 300,SUV,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,94014,"12,950",39995
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,94014,"32,283",39996
+San Francisco,Cadillac,XT4,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94014,"8,669",40996
+San Francisco,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2020,94014,"17,196",41999
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,94014,"5,921",42996
+San Francisco,Lexus,RX 350,SUV,Certified,Black,Noble Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,94014,"31,868",42996
+San Francisco,Toyota,Tundra,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2020,94014,"11,291",44996
+San Francisco,Tesla,Model 3,SEDAN,Used,Blue,White,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,94014,"15,402",46998
+San Francisco,Lexus,RX 350,SUV,Used,Gold,Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,94014,"24,596",46999
+San Francisco,Lexus,RX 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,94014,"11,239",48998
+San Francisco,Toyota,Tundra,TRUCKS,Used,Blue,Beige,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,94014,"29,300",48999
+San Francisco,Porsche,Macan,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,94014,"34,251",49996
+San Francisco,Tesla,Model 3,SEDAN,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,94014,"30,462",49996
+San Francisco,BMW,Z4,CONVERT,Used,Red,White,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2019,94014,"20,689",49999
+San Francisco,Cadillac,Escalade ESV,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,94014,"25,354",66996
+San Francisco,Mercedes-Benz,GLE 53 AMG,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 22 Highway,2021,94014,"6,505",89999
+San Francisco,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 31 Highway,2015,94014,"32,801",16490
+San Francisco,Nissan,Altima,SEDAN,Used,,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2015,94014,"35,976",16990
+San Francisco,Nissan,Kicks,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,94014,"7,885",23990
+San Francisco,Nissan,Sentra,SEDAN,Used,Orange,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,94014,"4,456",24990
+San Francisco,Nissan,Kicks,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,94014,"15,128",25490
+San Francisco,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,94014,"29,214",33990
+San Francisco,INFINITI,QX50,SUV,Used,Blue,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,94014,"18,024",36990
+San Francisco,BMW,X4,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2017,94014,"41,360",39490
+San Francisco,Ford,Explorer,SUV,Used,Silver,Medium Light Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2012,94014,"24,424",20991
+San Francisco,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,94014,"31,076",20991
+San Francisco,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2018,94014,"33,904",22991
+San Francisco,Ford,Mustang,COUPE,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2016,94014,"31,377",23991
+San Francisco,Hyundai,Santa Fe,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2017,94014,"25,659",24991
+San Francisco,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2017,94014,"20,972",25491
+San Francisco,Ford,Fusion,SEDAN,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,94014,"1,267",26491
+San Francisco,Ford,Mustang,COUPE,Used,Silver,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,94014,"14,692",28991
+San Francisco,Ford,Escape,SUV,Used,White,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,94014,"8,368",29991
+San Francisco,MAZDA,MX-5 Miata RF,CONVERT,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 34 Highway,2020,94014,"4,717",34991
+San Francisco,Ford,Explorer,SUV,Used,White,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,94014,"17,410",44991
+San Francisco,Volkswagen,Tiguan,SUV,Used,Green,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,94612,"7,601",26995
+San Francisco,BMW,330i,SEDAN,Used,Orange,Canberra Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,94403,"8,194",39988
+San Francisco,BMW,430i xDrive,COUPE,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 33 Highway,2021,94403,"9,176",45998
+San Francisco,BMW,430i,COUPE,Used,Blue,Cognac W/Contrast Stitch,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 34 Highway,2021,94403,"9,380",46988
+San Francisco,BMW,M440i xDrive,COUPE,Used,Black,Mocha W/Contrast Stitch,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2021,94403,"5,685",59888
+San Francisco,Mercedes-Benz,GLA 250,SUV,Certified,Red,Sahara Beige W/Mb-Tex Upholste,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,94611,"14,032",37986
+San Francisco,Mercedes-Benz,E 300,SEDAN,Certified,Silver,Black W/Mb-Tex Upholstery,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,94611,"20,705",48986
+San Francisco,Mercedes-Benz,GLC 300,SUV,Certified,Black,Black W/Mb-Tex Upholstery,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,94611,"5,684",49986
+San Francisco,Mercedes-Benz,GLC 300,SUV,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,94596,"32,308",33599
+San Francisco,Mercedes-Benz,GLA 250,SUV,Certified,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,94596,"16,632",34999
+San Francisco,Mercedes-Benz,GLC 300,SUV,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,94596,"28,132",38999
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,94596,"32,150",38999
+San Francisco,Mercedes-Benz,GLC 300,SUV,Certified,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,94596,"23,462",39999
+San Francisco,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2017,94621,"38,536",21564
+San Francisco,Honda,CR-V,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2016,94621,"56,131",24964
+San Francisco,Toyota,Corolla,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,94621,"28,136",26183
+San Francisco,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,94621,"29,443",27965
+San Francisco,Honda,Passport,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,94621,"9,842",37965
+San Francisco,Toyota,4Runner,SUV,Certified,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,94621,"1,124",48783
+San Francisco,Mercedes-Benz,GLE 400,SUV,Used,Gray,Espresso Brown Mb-Tex,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,94109,"30,025",49480
+San Francisco,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,94109,"27,934",27991
+San Francisco,Dodge,Challenger,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,94109,"23,473",29991
+San Francisco,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,94109,"47,641",31991
+San Francisco,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,94109,"5,131",34991
+San Francisco,Chrysler,Pacifica,VANS,Used,White,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2017,94066,"43,454",24998
+San Francisco,Toyota,Prius,HATCH,Certified,Green,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2019,94066,"4,466",31998
+San Francisco,Toyota,Camry,SEDAN,Certified,Off White,Cockpit Red,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,94066,"14,029",33995
+San Francisco,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,94066,"6,365",38992
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,94901,"27,131",38590
+San Francisco,MAZDA,MAZDA3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2018,94530,"28,014",22499
+San Francisco,Honda,Civic,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 42 Highway,2016,94530,"31,299",23185
+San Francisco,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,94530,"13,910",24780
+San Francisco,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,94530,"19,186",25491
+San Francisco,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,94530,"37,652",25802
+San Francisco,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2017,94530,"26,945",26981
+San Francisco,Honda,Accord,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,94530,"38,648",27105
+San Francisco,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,94530,"12,720",27876
+San Francisco,Honda,HR-V,SUV,Certified,Purple,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,94530,"21,427",27894
+San Francisco,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,94530,"28,171",29858
+San Francisco,Honda,Insight,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 45 Highway,2019,94530,"12,383",30408
+San Francisco,Honda,CR-V,SUV,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2020,94530,"6,799",32975
+San Francisco,INFINITI,QX60,SUV,Used,Blue,High Contrast Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,94530,"28,020",32984
+San Francisco,Honda,Accord,SEDAN,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,94530,"16,693",33232
+San Francisco,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,94530,"30,518",35262
+San Francisco,Volkswagen,Beetle,CONVERT,Used,Gray,Black,Automatic,Gasoline,5-Cylinder,2 wheel drive - front,21 City / 27 Highway,2013,94901,"77,838",16999
+San Francisco,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2017,94901,"43,832",21999
+San Francisco,Audi,Q3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2016,94901,"52,422",24999
+San Francisco,Lexus,IS 300,SEDAN,Used,Black,Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,94901,"24,966",36999
+San Francisco,Lexus,RX 350,SUV,Used,Black,Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,94901,"43,980",36999
+San Francisco,Lexus,UX 250h,SUV,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,94901,"12,546",37999
+San Francisco,Lexus,ES 300h,SEDAN,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 45 Highway,2019,94901,"7,310",43999
+San Francisco,MAZDA,CX-5,SUV,Used,Blue,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,94901,"26,597",33490
+San Francisco,Nissan,Murano,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2015,94901,"33,587",28600
+San Francisco,Land Rover,Range Rover,SUV,Used,Gray,Ebony/Ebony/Ebony/Ebony,Automatic,Gasoline,8-Cylinder Supercharged,4 wheel drive,14 City / 19 Highway,2016,94901,"35,521",61800
+San Francisco,Volvo,XC90,SUV,Certified,Gray,Blond,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,26 City / 28 Highway,2021,94901,"7,035",67800
+San Francisco,MINI,Cooper Paceman,SUV,Used,White,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,,2016,94925,"34,906",18900
+San Francisco,Toyota,C-HR,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,94925,"37,261",24500
+San Francisco,Jeep,Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,94925,"16,617",26800
+San Francisco,MINI,Cooper,CONVERT,Certified,Black,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,94925,"23,068",28500
+San Francisco,MINI,Cooper Countryman,SUV,Used,Green,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2020,94925,"7,049",33800
+San Francisco,MINI,Cooper Countryman,SUV,Certified,Silver,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,94925,"26,830",36900
+San Francisco,Ford,Mustang,COUPE,Used,Gray,Ebony,,Gasoline,6-Cylinder,2 wheel drive - rear,,2016,94577,"26,859",24899
+San Francisco,INFINITI,QX50,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2017,94520,"44,815",25998
+San Francisco,Lexus,IS 300,SEDAN,Used,White,Flaxen,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,94520,"57,909",28588
+San Francisco,Lexus,ES 350,SEDAN,Used,Beige,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,94520,"14,680",43998
+San Francisco,BMW,X1,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,94588,"28,784",29991
+San Francisco,BMW,540i,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2017,94588,"19,548",36914
+San Francisco,Mitsubishi,Outlander,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2020,94014,"14,513",28999
+San Francisco,Mercedes-Benz,A 220,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 35 Highway,2019,94002,"20,950",33999
+San Francisco,Mercedes-Benz,GLA 250,SUV,Certified,White,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,94002,"28,000",33999
+San Francisco,Mercedes-Benz,GLE 400,SUV,Certified,Blue,Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,94002,"22,164",47599
+San Francisco,Mercedes-Benz,GLC 300,SUV,Certified,Blue,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,94002,"10,775",48498
+San Francisco,Mercedes-Benz,GLC 43 AMG,SUV,Certified,Black,Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2019,94002,"16,419",52999
+San Francisco,Acura,RDX,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2018,94611,"34,186",28491
+San Francisco,Toyota,Camry,SEDAN,Certified,Black,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2016,94596,"49,518",19500
+San Francisco,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,94596,"61,697",21900
+San Francisco,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 34 Highway,2016,94596,"44,930",23700
+San Francisco,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2016,94596,"32,871",25700
+San Francisco,Ford,Explorer,SUV,Used,Red,Dark Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2017,94596,"59,926",32700
+San Francisco,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2020,94596,"12,630",33300
+San Francisco,Toyota,Highlander,SUV,Certified,Black,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,29 City / 27 Highway,2017,94596,"57,399",37300
+San Francisco,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2021,94596,"12,795",66700
+San Francisco,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2014,94103,"93,952",14795
+San Francisco,INFINITI,FX35,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2012,94103,"114,956",14967
+San Francisco,Chevrolet,Cruze,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2016,94103,"59,565",14995
+San Francisco,Volkswagen,Passat,SEDAN,Used,Black,Cornsilk Beige Leatherette W/B,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2016,94103,"71,644",17498
+San Francisco,BMW,i3,HATCH,Used,White,Mega (Sensatec And Cloth),Single-Speed,Electric,Electric,2 wheel drive - rear,,2016,94103,"36,321",18995
+San Francisco,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,94103,"35,236",19995
+San Francisco,Subaru,BRZ,COUPE,Used,Blue,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2014,94103,"39,552",23295
+San Francisco,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,94103,"19,394",24228
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,Red,101/Bl,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2016,94103,"76,572",24888
+San Francisco,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2013,94103,"89,698",24995
+San Francisco,BMW,i3,HATCH,Certified,White,Mega,Single-Speed,Electric,Electric,2 wheel drive - rear,,2018,94103,"25,225",24995
+San Francisco,BMW,i3,HATCH,Used,Black,Deka Dark Cloth,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2018,94103,"27,600",26495
+San Francisco,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,94103,"49,734",26997
+San Francisco,BMW,i3,HATCH,Certified,White,Mega,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2018,94103,"26,029",27295
+San Francisco,Audi,Q3,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,94103,"55,945",28995
+San Francisco,Toyota,Camry,SEDAN,Used,Black,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2020,94103,"21,651",30897
+San Francisco,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,94103,"36,065",30995
+San Francisco,Dodge,Challenger,COUPE,Used,Purple,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2016,94103,"35,605",31795
+San Francisco,Subaru,Forester,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,94103,"34,676",34595
+San Francisco,BMW,430i,COUPE,Certified,Gray,Coral Red Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,94103,"33,214",34595
+San Francisco,Mercedes-Benz,C 300,COUPE,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 30 Highway,2017,94103,"37,146",34995
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,,101/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2018,94103,"52,073",34997
+San Francisco,BMW,X1,SUV,Used,Silver,Mocha Dakota Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,94103,"22,235",35995
+San Francisco,Land Rover,Range Rover Sport,SUV,Used,,,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2016,94103,"78,219",35998
+San Francisco,Nissan,Leaf,HATCH,Used,Red,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2021,94103,"1,708",36587
+San Francisco,Volvo,XC90,SUV,Used,Silver,2701/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2017,94103,"63,135",37688
+San Francisco,Toyota,Tacoma,TRUCKS,Used,Silver,Black/Orange,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2017,94103,"39,315",38427
+San Francisco,BMW,X3,SUV,Certified,White,Black Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"33,819",38995
+San Francisco,BMW,330i,SEDAN,Used,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,94103,"10,062",39795
+San Francisco,BMW,X3,SUV,Certified,White,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,94103,"30,034",39795
+San Francisco,BMW,230i,COUPE,Used,White,Black Sensatec/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2021,94103,"13,586",39995
+San Francisco,BMW,430i,CONVERT,Certified,Black,Black Sensatec/Red Stitching,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,94103,"40,442",41267
+San Francisco,BMW,530e,SEDAN,Certified,White,Black Sensatec,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,25 City / 31 Highway,2020,94103,"21,459",42995
+San Francisco,BMW,330i,SEDAN,Used,Black,Cognac Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2021,94103,"10,057",44995
+San Francisco,BMW,430i,COUPE,Used,Black,Black Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 34 Highway,2021,94103,"11,182",45995
+San Francisco,Toyota,4Runner,SUV,Used,Gray,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,94103,"23,777",45995
+San Francisco,BMW,X5,SUV,Certified,Silver,Black Dakota Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,94103,"30,953",46595
+San Francisco,BMW,430i,COUPE,Used,White,Canberra Beige Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 34 Highway,2021,94103,"10,016",46795
+San Francisco,BMW,X5,SUV,Certified,Gray,Ivory White/Blk Dakota Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,23 City / 25 Highway,2018,94103,"15,256",48795
+San Francisco,BMW,X3,SUV,Certified,Silver,Canberra Beige Vernasca Lthr,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,94103,"34,582",48895
+San Francisco,Mercedes-Benz,GLC 300,SUV,Used,,101/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,94103,"14,272",49295
+San Francisco,BMW,X3,SUV,Used,Black,Tacora Red Perforated Sensatec,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 29 Highway,2022,94103,"4,073",52995
+San Francisco,BMW,Z4,CONVERT,Certified,White,Magma Red Vernasca Leather,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 32 Highway,2020,94103,"17,384",54995
+San Francisco,BMW,M3,SEDAN,Used,Silver,Golden Brown Extended Merino,Manual,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 26 Highway,2017,94103,"43,458",56995
+San Francisco,BMW,M4,COUPE,Used,Black,Black Extended Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2019,94103,"33,569",64995
+San Francisco,BMW,X5,SUV,Used,Black,Black Vernasca Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,94103,"20,275",69995
+San Francisco,Tesla,Model S,HATCH,Used,,Blk/Black,Single-Speed,Electric,Electric,All wheel drive,,2017,94103,"53,476",74727
+San Francisco,Mercedes-Benz,S 560,SEDAN,Used,Black,Silk Beige/Espresso Brown Excl,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2019,94103,"42,358",75747
+San Francisco,BMW,i3,HATCH,Used,Blue,Deka,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,94014,"22,936",31935
+San Francisco,Tesla,Model S,HATCH,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,94014,"22,779",90500
+San Francisco,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,94014,"57,172",17999
+San Francisco,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,94014,"20,620",23499
+San Francisco,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2016,94014,"33,134",24997
+San Francisco,Buick,LaCrosse,SEDAN,Used,Blue,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,94014,"37,940",25498
+San Francisco,Honda,Accord,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94014,"12,230",25999
+San Francisco,Honda,Civic,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,94014,"24,257",25999
+San Francisco,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,94014,"24,424",27998
+San Francisco,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2016,94014,"72,338",27999
+San Francisco,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94014,"39,319",27999
+San Francisco,Toyota,Prius Prime,HATCH,Used,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2019,94014,"28,321",27999
+San Francisco,Honda,Accord,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,94014,"23,598",28499
+San Francisco,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,94014,"35,730",28696
+San Francisco,Toyota,C-HR,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,94014,"12,273",29998
+San Francisco,Honda,Accord,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,94014,"12,270",30498
+San Francisco,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,94014,"14,268",30696
+San Francisco,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,94014,"28,149",30998
+San Francisco,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,94014,"12,519",30998
+San Francisco,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,94014,"21,353",32696
+San Francisco,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2021,94014,"8,154",32996
+San Francisco,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,94014,"19,149",32997
+San Francisco,Mercedes-Benz,GLA 250,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,94014,"19,361",32999
+San Francisco,Honda,Accord,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,94014,"9,867",33696
+San Francisco,Ford,Mustang,CONVERT,Used,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2016,94014,"36,525",34496
+San Francisco,Acura,TLX,SEDAN,Used,Red,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,94014,"6,991",35999
+San Francisco,Acura,RDX,SUV,Used,Silver,Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2019,94014,"28,630",37696
+San Francisco,Honda,Ridgeline,TRUCKS,Used,Black,Black/Red,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,94014,"30,857",38496
+San Francisco,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,94014,"38,994",38696
+San Francisco,Acura,MDX,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,94014,"14,770",39496
+San Francisco,Acura,MDX,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,94014,"19,597",42998
+San Francisco,Acura,RDX,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,94014,"19,492",42998
+San Francisco,Toyota,4Runner,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,94014,"14,484",48998
+San Francisco,BMW,M3,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 24 Highway,2018,94014,"22,680",65999
+San Francisco,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,94544,"11,558",31555
+San Francisco,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,94544,"1,872",53955
+San Francisco,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,94538,"20,471",34325
+San Francisco,Mercedes-Benz,C 300,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,94538,"17,978",37588
+San Francisco,MAZDA,MAZDA3,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 39 Highway,2014,94901,"36,835",16988
+San Francisco,MAZDA,MAZDA3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,94901,"16,955",19988
+San Francisco,MAZDA,CX-3,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2019,94901,"25,102",23988
+San Francisco,Toyota,Camry,SEDAN,Used,White,Ivory,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 38 Highway,2012,94941,"51,838",13991
+San Francisco,Volkswagen,Passat,SEDAN,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,94941,"19,332",22991
+San Francisco,Volkswagen,Tiguan,SUV,Certified,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,94941,"26,353",25991
+San Francisco,Volkswagen,Tiguan,SUV,Certified,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,94941,"19,958",29991
+San Francisco,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 23 Highway,2021,94941,"8,197",39991
+San Francisco,Audi,Q5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,94941,"29,717",42991
+San Francisco,Audi,Q5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,94941,"22,472",45991
+San Francisco,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2018,94901,"39,324",26500
+San Francisco,Toyota,Prius Prime,HATCH,Certified,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,55 City / 53 Highway,2020,94901,"19,137",31300
+San Francisco,Toyota,Tacoma,TRUCKS,Certified,Gray,Cement Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2019,94901,"28,928",33500
+San Francisco,MINI,Cooper,HATCH,Used,Off White,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,94014,"45,662",18595
+San Francisco,MAZDA,MAZDA3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 39 Highway,2014,94014,"6,600",18999
+San Francisco,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2016,94014,"43,924",20995
+San Francisco,Toyota,RAV4,SUV,Used,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2015,94014,"60,149",22995
+San Francisco,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,94014,"32,319",23795
+San Francisco,Subaru,Impreza,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 38 Highway,2018,94014,"32,577",23995
+San Francisco,Honda,Civic,SEDAN,Used,Gray,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,94014,"13,690",24595
+San Francisco,Alfa Romeo,Giulia,SEDAN,Used,Gray,Black/Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 33 Highway,2018,94014,"54,970",24996
+San Francisco,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,94014,"26,711",25955
+San Francisco,Volkswagen,Tiguan,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,94014,"34,702",26595
+San Francisco,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2018,94014,"42,276",26996
+San Francisco,Honda,Accord,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,94014,"17,034",28495
+San Francisco,Honda,Accord,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,94014,"28,314",29996
+San Francisco,Subaru,Crosstrek,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,94014,"5,297",34995
+San Francisco,Subaru,Crosstrek,SUV,Certified,Silver,Gray W/Yellow Stitching,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,94014,"11,518",35995
+San Francisco,Audi,Q5,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,94014,"35,630",36795
+San Francisco,Subaru,WRX,SEDAN,Used,Blue,Black Alcantara,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2018,94014,"29,404",37499
+San Francisco,Lexus,RX 350,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,94014,"35,982",37999
+San Francisco,INFINITI,QX60,SUV,Used,Brown,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,94014,"20,169",39999
+San Francisco,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2018,94014,"18,937",40995
+San Francisco,Lexus,ES 350,SEDAN,Used,Gray,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,94014,"34,576",40999
+San Francisco,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,94014,"23,473",43499
+San Francisco,Mercedes-Benz,E 300,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,94014,"25,751",43595
+San Francisco,Tesla,Model 3,SEDAN,Used,White,,Single-Speed,Electric,Electric,2 wheel drive - rear,,2021,94014,"13,851",49995
+San Francisco,Lexus,RX 450h,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,31 City / 28 Highway,2019,94014,"35,441",49999
+San Francisco,Tesla,Model Y,SUV,Used,Gray,Black,Single-Speed,Electric,Electric,All wheel drive,,2021,94014,"5,926",69499
+San Francisco,Maserati,GranTurismo,CONVERT,Used,Gray,Brown,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 20 Highway,2018,94014,"12,635",88886
+San Francisco,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,94014,"15,191",21990
+San Francisco,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,94014,"23,800",23490
+San Francisco,Nissan,Sentra,SEDAN,Used,Blue,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,94014,"6,693",26990
+San Francisco,Honda,Civic,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,94014,"9,564",29990
+San Francisco,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,94014,"1,263",32990
+San Francisco,Nissan,Leaf,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2020,94014,"10,303",32990
+San Francisco,Subaru,Crosstrek,SUV,Used,White,Gray W/Yellow Stitching,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2021,94014,"3,608",36790
+San Francisco,Honda,CR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,94014,"7,608",36990
+San Francisco,Mercedes-Benz,GLA 250,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,94014,"17,960",37490
+San Francisco,MAZDA,CX-30,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2020,94560,"17,608",24995
+San Francisco,Lexus,IS 250,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2008,94014,"83,237",12992
+San Francisco,Ford,Fiesta,SEDAN,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2018,94014,"25,301",14192
+San Francisco,Ford,C-MAX,HATCH,Used,White,Charcoal Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,41 City / 36 Highway,2014,94014,"13,954",15991
+San Francisco,Nissan,Rogue,SUV,Used,Red,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,94014,"39,610",20992
+San Francisco,Ford,EcoSport,SUV,Used,Off White,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,94014,"26,867",21492
+San Francisco,Ford,Mustang,COUPE,Used,Orange,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 31 Highway,2016,94014,"70,452",21991
+San Francisco,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,94014,"39,573",23491
+San Francisco,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2017,94014,"55,028",23992
+San Francisco,Ford,Escape,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,94014,"21,544",24492
+San Francisco,Ford,Fusion,SEDAN,Used,Blue,Ebony,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,94014,"15,753",27991

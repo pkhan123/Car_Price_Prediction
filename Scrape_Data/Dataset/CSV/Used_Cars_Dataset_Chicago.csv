@@ -1,0 +1,801 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Chicago,Subaru,Forester,SUV,Used,White,,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,60610,"28,885",28998
+Chicago,BMW,640i Gran Coupe xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2015,60610,"57,178",34888
+Chicago,BMW,228i xDrive Gran Coupe,SEDAN,Certified,White,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,60610,"2,700",38988
+Chicago,Audi,A7,HATCH,Used,Blue,,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,20 City / 29 Highway,2016,60610,"32,915",39888
+Chicago,BMW,530e xDrive,SEDAN,Certified,Blue,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,27 City / 31 Highway,2018,60610,"35,965",41888
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,60642,"25,882",28600
+Chicago,Hyundai,Elantra,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2016,60610,"12,770",16750
+Chicago,Honda,Fit,HATCH,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,60610,"7,277",23118
+Chicago,Buick,Encore,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,60610,"11,144",23432
+Chicago,Honda,Civic,HATCH,Used,Black,Black/Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,60610,"31,866",25617
+Chicago,Toyota,Corolla,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,60659,"17,174",22995
+Chicago,Chevrolet,Equinox,SUV,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,60610,"34,528",25998
+Chicago,BMW,330i xDrive,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"40,549",34888
+Chicago,BMW,430i Gran Coupe xDrive,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"42,398",39888
+Chicago,BMW,430i Gran Coupe xDrive,HATCH,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"24,903",45888
+Chicago,BMW,X3,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60610,"13,815",45888
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"13,277",46888
+Chicago,BMW,530i xDrive,SEDAN,Certified,,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"26,487",46998
+Chicago,Kia,Sportage,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2018,60712,"29,639",23499
+Chicago,Kia,Sportage,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2022,60712,"5,159",31642
+Chicago,Volvo,XC60,SUV,Used,Silver,Amber,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,60622,"23,912",37988
+Chicago,Volvo,XC60,SUV,Certified,Gray,Maroon Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,60622,"23,115",41488
+Chicago,Land Rover,Discovery,SUV,Certified,Blue,Vintage Tan/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2017,60622,"35,916",45988
+Chicago,Volvo,XC60,SUV,Certified,Black,Charcoal,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,,2018,60622,"21,776",54988
+Chicago,Volvo,XC90,SUV,Used,Black,Amber,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,60622,"25,381",57988
+Chicago,Hyundai,Elantra,SEDAN,Used,White,Medium Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 41 Highway,2021,60712,"5,247",24540
+Chicago,Subaru,Impreza,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,60641,"23,756",24674
+Chicago,Subaru,Outback,SUV,Certified,Gray,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,60641,"18,659",31018
+Chicago,Subaru,Forester,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"11,333",35261
+Chicago,Audi,A5,HATCH,Used,Gray,Okapi Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2021,60642,"3,293",51391
+Chicago,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,60712,"27,095",19388
+Chicago,Hyundai,Kona,SUV,Used,Orange,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,60712,"20,322",20388
+Chicago,Chevrolet,Malibu,SEDAN,Used,Brown,Dark Atmosphere/Loft Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2016,60712,"25,549",21788
+Chicago,Toyota,RAV4,SUV,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,60712,"37,759",24688
+Chicago,Toyota,RAV4,SUV,Used,Blue,Nutmeg,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2020,60712,"17,036",41788
+Chicago,Toyota,Tundra,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2017,60712,"29,248",44788
+Chicago,Porsche,718 Cayman,COUPE,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2019,60661,"11,604",87806
+Chicago,Porsche,Panamera,HATCH,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,60661,"36,378",88888
+Chicago,Porsche,911,COUPE,Certified,Silver,Black/Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,,2019,60661,"3,895",141270
+Chicago,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,60610,"54,960",22611
+Chicago,Honda,HR-V,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,60610,"25,956",26800
+Chicago,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,60610,"20,051",33650
+Chicago,Honda,Passport,SUV,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,60610,"35,230",36309
+Chicago,Chevrolet,Equinox,SUV,Used,Silver,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,60007,"23,053",24977
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,60007,"36,964",27477
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,17 City / 22 Highway,2015,60007,"48,782",30477
+Chicago,Porsche,Macan,SUV,Used,Black,Black/Garnet Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,60007,"30,362",60977
+Chicago,Ford,Fiesta,SEDAN,Used,Black,Charcoal Black,,Gasoline,4-Cylinder,2 wheel drive - front,,2019,60546,"12,813",15477
+Chicago,Kia,Sportage,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2017,60546,"38,033",18277
+Chicago,Dodge,Journey,SUV,Used,White,Black/Red,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2016,60546,"53,229",18477
+Chicago,Chevrolet,Equinox,SUV,Used,Black,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,60546,"16,240",23677
+Chicago,GMC,Terrain,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,60546,"30,425",25677
+Chicago,GMC,Terrain,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,60546,"23,505",27477
+Chicago,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2018,60546,"22,144",28177
+Chicago,Dodge,Challenger,COUPE,Used,Black,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2016,60546,"33,982",28777
+Chicago,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2021,60546,"7,286",34977
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,60546,"38,859",35977
+Chicago,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,60546,"26,763",36977
+Chicago,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,60546,"51,789",38477
+Chicago,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black/Spice Red All-Terrai,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,60546,"32,459",39477
+Chicago,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,60546,"39,108",42277
+Chicago,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2018,60659,"31,698",21990
+Chicago,Honda,CR-V,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,60645,"23,519",27006
+Chicago,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,60645,"20,481",27375
+Chicago,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,60645,"29,645",30205
+Chicago,Lexus,IS 350,SEDAN,Used,,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2014,60610,"39,215",25988
+Chicago,Audi,S5,COUPE,Used,,,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 28 Highway,2014,60610,"61,379",28788
+Chicago,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 27 Highway,2019,60610,"27,879",30888
+Chicago,Jeep,Grand Cherokee,SUV,Used,,,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,60610,"48,733",30999
+Chicago,BMW,X1,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,60610,"33,957",31999
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"32,052",33988
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"32,880",34488
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"21,666",34488
+Chicago,BMW,X2,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"12,934",34998
+Chicago,BMW,X2,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"20,498",35888
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"38,119",35888
+Chicago,BMW,330i xDrive,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"39,822",35988
+Chicago,BMW,X2,SUV,Certified,White,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"32,408",35998
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"25,765",35998
+Chicago,BMW,X2,SUV,Certified,Gold,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"18,172",36888
+Chicago,BMW,X2,SUV,Certified,Black,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"22,047",36888
+Chicago,BMW,330i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"16,306",36998
+Chicago,BMW,330i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"30,484",36998
+Chicago,BMW,X2,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60610,"16,712",37888
+Chicago,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"19,983",37998
+Chicago,BMW,228i xDrive Gran Coupe,SEDAN,Used,White,Mocha,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,60610,"4,008",38999
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"27,755",39999
+Chicago,BMW,530i xDrive,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"28,093",40888
+Chicago,BMW,X2,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2020,60610,"13,182",40988
+Chicago,BMW,430i Gran Coupe xDrive,HATCH,Certified,White,Coral Red,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"17,031",41888
+Chicago,BMW,540i,SEDAN,Certified,Blue,Cognac,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2018,60610,"26,431",41888
+Chicago,BMW,430i Gran Coupe xDrive,HATCH,Certified,Black,Ivory White,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"26,447",41998
+Chicago,BMW,X1,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2021,60610,8,42565
+Chicago,BMW,530i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"25,786",43788
+Chicago,BMW,530i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"15,025",43888
+Chicago,BMW,330i xDrive,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,60610,"10,552",43999
+Chicago,BMW,430i Gran Coupe xDrive,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"11,228",44888
+Chicago,BMW,330e xDrive,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,,2022,60610,361,47999
+Chicago,BMW,X3,SUV,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2020,60610,"12,785",48988
+Chicago,BMW,X3,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,60610,"16,976",51888
+Chicago,BMW,540i xDrive,SEDAN,Certified,Blue,Cognac,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,60610,"24,568",51998
+Chicago,BMW,540i xDrive,SEDAN,Certified,Blue,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,60610,"7,300",52888
+Chicago,BMW,X4,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2018,60610,"10,611",52888
+Chicago,BMW,Z4,CONVERT,Certified,Red,Magma Red,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 32 Highway,2020,60610,"9,809",53988
+Chicago,BMW,640i Gran Turismo xDrive,HATCH,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2019,60610,"12,188",54888
+Chicago,BMW,X5,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60610,"20,886",58988
+Chicago,BMW,M550i xDrive,SEDAN,Certified,Black,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,60610,"16,928",61888
+Chicago,BMW,740e xDrive,SEDAN,Certified,Gray,Mocha,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,25 City / 29 Highway,2019,60610,"20,930",61888
+Chicago,BMW,X5,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,60610,"17,017",64888
+Chicago,BMW,X7,SUV,Certified,Black,Ivory,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,60610,"23,719",75988
+Chicago,BMW,X7,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2019,60610,"18,750",77888
+Chicago,BMW,X6 M,SUV,Certified,Black,Black / Merino Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2019,60610,"24,617",78488
+Chicago,BMW,750i xDrive,SEDAN,Certified,Blue,Caramel,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 25 Highway,2018,60610,"36,992",87998
+Chicago,BMW,M8,COUPE,Certified,Gray,Black / Merino Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2020,60610,"3,715",106888
+Chicago,Chevrolet,Malibu,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,60525,"48,570",17775
+Chicago,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,60525,"34,669",24045
+Chicago,BMW,328i,SEDAN,Used,Black,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2013,60642,"80,409",14500
+Chicago,Toyota,Corolla,SEDAN,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2016,60642,"48,664",16995
+Chicago,Chevrolet,Cruze,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,60642,"33,953",17018
+Chicago,Toyota,Corolla,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2017,60642,"48,752",18500
+Chicago,Toyota,Corolla,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2017,60642,"43,488",19807
+Chicago,Subaru,Impreza,HATCH,Used,Blue,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,23 City / 27 Highway,2017,60642,"26,940",19854
+Chicago,Toyota,Corolla,SEDAN,Used,White,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,60642,"26,081",19900
+Chicago,Toyota,Prius,HATCH,Used,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,,2017,60642,"37,887",20900
+Chicago,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,60642,"34,913",21843
+Chicago,Cadillac,ATS,SEDAN,Used,Silver,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2016,60642,"33,354",21870
+Chicago,Toyota,C-HR,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,60642,"39,400",21900
+Chicago,Cadillac,ATS,SEDAN,Used,Silver,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,22 City / 32 Highway,2016,60642,"48,789",22084
+Chicago,Nissan,Pathfinder,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2017,60642,"41,960",22900
+Chicago,Toyota,Corolla,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 42 Highway,2019,60642,"18,673",23040
+Chicago,Nissan,Leaf,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,60642,"17,282",23900
+Chicago,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,60642,"23,724",23900
+Chicago,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,60642,"37,104",24080
+Chicago,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,60642,"33,899",24295
+Chicago,Hyundai,Kona,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2019,60642,"28,063",25105
+Chicago,Nissan,Kicks,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,60642,"17,003",25200
+Chicago,Toyota,Corolla,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2021,60642,"5,604",25900
+Chicago,Nissan,Murano,SUV,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,60642,"22,376",26018
+Chicago,Nissan,Leaf,HATCH,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,60642,"4,371",26429
+Chicago,Nissan,Maxima,SEDAN,Used,White,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,60642,"45,731",26798
+Chicago,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,60642,"22,762",26900
+Chicago,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,60642,"42,787",26935
+Chicago,Toyota,Prius,HATCH,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2019,60642,"14,126",27800
+Chicago,Toyota,Corolla,SEDAN,Used,Gray,Light Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2021,60642,"3,401",27804
+Chicago,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,60642,"27,709",27900
+Chicago,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,60642,"30,170",27966
+Chicago,Toyota,C-HR,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2021,60642,31,28646
+Chicago,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,60642,"15,344",28897
+Chicago,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,60642,"42,771",29093
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,60642,"26,878",29543
+Chicago,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2018,60642,"19,267",29544
+Chicago,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,60642,"13,500",29728
+Chicago,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,60642,"17,386",29885
+Chicago,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,,2019,60642,"27,188",29995
+Chicago,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60642,"13,206",30027
+Chicago,Toyota,Camry,SEDAN,Used,Blue,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,60642,"11,668",30440
+Chicago,Toyota,RAV4,SUV,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,60642,"22,801",30616
+Chicago,Kia,Sportage,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2020,60642,"17,794",30839
+Chicago,MAZDA,CX-9,SUV,Used,Blue,Sand,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,60642,"34,525",31835
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60642,"19,281",32084
+Chicago,Nissan,Leaf,HATCH,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2020,60642,"16,966",32514
+Chicago,Chevrolet,Equinox,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,60642,"7,047",32900
+Chicago,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,60642,"30,093",32900
+Chicago,Mercedes-Benz,C 300,COUPE,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2017,60642,"46,621",33326
+Chicago,Subaru,Forester,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60642,"24,799",34126
+Chicago,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,60642,"35,691",34855
+Chicago,Subaru,Forester,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60642,"22,676",34885
+Chicago,Toyota,Highlander,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,60642,"36,625",35900
+Chicago,Audi,A8,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 30 Highway,2015,60642,"55,333",35953
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60642,"15,809",36364
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,60642,"25,766",37900
+Chicago,Toyota,Highlander,SUV,Used,White,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,60642,"15,950",38500
+Chicago,Toyota,Tacoma,TRUCKS,Used,Blue,Black/Gun Metal,,Gasoline,6-Cylinder,4 wheel drive,,2019,60642,"13,052",39700
+Chicago,Toyota,Highlander,SUV,Used,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60642,"24,911",39836
+Chicago,Toyota,Highlander,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60642,"26,738",39846
+Chicago,Toyota,Tacoma,TRUCKS,Used,Silver,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,60642,"17,746",40035
+Chicago,Toyota,4Runner,SUV,Used,Blue,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,60642,"24,983",40048
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2021,60642,"7,259",40282
+Chicago,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60642,"18,090",40704
+Chicago,Porsche,Macan,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2017,60642,"42,540",40794
+Chicago,Toyota,4Runner,SUV,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 19 Highway,2021,60642,"3,336",41900
+Chicago,Toyota,Sienna,VANS,Used,Black,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2019,60642,"14,136",41990
+Chicago,Toyota,RAV4,SUV,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2021,60642,"4,612",42660
+Chicago,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,,2019,60642,"17,425",43551
+Chicago,Toyota,Highlander,SUV,Used,Gold,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,60642,"12,951",45104
+Chicago,Toyota,Tacoma,TRUCKS,Used,Silver,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,60642,"6,565",45908
+Chicago,Mercedes-Benz,C 43 AMG,SEDAN,Used,White,Saddle Brown/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,60642,"13,643",53900
+Chicago,Toyota,Supra,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,24 City / 31 Highway,2020,60642,"8,429",54341
+Chicago,Porsche,Macan,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,60642,"10,017",59900
+Chicago,Mercedes-Benz,GLE 350,SUV,Used,Blue,Macchiato Beige/Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,60642,"6,871",63220
+Chicago,Tesla,Model Y,SUV,Used,Blue,White/Black,Single-Speed,Electric,Electric,All wheel drive,,2022,60642,"1,936",71900
+Chicago,Mercedes-Benz,S 450,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2019,60642,"10,175",73696
+Chicago,BMW,M5,SEDAN,Used,Gray,Aragon Brown,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2018,60642,"36,905",78000
+Chicago,Audi,RS 5,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2019,60642,"5,374",81900
+Chicago,Porsche,Panamera,HATCH,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2018,60642,"24,902",115000
+Chicago,Chevrolet,Cruze,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,60453,"28,758",21500
+Chicago,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,60453,"27,018",26900
+Chicago,Chevrolet,Malibu,SEDAN,Used,Black,Wheat,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,60453,"14,866",31400
+Chicago,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,60712,"40,866",19226
+Chicago,MAZDA,MAZDA6,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,60712,"56,335",19988
+Chicago,Hyundai,Santa Fe,SUV,Used,Green,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 27 Highway,2014,60641,"71,147",16781
+Chicago,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,60173,"17,022",31977
+Chicago,Volkswagen,Atlas,SUV,Used,Blue,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,60173,"39,913",31977
+Chicago,Volkswagen,Atlas,SUV,Certified,Silver,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,60173,"22,332",40977
+Chicago,Mercedes-Benz,GLC 300,SUV,Certified,Blue,Black Mb Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,60642,"2,251",56981
+Chicago,Porsche,Panamera,HATCH,Used,Black,Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,60642,"10,016",99981
+Chicago,MAZDA,CX-5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2013,60202,"38,981",19000
+Chicago,MINI,Cooper,HATCH,Used,Gray,Carbon Black Checkered,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2013,60641,"59,596",11940
+Chicago,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,60641,"34,090",20890
+Chicago,Volkswagen,Tiguan,SUV,Certified,Orange,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,60641,"8,274",29990
+Chicago,Volkswagen,GTI,HATCH,Certified,Blue,Titan Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2020,60641,"16,813",31990
+Chicago,Chevrolet,Malibu,SEDAN,Used,Blue,Dark Atmosphere/Medium Ash Gra,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,60712,"40,512",18788
+Chicago,Kia,Telluride,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,60712,"23,158",41788
+Chicago,Mercedes-Benz,E 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 29 Highway,2014,60661,"51,000",24132
+Chicago,Acura,TL,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2006,60610,"166,058",6377
+Chicago,Nissan,Altima,COUPE,Used,White,Blonde,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 31 Highway,2008,60610,"91,048",7500
+Chicago,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black/Medium Titanium,Manual,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2015,60610,"56,207",10500
+Chicago,Volkswagen,Beetle,HATCH,Used,Red,Titan Black,Automatic,Gasoline,5-Cylinder,2 wheel drive - front,22 City / 29 Highway,2013,60610,"69,620",13250
+Chicago,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2014,60610,"37,407",18468
+Chicago,Volkswagen,Beetle,HATCH,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,,2016,60610,"45,027",18500
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Black,Cornsilk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,60610,"25,818",19000
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Red,Titan Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,60610,"8,521",19250
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Red,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,60610,"5,753",20750
+Chicago,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,60610,"32,694",21116
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,60610,"23,039",23000
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,60610,"20,965",23250
+Chicago,Volkswagen,Jetta,SEDAN,Certified,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,60610,"15,945",23500
+Chicago,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 34 Highway,2019,60610,"18,246",24100
+Chicago,Volkswagen,Passat,SEDAN,Used,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2019,60610,"2,468",24500
+Chicago,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 31 Highway,2018,60610,"36,410",25000
+Chicago,Nissan,Rogue,SUV,Used,Blue,Platinum Reserve,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,60610,"27,667",25750
+Chicago,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2020,60610,"10,086",25936
+Chicago,Volkswagen,Tiguan,SUV,Certified,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,60610,"12,010",26250
+Chicago,Honda,Civic,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,60610,"13,094",26393
+Chicago,Honda,CR-V,SUV,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,60610,"15,744",27000
+Chicago,Volkswagen,Tiguan,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,60610,"31,607",27250
+Chicago,Honda,Accord,COUPE,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,60610,"8,966",27308
+Chicago,Honda,HR-V,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,60610,"13,498",27341
+Chicago,Volkswagen,Tiguan,SUV,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,60610,"13,157",27500
+Chicago,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,60610,"38,592",28367
+Chicago,Honda,Civic,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,60610,"25,307",28494
+Chicago,Volkswagen,Tiguan,SUV,Certified,Green,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,60610,"11,235",28750
+Chicago,Mercedes-Benz,GLC 300,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2016,60610,"58,880",29250
+Chicago,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,60610,"24,000",29450
+Chicago,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,,2017,60610,"35,569",30000
+Chicago,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,60610,"16,220",31173
+Chicago,Toyota,4Runner,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2015,60610,"79,937",33030
+Chicago,Volkswagen,Tiguan,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,60610,"11,763",33250
+Chicago,Volkswagen,Atlas,SUV,Certified,Gray,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,60610,"19,257",37750
+Chicago,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,60610,"26,356",38500
+Chicago,Maserati,Ghibli,SEDAN,Used,White,Cuoio,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2017,60610,"36,202",39750
+Chicago,Volvo,XC60,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,60610,"29,596",42000
+Chicago,Audi,Q7,SUV,Used,Black,Pistachio Beige,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2017,60610,"46,261",42750
+Chicago,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,60610,"17,835",43500
+Chicago,Volkswagen,Golf R,HATCH,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,60610,"10,353",44250
+Chicago,Land Rover,Range Rover Velar,SUV,Used,Black,Light Oyster/Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2018,60610,"10,597",52750
+Chicago,Audi,Q7,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2018,60610,"26,174",53500
+Chicago,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 22 Highway,2019,60610,"8,950",71000
+Chicago,Land Rover,Range Rover Velar,SUV,Used,Black,Ebony W/Light Oyster,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2019,60025,"23,801",52888
+Chicago,Volvo,XC90,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 28 Highway,2021,60622,"4,571",57995
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2011,60007,"95,335",19477
+Chicago,GMC,Canyon,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2017,60018,"31,570",33849
+Chicago,Volkswagen,Passat,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,60202,"20,497",23501
+Chicago,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,60202,"25,695",25001
+Chicago,Jeep,Compass,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,60202,"18,046",26001
+Chicago,Volkswagen,Tiguan,SUV,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,60202,"28,309",27501
+Chicago,Buick,Verano,SEDAN,Used,Brown,Cashmere,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2012,60546,"79,061",11977
+Chicago,INFINITI,G25,SEDAN,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 29 Highway,2012,60546,"96,078",12277
+Chicago,Honda,Civic,COUPE,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2013,60546,"87,680",12977
+Chicago,Dodge,Challenger,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2016,60546,"75,074",20677
+Chicago,GMC,Terrain,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,60546,"43,914",21977
+Chicago,Chevrolet,Impala,SEDAN,Used,Black,Jet Black/Dark Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2018,60546,"35,074",26477
+Chicago,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2018,60546,"50,280",26977
+Chicago,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,60546,"37,781",27477
+Chicago,Maserati,Ghibli,SEDAN,Used,White,Rosso Trofeo,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,15 City / 25 Highway,2014,60546,"60,989",28977
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,60546,"82,564",30977
+Chicago,Ford,Expedition EL,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 19 Highway,2017,60546,"62,295",38777
+Chicago,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,60546,"10,040",51377
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,60546,"12,656",52977
+Chicago,Chevrolet,Cruze,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2014,60018,"38,041",11390
+Chicago,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2017,60018,"34,540",32599
+Chicago,Tesla,Model S,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2014,60018,"60,676",37998
+Chicago,Toyota,Prius,HATCH,Used,Gray,Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2014,60659,"45,613",19990
+Chicago,Toyota,Corolla,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 42 Highway,2019,60659,"15,511",22490
+Chicago,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,60659,"24,297",26990
+Chicago,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,60659,"27,131",27990
+Chicago,Toyota,C-HR,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2021,60659,"5,975",29990
+Chicago,Toyota,RAV4,SUV,Certified,Red,Nutmeg,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,60659,"29,242",30995
+Chicago,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,60659,"27,586",32995
+Chicago,Toyota,Camry,SEDAN,Certified,Gray,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2021,60659,"4,083",34495
+Chicago,Toyota,RAV4,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60659,"14,342",36990
+Chicago,Toyota,Tacoma,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,60659,"6,323",37490
+Chicago,Land Rover,Range Rover Velar,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 27 Highway,2020,60642,"16,161",59888
+Chicago,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2016,60618,"53,349",18299
+Chicago,Nissan,Versa,SEDAN,Certified,Red,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,60618,"11,815",19399
+Chicago,Nissan,Sentra,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,60618,"5,253",20749
+Chicago,Nissan,Kicks,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,60618,"16,422",20999
+Chicago,Nissan,Versa,SEDAN,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2020,60618,"2,507",21499
+Chicago,Nissan,Kicks,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,60618,"10,848",22250
+Chicago,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,60618,"13,047",27799
+Chicago,Nissan,Rogue,SUV,Certified,Blue,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,60618,"19,992",28249
+Chicago,Nissan,Altima,SEDAN,Certified,Orange,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,60618,"19,843",28500
+Chicago,Nissan,Pathfinder,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,60618,"23,381",28999
+Chicago,Nissan,Murano,SUV,Certified,White,Cashmere,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2019,60618,"29,202",32499
+Chicago,Nissan,Pathfinder,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,20 City / 27 Highway,2020,60618,"9,721",32499
+Chicago,INFINITI,QX60,SUV,Used,White,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2015,60618,"68,560",22499
+Chicago,INFINITI,Q50,SEDAN,Used,Black,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2015,60618,"41,106",23999
+Chicago,Nissan,Titan,TRUCKS,Used,Red,Charcoal,Automatic,Gasoline,8-Cylinder,4 wheel drive,12 City / 17 Highway,2014,60618,"64,687",24999
+Chicago,INFINITI,QX30,SUV,Certified,Silver,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,60618,"24,063",27249
+Chicago,INFINITI,QX70,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2017,60618,"34,922",31245
+Chicago,INFINITI,Q50,SEDAN,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,60618,"29,431",35249
+Chicago,INFINITI,QX50,SUV,Certified,Silver,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2020,60618,"17,589",40749
+Chicago,INFINITI,QX50,SUV,Certified,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,60618,"8,154",41499
+Chicago,INFINITI,QX60,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,60618,"14,060",44749
+Chicago,INFINITI,QX60,SUV,Certified,Black,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,60618,"9,725",45249
+Chicago,Honda,Civic,COUPE,Used,White,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,46304,"17,282",28911
+Chicago,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,60035,"28,257",19995
+Chicago,Chrysler,300,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,60559,"21,553",28500
+Chicago,BMW,320i xDrive,SEDAN,Used,Brown,Venetian Beige/Dark Oyster Hig,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,60559,"15,567",30999
+Chicago,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,60559,"46,756",32999
+Chicago,Toyota,Sequoia,SUV,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,60559,"6,018",65999
+Chicago,Honda,Pilot,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2015,60645,"77,143",25161
+Chicago,Honda,Accord,SEDAN,Used,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2018,60645,"32,227",28750
+Chicago,Chevrolet,Sonic,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2017,60610,"73,306",12999
+Chicago,Acura,RDX,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2015,60610,"94,219",17999
+Chicago,Honda,Accord,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,60610,"56,901",22888
+Chicago,Audi,A4,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,60610,"59,371",25988
+Chicago,BMW,X1,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,60610,"37,135",31988
+Chicago,BMW,X1,SUV,Certified,Black,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,60610,"30,223",32988
+Chicago,BMW,X2,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,60610,"31,120",33998
+Chicago,BMW,X1,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,60610,"28,000",34488
+Chicago,BMW,i3,HATCH,Certified,Gray,Truffle,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,60610,"14,370",34888
+Chicago,BMW,230i xDrive,COUPE,Certified,Blue,Oyster Dakota,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2020,60610,"20,606",34988
+Chicago,BMW,320i xDrive,SEDAN,Certified,Brown,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,60610,"15,954",34998
+Chicago,BMW,i3,HATCH,Certified,White,Tera,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,60610,"17,871",35999
+Chicago,BMW,i3,HATCH,Certified,Red,Deka,Single-Speed,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - rear,,2019,60610,"12,359",35999
+Chicago,BMW,X2,SUV,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2019,60610,"11,375",36998
+Chicago,GMC,Yukon,SUV,Used,,,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,60610,"76,358",37888
+Chicago,BMW,430i xDrive,CONVERT,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2018,60610,"40,842",37999
+Chicago,BMW,330i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,60610,"35,839",37999
+Chicago,BMW,X1,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,60610,"24,082",38988
+Chicago,BMW,530e xDrive,SEDAN,Certified,White,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,27 City / 31 Highway,2018,60610,"36,575",40998
+Chicago,BMW,530e xDrive,SEDAN,Certified,Black,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,27 City / 31 Highway,2018,60610,"25,687",42988
+Chicago,BMW,530e xDrive,SEDAN,Certified,White,Beige,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,27 City / 31 Highway,2018,60610,"32,028",43488
+Chicago,BMW,X3,SUV,Certified,Gray,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60610,"25,793",44488
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,60610,"39,175",44998
+Chicago,BMW,X3,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60610,"15,067",45888
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"28,577",45999
+Chicago,BMW,530i xDrive,SEDAN,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"23,283",46488
+Chicago,BMW,430i xDrive,CONVERT,Certified,White,Nightblue,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2019,60610,"32,329",47688
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,60610,"9,747",47888
+Chicago,BMW,530i xDrive,SEDAN,Certified,Black,Cognac,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 29 Highway,2020,60610,"22,575",49998
+Chicago,BMW,X5,SUV,Certified,Gray,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,60610,"26,208",49998
+Chicago,BMW,M340i xDrive,SEDAN,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,60610,"26,416",53988
+Chicago,BMW,640i Gran Turismo xDrive,HATCH,Certified,Blue,Ivory White,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,60610,"17,657",54998
+Chicago,BMW,M340i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,60610,"29,040",54998
+Chicago,BMW,740e xDrive,SEDAN,Used,White,Black Nappa Leather,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,All wheel drive,25 City / 29 Highway,2019,60610,"43,570",57888
+Chicago,BMW,X5,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60610,"25,527",59888
+Chicago,BMW,X5,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60610,"20,122",62888
+Chicago,BMW,X5,SUV,Certified,Black,Black / Merino Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60610,"13,665",66888
+Chicago,BMW,750i xDrive,SEDAN,Certified,Black,Black Nappa Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,60610,"31,727",68988
+Chicago,BMW,750i xDrive,SEDAN,Certified,Gray,,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,60610,"37,687",68998
+Chicago,BMW,X5,SUV,Certified,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,60610,"23,827",71888
+Chicago,BMW,X7,SUV,Certified,Black,Black / Merino Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2019,60610,"32,692",79998
+Chicago,BMW,745e xDrive,SEDAN,Certified,Blue,Smoke,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,19 City / 26 Highway,2020,60610,336,90998
+Chicago,BMW,M850i xDrive,COUPE,Certified,Gray,Cognac,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,60610,"10,095",95888
+Chicago,BMW,320i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,60559,"13,465",32998
+Chicago,BMW,640i Gran Turismo xDrive,HATCH,Used,Gray,Mocha,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2018,60559,"31,959",44599
+Chicago,Ford,Explorer,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2013,60525,"80,334",16971
+Chicago,Chevrolet,Equinox,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2017,60525,"55,400",19721
+Chicago,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,17 City / 22 Highway,2014,60525,"93,619",21769
+Chicago,Chevrolet,Impala,SEDAN,Used,White,Jet Black/Dark Titanium,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2016,60525,"68,415",21783
+Chicago,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,60525,"23,968",46571
+Chicago,Chevrolet,Impala,SEDAN,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 29 Highway,2015,60642,"77,769",11900
+Chicago,Jeep,Compass,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 26 Highway,2016,60642,"82,344",14400
+Chicago,Acura,TLX,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 35 Highway,2015,60642,"93,657",17065
+Chicago,Toyota,Tundra,TRUCKS,Used,,,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2007,60642,"127,920",17353
+Chicago,Chevrolet,Malibu,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,60642,"57,925",17500
+Chicago,Nissan,Altima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,60642,"52,968",17632
+Chicago,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,60642,"40,366",19921
+Chicago,Subaru,Crosstrek,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 34 Highway,2016,60642,"72,247",19995
+Chicago,Toyota,Corolla,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2018,60642,"45,369",20888
+Chicago,Volkswagen,Tiguan,SUV,Used,White,Cornsilk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2017,60642,"37,166",21000
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2015,60642,"64,445",21057
+Chicago,GMC,Terrain,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 28 Highway,2017,60642,"62,503",21995
+Chicago,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2017,60642,"41,679",22425
+Chicago,Honda,Odyssey,VANS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,60642,"87,572",22900
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,60642,"59,936",22900
+Chicago,Toyota,Corolla,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2018,60642,"29,677",22900
+Chicago,Toyota,C-HR,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,60642,"40,753",23436
+Chicago,Toyota,Corolla,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2019,60642,"19,375",23455
+Chicago,Toyota,Corolla,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,60642,"21,346",23874
+Chicago,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,60642,"44,038",24900
+Chicago,Toyota,Corolla,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2020,60642,"23,950",25083
+Chicago,Toyota,C-HR,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,60642,"18,922",25181
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60642,"44,460",25850
+Chicago,Subaru,Crosstrek,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,60642,"35,561",26833
+Chicago,Toyota,Camry,SEDAN,Used,Turquoise,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,60642,"27,109",26900
+Chicago,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2018,60642,"38,046",27325
+Chicago,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2018,60642,"45,045",27713
+Chicago,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,60642,"54,071",27853
+Chicago,Toyota,Prius,HATCH,Used,Gray,Moonstone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2018,60642,"26,248",29061
+Chicago,BMW,X2,SUV,Used,Orange,Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,60642,"47,709",29900
+Chicago,Toyota,FJ Cruiser,SUV,Used,Gray,Dark Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,,2014,60642,"111,922",30976
+Chicago,Nissan,Murano,SUV,Used,White,Cashmere,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,60642,"27,125",32905
+Chicago,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,60642,"58,753",34692
+Chicago,Mercedes-Benz,Metris,VANS,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,19 City / 23 Highway,2018,60642,"48,431",35233
+Chicago,Subaru,Outback,SUV,Used,Gray,Titanium Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,60642,"29,235",35782
+Chicago,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,60642,"44,258",35838
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,60642,"10,288",36849
+Chicago,Toyota,Camry,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2021,60642,"2,981",36900
+Chicago,Toyota,4Runner,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2016,60642,"48,764",37616
+Chicago,Toyota,Highlander,SUV,Used,Burgundy,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60642,"44,913",37765
+Chicago,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60642,"36,474",38572
+Chicago,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,60642,"41,179",38689
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,60642,"22,432",39600
+Chicago,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,60642,"36,699",39838
+Chicago,Mercedes-Benz,GLC 300,SUV,Used,Black,Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,60642,"29,967",39900
+Chicago,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,60642,"21,427",39968
+Chicago,Toyota,Sienna,VANS,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2018,60642,"35,357",40000
+Chicago,Toyota,Tacoma,TRUCKS,Used,Silver,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,60642,"27,423",40757
+Chicago,Toyota,Tacoma,TRUCKS,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2018,60642,"24,307",40900
+Chicago,Toyota,Tacoma,TRUCKS,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,60642,"26,021",41592
+Chicago,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,60642,"25,483",42953
+Chicago,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,60642,"23,278",46844
+Chicago,Toyota,Tundra,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,60642,"20,834",47000
+Chicago,Dodge,Durango,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 22 Highway,2020,60642,"27,496",47266
+Chicago,Porsche,Macan,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,60642,"29,556",48661
+Chicago,Toyota,4Runner,SUV,Used,Gray,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,60642,"9,278",49481
+Chicago,Tesla,Model 3,SEDAN,Used,White,White/Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2022,60642,104,55900
+Chicago,Tesla,Model Y,SUV,Used,Blue,Black,Single-Speed,Electric,Electric,All wheel drive,,2020,60642,"17,103",64999
+Chicago,Land Rover,Range Rover Sport,SUV,Used,Silver,Ebony/Ebony/Ebony/Cirrus,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,60642,"41,586",68711
+Chicago,Tesla,Model Y,SUV,Used,Silver,Black,Single-Speed,Electric,Electric,All wheel drive,,2022,60642,865,74900
+Chicago,Land Rover,Range Rover Sport,SUV,Used,Red,Ivory/Ebony/Ebony/Ivory/Ebony,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,60642,"41,341",77175
+Chicago,BMW,X7,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2020,60642,"9,980",99788
+Chicago,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,60304,"37,029",31493
+Chicago,Mercedes-Benz,C 300,SEDAN,Used,Red,Porcelain/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,60304,"25,189",32999
+Chicago,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,60304,"29,175",33999
+Chicago,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2018,60304,"30,181",34999
+Chicago,Subaru,Forester,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60304,"18,504",35993
+Chicago,Volvo,XC60,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2018,60304,"32,288",38998
+Chicago,Jeep,Grand Cherokee,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,60304,"18,911",38999
+Chicago,Volvo,XC60,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,60304,"26,969",39998
+Chicago,Volvo,XC60,SUV,Certified,Gray,Maroon Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,60304,"31,464",40798
+Chicago,Volvo,XC60,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,60304,"29,349",40998
+Chicago,Volvo,S90,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,60304,"19,789",41998
+Chicago,Volvo,XC60,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2020,60304,"15,375",45990
+Chicago,Chevrolet,Sonic,SEDAN,Used,Gray,Jet Black/Dark Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2017,60453,"18,158",15900
+Chicago,Chevrolet,Camaro,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2014,60181,"68,654",17377
+Chicago,Chevrolet,Malibu,SEDAN,Used,Silver,Dark Atmosphere/Medium Ash Gra,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,60181,"19,483",18777
+Chicago,Chevrolet,Malibu,SEDAN,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2017,60181,"32,480",19977
+Chicago,Toyota,Corolla,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,60181,"32,972",19977
+Chicago,Buick,Encore,SUV,Certified,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,60181,"26,273",21677
+Chicago,Chevrolet,Malibu,SEDAN,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,60181,"10,585",23977
+Chicago,Chevrolet,Traverse,SUV,Certified,Blue,Dark Titanium/Light Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,15 City / 22 Highway,2017,60181,"48,086",24177
+Chicago,Jeep,Compass,SUV,Used,Orange,Ruby Red/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,60181,"33,818",26977
+Chicago,Toyota,C-HR,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,60181,"19,406",27677
+Chicago,Chevrolet,Colorado,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2015,60181,"56,593",29177
+Chicago,Lincoln,MKZ,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,60181,"15,510",31677
+Chicago,Toyota,Tundra,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2015,60181,"60,403",32477
+Chicago,Chrysler,Pacifica,VANS,Used,Silver,Alloy/Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,,2017,60181,"47,246",32977
+Chicago,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,60181,"14,957",35277
+Chicago,Chevrolet,Silverado 2500,TRUCKS,Used,Blue,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2014,60181,"69,916",36177
+Chicago,Chevrolet,Camaro,COUPE,Certified,Red,Jet Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,60181,"19,917",40977
+Chicago,Mercedes-Benz,GLE 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,60181,"24,387",41277
+Chicago,Chevrolet,Traverse,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,60181,"34,349",41277
+Chicago,Chevrolet,Traverse,SUV,Certified,Red,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,60181,"14,848",49977
+Chicago,Ford,Mustang,COUPE,Used,White,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2016,60181,"24,082",50977
+Chicago,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 21 Highway,2020,60181,"11,684",63977
+Chicago,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 23 Highway,2016,60181,"10,202",71477
+Chicago,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2017,60035,"33,033",29987
+Chicago,Audi,A4,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,60035,"23,394",35987
+Chicago,Audi,Q3,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2021,60035,"8,510",41645
+Chicago,Audi,A4,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2020,60035,"9,184",46587
+Chicago,Audi,A6,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60035,"25,440",52987
+Chicago,Lexus,NX 200t,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2016,60559,"48,137",31500
+Chicago,Porsche,Macan,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2018,60559,"22,668",73000
+Chicago,Porsche,Panamera,HATCH,Certified,Gray,Black/Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,60559,"16,274",88500
+Chicago,Kia,Forte,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2017,60712,"38,936",15343
+Chicago,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,60712,"25,524",15688
+Chicago,Chevrolet,Cruze,SEDAN,Used,Red,Dark Atmosphere/Medium Atmosph,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,60712,"49,711",15939
+Chicago,Kia,Soul,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 31 Highway,2015,60712,"34,555",16189
+Chicago,Kia,Soul,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 31 Highway,2019,60712,"29,475",18599
+Chicago,Chevrolet,Malibu,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,60712,"49,057",18604
+Chicago,Subaru,Impreza,HATCH,Used,,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 37 Highway,2018,60712,"32,165",19488
+Chicago,Kia,Soul,HATCH,Used,Gray,Black/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,60712,"16,760",19917
+Chicago,Hyundai,Sonata,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,60712,"30,656",20764
+Chicago,Hyundai,Kona,SUV,Used,Gray,Gray/Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,60712,"24,665",21767
+Chicago,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,60712,"39,971",22402
+Chicago,Dodge,Journey,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,60712,"28,383",22636
+Chicago,Ford,Edge,SUV,Used,Silver,Dune,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2016,60712,"39,416",22964
+Chicago,Kia,Sorento,SUV,Used,White,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,60712,"28,352",23932
+Chicago,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,60712,"39,721",24464
+Chicago,Kia,Forte,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 40 Highway,2021,60712,"1,036",24563
+Chicago,Kia,Sportage,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,60712,"26,944",26788
+Chicago,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,60712,"29,950",26944
+Chicago,Kia,Sportage,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2020,60712,"11,220",27996
+Chicago,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2017,60712,"30,731",28644
+Chicago,Nissan,Pathfinder,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,60712,"29,091",29939
+Chicago,Honda,Accord,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,60712,"15,341",30247
+Chicago,Ford,Explorer,SUV,Used,Silver,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,18 City / 25 Highway,2019,60712,"27,675",34331
+Chicago,Kia,Sorento,SUV,Used,Silver,Satin Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,60712,"27,028",34388
+Chicago,Kia,Stinger,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2018,60712,"17,203",34588
+Chicago,Honda,CR-V,SUV,Used,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,60712,779,35499
+Chicago,Hyundai,Accent,HATCH,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2013,60712,"81,239",9299
+Chicago,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2014,60712,"3,048",15999
+Chicago,Hyundai,Sonata,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2016,60712,"35,896",17557
+Chicago,Buick,Encore,SUV,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 32 Highway,2016,60712,"58,337",17794
+Chicago,Hyundai,Elantra,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,60712,"23,606",19281
+Chicago,Hyundai,Sonata,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2018,60712,"17,309",19554
+Chicago,MAZDA,MAZDA3,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,60712,"33,747",19780
+Chicago,Hyundai,Veloster,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 34 Highway,2019,60712,"26,157",19979
+Chicago,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2016,60712,"42,665",20016
+Chicago,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,60712,"59,484",20657
+Chicago,Hyundai,Sonata,SEDAN,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,60712,"17,131",21418
+Chicago,Hyundai,Sonata,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,60712,"17,775",21664
+Chicago,Hyundai,Kona,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2018,60712,"18,428",21710
+Chicago,Honda,Civic,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,60712,"35,116",21823
+Chicago,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,60712,"20,300",22399
+Chicago,Honda,Civic,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,60712,"26,164",22688
+Chicago,Hyundai,Sonata,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,60712,"3,823",23029
+Chicago,Chevrolet,Trax,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2019,60712,"18,169",23160
+Chicago,Hyundai,Venue,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 34 Highway,2020,60712,"14,950",23299
+Chicago,Buick,Regal,SEDAN,Used,Gray,Ebony With Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2017,60712,"20,029",23599
+Chicago,Kia,Forte,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2020,60712,"19,657",23999
+Chicago,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,60712,"36,003",24169
+Chicago,Nissan,Sentra,SEDAN,Used,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2021,60712,"4,198",24200
+Chicago,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,60712,"31,782",24278
+Chicago,Nissan,Pathfinder,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2018,60712,"34,050",24463
+Chicago,Hyundai,Kona,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,60712,"24,139",24590
+Chicago,Hyundai,Tucson,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2018,60712,"36,479",24742
+Chicago,Hyundai,Santa Fe,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 26 Highway,2018,60712,"31,129",25102
+Chicago,Hyundai,Santa Fe,SUV,Used,Gray,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,60712,"26,094",26126
+Chicago,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2018,60712,"33,656",26799
+Chicago,Honda,HR-V,SUV,Used,Orange,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,60712,"17,086",26999
+Chicago,Kia,Optima,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 30 Highway,2019,60712,"17,975",28870
+Chicago,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,60712,"18,114",29524
+Chicago,Acura,TLX,SEDAN,Used,Blue,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2018,60712,"37,288",31455
+Chicago,Hyundai,Sonata,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,60712,"2,500",33538
+Chicago,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,60712,"37,524",34940
+Chicago,Nissan,Titan,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,60712,"33,526",37912
+Chicago,Subaru,Impreza,HATCH,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,60641,"19,781",21989
+Chicago,Subaru,Crosstrek,SUV,Used,Gray,Black,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 29 Highway,2018,60641,"36,079",23173
+Chicago,Subaru,Impreza,HATCH,Used,Black,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2019,60641,"25,066",23210
+Chicago,Subaru,Crosstrek,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,60641,"38,903",26109
+Chicago,Subaru,Outback,SUV,Certified,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,60641,"43,183",26913
+Chicago,BMW,650i xDrive,CONVERT,Used,Red,Ivory White,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 24 Highway,2013,60641,"85,283",28172
+Chicago,Subaru,Forester,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"12,900",30712
+Chicago,Subaru,Forester,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"20,695",31254
+Chicago,Subaru,Crosstrek,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,60641,"24,871",31301
+Chicago,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"22,364",33039
+Chicago,Subaru,Outback,SUV,Certified,Blue,Titanium Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,60641,"13,003",33063
+Chicago,Subaru,Forester,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"28,758",33118
+Chicago,Subaru,Forester,SUV,Used,Green,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"21,768",33869
+Chicago,Subaru,Forester,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"8,138",34034
+Chicago,Subaru,Forester,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"29,472",34269
+Chicago,Subaru,Forester,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"20,077",34522
+Chicago,Subaru,Forester,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"26,501",34791
+Chicago,Subaru,Forester,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,60641,"14,728",35153
+Chicago,Subaru,Forester,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,60641,"7,082",35250
+Chicago,Subaru,Ascent,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60641,"14,726",36839
+Chicago,Subaru,Outback,SUV,Certified,Black,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,60641,"8,345",36934
+Chicago,Subaru,WRX,SEDAN,Used,Red,Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2018,60641,"11,167",39550
+Chicago,Subaru,Ascent,SUV,Used,Black,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,60641,"8,148",39838
+Chicago,Toyota,Highlander,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,60641,"20,827",40980
+Chicago,Audi,A7,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,20 City / 29 Highway,2016,60641,"29,626",42417
+Chicago,Cadillac,Escalade,SUV,Used,White,Kona Brown With Jet Black Acce,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2018,60641,"33,010",64354
+Chicago,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,60546,"8,550",84977
+Chicago,Cadillac,Escalade,SUV,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,60409,"23,606",65976
+Chicago,Alfa Romeo,Giulia,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,60515,"19,770",40389
+Chicago,Porsche,911,CONVERT,Used,Black,Luxor Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2017,60515,"32,527",113184
+Chicago,Jeep,Renegade,SUV,Certified,Blue,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2021,60130,"7,944",29988
+Chicago,Dodge,Charger,SEDAN,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,60130,"26,237",31988
+Chicago,Jeep,Grand Cherokee,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,60130,"23,442",43988
+Chicago,Volkswagen,Atlas,SUV,Certified,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2020,60525,"11,633",37500
+Chicago,Volkswagen,Atlas,SUV,Certified,White,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,60525,"11,351",41650
+Chicago,Honda,Odyssey,VANS,Used,Green,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,46322,"28,985",35976
+Chicago,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2022,46322,"1,566",37544
+Chicago,Chevrolet,Camaro,COUPE,Certified,Blue,Jet Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2017,60636,"14,376",26000
+Chicago,Ford,Mustang,CONVERT,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2020,60636,"15,173",31500
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,60636,"36,237",32400
+Chicago,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,19 City / 22 Highway,2020,60636,"6,965",51000
+Chicago,Volkswagen,Jetta,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2018,60642,"31,662",18250
+Chicago,Volkswagen,Beetle,CONVERT,Used,Black,Black,Automatic,Gasoline,5-Cylinder,2 wheel drive - front,21 City / 27 Highway,2013,60642,"39,265",20555
+Chicago,Dodge,Journey,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2019,60642,"24,078",24588
+Chicago,Audi,Q7,SUV,Used,Brown,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,16 City / 22 Highway,2015,60642,"68,927",24888
+Chicago,Lexus,IS 250,SEDAN,Used,White,Flaxen,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2015,60642,"28,904",29988
+Chicago,Audi,A3,HATCH,Used,Gray,Chestnut Brown,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,34 City / 39 Highway,2018,60642,"28,503",37551
+Chicago,Audi,A3,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2018,60642,"13,444",38391
+Chicago,Audi,Q5,SUV,Used,Gray,Nougat Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,60642,"14,357",38888
+Chicago,Audi,Q5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,60642,"24,827",39288
+Chicago,Audi,A6,SEDAN,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60642,"10,652",53881
+Chicago,Audi,A6,SEDAN,Certified,Blue,Pearl Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,60642,"9,966",55504
+Chicago,BMW,X5,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60642,"21,500",56703
+Chicago,Jaguar,F-PACE,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2020,60642,"14,362",59791
+Chicago,Lexus,GX 460,SUV,Used,White,Red,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,60642,"6,414",65926
+Chicago,Audi,Q8,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,60642,"18,778",68929
+Chicago,Audi,Q8,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,60642,"16,088",71929
+Chicago,Honda,CR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,60053,"38,120",29993
+Chicago,Jeep,Compass,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,60642,"37,631",22981
+Chicago,Mercedes-Benz,CLA 250,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,60642,"24,624",32774
+Chicago,Mercedes-Benz,CLA 250,SEDAN,Certified,White,Sahara Beige Mb Tex,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,60642,"24,343",34981
+Chicago,Mercedes-Benz,CLA 250,SEDAN,Certified,Red,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2018,60642,"24,162",34981
+Chicago,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,60642,"21,230",37984
+Chicago,Mercedes-Benz,GLE 350,SUV,Certified,White,Espresso Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,60642,"28,895",44981
+Chicago,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,60642,"5,120",45984
+Chicago,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,60642,"15,496",49554
+Chicago,Mercedes-Benz,GLC 300,SUV,Certified,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,60642,"1,834",51981
+Chicago,Mercedes-Benz,C 300,SEDAN,Certified,Gray,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,60642,"6,389",51983
+Chicago,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black Mb Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,60642,"1,987",52984
+Chicago,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Silk Beige Mb Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,60642,"5,414",54552
+Chicago,Mercedes-Benz,GLB 35 AMG,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2021,60642,"4,618",56981
+Chicago,Mercedes-Benz,GLS 450,SUV,Certified,White,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2018,60642,"31,998",58982
+Chicago,Mercedes-Benz,C 300,CONVERT,Certified,Black,Sport Black Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2020,60642,"9,907",60984
+Chicago,Mercedes-Benz,C 43 AMG,COUPE,Certified,Gray,Cranberry Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2019,60642,"12,967",60984
+Chicago,Mercedes-Benz,GLE 350,SUV,Certified,Gray,Macchiato/Magma Grey,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,60642,"13,244",61984
+Chicago,Mercedes-Benz,CLS 450,SEDAN,Certified,Black,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,60642,"17,580",67984
+Chicago,Mercedes-Benz,C 63 AMG,CONVERT,Certified,Gray,Black Mb Tex,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 22 Highway,2018,60642,"14,138",68984
+Chicago,BMW,X5,SUV,Used,Black,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 25 Highway,2021,60642,"1,760",69984
+Chicago,Mercedes-Benz,CLS 450,SEDAN,Certified,Black,Black Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,60642,"17,904",71984
+Chicago,Land Rover,Range Rover Sport,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2019,60642,"20,598",74981
+Chicago,Mercedes-Benz,E 450,CONVERT,Certified,Green,Black Leather,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,60642,"14,247",74981
+Chicago,Mercedes-Benz,S 560,SEDAN,Certified,Off White,Black Leather,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2020,60642,"3,307",97984
+Chicago,Mercedes-Benz,E 63 AMG,SEDAN,Certified,Black,Blk W/Slvr Stitching,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 23 Highway,2019,60642,"12,902",99984
+Chicago,MAZDA,CX-5,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,60202,"8,613",32900
+Chicago,Volvo,XC60,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,60532,"18,598",42851
+Chicago,Honda,Civic,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,32 City / 42 Highway,2019,60053,"24,121",24999
+Chicago,Acura,TLX,SEDAN,Used,Purple,Graystone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 31 Highway,2021,60053,"2,284",41999
+Chicago,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2014,60712,"53,660",12388
+Chicago,Kia,Forte,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2017,60712,"45,563",14488
+Chicago,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2017,60712,"40,491",14588
+Chicago,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2016,60712,"55,310",14588
+Chicago,Chevrolet,Cruze,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,60712,"42,891",15488
+Chicago,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2018,60712,"35,641",16288
+Chicago,Toyota,Corolla,SEDAN,Used,Silver,Steel Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,60712,"29,145",16588
+Chicago,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2016,60712,"55,126",16588
+Chicago,Chrysler,200,SEDAN,Used,Black,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,23 City / 36 Highway,2015,60712,"54,055",16688
+Chicago,Chevrolet,Cruze,SEDAN,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2017,60712,"41,657",17188
+Chicago,Toyota,Camry,SEDAN,Used,Off White,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2015,60712,"36,541",18388
+Chicago,Honda,Accord,SEDAN,Used,White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,60712,"55,399",19488
+Chicago,Ford,Fusion,SEDAN,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2018,60712,"25,396",19588
+Chicago,Ford,Taurus,SEDAN,Used,Gold,Dune,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2017,60712,"37,665",20288
+Chicago,MAZDA,CX-3,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 32 Highway,2016,60712,"26,774",20588
+Chicago,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,60712,"14,986",21288
+Chicago,MAZDA,MAZDA6,SEDAN,Used,Blue,Sand,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2017,60712,"34,596",21488
+Chicago,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2017,60712,"48,449",21588
+Chicago,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,60712,"54,400",21788
+Chicago,Toyota,C-HR,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2018,60712,"21,449",22588
+Chicago,Chevrolet,Equinox,SUV,Used,Silver,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,60712,"38,876",23188
+Chicago,Toyota,Corolla,SEDAN,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,60712,"2,789",23188
+Chicago,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,60712,"5,378",23388
+Chicago,Subaru,Outback,SUV,Used,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2016,60712,"30,769",23488
+Chicago,Toyota,Corolla,HATCH,Certified,Red,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2019,60712,"22,324",23888
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2016,60712,"58,588",24088
+Chicago,Toyota,C-HR,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,60712,"29,658",24088
+Chicago,Toyota,Corolla,HATCH,Certified,Black,Moonstone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 41 Highway,2020,60712,"15,407",24588
+Chicago,GMC,Terrain,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2018,60712,"32,120",24988
+Chicago,Toyota,Corolla,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,60712,675,24988
+Chicago,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,60712,"21,889",25388
+Chicago,Toyota,Corolla,SEDAN,Certified,Black,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2021,60712,"7,007",25588
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"29,545",25988
+Chicago,Toyota,Camry,SEDAN,Certified,Brown,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,60712,"3,719",26088
+Chicago,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"25,887",26188
+Chicago,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"26,041",26288
+Chicago,Subaru,WRX,SEDAN,Used,Red,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,60712,"27,085",26388
+Chicago,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"35,586",26488
+Chicago,Toyota,Camry,SEDAN,Used,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,60712,"24,464",26588
+Chicago,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"25,302",26588
+Chicago,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"26,072",26588
+Chicago,BMW,535i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2016,60712,"44,138",26688
+Chicago,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"24,501",26988
+Chicago,Toyota,Camry,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,60712,"5,534",27088
+Chicago,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2014,60712,"78,526",27388
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"37,150",27388
+Chicago,Toyota,C-HR,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2020,60712,"14,281",27588
+Chicago,Toyota,RAV4,SUV,Certified,Blue,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"39,489",28388
+Chicago,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"17,668",28588
+Chicago,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,60712,"7,743",28588
+Chicago,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,60712,"19,130",29188
+Chicago,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,60712,"13,958",29688
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"29,787",29988
+Chicago,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2018,60712,"31,453",29988
+Chicago,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,60712,"28,599",30088
+Chicago,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,60712,"15,407",30288
+Chicago,Toyota,Camry,SEDAN,Certified,Red,Macadamia,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2019,60712,"16,792",31388
+Chicago,Toyota,Sienna,VANS,Certified,Red,Bisque,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2018,60712,"26,720",32788
+Chicago,Toyota,RAV4,SUV,Certified,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"15,134",33488
+Chicago,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"21,466",34088
+Chicago,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"15,568",34288
+Chicago,Honda,CR-V,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,60712,"3,891",34296
+Chicago,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,60712,"8,831",34388
+Chicago,Toyota,Sienna,VANS,Certified,Black,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2017,60712,"49,397",34388
+Chicago,Toyota,Highlander,SUV,Certified,Burgundy,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,60712,"16,979",34488
+Chicago,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,60712,"36,595",34488
+Chicago,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"11,127",34588
+Chicago,Toyota,RAV4,SUV,Certified,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"21,047",34588
+Chicago,Toyota,Tacoma,TRUCKS,Certified,Blue,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2018,60712,"35,060",34688
+Chicago,Ford,Mustang,COUPE,Used,Gray,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2019,60712,"14,400",34988
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,60712,"7,367",35088
+Chicago,Toyota,Tacoma,TRUCKS,Certified,Black,Cement Gray,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2016,60712,"38,952",35157
+Chicago,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,60712,"23,190",35288
+Chicago,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,60712,"34,503",35288
+Chicago,Toyota,Avalon,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2021,60712,"2,856",35388
+Chicago,Toyota,Highlander,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,60712,"13,949",35388
+Chicago,Toyota,RAV4,SUV,Used,White,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,60712,93,35388
+Chicago,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"12,341",35588
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"15,629",35588
+Chicago,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"11,268",35588
+Chicago,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,60712,"33,359",35888
+Chicago,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,60712,"26,879",35988
+Chicago,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,60712,"25,809",36588
+Chicago,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,60712,"25,321",36888
+Chicago,Honda,Passport,SUV,Used,Red,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,60712,"20,859",38588
+Chicago,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,60712,"7,713",39488
+Chicago,Toyota,Highlander,SUV,Certified,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,36 City / 35 Highway,2021,60712,"5,357",40488
+Chicago,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,60712,"20,489",41088
+Chicago,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2020,60712,"13,725",42088
+Chicago,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2021,60712,"3,242",42988
+Chicago,Toyota,Tundra,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,60712,"27,905",43388
+Chicago,Toyota,Tacoma,TRUCKS,Certified,Gray,Cement,,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2021,60712,"4,981",44488
+Chicago,Toyota,Highlander,SUV,Certified,Gold,Harvest Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2021,60712,"6,539",44988
+Chicago,Lexus,GX 460,SUV,Used,Black,Sepia,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2019,60712,"20,177",45488
+Chicago,Toyota,Tundra,TRUCKS,Certified,Red,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,60712,"13,627",46288
+Chicago,Porsche,Macan,SUV,Used,Gray,Agate Grey,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,60712,"29,518",47488
+Chicago,BMW,650i Gran Coupe xDrive,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 24 Highway,2017,60712,"33,353",47888
+Chicago,Toyota,4Runner,SUV,Certified,Black,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,60712,"27,171",49388
+Chicago,Toyota,Tacoma,TRUCKS,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,60712,"14,761",49488
+Chicago,Toyota,Sienna,VANS,Certified,Silver,Graphite,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,36 City / 36 Highway,2021,60712,910,51488
+Chicago,Lexus,LS 500,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2018,60712,"31,864",51888
+Chicago,Hyundai,Palisade,SUV,Used,White,Dark Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,60712,"5,020",52588
+Chicago,Toyota,4Runner,SUV,Certified,Blue,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,60712,"11,057",54088
+Chicago,Toyota,4Runner,SUV,Certified,White,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,60712,"13,258",54088
+Chicago,BMW,740i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 29 Highway,2019,60712,"19,581",57888
+Chicago,Toyota,Supra,COUPE,Used,,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,60712,"7,394",57988
+Chicago,Toyota,4Runner,SUV,Certified,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,60712,"7,694",62088
+Chicago,Mercedes-Benz,GLE 43 AMG,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,60712,"17,416",63488
+Chicago,Toyota,Tundra,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,60712,"6,246",63688
+Chicago,Toyota,4Runner,SUV,Certified,Green,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,60712,17,66988
+Chicago,Toyota,4Runner,SUV,Certified,Green,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,60712,6,66988
+Chicago,Toyota,4Runner,SUV,Used,Green,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,60712,189,66988
+Chicago,GMC,Yukon,SUV,Used,Black,Teak/Light Shale,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 19 Highway,2021,60712,"2,671",88388
+Chicago,Honda,Accord,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,60438,"4,728",31500
+Chicago,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2018,60636,"34,286",20995
+Chicago,BMW,320i xDrive,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2017,60636,"28,935",25495
+Chicago,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2019,60636,"11,341",26995
+Chicago,Alfa Romeo,Giulia,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,60636,"20,754",26995
+Chicago,Lincoln,MKC,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2018,60636,"23,524",28995
+Chicago,Nissan,Frontier,TRUCKS,Used,Brown,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2018,60636,"27,955",31495
+Chicago,Toyota,Corolla,SEDAN,Used,Silver,,,Gasoline,4-Cylinder,2 wheel drive - front,,2014,60438,"53,124",15500
+Chicago,Cadillac,ATS,SEDAN,Used,Red,Light Neutral W/Medium Cashmer,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2015,60438,"50,153",21500
+Chicago,Chrysler,Pacifica,VANS,Used,White,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,60438,"7,996",32900
+Chicago,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,60438,"38,971",33800
+Chicago,Volkswagen,Atlas,SUV,Used,Blue,Shetland Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,60438,"28,254",38900
+Chicago,Honda,CR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2017,60661,"40,770",24994
+Chicago,Audi,S4,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 28 Highway,2015,60661,"30,099",33297
+Chicago,Toyota,4Runner,SUV,Used,Black,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,60661,"30,050",41224
+Chicago,BMW,M2,COUPE,Used,Black,Black W/Blue Stitching,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2017,60661,"13,356",49987
+Chicago,Volvo,XC40,SUV,Used,Blue,Charcoal,Single-Speed,Electric,Electric,All wheel drive,,2021,60661,"6,205",55555
+Chicago,Mercedes-Benz,E 450,COUPE,Used,Blue,Macchiato Beige/Yacht Blue,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,60661,"18,066",55555
+Chicago,BMW,X5,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,60661,"16,403",58988
+Chicago,Audi,RS 5,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2019,60661,"14,361",79993
+Chicago,Porsche,Cayenne,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,60661,"3,043",85887
+Chicago,Porsche,Cayenne,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2021,60661,"3,845",85887
+Chicago,Tesla,Model S,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,60661,"14,279",87529
+Chicago,Porsche,911,CONVERT,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2015,60661,"32,414",97993
+Chicago,Porsche,911,COUPE,Certified,Blue,Black,,Gasoline,6-Cylinder Turbo,All wheel drive,,2020,60661,"2,711",157621
+Chicago,Volkswagen,Jetta,WAGON,Used,Gray,Titan Black,Automatic,Diesel,4-Cylinder Turbo,2 wheel drive - front,29 City / 39 Highway,2011,60610,"119,116",9250
+Chicago,Subaru,Impreza,HATCH,Used,Silver,Off Black,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 27 Highway,2008,60610,"65,266",9500
+Chicago,Hyundai,Elantra,SEDAN,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2013,60610,"89,980",10500
+Chicago,Audi,Q5,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 23 Highway,2009,60610,"121,809",10750
+Chicago,Toyota,Land Cruiser,SUV,Used,Black,Stone,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2003,60610,"214,575",12000
+Chicago,Volkswagen,Tiguan,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 26 Highway,2012,60610,"87,609",12000
+Chicago,MINI,Cooper Clubman,WAGON,Used,Gray,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 34 Highway,2013,60610,"51,821",14000
+Chicago,Ford,Fusion,SEDAN,Used,,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 33 Highway,2015,60610,"82,654",14500
+Chicago,Honda,Civic,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2013,60610,"56,773",15227
+Chicago,Chevrolet,Malibu,SEDAN,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2016,60610,"73,021",15938
+Chicago,Honda,Accord,SEDAN,Used,White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2014,60610,"88,651",16250
+Chicago,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,60610,"53,516",18116
+Chicago,Honda,Accord,COUPE,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2015,60610,"69,144",18900
+Chicago,Honda,Civic,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,60610,"56,961",20325
+Chicago,Honda,Accord,COUPE,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,60610,"41,222",21000
+Chicago,Volkswagen,Tiguan,SUV,Certified,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 24 Highway,2017,60610,"48,754",21250
+Chicago,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,60610,"81,422",21750
+Chicago,Honda,Civic,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,60610,"31,324",21800
+Chicago,Honda,CR-V,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 29 Highway,2013,60610,"36,154",22386
+Chicago,Lexus,RX 350,SUV,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,60610,"87,788",24000
+Chicago,Acura,RDX,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2017,60610,"69,387",25250
+Chicago,Volkswagen,GTI,HATCH,Certified,Blue,Titan Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,60610,"51,567",25250
+Chicago,Volkswagen,Tiguan,SUV,Certified,Blue,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,60610,"51,582",25500
+Chicago,Volkswagen,Tiguan,SUV,Certified,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,60610,"47,179",26000
+Chicago,BMW,435i xDrive,COUPE,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 30 Highway,2015,60610,"71,113",26750
+Chicago,Volkswagen,Jetta,SEDAN,Used,Black,Titan Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,60610,"31,798",27250
+Chicago,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2020,60610,"25,807",28262
+Chicago,Honda,CR-V,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,60610,"34,422",31055
+Chicago,Honda,Odyssey,VANS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,60610,"53,733",32972
+Chicago,Honda,Passport,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2019,60610,"34,352",36471
+Chicago,Porsche,Cayenne,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 23 Highway,2019,60661,"20,406",89000
+Chicago,Ford,Fusion,SEDAN,Used,Red,Light Putty,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,60515,"20,177",25947
+Chicago,FIAT,500,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,60636,"13,471",12700
+Chicago,Chevrolet,Camaro,COUPE,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2017,60636,"32,009",24000

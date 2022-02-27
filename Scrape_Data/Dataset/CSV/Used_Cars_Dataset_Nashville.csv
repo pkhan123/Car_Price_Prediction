@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Nashville,Nissan,Maxima,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,37204,"18,072",28299
+Nashville,Toyota,RAV4,SUV,Used,Burgundy,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,37204,"10,545",31199
+Nashville,BMW,X4,SUV,Used,Gray,Canberra Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,37204,"18,131",59999
+Nashville,Nissan,Leaf,HATCH,Used,Gray,Black,Single-Speed,Electric,Electric,2 wheel drive - front,124 City / 101 Highway,2017,37228,"28,430",15389
+Nashville,Alfa Romeo,Giulia,SEDAN,Used,Black,Black/Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,37228,"30,938",31489
+Nashville,Volkswagen,Jetta,SEDAN,Used,White,Storm Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,37204,"36,567",20849
+Nashville,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,37204,"44,726",25299
+Nashville,MAZDA,MX-5 Miata RF,CONVERT,Used,Black,Black W/Red Stitching,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,37204,"13,849",25976
+Nashville,Honda,Pilot,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,37204,"31,683",34978
+Nashville,BMW,330i Gran Turismo xDrive,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,37204,"14,409",35977
+Nashville,Lincoln,Corsair,SUV,Used,Beige,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2021,37204,"9,602",36976
+Nashville,BMW,430i Gran Coupe,HATCH,Certified,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2019,37204,"23,029",36976
+Nashville,BMW,530i,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 33 Highway,2021,37204,"3,531",51976
+Nashville,Ford,Fusion,SEDAN,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 32 Highway,2018,37228,"42,370",19489
+Nashville,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,37228,"25,184",26589
+Nashville,Toyota,Avalon,SEDAN,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2019,37228,"26,739",32399
+Nashville,Honda,Pilot,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2019,37228,"29,495",33289
+Nashville,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2017,37228,"50,109",34889
+Nashville,BMW,X5,SUV,Used,White,Amaro Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2017,37228,"29,727",40989
+Nashville,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,37228,"17,604",45189
+Nashville,Kia,Sorento,SUV,Used,Silver,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,37228,"17,967",25999
+Nashville,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2019,37228,"23,316",29499
+Nashville,Ford,Explorer,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2018,37228,"39,546",31499
+Nashville,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,37228,"28,188",34999
+Nashville,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,37204,"24,353",29999
+Nashville,MINI,Cooper Countryman,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,37027,"11,060",34998
+Nashville,BMW,440i Gran Coupe,HATCH,Certified,Black,Tan,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,37027,"23,357",42999
+Nashville,Toyota,4Runner,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2022,37115,"1,074",67995
+Nashville,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,37203,"10,886",25550
+Nashville,Toyota,Corolla,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 38 Highway,2020,37203,"8,936",27770
+Nashville,Ford,Escape,SUV,Used,Black,Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,37203,"6,985",28560
+Nashville,Toyota,Camry,SEDAN,Certified,Black,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,44 City / 47 Highway,2020,37203,"13,888",30900
+Nashville,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 29 Highway,2018,37203,"20,572",30950
+Nashville,Toyota,Avalon,SEDAN,Certified,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,37203,"21,779",34900
+Nashville,Toyota,Avalon,SEDAN,Certified,White,Harvest Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,37203,"20,542",34900
+Nashville,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,37203,"21,621",35500
+Nashville,Toyota,Avalon,SEDAN,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,37203,"22,233",36500
+Nashville,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,37203,"9,942",37560
+Nashville,Toyota,RAV4,SUV,Used,Blue,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,37203,31,37770
+Nashville,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,37203,"22,154",37770
+Nashville,Toyota,Tundra,TRUCKS,Used,White,Graphite,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,37203,"26,484",45980
+Nashville,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,37203,"19,955",29980
+Nashville,GMC,Terrain,SUV,Used,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,37203,"18,997",30980
+Nashville,Buick,Enclave,SUV,Used,Gray,Dark Galvanized,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,37203,"34,163",33980
+Nashville,GMC,Canyon,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,37203,"20,237",39980
+Nashville,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2020,37203,"10,679",44980
+Nashville,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,22 City / 26 Highway,2021,37203,"3,074",64980
+Nashville,Cadillac,CTS,SEDAN,Used,Black,Cashmere/Cocoa,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2012,37204,"84,732",11968
+Nashville,Buick,Encore,SUV,Used,Gray,Shale,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,37204,"8,068",20989
+Nashville,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,37204,"16,980",22877
+Nashville,Hyundai,Kona,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2018,37204,"22,000",22990
+Nashville,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,37204,"30,575",35495
+Nashville,Ford,Mustang,COUPE,Used,Red,Ebony,,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,37204,"3,770",40998
+Nashville,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,17 City / 23 Highway,2017,37204,"19,246",42643
+Nashville,Audi,S5,COUPE,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2018,37204,"10,590",46399
+Nashville,GMC,Sierra 1500,TRUCKS,Used,Silver,Dark Pewter,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,15 City / 19 Highway,2007,37204,"101,913",8999
+Nashville,Kia,Optima,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,37204,"32,964",18999
+Nashville,Buick,Encore,SUV,Used,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37204,"32,538",19478
+Nashville,Buick,Encore,SUV,Used,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37204,"26,576",19778
+Nashville,Lexus,GS 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2015,37204,"95,303",19976
+Nashville,Hyundai,Sonata,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,37204,"28,745",21549
+Nashville,Volkswagen,GTI,HATCH,Used,Black,Titan Black W/Clark Plaid,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 32 Highway,2017,37204,"61,600",22698
+Nashville,Jeep,Compass,SUV,Used,Green,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2018,37204,"34,635",23176
+Nashville,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,37204,"30,400",25877
+Nashville,BMW,320i xDrive,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,37204,"30,889",30377
+Nashville,Lexus,IS 350,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,37204,"39,504",31999
+Nashville,MAZDA,CX-9,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,37204,"32,765",33476
+Nashville,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,37204,"47,403",33876
+Nashville,Cadillac,XT5,SUV,Used,White,Cirrus,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2018,37204,"31,522",33877
+Nashville,INFINITI,QX50,SUV,Used,Silver,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,37204,"25,734",36976
+Nashville,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,37204,"33,891",37278
+Nashville,Acura,MDX,SUV,Used,Black,Espresso,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,37204,"32,072",37976
+Nashville,BMW,530i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,37204,"23,067",40977
+Nashville,BMW,M760i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,12-Cylinder Turbo,All wheel drive,13 City / 20 Highway,2019,37204,"29,506",89976
+Nashville,Lexus,LX 570,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,12 City / 16 Highway,2020,37210,"16,143",90990
+Nashville,Subaru,Forester,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2019,37203,"24,221",26543
+Nashville,Genesis,G70,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2019,37203,"24,748",38469
+Nashville,Lexus,RC 350,COUPE,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 28 Highway,2017,37208,"29,104",39500
+Nashville,Lexus,ES 350,SEDAN,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,37208,"2,666",46500
+Nashville,Lexus,LC 500,CONVERT,Certified,White,Circuit Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2021,37208,"6,022",109000
+Nashville,Ford,Focus,HATCH,Used,White,Charcoal Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,26 City / 38 Highway,2017,37228,"32,612",15309
+Nashville,Chevrolet,Trax,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37228,"28,451",18869
+Nashville,Ford,C-MAX,HATCH,Used,Silver,Charcoal Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,42 City / 38 Highway,2018,37228,"37,465",18929
+Nashville,Honda,Fit,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,37228,"18,361",18949
+Nashville,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37228,"29,810",20169
+Nashville,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,37228,"23,566",22489
+Nashville,Honda,HR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2018,37228,"33,637",22949
+Nashville,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,37228,"40,641",23299
+Nashville,Hyundai,Tucson,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2019,37228,"23,091",23489
+Nashville,Hyundai,Sonata,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,37228,"14,208",23509
+Nashville,Nissan,Maxima,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,37228,"36,268",25469
+Nashville,Hyundai,Tucson,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2019,37228,"21,417",25889
+Nashville,Audi,A3,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 35 Highway,2018,37228,"32,751",25989
+Nashville,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,37228,"36,714",26389
+Nashville,MAZDA,CX-9,SUV,Used,Black,Sand,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,37228,"38,303",28989
+Nashville,Ford,Edge,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,37228,"23,335",29609
+Nashville,Acura,TLX,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,37228,"25,026",29979
+Nashville,Toyota,Sienna,VANS,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,37228,"25,094",30689
+Nashville,Toyota,Sienna,VANS,Used,Black,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,37228,"41,628",30989
+Nashville,Hyundai,Tucson,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2020,37228,"10,809",31549
+Nashville,Ford,Edge,SUV,Used,Blue,Dune,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,37228,"6,163",32289
+Nashville,Honda,Passport,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 25 Highway,2019,37228,"28,942",32549
+Nashville,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,37228,"21,600",32769
+Nashville,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,37228,"39,204",32989
+Nashville,Toyota,Highlander,SUV,Used,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,37228,"25,600",34299
+Nashville,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,37228,"15,788",36889
+Nashville,Lexus,NX 300h,SUV,Used,Silver,Rioja Red,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,33 City / 30 Highway,2019,37228,"24,784",38179
+Nashville,Ford,F150,TRUCKS,Used,White,Dark Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,37228,"6,750",40999
+Nashville,Lexus,NX 300,SUV,Used,Silver,F Sport Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,37228,"13,122",41409
+Nashville,Genesis,G80,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2020,37228,"19,256",41989
+Nashville,Honda,Pilot,SUV,Used,Off White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2020,37228,"19,313",43719
+Nashville,Ford,Focus,SEDAN,Used,White,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,,2018,37228,"29,491",16498
+Nashville,Honda,Accord,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,37228,"44,350",23999
+Nashville,Hyundai,Tucson,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2018,37228,"33,367",24697
+Nashville,Honda,Civic,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,37228,"11,502",24999
+Nashville,Honda,CR-V,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2018,37228,"31,574",26396
+Nashville,Ford,Explorer,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,18 City / 25 Highway,2018,37228,"27,926",35697
+Nashville,Cadillac,XT5,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,37228,"23,963",36396
+Nashville,Nissan,Titan,TRUCKS,Used,Black,Beige,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2016,37075,"56,737",36240
+Nashville,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2017,37204,"46,890",18999
+Nashville,Acura,TL,SEDAN,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 29 Highway,2012,37027,"96,842",12996
+Nashville,BMW,435i,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 32 Highway,2014,37027,"41,526",25996
+Nashville,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,37027,"6,522",43996
+Nashville,BMW,530i xDrive,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2021,37027,"5,730",53996
+Nashville,BMW,840i,CONVERT,Certified,Black,Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 29 Highway,2021,37027,"3,781",88997
+Nashville,BMW,540i,SEDAN,Used,White,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 29 Highway,2019,37115,"29,293",44995
+Nashville,Nissan,Sentra,SEDAN,Used,Gray,Gra,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2019,37217,"14,766",20594
+Nashville,Toyota,Tacoma,TRUCKS,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 20 Highway,2008,37203,"115,023",17770
+Nashville,Toyota,Corolla,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2019,37203,"12,882",24850
+Nashville,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,37203,"12,608",26560
+Nashville,INFINITI,QX50,SUV,Used,Silver,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 31 Highway,2019,37203,"31,163",32550
+Nashville,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2019,37203,"41,388",33950
+Nashville,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37203,"27,335",36460
+Nashville,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2021,37203,"3,206",36560
+Nashville,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37203,"8,395",36560
+Nashville,Toyota,RAV4,SUV,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37203,"2,601",37560
+Nashville,Hyundai,Santa Fe,SUV,Used,Gray,Black/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,37203,"19,809",37770
+Nashville,Toyota,RAV4,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37203,"12,473",37770
+Nashville,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,37203,"25,880",39900
+Nashville,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2021,37203,843,39950
+Nashville,Toyota,Highlander,SUV,Certified,White,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,37203,"26,130",39950
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,37203,"34,630",39980
+Nashville,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2019,37203,"19,099",41950
+Nashville,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,37203,"10,451",42440
+Nashville,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2019,37203,"24,833",42460
+Nashville,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,37203,"24,888",43980
+Nashville,Toyota,4Runner,SUV,Certified,Gray,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,37203,"15,292",46560
+Nashville,Toyota,Tundra,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,37203,"10,142",57750
+Nashville,Toyota,Tundra,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,37203,"12,379",59950
+Nashville,Toyota,Sequoia,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2021,37203,"2,444",71950
+Nashville,Toyota,Sequoia,SUV,Used,Green,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,37203,"18,762",72980
+Nashville,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,37203,"17,788",23980
+Nashville,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,37203,"22,980",27980
+Nashville,Buick,Enclave,SUV,Used,Black,Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,37203,"49,120",32980
+Nashville,Buick,Envision,SUV,Used,Gray,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,37203,"26,741",32980
+Nashville,Cadillac,CTS,SEDAN,Used,White,Light Platinum With Jet Black ,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2019,37203,"38,251",32980
+Nashville,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2019,37203,"37,388",32980
+Nashville,Chevrolet,Colorado,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2019,37203,"18,980",36980
+Nashville,Lexus,GX 460,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 18 Highway,2017,37203,"56,866",39980
+Nashville,GMC,Yukon,SUV,Used,Black,Cocoa/Dark Atmosphere,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,37203,"34,697",61980
+Nashville,Ford,Expedition Max,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 21 Highway,2019,37203,"39,085",62980
+Nashville,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,37203,"12,294",63980
+Nashville,Chevrolet,Silverado 2500,TRUCKS,Used,Red,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,37203,"9,889",79980
+Nashville,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black With Kalahari Accent,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,37203,"9,022",83980
+Nashville,Acura,RDX,SUV,Used,Black,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2014,37075,"65,300",22100
+Nashville,MAZDA,CX-9,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,37067,"15,504",37994
+Nashville,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,37067,"13,499",53922
+Nashville,Subaru,Forester,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2017,37027,"49,557",21999
+Nashville,BMW,428i,CONVERT,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 33 Highway,2015,37027,"62,706",25996
+Nashville,MINI,Cooper,CONVERT,Used,Turquoise,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2019,37027,"28,921",32997
+Nashville,Audi,A6,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2017,37027,"47,599",28999
+Nashville,Audi,Q5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,37027,"37,491",38499
+Nashville,Audi,A5,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,37027,"35,178",40996
+Nashville,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2017,37115,"28,467",17998
+Nashville,Mercedes-Benz,C 350,SEDAN,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2014,37204,"68,008",17877
+Nashville,Nissan,Frontier,TRUCKS,Used,White,Steel,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,16 City / 22 Highway,2017,37204,"30,848",25714
+Nashville,Nissan,Frontier,TRUCKS,Used,Blue,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,37204,"43,890",26475
+Nashville,Honda,Accord,SEDAN,Used,Red,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,37204,"36,062",26990
+Nashville,Ford,Mustang,COUPE,Used,Black,Ebony,,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2017,37204,"21,263",27242
+Nashville,Ford,Flex,SUV,Used,,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,37204,"33,940",28501
+Nashville,Lexus,NX 200t,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2015,37204,"42,788",29205
+Nashville,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,37204,"32,559",32998
+Nashville,Ford,Mustang,CONVERT,Used,Red,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2017,37204,"46,111",33990
+Nashville,Ford,Ranger,TRUCKS,Used,White,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2019,37204,"5,395",34699
+Nashville,Ford,Ranger,TRUCKS,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,37204,"14,405",35561
+Nashville,Lexus,RX 350,SUV,Used,Gray,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,37204,"46,991",36899
+Nashville,Ford,Explorer,SUV,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,37204,"23,788",38362
+Nashville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,37204,"29,502",39990
+Nashville,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,37204,"19,672",41120
+Nashville,Toyota,Tacoma,TRUCKS,Used,Black,Cement,,Gasoline,6-Cylinder,4 wheel drive,,2020,37204,"4,480",44105
+Nashville,Ford,F250,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,37204,"25,238",52139
+Nashville,Chevrolet,Malibu,SEDAN,Used,Silver,Jet Black/Titanium,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 36 Highway,2014,37204,"70,930",14478
+Nashville,Hyundai,Elantra,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,37204,"41,474",15949
+Nashville,Ford,Flex,SUV,Used,Gray,Dune,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2013,37204,"71,907",15978
+Nashville,Volkswagen,Passat,SEDAN,Used,Red,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2019,37204,"39,889",20949
+Nashville,Acura,ILX,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 35 Highway,2017,37204,"51,724",21478
+Nashville,Ford,Escape,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2018,37204,"43,004",22149
+Nashville,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,37204,"31,019",24778
+Nashville,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,37204,"37,929",25199
+Nashville,Kia,Niro,SUV,Used,Silver,Charcoal,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,46 City / 40 Highway,2019,37204,"35,203",25999
+Nashville,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,37204,"66,487",25999
+Nashville,Ford,F250,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2016,37204,"72,970",26478
+Nashville,BMW,320i xDrive,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,37204,"43,227",27778
+Nashville,Honda,CR-V,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2018,37204,"43,055",29676
+Nashville,Subaru,Outback,SUV,Used,Red,Warm Ivory,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,37204,"41,046",29877
+Nashville,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,20 City / 27 Highway,2018,37204,"38,610",30976
+Nashville,Lexus,NX 300,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,37204,"40,598",32676
+Nashville,Cadillac,XT5,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,37204,"41,223",32698
+Nashville,INFINITI,QX50,SUV,Used,White,Wheat/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,37204,"32,665",34976
+Nashville,BMW,228i xDrive Gran Coupe,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,37204,"15,824",34999
+Nashville,Acura,MDX,SUV,Used,Black,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,37204,"44,282",36377
+Nashville,Kia,Soul,HATCH,Used,White,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,37013,"18,855",18999
+Nashville,Kia,Soul,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,37013,"15,577",19795
+Nashville,Dodge,Charger,SEDAN,Used,Orange,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2016,37013,"51,588",28978
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2021,37013,"6,135",47689
+Nashville,Dodge,Charger,SEDAN,Used,Green,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,37115,"25,061",37296
+Nashville,Chevrolet,Tahoe,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,37115,"4,146",75704
+Nashville,Ford,F350,TRUCKS,Used,Red,Steel,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2016,37210,"38,819",53788
+Nashville,Chevrolet,Silverado 2500,TRUCKS,Used,Brown,Jet Black/Medium Ash Gray Pipi,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,37210,"30,011",68900
+Nashville,Mercedes-Benz,S 560,COUPE,Used,Off White,Designo Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2018,37210,"23,562",88900
+Nashville,MAZDA,MAZDA6,SEDAN,Used,White,Parchment,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2018,37067,"26,658",27999
+Nashville,Mercedes-Benz,C 300,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2017,37067,"32,466",28499
+Nashville,Mercedes-Benz,C 300,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,37067,"30,126",32999
+Nashville,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 30 Highway,2018,37067,"24,351",33999
+Nashville,Mercedes-Benz,GLA 250,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,37067,"13,159",37999
+Nashville,Acura,TLX,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,37067,"22,010",37999
+Nashville,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2019,37067,"10,820",39999
+Nashville,Mercedes-Benz,GLC 300,SUV,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,37067,"23,473",39999
+Nashville,Acura,MDX,SUV,Used,Silver,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,,2019,37067,"18,210",39999
+Nashville,Acura,MDX,SUV,Used,,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,37067,"20,537",41999
+Nashville,Lincoln,Nautilus,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,37067,"16,137",45999
+Nashville,Mercedes-Benz,GLC 300,SUV,Used,Gray,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,37067,"1,801",48999
+Nashville,Mercedes-Benz,E 400,CONVERT,Certified,Black,Caramel,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2018,37067,"25,992",63999
+Nashville,Mercedes-Benz,SL 550,CONVERT,Used,Gray,Bengal Red/Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,17 City / 25 Highway,2019,37067,"14,217",89999
+Nashville,Honda,Civic,SEDAN,Used,Tan,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 38 Highway,2004,37203,"90,730",5930
+Nashville,Buick,LaCrosse,SEDAN,Used,Silver,Ebony,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 27 Highway,2013,37203,"74,031",13491
+Nashville,Hyundai,Tucson,SUV,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2017,37203,"47,878",19976
+Nashville,Honda,CR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,37203,"41,089",21465
+Nashville,Hyundai,Kona,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,37203,"22,462",22628
+Nashville,Subaru,Outback,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2020,37208,"18,198",37500
+Nashville,Lexus,IS 350,SEDAN,Certified,White,Rioja Red,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2018,37208,"26,510",40000
+Nashville,Lexus,ES 350,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,37208,"25,521",44000
+Nashville,Nissan,Kicks,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 36 Highway,2020,37115,"14,334",25663
+Nashville,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Diesel,6-Cylinder Turbo,2 wheel drive - rear,20 City / 27 Highway,2018,37115,"38,930",39413
+Nashville,Kia,Rio,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,37228,"43,990",16379
+Nashville,Mitsubishi,Mirage G4,SEDAN,Used,Gray,Dark Gray,Automatic,Gasoline,3-Cylinder,2 wheel drive - front,35 City / 41 Highway,2021,37228,"3,820",17219
+Nashville,Nissan,Sentra,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,37228,"31,018",19299
+Nashville,Volkswagen,Jetta,SEDAN,Used,Silver,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 39 Highway,2019,37228,"42,851",19429
+Nashville,Nissan,Altima,SEDAN,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,37228,"45,462",19989
+Nashville,Chevrolet,Trax,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,37228,"24,858",20709
+Nashville,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,37228,"8,949",21149
+Nashville,Ford,Fusion,SEDAN,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 31 Highway,2019,37228,"37,775",21959
+Nashville,Nissan,Altima,SEDAN,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,37228,"37,379",21999
+Nashville,Toyota,Corolla,SEDAN,Used,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,37228,"28,208",22479
+Nashville,Jeep,Renegade,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,,2017,37228,"34,527",22689
+Nashville,MAZDA,MAZDA3,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37228,"12,507",22689
+Nashville,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,37228,"23,273",22799
+Nashville,Nissan,Sentra,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 39 Highway,2020,37228,"11,976",22999
+Nashville,Ford,Fusion,SEDAN,Used,Silver,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,37228,"33,843",23239
+Nashville,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 28 Highway,2018,37228,"52,598",23319
+Nashville,Ford,Escape,SUV,Used,Black,Dark Earth Gray,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,37228,"22,367",23459
+Nashville,Nissan,Rogue Sport,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,37228,"26,321",23579
+Nashville,Lincoln,MKZ,SEDAN,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 28 Highway,2017,37228,"56,763",23619
+Nashville,Chevrolet,Volt,HATCH,Used,Black,Jet Black/Jet Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,43 City / 42 Highway,2018,37228,"40,439",23909
+Nashville,Volkswagen,Jetta,SEDAN,Used,Silver,Storm Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,37228,"22,603",23989
+Nashville,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,37228,"34,923",23989
+Nashville,Chevrolet,Equinox,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,37228,"34,146",24179
+Nashville,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,37228,"30,453",24589
+Nashville,Ford,Explorer,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,37228,"56,374",24999
+Nashville,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2018,37228,"39,447",25839
+Nashville,Ford,Mustang,COUPE,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,37228,"26,719",25989
+Nashville,Toyota,Camry,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,37228,"26,270",25999
+Nashville,Honda,Accord,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,37228,"44,031",26239
+Nashville,Audi,A4,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2017,37228,"50,540",26909
+Nashville,Jeep,Grand Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,37228,"53,702",27229
+Nashville,Jeep,Compass,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2019,37228,"30,224",27239
+Nashville,GMC,Terrain,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,37228,"39,192",27349
+Nashville,Audi,A4,SEDAN,Used,Blue,Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 31 Highway,2017,37228,"49,592",27639
+Nashville,Ford,Flex,SUV,Used,Gray,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2018,37228,"39,322",27689
+Nashville,Subaru,Forester,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,37228,"36,282",29239
+Nashville,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,37228,"23,801",30789
+Nashville,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,37228,"36,739",30989
+Nashville,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,37228,"37,301",31239
+Nashville,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2020,37228,"5,471",31249
+Nashville,Volkswagen,Atlas,SUV,Used,Black,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,37228,"39,009",31829
+Nashville,Dodge,Durango,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,37228,"43,425",32389
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2018,37228,"32,271",32969
+Nashville,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,37228,"34,342",32999
+Nashville,Buick,Enclave,SUV,Used,Black,Dark Galvanized,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2018,37228,"31,854",33209
+Nashville,Lincoln,MKC,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,37228,"9,246",33289
+Nashville,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,37228,"22,196",33409
+Nashville,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,37228,"44,112",34319
+Nashville,Acura,RDX,SUV,Used,Black,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,37228,"35,259",34689
+Nashville,Cadillac,XT5,SUV,Used,Black,Sahara Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,37228,"43,042",34739
+Nashville,MAZDA,CX-9,SUV,Used,Gray,Sand,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2019,37228,"32,215",35219
+Nashville,Honda,Odyssey,VANS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,37228,"29,809",36119
+Nashville,Cadillac,XTS,SEDAN,Used,Gray,Shale With Jet Black Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,37228,"8,432",37599
+Nashville,GMC,Acadia,SUV,Used,Black,Cocoa/ Shale,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,37228,"40,910",38189
+Nashville,BMW,530i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,37228,"32,249",39099
+Nashville,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 23 Highway,2020,37228,"17,124",40329
+Nashville,Lincoln,Corsair,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,37228,"1,476",42409
+Nashville,Lexus,ES 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,37228,"15,830",42609
+Nashville,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,37228,"29,832",42689
+Nashville,Mercedes-Benz,GLE 350,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,37228,"18,297",44289
+Nashville,Ford,Mustang,COUPE,Used,Gray,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2016,37228,"11,309",52899
+Nashville,Ford,F350,TRUCKS,Used,White,Gray,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,37228,"28,136",62729
+Nashville,Volkswagen,Passat,SEDAN,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 36 Highway,2018,37228,"32,577",22999
+Nashville,Jeep,Compass,SUV,Used,Blue,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2019,37228,"14,580",22999
+Nashville,MINI,Cooper,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 32 Highway,2019,37228,"41,949",23996
+Nashville,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,37228,"23,878",24998
+Nashville,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,37228,"33,187",25499
+Nashville,Honda,Odyssey,VANS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,37228,"41,160",33997
+Nashville,Honda,Ridgeline,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,37228,"32,969",34698
+Nashville,Toyota,RAV4,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37228,"10,300",35998
+Nashville,Honda,Odyssey,VANS,Used,Brown,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,37228,"38,773",36597
+Nashville,Chevrolet,Camaro,COUPE,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 27 Highway,2018,37228,"31,881",39998
+Nashville,Honda,Pilot,SUV,Certified,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2018,37228,"25,112",39999
+Nashville,Tesla,Model 3,SEDAN,Used,Blue,White,Single-Speed,Electric,Electric,All wheel drive,,2021,37228,"7,674",62999
+Nashville,Kia,Soul,HATCH,Used,Green,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 31 Highway,2019,37115,"28,957",19490
+Nashville,Kia,Optima,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,37115,"38,234",21590
+Nashville,Kia,Soul,HATCH,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,37115,"7,559",22990
+Nashville,Kia,Sorento,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,37115,"19,441",38690
+Nashville,Hyundai,Palisade,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,37115,"17,861",40890
+Nashville,Nissan,370Z,COUPE,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,37013,"28,642",31207
+Nashville,Kia,K5,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 34 Highway,2021,37013,"5,400",31994
+Nashville,Jeep,Grand Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,37013,"28,922",33998
+Nashville,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,37013,"16,660",39997
+Nashville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,37013,"16,544",60867
+Nashville,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,37075,"32,273",34597
+Nashville,Toyota,Highlander,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,37075,"10,459",43544
+Nashville,Cadillac,Escalade,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,37075,"21,040",69717
+Nashville,Mercedes-Benz,GLB 250,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2020,37122,"17,049",42977
+Nashville,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,37210,"16,798",34989
+Nashville,Ford,F350,TRUCKS,Used,Black,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,37210,"27,153",84977
+Nashville,Chevrolet,Silverado 2500,TRUCKS,Used,Silver,Light Titanium/Dark Titanium,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2011,37072,"100,000",31900
+Nashville,Ford,F250,TRUCKS,Used,Black,Adobe,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2011,37072,"98,000",39900
+Nashville,Nissan,350Z,CONVERT,Used,Yellow,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2005,37204,"90,392",9999
+Nashville,Chevrolet,Trax,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37204,"41,147",16976
+Nashville,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,37204,"23,915",19799
+Nashville,Kia,Sportage,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2017,37204,"35,394",20799
+Nashville,MAZDA,MAZDA6,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,37204,"28,588",21149
+Nashville,Kia,Sorento,SUV,Used,Silver,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2018,37204,"32,122",21299
+Nashville,Ford,Edge,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,37204,"44,731",22976
+Nashville,Nissan,Maxima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,37204,"18,912",27478
+Nashville,BMW,320i xDrive,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,37204,"35,286",29976
+Nashville,BMW,X2,SUV,Used,Blue,Oyster,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 32 Highway,2018,37204,"27,052",32999
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,37204,"21,850",36576
+Nashville,BMW,X3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 29 Highway,2021,37204,"3,557",43499
+Nashville,BMW,430i,CONVERT,Used,White,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2020,37204,"9,058",49999
+Nashville,BMW,X5,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 26 Highway,2020,37204,"16,673",58886
+Nashville,Dodge,Durango,SUV,Used,Red,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,37210,"24,219",38375
+Nashville,Volkswagen,Jetta,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 39 Highway,2016,37027,"47,525",15498
+Nashville,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 33 Highway,2015,37027,"45,801",24998
+Nashville,Toyota,RAV4,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37027,"13,851",28996
+Nashville,Audi,A5,COUPE,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,37027,"54,007",33999
+Nashville,Ford,Escape,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,37027,"9,092",34997
+Nashville,Audi,A4,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,37027,"38,784",34998
+Nashville,Volvo,XC90,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2018,37027,"32,336",40998
+Nashville,BMW,X3,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,37027,"22,650",41996
+Nashville,Volkswagen,Atlas,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2019,37027,"10,615",41999
+Nashville,Buick,Enclave,SUV,Used,White,Chestnut With Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2020,37027,"15,574",45999
+Nashville,Chevrolet,Corvette,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2018,37027,"42,397",47496
+Nashville,BMW,X5,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,37027,"38,175",53996
+Nashville,BMW,X5,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,37027,"16,322",62998
+Nashville,Chevrolet,Blazer,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,37013,"20,141",44000
+Nashville,Audi,Q5,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 28 Highway,2021,37027,"5,700",53999
+Nashville,BMW,X5,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2018,37115,"26,685",45995
+Nashville,Cadillac,Escalade,SUV,Used,Gray,Shale With Cocoa Accents,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,37115,"41,934",55995
+Nashville,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2017,37115,"49,035",56995
+Nashville,Chevrolet,Tahoe,SUV,Used,Black,Tan,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2019,37067,"20,126",62995
+Nashville,Hyundai,Elantra,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,37217,"41,987",15730
+Nashville,Nissan,Sentra,SEDAN,Used,Gray,Gra,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 35 Highway,2019,37217,"22,659",18948
+Nashville,Nissan,Sentra,SEDAN,Used,Gray,Bla,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,37217,"41,701",19695
+Nashville,Kia,Optima,SEDAN,Used,Black,Gra,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2018,37217,"50,337",20138
+Nashville,Toyota,4Runner,SUV,Used,White,Bla,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,37217,"44,161",39196
+Nashville,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,37115,"11,414",35990
+Nashville,Hyundai,Kona,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,37075,"15,750",23894
+Nashville,Hyundai,Sonata,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,37075,"18,364",25994
+Nashville,Hyundai,Sonata,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,37075,"27,643",25995
+Nashville,Hyundai,Kona,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 32 Highway,2020,37075,"14,526",26997
+Nashville,Honda,Fit,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,37064,"8,834",23998
+Nashville,Subaru,Forester,SUV,Used,Gray,Saddle Brown,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,37067,"6,759",38514
+Nashville,Chevrolet,Equinox,SUV,Used,Blue,Light Titanium/Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2016,37203,"77,419",17770
+Nashville,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,37203,"12,818",26450
+Nashville,Toyota,C-HR,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 31 Highway,2019,37203,"23,083",27440
+Nashville,Audi,A6,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2016,37203,"45,914",27770
+Nashville,Toyota,Camry,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,37203,"29,341",27770
+Nashville,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,,2021,37203,"10,755",30950
+Nashville,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,37203,"22,571",31560
+Nashville,Toyota,Camry,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,37203,"13,968",31980
+Nashville,Toyota,Highlander,SUV,Certified,Red,Almond,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 27 Highway,2018,37203,"54,264",33900
+Nashville,Toyota,RAV4,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,37203,"31,251",35560
+Nashville,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,37203,"27,578",35880
+Nashville,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,37203,"16,877",36260
+Nashville,Toyota,Avalon,SEDAN,Certified,White,Harvest Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,37203,"15,101",37550
+Nashville,Toyota,RAV4,SUV,Certified,Black,Nutmeg,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 35 Highway,2020,37203,"15,234",38440
+Nashville,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,29 City / 27 Highway,2018,37203,"58,529",39900
+Nashville,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2021,37203,"11,446",39980
+Nashville,Toyota,4Runner,SUV,Certified,Blue,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,37203,"32,182",47770
+Nashville,Toyota,Tundra,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,37203,"38,771",47980
+Nashville,Toyota,4Runner,SUV,Used,Black,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,37203,"28,348",57560
+Nashville,Buick,Encore,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2020,37203,"6,157",24980
+Nashville,MAZDA,CX-5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,37203,"29,592",26980
+Nashville,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,37203,"56,400",40980
+Nashville,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,37203,"12,635",53980
+Nashville,GMC,Yukon XL,SUV,Used,Beige,Teak/Light Shale,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2021,37203,"11,205",85980
+Nashville,Volkswagen,Jetta,SEDAN,Used,Black,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2017,37027,"44,504",23900
+Nashville,Buick,LaCrosse,SEDAN,Used,White,Choccachino,Automatic,Flexible Fuel,6-Cylinder,All wheel drive,17 City / 26 Highway,2016,37027,"36,335",24900
+Nashville,Cadillac,CT5,SEDAN,Certified,White,Sahara Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2020,37027,"14,081",39900
+Nashville,Cadillac,CT4,SEDAN,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2020,37027,"9,542",47900
+Nashville,Honda,Odyssey,VANS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,37027,"12,364",48900
+Nashville,Cadillac,Escalade,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,37027,"48,918",53994
+Nashville,Cadillac,CT6,SEDAN,Certified,Red,Jet Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2019,37027,"23,496",57900
+Nashville,Mercedes-Benz,GLS 450,SUV,Used,Black,Macchiato Beige/Magma Grey,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,37027,"13,629",81900
+Nashville,GMC,Acadia,SUV,Used,White,Cocoa/ Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2018,37205,"35,193",37881
+Nashville,BMW,540i,SEDAN,Used,White,Canberra Beige/Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2020,37205,"20,662",48881
+Nashville,Toyota,Sequoia,SUV,Used,White,Redrock/Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 17 Highway,2017,37205,"38,533",55881
+Nashville,Genesis,GV70,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,,2022,37205,"1,449",57881
+Nashville,Volvo,XC90,SUV,Used,White,Slate,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,26 City / 28 Highway,2020,37205,"17,856",67881
+Nashville,Land Rover,Range Rover,SUV,Used,White,Almond/Espresso/Almond/Ivory,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2018,37205,"39,646",79881
+Nashville,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2020,37067,"14,299",33999
+Nashville,Ford,Ranger,TRUCKS,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,37067,"24,164",37994
+Nashville,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,,2021,37067,"4,165",58294
+Nashville,Kia,Optima,SEDAN,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 34 Highway,2017,37027,"43,746",17499
+Nashville,BMW,X3,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,37027,"15,308",38996
+Nashville,BMW,330i,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,26 City / 36 Highway,2019,37027,"29,978",39798
+Nashville,BMW,X6,SUV,Certified,Red,Beige,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2018,37027,"38,420",55996
+Nashville,Chevrolet,Cruze,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 38 Highway,2019,37055,"17,977",19867
+Nashville,Nissan,Titan,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,37067,"5,743",42601
+Nashville,Cadillac,SRX,SUV,Used,Black,Ebony W/Ebony Accents,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,37027,"104,883",15999
+Nashville,Mercedes-Benz,GL 450,SUV,Used,Gray,Tan,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2013,37027,"90,721",21699
+Nashville,Audi,Q3,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 28 Highway,2016,37027,"59,824",24999
+Nashville,Subaru,WRX,SEDAN,Used,Blue,Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2017,37027,"31,700",32298
+Nashville,Acura,RDX,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2019,37027,"31,014",37499
+Nashville,Audi,Q5,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,37027,"27,289",38996
+Nashville,Audi,Q5,SUV,Certified,Black,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2019,37027,"23,189",40496
+Nashville,Audi,A5,HATCH,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,37027,"18,998",40996
+Nashville,Audi,A5,HATCH,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,37027,"17,012",41496
+Nashville,BMW,X4,SUV,Used,Red,Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,37027,"25,234",47996
+Nashville,Audi,S4,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 30 Highway,2019,37027,"34,070",47999
+Nashville,Audi,Q7,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2018,37027,"41,942",48999
+Nashville,Land Rover,Discovery,SUV,Used,Blue,Brown,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2019,37027,"22,651",53999
+Nashville,Audi,SQ5,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 24 Highway,2022,37027,413,61999
+Nashville,MINI,Cooper,CONVERT,Used,White,Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2019,37027,"13,571",26795
+Nashville,Porsche,718 Boxster,CONVERT,Used,Blue,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2019,37027,"13,551",74795
+Nashville,Chevrolet,Equinox,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,37115,"21,407",28998
+Nashville,Toyota,4Runner,SUV,Used,Red,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,37115,"31,877",40998
+Nashville,Kia,Soul,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,37204,"26,405",20990
+Nashville,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,37204,"59,588",20990
+Nashville,Volkswagen,Jetta,SEDAN,Used,White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,37204,"39,565",21990
+Nashville,Nissan,Rogue,SUV,Used,Orange,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,37204,"67,525",22845
+Nashville,Ford,Edge,SUV,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2018,37204,"52,532",24923
+Nashville,Chevrolet,Camaro,COUPE,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2019,37204,"32,599",27171
+Nashville,Ford,Flex,SUV,Used,Silver,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2018,37204,"44,390",28995
+Nashville,Mercedes-Benz,GLC 300,SUV,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 28 Highway,2017,37204,"68,607",29575
+Nashville,Nissan,Pathfinder,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,37204,"44,632",29962
+Nashville,MINI,Cooper Countryman,SUV,Used,Blue,Carbon Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2019,37204,"37,811",31933
+Nashville,Ford,F150,TRUCKS,Used,Blue,,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2018,37204,"27,952",35576
+Nashville,Mercedes-Benz,GL 550,SUV,Used,Gray,Gray/Dark Gray,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,13 City / 18 Highway,2016,37204,"86,792",36990
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,37204,"41,884",37997
+Nashville,GMC,Sierra 1500,TRUCKS,Used,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2016,37204,"88,596",37998
+Nashville,Ford,Explorer,SUV,Used,White,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,37204,"22,235",42990
+Nashville,Jeep,Gladiator,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2021,37204,"14,485",42990
+Nashville,Ford,F150,TRUCKS,Used,White,Medium Dark Slate,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,37204,"11,852",46499
+Nashville,BMW,X3,SUV,Used,Blue,Adelaide Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 29 Highway,2021,37204,"10,305",46505
+Nashville,Jeep,Wrangler,SUV,Used,White,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 25 Highway,2021,37204,"4,160",47915
+Nashville,RAM,2500,TRUCKS,Used,Green,Black,Automatic,Diesel,6-Cylinder Turbo,4 wheel drive,,2018,37204,"57,936",51833
+Nashville,MINI,Cooper,HATCH,Used,White,Carbon Black,,Gasoline,3-Cylinder Turbo,2 wheel drive - front,,2016,37067,"54,038",16991
+Nashville,INFINITI,QX50,SUV,Used,White,Wheat,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 24 Highway,2017,37067,"43,775",25991
+Nashville,Subaru,Forester,SUV,Used,Green,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2020,37067,"19,607",28991
+Nashville,Nissan,Murano,SUV,Used,Red,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,37067,"13,971",35491
+Nashville,Nissan,Titan,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2019,37067,"26,833",35991
+Nashville,Chrysler,Pacifica,VANS,Used,Blue,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,37067,"31,695",36491
+Nashville,Toyota,Tundra,TRUCKS,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 17 Highway,2021,37067,155,38491
+Nashville,Ford,Ranger,TRUCKS,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2020,37067,"13,625",38771
+Nashville,Kia,Sportage,SUV,Used,White,Alpine Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 28 Highway,2015,37064,"30,475",21000
+Nashville,Ford,EcoSport,SUV,Used,Gray,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2019,37064,"19,391",21705
+Nashville,Ford,Escape,SUV,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,37064,"18,557",25000
+Nashville,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,37064,"21,660",25284
+Nashville,Subaru,BRZ,COUPE,Used,Gray,Black,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,21 City / 29 Highway,2018,37064,"11,108",31842
+Nashville,Toyota,Tacoma,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,37064,"7,078",38873
+Nashville,GMC,Sierra 1500,TRUCKS,Used,Red,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,37064,"32,374",42900
+Nashville,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,37064,"26,529",43992
+Nashville,Volkswagen,Atlas,SUV,Used,White,Cinnamon Brown/Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,37064,"15,585",45899
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2021,37064,"4,611",52000
+Nashville,Hyundai,Palisade,SUV,Used,Blue,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,37064,"6,371",54481
+Nashville,Ford,Fusion,SEDAN,Used,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 26 Highway,2007,37204,"162,912",4999
+Nashville,Honda,Civic,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 38 Highway,2012,37204,"182,329",6978
+Nashville,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2016,37204,"102,130",10976
+Nashville,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2015,37204,"75,767",14978
+Nashville,Ford,Edge,SUV,Used,White,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 29 Highway,2017,37204,"119,497",16776
+Nashville,Honda,Odyssey,VANS,Used,Black,Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2013,37204,"92,593",16878
+Nashville,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2014,37204,"140,540",17999
+Nashville,Chrysler,300,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2017,37204,"74,543",21778
+Nashville,Nissan,Pathfinder,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2020,37204,"46,952",26977
+Nashville,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,37204,"48,179",27178
+Nashville,MAZDA,CX-9,SUV,Used,Gray,Sand,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,37204,"47,405",31678
+Nashville,BMW,530i,SEDAN,Used,Gray,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,24 City / 34 Highway,2018,37204,"50,454",35498
+Nashville,BMW,530i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,37204,"31,281",42477
+Nashville,Nissan,Rogue,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 26 Highway,2013,37115,"63,553",14695

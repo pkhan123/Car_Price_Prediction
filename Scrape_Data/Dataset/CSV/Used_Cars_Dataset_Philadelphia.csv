@@ -1,0 +1,701 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+Philadelphia,BMW,X3,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,19053,"9,503",41421
+Philadelphia,Jeep,Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 28 Highway,2016,19047,"56,348",17999
+Philadelphia,Ford,Fusion,SEDAN,Used,White,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,19114,"16,214",27478
+Philadelphia,Hyundai,Elantra,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,19047,"20,265",21244
+Philadelphia,Hyundai,Tucson,SUV,Certified,White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2019,19047,"27,137",24565
+Philadelphia,Hyundai,Sonata,SEDAN,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,19047,"14,661",25429
+Philadelphia,Hyundai,Kona,SUV,Certified,Gray,Black W/Lime,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2018,19047,"14,017",26997
+Philadelphia,Hyundai,Santa Fe,SUV,Certified,Silver,Espresso/Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 27 Highway,2020,19047,"18,792",33185
+Philadelphia,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,19047,"38,972",37885
+Philadelphia,Hyundai,Palisade,SUV,Certified,Black,Black/Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,19047,"19,986",45985
+Philadelphia,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2020,19053,"18,881",27896
+Philadelphia,MAZDA,CX-5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2020,19053,"11,068",28810
+Philadelphia,MAZDA,MAZDA6,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 31 Highway,2021,19053,550,29863
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,18974,"23,190",23500
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,18974,"31,197",25900
+Philadelphia,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"17,991",26670
+Philadelphia,Honda,Civic,HATCH,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,19115,"24,010",24933
+Philadelphia,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2018,19115,"26,974",25496
+Philadelphia,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,19115,"27,942",27486
+Philadelphia,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,19115,"39,862",27819
+Philadelphia,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,19115,"31,213",28038
+Philadelphia,Honda,CR-V,SUV,Used,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,19115,"15,053",32994
+Philadelphia,Honda,Odyssey,VANS,Certified,Black,Mocha,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,19115,"28,727",43990
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,19034,"23,698",34982
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,19034,"18,015",36695
+Philadelphia,Mercedes-Benz,A 220,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2020,19034,"19,272",37981
+Philadelphia,Mercedes-Benz,A 220,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2021,19034,"8,744",40081
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,Silver,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,19034,"8,536",40416
+Philadelphia,Mercedes-Benz,GLE 350,SUV,Certified,Blue,Macchiato Beige/Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,19034,"10,388",62928
+Philadelphia,Mercedes-Benz,GLS 450,SUV,Certified,Silver,Macchiato Beige/Magma Gray,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 23 Highway,2020,19034,493,84873
+Philadelphia,Volvo,S90,SEDAN,Used,White,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19053,"43,176",32773
+Philadelphia,Subaru,Outback,SUV,Used,White,Slate Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,19053,"28,522",33473
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,34 City / 30 Highway,2018,19111,"23,384",32991
+Philadelphia,Ford,Mustang,COUPE,Used,Blue,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 27 Highway,2017,19114,"46,607",20761
+Philadelphia,Lincoln,MKZ,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2016,19114,"44,381",21146
+Philadelphia,Ford,Fusion,SEDAN,Certified,Blue,Medium Light Stone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2019,19114,"24,464",24178
+Philadelphia,Ford,Escape,SUV,Certified,Silver,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,19114,"28,226",24885
+Philadelphia,Nissan,Murano,SUV,Used,White,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,19114,"24,094",27513
+Philadelphia,GMC,Sierra 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2015,19114,"79,558",31052
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,19114,"11,163",38561
+Philadelphia,Ford,F150,TRUCKS,Used,,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,19114,"35,824",45381
+Philadelphia,Lincoln,MKZ,SEDAN,Used,Gold,Cappuccino,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,41 City / 38 Highway,2017,08052,"43,798",23999
+Philadelphia,Chrysler,300,SEDAN,Used,White,Deep Mocha,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,08052,"31,266",31999
+Philadelphia,BMW,X1,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,19403,"19,436",30999
+Philadelphia,Honda,Civic,SEDAN,Used,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2014,19003,"52,041",14901
+Philadelphia,Hyundai,Elantra,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,19047,"23,455",18899
+Philadelphia,Hyundai,Elantra,SEDAN,Certified,Red,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,19047,"16,924",20274
+Philadelphia,Hyundai,Elantra,SEDAN,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,19047,"28,147",20590
+Philadelphia,Hyundai,Elantra,SEDAN,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2019,19047,"18,224",20998
+Philadelphia,Hyundai,Tucson,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2018,19047,"30,267",22998
+Philadelphia,Hyundai,Kona,SUV,Certified,Black,Gray/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2019,19047,"28,762",23457
+Philadelphia,Hyundai,Kona,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2021,19047,"12,076",25424
+Philadelphia,Tesla,Model 3,SEDAN,Used,Black,Black,Single-Speed,Electric,Electric,2 wheel drive - rear,,2019,19047,"19,263",43799
+Philadelphia,INFINITI,QX50,SUV,Certified,Red,Wheat,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2017,08052,"29,963",29790
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Red,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,19053,"4,857",23480
+Philadelphia,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"14,873",28187
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19053,"13,679",30000
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19053,"19,200",30000
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19053,"21,260",33500
+Philadelphia,Toyota,Highlander,SUV,Certified,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19053,"28,045",33995
+Philadelphia,Toyota,4Runner,SUV,Certified,White,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,19053,"27,431",41339
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19053,"9,039",44435
+Philadelphia,Toyota,Corolla,SEDAN,Used,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,19038,"17,709",21991
+Philadelphia,Chevrolet,Equinox,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,19038,"21,343",26993
+Philadelphia,Ford,Edge,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 24 Highway,2018,19038,"42,000",32201
+Philadelphia,Toyota,Tundra,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2018,19038,"23,986",47992
+Philadelphia,Chevrolet,Equinox,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,19053,"24,058",24772
+Philadelphia,GMC,Terrain,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,19053,"24,131",25914
+Philadelphia,Buick,Envision,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,19053,"20,501",27338
+Philadelphia,Cadillac,ATS,SEDAN,Used,Gray,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2018,19053,"39,851",27856
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2016,19053,"52,120",31115
+Philadelphia,GMC,Acadia,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,19053,"14,355",31668
+Philadelphia,Buick,Enclave,SUV,Certified,Gray,Dark Galvanized,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,19053,"35,671",35414
+Philadelphia,Mercedes-Benz,S 550,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2015,19053,"65,525",42534
+Philadelphia,Land Rover,Discovery,SUV,Used,Orange,Ebony W/Loyster Stitch,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,16 City / 21 Highway,2019,19053,"26,327",54511
+Philadelphia,Cadillac,CT4,SEDAN,Certified,Burgundy,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2021,19053,"2,330",35000
+Philadelphia,Hyundai,Kona,SUV,Used,Silver,Gray/Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 30 Highway,2019,19053,"14,219",22961
+Philadelphia,MAZDA,CX-5,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19053,"22,355",28447
+Philadelphia,MAZDA,CX-9,SUV,Certified,White,Parchment,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2021,19053,"1,576",45473
+Philadelphia,Chevrolet,Trax,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2020,19149,"7,792",21995
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2021,19149,817,43396
+Philadelphia,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,18974,"36,949",22800
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,18974,"21,037",24500
+Philadelphia,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"44,809",26772
+Philadelphia,Nissan,Altima,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,18974,"25,450",28500
+Philadelphia,Nissan,Pathfinder,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,18974,"23,652",29000
+Philadelphia,Nissan,Titan,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,18974,"11,621",46000
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19046,"28,483",26999
+Philadelphia,Toyota,RAV4,SUV,Used,Red,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,19040,"42,882",22600
+Philadelphia,Subaru,Impreza,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 35 Highway,2018,19040,"21,276",23000
+Philadelphia,Subaru,Crosstrek,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2018,19040,"22,248",25500
+Philadelphia,Honda,Accord,SEDAN,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,19040,"15,914",26500
+Philadelphia,Subaru,Forester,SUV,Certified,Blue,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,19040,"27,829",26500
+Philadelphia,Subaru,Crosstrek,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,19040,"19,841",26700
+Philadelphia,Subaru,Forester,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,19040,"9,604",27950
+Philadelphia,Subaru,Outback,SUV,Certified,Green,Warm Ivory,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,19040,"17,979",33000
+Philadelphia,Subaru,Outback,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,19040,"8,060",36950
+Philadelphia,Honda,Civic,HATCH,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,19115,"37,666",22721
+Philadelphia,Honda,Civic,SEDAN,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,19115,"17,380",24394
+Philadelphia,Honda,HR-V,SUV,Used,Orange,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,19115,"42,167",24639
+Philadelphia,Honda,Civic,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,19115,"6,097",24958
+Philadelphia,Honda,HR-V,SUV,Certified,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2020,19115,"6,432",25212
+Philadelphia,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,19115,"49,234",25556
+Philadelphia,Honda,HR-V,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,19115,"3,320",25802
+Philadelphia,Honda,CR-V,SUV,Certified,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,19115,"22,387",26426
+Philadelphia,Honda,Civic,HATCH,Certified,Gray,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2020,19115,"17,207",27534
+Philadelphia,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,19115,"12,287",27889
+Philadelphia,Honda,Accord,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 35 Highway,2021,19115,"3,826",31999
+Philadelphia,Jeep,Patriot,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 27 Highway,2014,08060,"66,816",14249
+Philadelphia,Ford,Fusion,SEDAN,Used,Black,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 34 Highway,2014,08060,"75,656",14949
+Philadelphia,Jeep,Renegade,SUV,Used,Yellow,Charcoal,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2016,08060,"44,904",18949
+Philadelphia,Honda,Civic,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,08060,"40,548",19549
+Philadelphia,Kia,Soul,HATCH,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,08060,"19,428",22596
+Philadelphia,Chevrolet,Equinox,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2018,08060,"25,582",24999
+Philadelphia,Jeep,Compass,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,08060,"29,415",25599
+Philadelphia,Volkswagen,Tiguan,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,08060,"36,109",29599
+Philadelphia,Hyundai,Ioniq,HATCH,Used,White,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2020,18974,"14,682",24999
+Philadelphia,BMW,428i xDrive,COUPE,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 32 Highway,2015,18974,"25,990",25999
+Philadelphia,Ford,Mustang,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2017,18974,"13,151",33999
+Philadelphia,Chevrolet,Tahoe,SUV,Used,White,Cocoa,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2016,18974,"51,753",48268
+Philadelphia,Hyundai,Elantra,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,08075,"28,042",19995
+Philadelphia,Chevrolet,Equinox,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2018,08075,"20,685",25995
+Philadelphia,Chevrolet,Blazer,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 27 Highway,2019,08075,"6,959",33995
+Philadelphia,Jeep,Wrangler,SUV,Used,Black,Dark Saddle/Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,4 wheel drive,,2021,19034,"7,305",57959
+Philadelphia,Volvo,XC90,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,18 City / 26 Highway,2020,19034,"10,486",64418
+Philadelphia,Mercedes-Benz,S 450,SEDAN,Certified,White,Silk Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2019,19034,"27,659",73249
+Philadelphia,Mercedes-Benz,GLS 450,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 24 Highway,2021,19034,"13,361",87290
+Philadelphia,Nissan,Sentra,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,19152,"11,901",19984
+Philadelphia,Chevrolet,Equinox,SUV,Used,Red,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,19152,"12,715",31994
+Philadelphia,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2019,19152,"10,258",31994
+Philadelphia,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 30 Highway,2018,19152,"11,103",35984
+Philadelphia,Dodge,Challenger,COUPE,Used,Yellow,Pearl/Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 30 Highway,2018,19152,"4,096",35984
+Philadelphia,Nissan,Armada,SUV,Used,Black,Charcoal,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 18 Highway,2018,19152,"51,184",39794
+Philadelphia,Alfa Romeo,Giulia,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2020,19152,"6,622",39994
+Philadelphia,Ford,Ranger,TRUCKS,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 24 Highway,2021,19152,"7,026",41984
+Philadelphia,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,19152,"7,079",47984
+Philadelphia,Toyota,Highlander,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2014,19053,"73,079",25165
+Philadelphia,Ford,Fusion,SEDAN,Used,Black,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,19053,"6,443",28693
+Philadelphia,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 53 Highway,2020,19053,"8,356",29714
+Philadelphia,Chevrolet,Traverse,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 26 Highway,2018,19053,"42,090",32988
+Philadelphia,Volvo,S90,SEDAN,Certified,Gray,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19053,"28,123",34497
+Philadelphia,Volvo,S60,SEDAN,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 36 Highway,2019,19053,"23,491",35734
+Philadelphia,Volvo,S60,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 32 Highway,2019,19053,"11,132",36046
+Philadelphia,Audi,A4,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2019,19053,"20,715",36460
+Philadelphia,Volvo,S60,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 32 Highway,2019,19053,"22,920",38775
+Philadelphia,Volvo,XC60,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,19053,"22,775",40611
+Philadelphia,Volvo,XC40,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,19053,"28,770",41703
+Philadelphia,Volvo,XC60,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,19053,"23,071",44051
+Philadelphia,Volvo,XC60,SUV,Certified,Blue,Blond,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2021,19053,"3,998",48434
+Philadelphia,Volvo,XC40,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2021,19053,"3,515",48647
+Philadelphia,Toyota,Prius,HATCH,Certified,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,54 City / 50 Highway,2016,08016,"30,621",22862
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,08016,"18,113",23647
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,08016,"24,494",24818
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Nutmeg,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,34 City / 30 Highway,2017,08016,"48,756",26238
+Philadelphia,Toyota,Tundra,TRUCKS,Certified,Black,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2017,08016,"36,351",38900
+Philadelphia,Nissan,Altima,SEDAN,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,18974,"20,765",21789
+Philadelphia,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,18974,"25,152",22700
+Philadelphia,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,18974,"28,833",25922
+Philadelphia,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"18,938",27500
+Philadelphia,Nissan,Rogue,SUV,Certified,White,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"22,331",27500
+Philadelphia,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"12,173",28200
+Philadelphia,Nissan,Murano,SUV,Certified,Silver,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,18974,"18,207",29300
+Philadelphia,GMC,Canyon,TRUCKS,Used,Gray,Jet Black/Cobalt Red,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2019,18974,"1,001",37000
+Philadelphia,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,19047,"36,233",23999
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"12,778",33996
+Philadelphia,Toyota,RAV4,SUV,Used,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,19047,"38,552",35902
+Philadelphia,Toyota,Tundra,TRUCKS,Used,White,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,19047,"6,836",41899
+Philadelphia,Toyota,Tundra,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,19047,"9,356",46989
+Philadelphia,Hyundai,Palisade,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2020,19047,"7,417",47994
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,19111,"37,151",26495
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,19111,"9,751",26991
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Nutmeg,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19111,"25,698",27973
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19111,"26,318",27995
+Philadelphia,Toyota,RAV4,SUV,Certified,Red,Ash,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,34 City / 30 Highway,2018,19111,"21,407",29964
+Philadelphia,Subaru,Forester,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 33 Highway,2021,19111,"4,802",29995
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19111,"18,564",30964
+Philadelphia,INFINITI,Q50,SEDAN,Used,Black,Graphite,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2018,19111,"25,915",30995
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,19111,"51,486",31991
+Philadelphia,Toyota,Highlander,SUV,Certified,Burgundy,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,19111,"22,261",32964
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19111,"23,658",34991
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,19111,"2,860",34995
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Black,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,19111,"16,689",35995
+Philadelphia,Toyota,Highlander,SUV,Certified,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,19111,"30,795",36464
+Philadelphia,Toyota,RAV4,SUV,Certified,Red,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19111,"10,864",38482
+Philadelphia,Toyota,4Runner,SUV,Certified,Gray,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,19111,"12,671",44991
+Philadelphia,Ford,EcoSport,SUV,Used,Silver,Medium Stone,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2021,19047,"3,326",21925
+Philadelphia,Kia,Soul,HATCH,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,19047,"15,264",22495
+Philadelphia,Kia,Sportage,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2018,19047,"20,814",24995
+Philadelphia,Ford,Escape,SUV,Used,White,Dark Earth Gray,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,19047,"14,070",28385
+Philadelphia,Lexus,RX 350,SUV,Used,Beige,Saddle Tan,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,19025,"49,260",28000
+Philadelphia,Nissan,Murano,SUV,Used,Gray,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,21 City / 28 Highway,2018,19428,"31,619",24899
+Philadelphia,Nissan,Maxima,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2019,19428,"29,624",29597
+Philadelphia,Chevrolet,Equinox,SUV,Certified,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2019,19047,"16,875",24999
+Philadelphia,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,19047,"16,564",25999
+Philadelphia,GMC,Acadia,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,19047,"27,497",29449
+Philadelphia,Chevrolet,Traverse,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,19047,"26,781",30999
+Philadelphia,Chevrolet,Traverse,SUV,Certified,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,19047,"28,073",31999
+Philadelphia,Toyota,Highlander,SUV,Used,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2018,19047,"23,508",32999
+Philadelphia,GMC,Acadia,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,19047,"20,089",32999
+Philadelphia,GMC,Acadia,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,19047,"21,058",37999
+Philadelphia,RAM,1500,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,19047,"13,156",37999
+Philadelphia,Chevrolet,Traverse,SUV,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2020,19047,"19,258",37999
+Philadelphia,RAM,1500,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,19047,"20,269",39999
+Philadelphia,RAM,1500,TRUCKS,Certified,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2019,19047,"25,589",39999
+Philadelphia,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,19047,"11,568",44999
+Philadelphia,GMC,Acadia,SUV,Certified,White,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,19047,"17,821",45499
+Philadelphia,Dodge,Charger,SEDAN,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,19047,"16,574",45999
+Philadelphia,Cadillac,XT5,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2020,19047,"12,999",46999
+Philadelphia,Ford,Escape,SUV,Used,Black,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,19114,"26,351",23775
+Philadelphia,Lexus,GS 350,SEDAN,Used,White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 29 Highway,2014,19114,"65,573",23940
+Philadelphia,Ford,Escape,SUV,Used,White,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,19114,"3,542",25134
+Philadelphia,Volkswagen,Tiguan,SUV,Used,Red,Storm Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,19114,"35,132",25662
+Philadelphia,Nissan,Frontier,TRUCKS,Used,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2018,19114,"41,623",25830
+Philadelphia,Ford,Fusion,SEDAN,Certified,,Ebony,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 40 Highway,2020,19114,"14,279",27065
+Philadelphia,Ford,Explorer,SUV,Used,Black,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2019,19114,"20,537",31355
+Philadelphia,Ford,Explorer,SUV,Certified,Burgundy,Medium Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2019,19114,"24,062",32903
+Philadelphia,GMC,Yukon,SUV,Used,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,19114,"87,102",33208
+Philadelphia,Ford,Edge,SUV,Used,Green,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,19114,"4,492",35161
+Philadelphia,Ford,F150,TRUCKS,Certified,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,19114,"26,412",35873
+Philadelphia,Ford,Explorer,SUV,Certified,Blue,Sandstone,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,20 City / 27 Highway,2020,19114,"19,476",38445
+Philadelphia,Cadillac,XT5,SUV,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,19114,"26,369",40322
+Philadelphia,Ford,Edge,SUV,Certified,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,19114,"9,122",40333
+Philadelphia,Ford,F150,TRUCKS,Used,Red,Camelback,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 21 Highway,2019,19114,"14,775",56637
+Philadelphia,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2020,08052,"15,656",39999
+Philadelphia,Honda,Pilot,SUV,Used,,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,08052,"4,775",42999
+Philadelphia,Volkswagen,Atlas,SUV,Certified,Black,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,19047,"25,994",35999
+Philadelphia,Ford,EcoSport,SUV,Used,Silver,Medium Stone,Automatic,Gasoline,4-Cylinder,4 wheel drive,23 City / 29 Highway,2018,18940,"20,834",19743
+Philadelphia,Ford,Explorer,SUV,Certified,Silver,Ebony Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,18940,"29,506",31463
+Philadelphia,Ford,Edge,SUV,Used,Burgundy,Ebony,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2019,18940,"22,300",32743
+Philadelphia,Ford,Explorer,SUV,Certified,Blue,Medium Stone/Med Lt Stone,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2018,18940,"30,242",32913
+Philadelphia,Honda,HR-V,SUV,Used,Off White,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,19047,"25,036",25931
+Philadelphia,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,19047,"16,032",27931
+Philadelphia,Honda,CR-V,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2019,19047,"13,561",28931
+Philadelphia,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2021,19047,"7,885",36931
+Philadelphia,Jeep,Patriot,SUV,Used,White,Dark Slate Gray,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 27 Highway,2015,08052,"51,521",15999
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Used,Black,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 37 Highway,2015,08052,"77,637",20999
+Philadelphia,BMW,X1,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 31 Highway,2018,08052,"44,886",28999
+Philadelphia,Ford,Explorer,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,19403,"61,130",23999
+Philadelphia,Hyundai,Ioniq,HATCH,Used,Black,Charcoal Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2019,19403,"18,945",23999
+Philadelphia,Honda,CR-V,SUV,Used,Gold,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2016,19403,"32,992",27999
+Philadelphia,Cadillac,CTS,SEDAN,Used,Red,Jet Black With Jet Black Accen,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2017,19403,"34,205",29999
+Philadelphia,Volvo,S90,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19403,"36,481",32999
+Philadelphia,Alfa Romeo,Stelvio,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,19403,"33,490",32999
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19403,"33,588",33999
+Philadelphia,Chevrolet,Corvette,COUPE,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2018,19403,"30,952",53999
+Philadelphia,Toyota,RAV4,SUV,Used,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,19003,"11,092",35698
+Philadelphia,Honda,CR-V,SUV,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 29 Highway,2013,19003,"86,941",17495
+Philadelphia,Honda,Civic,HATCH,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2018,19003,"22,664",26801
+Philadelphia,Hyundai,Santa Fe,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 26 Highway,2017,19047,"70,506",19485
+Philadelphia,Hyundai,Tucson,SUV,Certified,White,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2018,19047,"32,866",24549
+Philadelphia,Ford,Mustang,CONVERT,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2017,19047,"54,328",25264
+Philadelphia,Hyundai,Tucson,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,19047,"37,280",30249
+Philadelphia,Honda,Accord,SEDAN,Used,Gray,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,19047,"20,685",36795
+Philadelphia,Toyota,Tacoma,TRUCKS,Used,White,,,Gasoline,6-Cylinder,4 wheel drive,,2019,19047,"41,524",36990
+Philadelphia,MAZDA,CX-9,SUV,Used,White,Sand,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 29 Highway,2016,08052,"26,028",31000
+Philadelphia,INFINITI,QX80,SUV,Certified,Blue,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2018,08052,"50,159",50000
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Red,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,19053,"17,742",21400
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,19053,"16,630",24000
+Philadelphia,Honda,Accord,SEDAN,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,19053,"14,477",24711
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"37,693",25000
+Philadelphia,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"13,194",25452
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"26,743",26000
+Philadelphia,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"17,154",27000
+Philadelphia,Toyota,Camry,SEDAN,Certified,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19053,"8,967",27000
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,19053,"47,412",27000
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19053,"26,778",29778
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19053,"29,431",30000
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19053,"32,474",32281
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19053,"35,985",32931
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,19053,"37,303",33000
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19053,"28,390",34694
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19053,"14,965",34900
+Philadelphia,Toyota,Highlander,SUV,Certified,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19053,"23,596",35815
+Philadelphia,Toyota,Highlander,SUV,Certified,Blue,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19053,"20,649",35870
+Philadelphia,Toyota,4Runner,SUV,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2016,19053,"58,559",38995
+Philadelphia,Toyota,4Runner,SUV,Certified,Black,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,19053,"14,439",44000
+Philadelphia,Toyota,4Runner,SUV,Certified,White,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2021,19053,"8,706",44500
+Philadelphia,Ford,Explorer,SUV,Used,Burgundy,Medium Light Stone,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 22 Highway,2019,08052,"20,588",35995
+Philadelphia,Chevrolet,Equinox,SUV,Used,White,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 30 Highway,2020,18960,"10,523",29928
+Philadelphia,Buick,Encore,SUV,Used,Red,Titanium,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2016,19038,"18,283",19793
+Philadelphia,Toyota,Highlander,SUV,Used,Burgundy,Sand Beige,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2012,19038,"46,170",20491
+Philadelphia,Toyota,Camry,SEDAN,Used,Black,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,19038,"29,764",22993
+Philadelphia,Toyota,Tundra,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2013,19038,"88,659",25992
+Philadelphia,Toyota,Camry,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19038,"28,814",27793
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19038,"25,759",29492
+Philadelphia,Toyota,4Runner,SUV,Used,Black,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 21 Highway,2015,19038,"68,271",31823
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19038,"20,312",31953
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,19038,"24,851",31982
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,41 City / 38 Highway,2019,19038,"23,980",32994
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,White,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,19038,"22,517",34873
+Philadelphia,Lexus,RX 350,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2016,19038,"52,296",34963
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,19038,"38,531",35784
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Blue,Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,19038,"13,333",36683
+Philadelphia,Ford,F350,TRUCKS,Used,Blue,Beige,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2013,19047,"122,152",41250
+Philadelphia,Toyota,Camry,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2018,18902,"34,521",25591
+Philadelphia,Buick,Encore,SUV,Certified,Brown,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,19053,"20,350",22499
+Philadelphia,GMC,Terrain,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,19053,"16,257",27409
+Philadelphia,Buick,Encore GX,SUV,Certified,White,Whisper Beige With Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 29 Highway,2020,19053,"8,722",29406
+Philadelphia,GMC,Acadia,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,19053,"21,254",29844
+Philadelphia,GMC,Acadia,SUV,Certified,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,19053,"22,717",31459
+Philadelphia,Buick,Enclave,SUV,Certified,Black,Brandy,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,19053,"34,949",34450
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2016,19053,"45,805",34994
+Philadelphia,RAM,1500,TRUCKS,Used,Gray,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2018,19053,"28,755",36994
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Certified,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,19053,"39,565",39380
+Philadelphia,Ford,F150,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,19053,"31,233",39780
+Philadelphia,GMC,Yukon,SUV,Certified,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,19053,"34,040",44322
+Philadelphia,Ford,Expedition,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2020,19053,"10,161",57875
+Philadelphia,Chrysler,200,SEDAN,Used,Gray,Linen/Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,19053,"46,679",16388
+Philadelphia,BMW,740Li xDrive,SEDAN,Used,Gray,Ivory White/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 28 Highway,2015,19053,"62,795",30997
+Philadelphia,MAZDA,MAZDA6,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,19053,"20,142",22137
+Philadelphia,MAZDA,MAZDA6,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2018,19053,"20,302",23411
+Philadelphia,MAZDA,CX-5,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19053,"29,099",24711
+Philadelphia,MAZDA,CX-5,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19053,"21,754",25332
+Philadelphia,MAZDA,CX-5,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,19053,"20,950",26577
+Philadelphia,MAZDA,CX-5,SUV,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,19053,"26,416",27707
+Philadelphia,MAZDA,CX-30,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2021,19053,"2,876",27774
+Philadelphia,MAZDA,CX-5,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19053,"43,602",28811
+Philadelphia,MAZDA,MX-5 Miata RF,CONVERT,Certified,Gray,Auburn,Manual,Gasoline,4-Cylinder,2 wheel drive - rear,26 City / 33 Highway,2017,19053,"11,227",28871
+Philadelphia,MAZDA,CX-5,SUV,Certified,Blue,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19053,"34,752",29015
+Philadelphia,MAZDA,CX-5,SUV,Certified,Black,Parchment,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2018,19053,"16,975",29677
+Philadelphia,MAZDA,CX-9,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,19053,"23,433",30488
+Philadelphia,MAZDA,CX-9,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,19053,"10,386",36457
+Philadelphia,Lexus,NX 300h,SUV,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,All wheel drive,33 City / 30 Highway,2015,19034,"99,449",24989
+Philadelphia,Audi,S7,HATCH,Used,Black,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 27 Highway,2014,19057,"72,018",36995
+Philadelphia,Kia,Sorento,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,23 City / 25 Highway,2021,18902,"9,904",36994
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2016,19053,"22,490",29900
+Philadelphia,BMW,430i Gran Coupe xDrive,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2019,19053,"26,595",38500
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,19053,"24,251",38900
+Philadelphia,Mercedes-Benz,E 300,SEDAN,Used,Blue,Macchiato Beige,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 30 Highway,2019,19053,"24,105",44900
+Philadelphia,Mercedes-Benz,E 350,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,19053,"16,430",54900
+Philadelphia,Jeep,Compass,SUV,Used,White,Ski Gray/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,18976,"35,619",23595
+Philadelphia,Audi,Q5,SUV,Used,Silver,Pistachio Beige,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2015,18976,"44,541",24395
+Philadelphia,Audi,A3,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,26 City / 35 Highway,2019,18976,"19,162",29395
+Philadelphia,Audi,Q5,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2018,18976,"35,508",37991
+Philadelphia,Audi,TTS,COUPE,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2017,18976,"27,197",44295
+Philadelphia,Mercedes-Benz,E 450,COUPE,Used,Black,Black/Classic Red,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2020,18976,"10,955",64993
+Philadelphia,Ford,Fusion,SEDAN,Certified,Gray,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2019,19153,"25,797",24310
+Philadelphia,Honda,HR-V,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,19153,"3,663",27299
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Used,Tan,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2015,19030,"24,858",35000
+Philadelphia,Jeep,Wrangler,SUV,Used,Gray,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,19030,"24,117",37000
+Philadelphia,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,19030,"21,472",60000
+Philadelphia,Genesis,G80,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2018,19149,"32,054",33375
+Philadelphia,Chevrolet,Silverado 1500,TRUCKS,Certified,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2018,19149,"18,072",37495
+Philadelphia,Chrysler,Town & Country,VANS,Used,Green,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2007,19057,"134,823",2995
+Philadelphia,GMC,Yukon,SUV,Used,Gray,Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,14 City / 19 Highway,2008,19057,"171,402",9995
+Philadelphia,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19046,"20,525",26899
+Philadelphia,Nissan,Rogue,SUV,Used,White,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18902,"23,882",27991
+Philadelphia,Honda,Accord,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,18902,"16,594",29591
+Philadelphia,Lincoln,MKZ,SEDAN,Used,Gray,Dark Charcoal,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 24 Highway,2011,18974,"99,138",10759
+Philadelphia,Kia,Sportage,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,19 City / 26 Highway,2014,18974,"70,582",17500
+Philadelphia,Hyundai,Sonata,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,18974,"27,299",23700
+Philadelphia,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"33,132",25000
+Philadelphia,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"41,726",25700
+Philadelphia,Nissan,Frontier,TRUCKS,Certified,Black,Steel,Automatic,Gasoline,6-Cylinder,4 wheel drive,15 City / 21 Highway,2017,18974,"47,059",26900
+Philadelphia,Ford,F150,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,18974,"43,094",37566
+Philadelphia,Nissan,Maxima,SEDAN,Certified,White,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2021,18974,"7,388",42480
+Philadelphia,Lexus,LS 500,SEDAN,Used,Silver,Parchment,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 27 Highway,2018,18974,"39,039",59000
+Philadelphia,MAZDA,MAZDA3,HATCH,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2020,18915,"7,904",25950
+Philadelphia,Acura,TLX,SEDAN,Used,Black,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 32 Highway,2020,19046,"4,534",33985
+Philadelphia,Acura,MDX,SUV,Certified,White,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,19046,"29,627",38465
+Philadelphia,Acura,MDX,SUV,Certified,Red,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 25 Highway,2019,19046,"17,785",43444
+Philadelphia,Hyundai,Sonata,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 33 Highway,2019,08053,"20,918",25990
+Philadelphia,Hyundai,Tucson,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,08053,"26,161",26990
+Philadelphia,Hyundai,Tucson,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2021,08053,"7,319",33990
+Philadelphia,Jeep,Wrangler,SUV,Used,Green,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2019,08053,"26,344",50990
+Philadelphia,Nissan,Sentra,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,19046,"18,252",20999
+Philadelphia,Nissan,Rogue,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19046,"34,463",21999
+Philadelphia,Nissan,Versa,SEDAN,Certified,White,Graphite,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,32 City / 40 Highway,2021,19046,"10,150",21999
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 30 Highway,2019,19046,"19,756",22999
+Philadelphia,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2017,19046,"31,267",24990
+Philadelphia,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19046,"20,004",24999
+Philadelphia,Nissan,Rogue Sport,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2021,19046,"9,566",25499
+Philadelphia,Nissan,Altima,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2021,19046,"5,046",25875
+Philadelphia,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19046,"5,179",28999
+Philadelphia,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,19046,"26,582",29300
+Philadelphia,Honda,HR-V,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,19046,"10,113",29999
+Philadelphia,Nissan,Rogue,SUV,Certified,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19046,"10,843",29999
+Philadelphia,Nissan,Altima,SEDAN,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 36 Highway,2020,19046,"9,616",29999
+Philadelphia,Nissan,Armada,SUV,Certified,Black,Black/Brown,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 18 Highway,2019,19046,"26,666",51990
+Philadelphia,Volvo,S60,SEDAN,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2017,19440,"22,434",24549
+Philadelphia,Jeep,Compass,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,19440,"33,425",25599
+Philadelphia,MAZDA,CX-5,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 31 Highway,2018,19440,"7,849",25999
+Philadelphia,Kia,Sportage,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 25 Highway,2019,19440,"19,447",27999
+Philadelphia,Subaru,Crosstrek,SUV,Used,White,Charcoal,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 29 Highway,2019,19440,"25,426",27999
+Philadelphia,Nissan,Altima,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,19440,"18,290",27999
+Philadelphia,INFINITI,QX50,SUV,Used,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 30 Highway,2019,19440,"23,958",37799
+Philadelphia,Jeep,Grand Cherokee,SUV,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,19440,"25,853",37999
+Philadelphia,Honda,CR-V,SUV,Used,Off White,Tan,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,19440,"5,212",37999
+Philadelphia,Ford,F150,TRUCKS,Used,Blue,Charcoal,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2021,19440,"9,296",45599
+Philadelphia,Audi,Q7,SUV,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,19 City / 25 Highway,2019,19440,"18,812",52999
+Philadelphia,Jaguar,F-PACE,SUV,Used,Black,Charcoal,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 23 Highway,2020,19440,"14,765",58299
+Philadelphia,Mercedes-Benz,GLS 450,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,19440,"23,123",65597
+Philadelphia,Tesla,Model Y,SUV,Used,White,Black,Single-Speed,Electric,Electric,All wheel drive,,2022,19440,"2,589",68299
+Philadelphia,Subaru,Crosstrek,SUV,Certified,Red,Black,Manual,Gasoline,4-Cylinder,All wheel drive,23 City / 29 Highway,2018,19040,"32,788",23000
+Philadelphia,Subaru,Legacy,SEDAN,Certified,Black,Slate Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2018,19040,"30,059",23000
+Philadelphia,Subaru,Impreza,HATCH,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 36 Highway,2020,19040,"20,574",25200
+Philadelphia,Subaru,Outback,SUV,Certified,Gray,Warm Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,19040,"27,893",25350
+Philadelphia,GMC,Terrain,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2019,19040,"31,760",26500
+Philadelphia,Subaru,Forester,SUV,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2017,19040,"17,734",27000
+Philadelphia,Subaru,Forester,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2018,19040,"22,075",28000
+Philadelphia,Subaru,Forester,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 27 Highway,2017,19040,"22,381",29800
+Philadelphia,Subaru,Crosstrek,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,19040,"27,952",30000
+Philadelphia,Subaru,Ascent,SUV,Certified,Silver,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2020,19040,"12,334",33000
+Philadelphia,Subaru,Ascent,SUV,Used,Blue,Warm Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2020,19040,"20,620",36000
+Philadelphia,Honda,Accord,SEDAN,Used,Off White,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,19001,"12,963",27985
+Philadelphia,MAZDA,CX-9,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2018,19001,"23,663",30985
+Philadelphia,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,08822,"39,738",27987
+Philadelphia,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 28 Highway,2014,19047,"57,721",16698
+Philadelphia,Jeep,Compass,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,19047,"25,042",25924
+Philadelphia,Hyundai,Tucson,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2020,19047,"3,775",26594
+Philadelphia,Hyundai,Tucson,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 25 Highway,2020,19047,"12,433",26739
+Philadelphia,Hyundai,Sonata,SEDAN,Certified,Black,Dark Gray/Camel,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 36 Highway,2020,19047,"13,223",33980
+Philadelphia,Honda,Fit,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,19115,"27,661",20999
+Philadelphia,Honda,Civic,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,19115,"20,594",22690
+Philadelphia,Honda,Civic,SEDAN,Certified,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,19115,"24,101",24295
+Philadelphia,Honda,Odyssey,VANS,Used,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2016,19115,"51,096",24909
+Philadelphia,Honda,Accord,SEDAN,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,19115,"30,006",29380
+Philadelphia,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2019,19115,"31,070",37566
+Philadelphia,Toyota,Highlander,SUV,Used,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19115,"20,349",42500
+Philadelphia,Honda,HR-V,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2018,08060,"38,229",23999
+Philadelphia,Ford,Escape,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,08060,"25,397",27599
+Philadelphia,Lexus,ES 350,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,08060,"39,093",28396
+Philadelphia,Ford,Mustang,CONVERT,Used,White,Red,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2017,08060,"29,553",32996
+Philadelphia,Toyota,Tacoma,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2020,08060,"11,029",32996
+Philadelphia,Toyota,Highlander,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2015,08060,"26,120",33949
+Philadelphia,Toyota,RAV4,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2020,08060,"13,617",35799
+Philadelphia,Jeep,Wrangler,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,08060,"27,455",36996
+Philadelphia,GMC,Yukon,SUV,Used,Black,Charcoal,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,16 City / 22 Highway,2018,08060,"38,397",44996
+Philadelphia,Tesla,Model Y,SUV,Used,White,White,Single-Speed,Electric,Electric,All wheel drive,,2020,08060,"12,402",65299
+Philadelphia,Acura,RDX,SUV,Used,Black,Parchment,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2014,19090,"60,874",19990
+Philadelphia,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2018,19090,"21,406",39990
+Philadelphia,Land Rover,Range Rover Evoque,SUV,Used,Gray,Dark Cherry/Ivory,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2018,19090,"17,937",49990
+Philadelphia,Ford,Expedition,SUV,Used,White,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,19090,"28,963",52990
+Philadelphia,BMW,Z4,CONVERT,Used,Red,Cognac W/Contrast Stitch,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,19090,"2,118",53990
+Philadelphia,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,08053,"55,789",18710
+Philadelphia,Honda,Civic,SEDAN,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2018,08053,"35,689",21225
+Philadelphia,Honda,Civic,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2019,08053,"26,550",21960
+Philadelphia,Honda,HR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 31 Highway,2019,08053,"23,895",22870
+Philadelphia,Honda,Accord,SEDAN,Certified,Red,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,08053,"18,536",24855
+Philadelphia,Jeep,Cherokee,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2019,08053,"25,865",26415
+Philadelphia,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,08053,"25,251",27835
+Philadelphia,Honda,Pilot,SUV,Certified,Black,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,08053,"32,245",30175
+Philadelphia,Honda,CR-V,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,08053,"28,353",30205
+Philadelphia,Honda,Accord,SEDAN,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,08053,"20,060",30450
+Philadelphia,Honda,CR-V,SUV,Certified,Off White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2019,08053,"25,428",30765
+Philadelphia,BMW,X2,SUV,Used,Orange,Mocha,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2018,08053,"15,279",31375
+Philadelphia,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,08053,"12,451",31775
+Philadelphia,Honda,CR-V,SUV,Certified,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,08053,"16,811",31965
+Philadelphia,Honda,Ridgeline,TRUCKS,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,08053,"19,215",38850
+Philadelphia,MINI,Cooper,HATCH,Used,Red,Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 35 Highway,2018,18974,"25,982",18999
+Philadelphia,Honda,Civic,COUPE,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2017,18974,"14,724",24999
+Philadelphia,Honda,Clarity,SEDAN,Used,Gray,Black,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,44 City / 40 Highway,2018,18974,"23,702",24999
+Philadelphia,Jeep,Gladiator,TRUCKS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,18974,"11,338",43995
+Philadelphia,Mercedes-Benz,C 300,CONVERT,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2018,18974,"29,398",43999
+Philadelphia,Land Rover,Range Rover,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,17 City / 23 Highway,2016,18974,"70,983",44999
+Philadelphia,Chevrolet,Suburban,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 19 Highway,2021,18974,"2,749",67999
+Philadelphia,BMW,X6 M,SUV,Used,Blue,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,14 City / 19 Highway,2019,18974,"20,918",83999
+Philadelphia,Mercedes-Benz,G 63 AMG,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder Supercharged,All wheel drive,12 City / 14 Highway,2013,18974,"53,028",90999
+Philadelphia,Hyundai,Tucson,SUV,Used,Tan,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2017,18974,"24,780",22676
+Philadelphia,Buick,Encore,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 33 Highway,2018,18974,"25,094",22769
+Philadelphia,Buick,Encore,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,18974,"21,298",23228
+Philadelphia,Buick,Encore,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,18974,"11,567",24951
+Philadelphia,Nissan,Rogue,SUV,Used,Black,Almond,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2017,18974,"34,102",25595
+Philadelphia,GMC,Terrain,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,18974,"23,117",26974
+Philadelphia,GMC,Terrain,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2018,18974,"17,951",26978
+Philadelphia,GMC,Terrain,SUV,Certified,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,18974,"19,837",27521
+Philadelphia,Chevrolet,Malibu,SEDAN,Certified,Gray,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2020,18974,"9,887",27998
+Philadelphia,GMC,Terrain,SUV,Certified,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2019,18974,"8,045",29348
+Philadelphia,GMC,Acadia,SUV,Certified,Red,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2018,18974,"26,685",33933
+Philadelphia,GMC,Acadia,SUV,Certified,Silver,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,18974,"10,292",34986
+Philadelphia,Subaru,Ascent,SUV,Used,Gray,Slate Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,18974,"16,489",36876
+Philadelphia,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2017,18974,"48,987",39824
+Philadelphia,Toyota,Tundra,TRUCKS,Used,White,,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,18974,"14,827",43972
+Philadelphia,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2020,18974,"17,677",47921
+Philadelphia,RAM,1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,18974,"26,603",48403
+Philadelphia,GMC,Sierra 2500,TRUCKS,Certified,Blue,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,18974,"7,024",83700
+Philadelphia,Buick,Encore,SUV,Certified,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2020,08053,"14,535",23990
+Philadelphia,Chevrolet,Equinox,SUV,Certified,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,08053,"7,295",30990
+Philadelphia,GMC,Yukon XL,SUV,Certified,Blue,Cocoa/Shale,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2019,08053,"24,861",65990
+Philadelphia,Volkswagen,Tiguan,SUV,Used,White,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2018,19034,"18,246",27498
+Philadelphia,Lexus,NX 200t,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 27 Highway,2016,19034,"43,030",29976
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Used,Blue,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2016,19034,"68,172",30121
+Philadelphia,Subaru,Crosstrek,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2019,19034,"12,502",32382
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,19034,"27,300",33298
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19034,"37,754",34457
+Philadelphia,Alfa Romeo,Giulia,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,19034,"14,515",34552
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Certified,Silver,Crystal Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,19034,"16,331",34927
+Philadelphia,Alfa Romeo,Stelvio,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,19034,"18,636",35786
+Philadelphia,Lexus,NX 300,SUV,Used,White,Glazed Caramel,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 28 Highway,2019,19034,"26,943",35922
+Philadelphia,Mercedes-Benz,CLA 250,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 32 Highway,2019,19034,"21,994",35928
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19034,"23,512",36523
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19034,"28,944",36532
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 32 Highway,2018,19034,"10,595",37880
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,White,Amg Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 33 Highway,2019,19034,"22,099",38278
+Philadelphia,Mercedes-Benz,GLA 250,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,19034,"12,914",40145
+Philadelphia,Jeep,Wrangler,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 24 Highway,2021,19034,"5,195",40533
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,Black,Silk Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,19034,"22,159",40918
+Philadelphia,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2019,19034,"20,312",41349
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,19034,"29,256",42213
+Philadelphia,Toyota,Sienna,VANS,Used,Black,Bisque,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,19034,"26,796",42231
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,19034,"21,729",42578
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Used,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,19034,"14,851",43021
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,White,Silk Beige/Black Mb-Tex,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,19034,"10,203",43978
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,19034,"5,534",44296
+Philadelphia,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2018,19034,"17,731",45530
+Philadelphia,Mercedes-Benz,GLE 350,SUV,Certified,Gray,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 22 Highway,2018,19034,"37,330",45796
+Philadelphia,Mercedes-Benz,S 550,SEDAN,Used,Black,Silk Beige/Espresso Brown,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,16 City / 26 Highway,2014,19034,"53,267",46013
+Philadelphia,BMW,X3,SUV,Used,Gray,Cognac,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2018,19034,"33,549",46154
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,White,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,19034,"8,130",46842
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,Black,Amg Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2020,19034,"3,626",48405
+Philadelphia,Mercedes-Benz,C 300,SEDAN,Certified,White,Silk Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2021,19034,"5,363",48522
+Philadelphia,Mercedes-Benz,S 550,SEDAN,Used,Silver,Crystal Gray/Seashell Gray,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 26 Highway,2015,19034,"37,769",48940
+Philadelphia,Mercedes-Benz,E 300,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,19034,"23,488",49445
+Philadelphia,Mercedes-Benz,E 300,SEDAN,Used,Red,Macchiato Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,19034,"22,284",49704
+Philadelphia,Audi,A6,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,19034,"20,409",49973
+Philadelphia,Mercedes-Benz,E 300,SEDAN,Certified,Black,Macchiato Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,19034,"20,260",50311
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 27 Highway,2019,19034,"33,483",51759
+Philadelphia,Mercedes-Benz,E 300,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,19034,"9,369",52258
+Philadelphia,Mercedes-Benz,GLE 400,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 23 Highway,2019,19034,"19,186",53031
+Philadelphia,Mercedes-Benz,SL 550,CONVERT,Used,Red,Black,Automatic,Gasoline,8-Cylinder Turbo,2 wheel drive - rear,18 City / 24 Highway,2014,19034,"13,925",55956
+Philadelphia,Mercedes-Benz,C 300,CONVERT,Certified,Gray,Magma Gray,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 29 Highway,2019,19034,"18,299",56929
+Philadelphia,Mercedes-Benz,E 450,COUPE,Certified,Black,Saddle Brown/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,19 City / 26 Highway,2019,19034,"6,454",62127
+Philadelphia,Mercedes-Benz,S 450,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2018,19034,"42,504",62854
+Philadelphia,Mercedes-Benz,GLC 43 AMG,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 24 Highway,2020,19034,"15,817",64194
+Philadelphia,Mercedes-Benz,E 350,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2021,19034,"6,480",65415
+Philadelphia,Mercedes-Benz,GLS 450,SUV,Certified,Gray,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 22 Highway,2019,19034,"29,781",66823
+Philadelphia,Mercedes-Benz,CLS 450,SEDAN,Certified,White,,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2019,19034,"26,392",67740
+Philadelphia,Mercedes-Benz,CLS 450,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2020,19034,"28,815",70887
+Philadelphia,Mercedes-Benz,GLE 43 AMG,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,19034,"22,081",71643
+Philadelphia,Mercedes-Benz,S 450,SEDAN,Certified,Black,Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2019,19034,"28,335",72660
+Philadelphia,Chevrolet,Corvette,COUPE,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 23 Highway,2017,19034,"8,966",77000
+Philadelphia,Mercedes-Benz,S 450,SEDAN,Certified,Black,Porcelain/Black,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,18 City / 28 Highway,2019,19034,"15,323",78315
+Philadelphia,Mercedes-Benz,SL 450,CONVERT,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2019,19034,"10,725",82786
+Philadelphia,Porsche,Panamera,HATCH,Used,Blue,Saddle Brown,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 25 Highway,2018,19034,"13,731",91609
+Philadelphia,Ford,Fusion,SEDAN,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,19047,"17,569",24995
+Philadelphia,Volvo,XC60,SUV,Used,Silver,Off-Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 27 Highway,2016,19004,"41,418",23989
+Philadelphia,GMC,Canyon,TRUCKS,Used,Black,Jet Black/Dark Ash,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2016,19004,"40,891",23995
+Philadelphia,BMW,320i xDrive,SEDAN,Certified,White,Venetian Beige,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 34 Highway,2018,19004,"33,977",27749
+Philadelphia,BMW,640i Gran Coupe,SEDAN,Used,Black,Cinnamon Brown,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2015,19004,"89,403",29497
+Philadelphia,BMW,330i xDrive,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,19004,"38,045",30984
+Philadelphia,BMW,330i xDrive,SEDAN,Certified,Silver,Black/Dark Oyster,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 33 Highway,2018,19004,"13,095",32996
+Philadelphia,BMW,440i Gran Coupe xDrive,HATCH,Certified,Silver,Black W/Red Stitching,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,21 City / 31 Highway,2019,19004,"28,088",40997
+Philadelphia,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19004,"14,570",43992
+Philadelphia,BMW,X5,SUV,Used,Blue,Coffee,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,20 City / 26 Highway,2019,19004,"29,397",57778
+Philadelphia,BMW,M550i xDrive,SEDAN,Used,Gray,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,18 City / 25 Highway,2019,19004,"26,452",59987
+Philadelphia,BMW,M850i Gran Coupe xDrive,SEDAN,Used,White,Black,Automatic,Gasoline,8-Cylinder Turbo,All wheel drive,17 City / 25 Highway,2020,19004,"16,027",94994
+Philadelphia,Mercedes-Benz,GLC 300,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,18902,"34,467",36981
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,08054,"19,995",20600
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,08054,"18,431",21300
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,08054,"4,405",22750
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2020,08054,"7,460",24400
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,08054,"21,345",25400
+Philadelphia,Toyota,Camry,SEDAN,Certified,Silver,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,08054,"25,688",25400
+Philadelphia,Toyota,Prius Prime,HATCH,Certified,White,Moonstone,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,55 City / 53 Highway,2017,08054,"28,451",25700
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Nutmeg,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,08054,"30,800",26250
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,08054,"29,877",26495
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,08054,"31,972",27000
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,08054,"26,432",27700
+Philadelphia,Toyota,Prius Prime,HATCH,Certified,White,Moonstone,Automatic,Hybrid Gas/Electric,Plug-in Hybrid,2 wheel drive - front,55 City / 53 Highway,2017,08054,"19,778",28000
+Philadelphia,Toyota,Camry,SEDAN,Certified,Off White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,08054,"14,825",28250
+Philadelphia,Toyota,Camry,SEDAN,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,08054,"25,455",28300
+Philadelphia,Toyota,Camry,SEDAN,Certified,Red,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2018,08054,"30,627",29900
+Philadelphia,Toyota,Camry,SEDAN,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2020,08054,"16,064",30000
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,08054,"36,691",30400
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Silver,Cement Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,08054,"15,787",30400
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,08054,"22,973",31750
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2016,08054,"49,255",32400
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,08054,"20,498",33000
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,08054,"26,114",34900
+Philadelphia,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,08054,"28,093",35300
+Philadelphia,Toyota,Highlander,SUV,Certified,Blue,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,08054,"28,390",35500
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Off White,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,08054,"17,240",36600
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,08054,"22,431",36900
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Gray,Graphite,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 43 Highway,2019,08054,"6,962",37100
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Black,Black Pkg/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2018,08054,"20,195",39350
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Silver,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,08054,"7,988",40300
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,08054,"14,263",40400
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Gray,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,08054,"11,591",40800
+Philadelphia,Toyota,Tundra,TRUCKS,Certified,Blue,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,08054,"8,572",45995
+Philadelphia,Toyota,Tundra,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2019,08054,"20,503",46300
+Philadelphia,Lexus,ES 350,SEDAN,Used,White,Chateau,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 33 Highway,2019,08043,"29,907",39495
+Philadelphia,Lexus,IS 350,SEDAN,Used,White,Rioja Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2020,08043,"16,660",45245
+Philadelphia,Toyota,Camry,SEDAN,Used,White,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 34 Highway,2015,19152,"58,543",18984
+Philadelphia,Kia,Soul,HATCH,Used,Yellow,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,19152,"13,180",21984
+Philadelphia,Nissan,Altima,SEDAN,Used,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,19152,"57,722",21994
+Philadelphia,Jeep,Compass,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,19152,"31,981",27494
+Philadelphia,Dodge,Challenger,COUPE,Used,Orange,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,19152,"3,863",33984
+Philadelphia,Nissan,Titan,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,19152,"50,882",35984
+Philadelphia,Dodge,Challenger,COUPE,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2018,19152,"31,273",38984
+Philadelphia,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,19152,"39,296",40994
+Philadelphia,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 23 Highway,2018,19152,"19,463",41984
+Philadelphia,Jeep,Wrangler,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,19152,"11,745",45494
+Philadelphia,Dodge,Charger,SEDAN,Used,White,Brazen Gold/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2017,19152,"12,625",45984
+Philadelphia,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,19152,"11,659",49984
+Philadelphia,Jeep,Wrangler,SUV,Used,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2021,19152,"13,205",51894
+Philadelphia,Dodge,Challenger,COUPE,Used,Orange,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2021,19152,27,55994
+Philadelphia,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder Supercharged,2 wheel drive - rear,13 City / 22 Highway,2018,19152,"42,528",58494
+Philadelphia,Hyundai,Santa Fe,SUV,Used,Black,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,19 City / 25 Highway,2015,19047,"67,920",16996
+Philadelphia,Dodge,Challenger,COUPE,Used,Orange,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 19 Highway,2009,19047,"61,126",22996
+Philadelphia,Lexus,LS 460,SEDAN,Used,White,Tan,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2013,19047,"127,398",24496
+Philadelphia,RAM,ProMaster,VANS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2017,19047,"56,476",29996
+Philadelphia,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2016,19053,"63,664",20734
+Philadelphia,Nissan,Altima,SEDAN,Used,White,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2019,19053,"42,719",25808
+Philadelphia,Nissan,Rogue,SUV,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,19053,"21,421",27718
+Philadelphia,Volvo,S60,SEDAN,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 32 Highway,2020,19053,"29,433",35374
+Philadelphia,Volvo,S60,SEDAN,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2021,19053,"12,478",36596
+Philadelphia,Volvo,XC60,SUV,Certified,White,Blond/Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,19053,"30,298",39902
+Philadelphia,Volvo,XC60,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,19053,"28,941",41085
+Philadelphia,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,19053,"20,313",54945
+Philadelphia,Toyota,Corolla,SEDAN,Certified,White,Macadamia,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 38 Highway,2020,08016,"22,598",22201
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,08016,"29,178",27957
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,08016,"31,802",28972
+Philadelphia,Toyota,Sienna,VANS,Certified,Red,Bisque,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2019,08016,"34,670",31997
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,08016,"18,463",37592
+Philadelphia,Jeep,Cherokee,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 27 Highway,2019,08648,"36,721",29850
+Philadelphia,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,08648,"20,622",39850
+Philadelphia,Toyota,4Runner,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,08648,"21,237",42995
+Philadelphia,Dodge,Charger,SEDAN,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2020,08648,"5,977",48950
+Philadelphia,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,15 City / 18 Highway,2018,08648,"10,973",68750
+Philadelphia,Nissan,Altima,SEDAN,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,18974,"36,384",22000
+Philadelphia,Nissan,Rogue,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"36,353",24775
+Philadelphia,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2017,18974,"48,099",25000
+Philadelphia,Nissan,Rogue,SUV,Certified,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,18974,"28,037",26000
+Philadelphia,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,18974,"31,591",27680
+Philadelphia,Nissan,Altima,SEDAN,Certified,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,28 City / 39 Highway,2021,18974,"3,799",29000
+Philadelphia,Nissan,Maxima,SEDAN,Certified,Blue,Cashmere,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 30 Highway,2018,18974,"22,576",30300
+Philadelphia,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,18974,"29,605",34250
+Philadelphia,Nissan,Pathfinder,SUV,Certified,Black,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2019,18974,"27,051",34500
+Philadelphia,Ford,Fiesta,SEDAN,Used,Gray,Black,,Gasoline,4-Cylinder,2 wheel drive - front,,2019,19047,"14,247",19497
+Philadelphia,BMW,330i xDrive,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,25 City / 34 Highway,2019,08619,"17,504",39320
+Philadelphia,BMW,X3,SUV,Used,Brown,Mocha,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,08619,"10,444",42674
+Philadelphia,Cadillac,CT6,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,08619,"20,620",47362
+Philadelphia,Toyota,Venza,SUV,Used,Green,Ivory,Automatic,Gasoline,4-Cylinder,All wheel drive,20 City / 26 Highway,2013,19047,"78,387",16899
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Black,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2019,19047,"23,329",20958
+Philadelphia,Ford,F150,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2014,19047,"105,986",20993
+Philadelphia,Subaru,Forester,SUV,Used,Green,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2016,19047,"48,255",22989
+Philadelphia,Toyota,Prius,HATCH,Certified,Silver,Moonstone,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,58 City / 53 Highway,2016,19047,"34,728",22990
+Philadelphia,Subaru,Forester,SUV,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,24 City / 31 Highway,2015,19047,"26,834",23416
+Philadelphia,Jeep,Cherokee,SUV,Used,Brown,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,21 City / 29 Highway,2019,19047,"40,545",23926
+Philadelphia,Toyota,Corolla,SEDAN,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2021,19047,"6,980",24989
+Philadelphia,Honda,Pilot,SUV,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 26 Highway,2018,19047,"56,098",26896
+Philadelphia,Toyota,Camry,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19047,"23,407",26989
+Philadelphia,Toyota,RAV4,SUV,Certified,Red,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,19047,"35,648",27798
+Philadelphia,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19047,"6,518",27999
+Philadelphia,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,19047,"28,236",28959
+Philadelphia,Toyota,RAV4,SUV,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19047,"29,326",28994
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,19047,"25,750",29458
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19047,"25,894",29989
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"19,774",31954
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"30,887",31958
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"25,643",31958
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"19,101",31958
+Philadelphia,Toyota,RAV4,SUV,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19047,"11,904",31985
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Burgundy,Almond,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,40 City / 39 Highway,2018,19047,"27,919",31989
+Philadelphia,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 34 Highway,2019,19047,"6,664",31991
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2019,19047,"36,379",32834
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2019,19047,"27,471",32958
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"18,089",32996
+Philadelphia,Toyota,RAV4,SUV,Certified,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"16,495",32996
+Philadelphia,Toyota,Camry,SEDAN,Certified,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2020,19047,"19,639",34889
+Philadelphia,Toyota,RAV4,SUV,Certified,Black,Mocha,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"22,599",34989
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Silver,Cement Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,19047,"24,547",35886
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Mocha,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,19047,"26,990",35993
+Philadelphia,Toyota,Camry,SEDAN,Certified,,Ash,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 34 Highway,2022,19047,83,36524
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"24,680",37996
+Philadelphia,Toyota,Highlander,SUV,Certified,Green,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"18,606",37996
+Philadelphia,Toyota,Highlander,SUV,Certified,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"25,099",37996
+Philadelphia,Toyota,Highlander,SUV,Certified,Green,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"29,781",37996
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Tan,Graphite W/Gun Metal,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2019,19047,"18,422",38853
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2018,19047,"25,571",39899
+Philadelphia,Toyota,Highlander,SUV,Certified,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"13,167",39958
+Philadelphia,Toyota,Highlander,SUV,Certified,Black,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"22,879",39998
+Philadelphia,Toyota,Sienna,VANS,Certified,Gray,Ash,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,19047,"18,294",39998
+Philadelphia,Toyota,Highlander,SUV,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19047,"19,218",40998
+Philadelphia,Toyota,Tundra,TRUCKS,Used,Red,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2020,19047,"23,503",41958
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,White,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,19047,"8,216",44989
+Philadelphia,Honda,Civic,SEDAN,Used,Purple,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,31 City / 40 Highway,2017,19111,"35,151",20891
+Philadelphia,Jeep,Compass,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,19111,"41,893",23995
+Philadelphia,Acura,RDX,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 27 Highway,2017,19111,"53,147",25964
+Philadelphia,Honda,Accord,SEDAN,Used,Blue,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,19111,"39,306",25991
+Philadelphia,Toyota,RAV4,SUV,Certified,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 30 Highway,2018,19111,"34,863",26591
+Philadelphia,Toyota,Camry,SEDAN,Certified,Blue,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,19111,"21,321",28991
+Philadelphia,Toyota,RAV4,SUV,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,27 City / 33 Highway,2021,19111,"11,930",33464
+Philadelphia,Toyota,Highlander,SUV,Certified,Silver,Ash,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2017,19111,"54,602",33491
+Philadelphia,Toyota,RAV4,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,22 City / 28 Highway,2018,19111,"15,693",33991
+Philadelphia,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2018,19111,"50,703",34964
+Philadelphia,Toyota,Highlander,SUV,Certified,Silver,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19111,"32,374",35995
+Philadelphia,Toyota,Tacoma,TRUCKS,Certified,Silver,Cement,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2020,19111,"23,557",36995
+Philadelphia,Toyota,Highlander,SUV,Certified,Red,Almond,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 26 Highway,2019,19111,"30,450",38982
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Black,Graphite,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,43 City / 43 Highway,2020,19111,"24,876",39991
+Philadelphia,Jeep,Gladiator,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 22 Highway,2020,19111,"26,024",43995
+Philadelphia,Toyota,Avalon,SEDAN,Certified,Red,Black/Red,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 31 Highway,2020,19111,"4,491",44991
+Philadelphia,Dodge,Charger,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2012,19047,"96,429",12495
+Philadelphia,Hyundai,Genesis Coupe,COUPE,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 29 Highway,2012,19047,"79,010",12885
+Philadelphia,Kia,Optima,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 33 Highway,2014,19047,"69,724",14995
+Philadelphia,Honda,CR-V,SUV,Used,Blue,Beige,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2016,19047,"44,272",23267
+Philadelphia,Kia,Soul,HATCH,Certified,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 31 Highway,2019,19047,"29,527",23995
+Philadelphia,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2019,19047,"16,442",27761
+Philadelphia,Kia,Cadenza,SEDAN,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2018,19047,"20,520",29995
+Philadelphia,Honda,Pilot,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2017,19047,"33,128",34995

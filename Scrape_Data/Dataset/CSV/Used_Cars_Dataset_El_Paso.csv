@@ -1,0 +1,501 @@
+City,Brand,Model,Body,Certification,Exterior_Color,Interior_Color,Transmission_Type,Fuel_Type,Engine_Type,Wheel_Drive_Type,Miles_Per_Gallon,Year,Zip_Code,Mileage,Price
+El Paso,Buick,Regal,SEDAN,Used,White,Ebony With Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2017,79925,"37,416",21813
+El Paso,Mitsubishi,Eclipse Cross,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,25 City / 26 Highway,2018,79925,"26,469",22853
+El Paso,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 30 Highway,2020,79925,"19,664",32465
+El Paso,GMC,Yukon XL,SUV,Used,White,Cocoa/Shale,Automatic,Gasoline,8-Cylinder,4 wheel drive,14 City / 20 Highway,2019,79925,"22,222",65557
+El Paso,Genesis,G70,SEDAN,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2020,79925,"15,401",43574
+El Paso,Nissan,Rogue Sport,SUV,Certified,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,79932,"3,421",26899
+El Paso,Nissan,Rogue,SUV,Certified,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,79932,"7,770",28399
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2018,79932,"25,141",37599
+El Paso,Nissan,Titan,TRUCKS,Certified,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,79932,448,46499
+El Paso,Acura,TLX,SEDAN,Used,White,Ebony,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 34 Highway,2017,79936,"45,467",25499
+El Paso,Kia,Optima,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2020,79936,"11,690",32999
+El Paso,Ford,F150,TRUCKS,Certified,Red,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,79936,"4,673",36999
+El Paso,Ford,Explorer,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,79936,"5,230",38999
+El Paso,Ford,F150,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,79936,"5,908",40999
+El Paso,Hyundai,Palisade,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2021,79936,"4,278",51999
+El Paso,Chevrolet,Traverse,SUV,Used,White,Jet Black/Loft Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,79936,"17,426",52999
+El Paso,Lincoln,Navigator L,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,16 City / 22 Highway,2018,79936,"33,761",62999
+El Paso,Buick,Regal,SEDAN,Used,Red,Ebony With Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2017,79925,"33,516",22566
+El Paso,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,79925,"23,468",30811
+El Paso,Nissan,Rogue,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,79925,"5,478",33753
+El Paso,Buick,Envision,SUV,Used,Gray,Ebony,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,79925,"9,096",34059
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2019,79925,"34,157",38875
+El Paso,Nissan,Armada,SUV,Used,Black,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2019,79925,"20,941",41075
+El Paso,Cadillac,CT4,SEDAN,Used,Black,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2020,79925,"7,962",41377
+El Paso,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 23 Highway,2021,79925,"1,736",43394
+El Paso,RAM,2500,TRUCKS,Used,Red,Cattle Tan/Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,,2018,79925,"51,392",58500
+El Paso,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79925,"10,005",59433
+El Paso,Ford,Focus,SEDAN,Used,Silver,Medium Light Stone,Manual,Flexible Fuel,4-Cylinder,2 wheel drive - front,26 City / 36 Highway,2016,79925,"32,191",11999
+El Paso,Jeep,Compass,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,79925,"39,091",26814
+El Paso,Toyota,Corolla,SEDAN,Used,Gray,Light Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,53 City / 52 Highway,2021,79925,"9,769",26891
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2018,79925,"33,563",32976
+El Paso,Honda,Accord,SEDAN,Used,Gray,,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,48 City / 47 Highway,2020,79925,"2,357",32995
+El Paso,Nissan,Frontier,TRUCKS,Used,Blue,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,79925,"4,595",35997
+El Paso,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 21 Highway,2018,79925,"19,108",36699
+El Paso,Ford,F150,TRUCKS,Used,,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79925,"19,716",39497
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Beige,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,79925,"6,652",42900
+El Paso,Hyundai,Accent,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 41 Highway,2021,79925,"9,527",21400
+El Paso,Lincoln,MKT,SUV,Used,Red,Light Dune,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,15 City / 21 Highway,2018,79925,"9,029",35100
+El Paso,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,79925,"1,706",48400
+El Paso,Hyundai,Accent,HATCH,Used,White,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 36 Highway,2017,79915,"42,028",14995
+El Paso,Nissan,Altima,SEDAN,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2021,79932,"12,127",30199
+El Paso,Nissan,Rogue,SUV,Certified,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,79932,"6,089",34699
+El Paso,Nissan,Frontier,TRUCKS,Certified,White,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,79932,"2,965",35999
+El Paso,Ford,Edge,SUV,Certified,Gray,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 30 Highway,2015,79936,"83,774",16499
+El Paso,Ford,Fiesta,HATCH,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2019,79936,"28,786",18499
+El Paso,Ford,EcoSport,SUV,Used,Blue,Ebony Black,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 29 Highway,2018,79936,"14,713",21999
+El Paso,Ford,Flex,SUV,Certified,Black,Charcoal Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,16 City / 23 Highway,2019,79936,"31,792",29999
+El Paso,Chevrolet,Blazer,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2020,79936,"28,903",30999
+El Paso,Chrysler,Pacifica,VANS,Used,White,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2018,79936,"44,315",30999
+El Paso,MINI,Cooper Countryman,SUV,Used,Silver,Carbon Black,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,,2019,79936,"24,809",31499
+El Paso,Ford,Explorer,SUV,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,79936,"21,924",37999
+El Paso,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 25 Highway,2018,79936,"18,859",38999
+El Paso,Ford,F150,TRUCKS,Used,Black,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79936,"12,662",44999
+El Paso,Toyota,Tundra,TRUCKS,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,4 wheel drive,13 City / 17 Highway,2017,79936,"35,362",46999
+El Paso,Lexus,IS 350,SEDAN,Used,Red,White W/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,79936,"6,103",53999
+El Paso,Kia,Optima,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 33 Highway,2019,79936,"16,640",25000
+El Paso,Acura,TLX,SEDAN,Used,Gray,Espresso,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 30 Highway,2020,79936,"19,132",39974
+El Paso,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,79936,"14,106",40400
+El Paso,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 24 Highway,2019,79936,"15,991",42500
+El Paso,Hyundai,Genesis,SEDAN,Used,White,Beige,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2015,79925,"80,100",23115
+El Paso,GMC,Acadia,SUV,Used,Gray,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 26 Highway,2019,79925,"35,632",30822
+El Paso,Audi,A7,HATCH,Used,Black,Black,Automatic,Gasoline,6-Cylinder Supercharged,All wheel drive,18 City / 28 Highway,2014,79925,"59,932",31146
+El Paso,Chevrolet,Blazer,SUV,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 27 Highway,2020,79925,"26,378",33624
+El Paso,Buick,Envision,SUV,Used,Gray,Light Neutral,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2020,79925,"16,655",35177
+El Paso,Chevrolet,Blazer,SUV,Used,Blue,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,79925,"39,587",35606
+El Paso,Ford,F150,TRUCKS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79925,"13,476",44530
+El Paso,Ford,F150,TRUCKS,Used,,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2019,79925,"15,208",44696
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2020,79925,"22,004",45003
+El Paso,GMC,Acadia,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,79925,"16,740",45155
+El Paso,GMC,Yukon,SUV,Used,White,Cocoa/Dune,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2017,79925,"36,820",52992
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,79925,"9,472",56362
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Red,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,79925,"27,563",56483
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"8,889",59684
+El Paso,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"1,659",59805
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Blue,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"8,950",60199
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"4,983",60641
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,79925,"24,358",60747
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Black,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79925,"10,143",60936
+El Paso,GMC,Sierra 2500,TRUCKS,Used,White,Cocoa/Dark Sand,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,79925,"23,552",69074
+El Paso,GMC,Sierra 2500,TRUCKS,Used,Blue,Jet Black With Kalahari Accent,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2021,79925,"5,175",87566
+El Paso,Jeep,Renegade,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 27 Highway,2020,79922,"15,174",27820
+El Paso,Mercedes-Benz,GLA 250,SUV,Used,Black,Black,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2019,79922,"12,526",33139
+El Paso,Toyota,RAV4,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,79922,"22,279",34282
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,79922,"36,850",35349
+El Paso,Nissan,Rogue Sport,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2018,79925,"32,208",23780
+El Paso,Volkswagen,Tiguan,SUV,Used,Gray,Titan Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,79925,"17,359",27267
+El Paso,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,79925,"24,974",28995
+El Paso,Ford,Escape,SUV,Used,White,Ebony,Automatic,Gasoline,3-Cylinder Turbo,All wheel drive,26 City / 31 Highway,2020,79925,"9,185",31993
+El Paso,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2021,79925,"7,878",33998
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Beige,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2016,79925,"61,847",34198
+El Paso,RAM,1500,TRUCKS,Used,Red,Light Mountain Brown/Blk,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,79925,"34,839",35999
+El Paso,Nissan,Armada,SUV,Certified,Brown,Almond,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2017,79925,"73,193",36995
+El Paso,Mercedes-Benz,GLC 300,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2018,79925,"22,145",39816
+El Paso,Ford,F150,TRUCKS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79925,"24,545",43499
+El Paso,Chevrolet,Blazer,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2020,79925,"22,163",45799
+El Paso,Nissan,Titan,TRUCKS,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,79925,"6,155",46996
+El Paso,Ford,F150,TRUCKS,Used,White,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2018,79925,"37,714",51958
+El Paso,Cadillac,CT5,SEDAN,Used,Red,Jet Black With Jet Black Accen,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 32 Highway,2020,79925,"12,425",51999
+El Paso,INFINITI,QX80,SUV,Used,Black,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 20 Highway,2018,79925,"32,170",53618
+El Paso,Nissan,Armada,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2020,79925,"8,053",58992
+El Paso,Nissan,Armada,SUV,Used,Silver,Charcoal,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,13 City / 19 Highway,2014,79925,"104,426",15800
+El Paso,Jeep,Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,21 City / 30 Highway,2017,79925,"40,929",22600
+El Paso,Honda,CR-V,SUV,Used,Blue,Ivory,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 33 Highway,2017,79925,"73,211",26100
+El Paso,Nissan,Pathfinder,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2017,79925,"40,210",26300
+El Paso,Ford,Escape,SUV,Used,White,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,79925,"10,279",31300
+El Paso,Toyota,Tacoma,TRUCKS,Used,Silver,Black Pkg/Gun Metal,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2018,79925,"40,508",31995
+El Paso,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2019,79925,"37,871",33000
+El Paso,Ford,Mustang,COUPE,Used,Red,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2017,79925,"30,288",34100
+El Paso,Lincoln,MKZ,SEDAN,Used,Silver,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,79925,"10,157",36800
+El Paso,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2017,79925,"62,109",40200
+El Paso,Toyota,Tundra,TRUCKS,Used,Silver,Graphite,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 19 Highway,2018,79925,"31,519",40300
+El Paso,Lincoln,MKZ,SEDAN,Used,White,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 31 Highway,2020,79925,"21,419",40600
+El Paso,Lincoln,MKC,SUV,Used,Blue,Espresso,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,19 City / 25 Highway,2019,79925,"13,629",40900
+El Paso,Ford,F150,TRUCKS,Used,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2019,79925,"22,279",42200
+El Paso,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2020,79925,"13,469",43100
+El Paso,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79925,"8,369",46400
+El Paso,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,79925,"26,886",48800
+El Paso,GMC,Sierra 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"10,159",56995
+El Paso,Audi,A6,SEDAN,Used,White,Pearl Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,22 City / 29 Highway,2019,79925,"9,179",61700
+El Paso,Honda,Fit,HATCH,Certified,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2019,79932,"23,743",20295
+El Paso,Honda,Accord,SEDAN,Certified,Silver,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,79932,"18,543",26774
+El Paso,Honda,Accord,SEDAN,Certified,White,Ivory,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,79932,"29,515",31794
+El Paso,Honda,Odyssey,VANS,Certified,Silver,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,79932,"18,382",38595
+El Paso,Honda,Passport,SUV,Certified,Gray,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,79932,"8,259",43995
+El Paso,RAM,1500,TRUCKS,Used,Silver,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2018,79932,"27,769",30995
+El Paso,RAM,1500,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2018,79932,"22,436",33995
+El Paso,Ford,Edge,SUV,Used,Red,Dune,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,79932,"7,778",31199
+El Paso,GMC,Terrain,SUV,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 26 Highway,2018,79932,"18,538",35799
+El Paso,Mercedes-Benz,CLA 250,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 37 Highway,2019,79932,"2,132",36699
+El Paso,Nissan,Armada,SUV,Used,Blue,Charcoal,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2018,79932,"34,370",36999
+El Paso,Toyota,Highlander,SUV,Used,,,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2014,79936,"112,143",22999
+El Paso,Honda,CR-V,SUV,Used,Silver,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 32 Highway,2016,79936,"75,654",23999
+El Paso,Jeep,Compass,SUV,Used,,,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,79936,"42,657",25999
+El Paso,Ford,F250,TRUCKS,Certified,White,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2019,79936,"36,049",56999
+El Paso,GMC,Yukon,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2018,79936,"42,818",58999
+El Paso,Kia,Soul,HATCH,Used,White,Gray 2-Tone,Single-Speed,Electric,Electric,2 wheel drive - front,,2017,79936,"48,088",17900
+El Paso,Volkswagen,Jetta,SEDAN,Used,White,Dark Beige/Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 40 Highway,2019,79936,"32,362",19800
+El Paso,Honda,Civic,SEDAN,Used,Gray,Black/Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,30 City / 40 Highway,2016,79936,"59,938",20614
+El Paso,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,79936,"32,386",30300
+El Paso,Volkswagen,Arteon,SEDAN,Used,Red,Stone Gray/Raven,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,20 City / 27 Highway,2019,79936,"3,825",34200
+El Paso,Honda,CR-V,SUV,Used,White,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,28 City / 34 Highway,2021,79936,"8,107",38300
+El Paso,Volkswagen,Arteon,SEDAN,Used,Silver,Moonrock Gray/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2021,79936,"8,907",43300
+El Paso,BMW,440i,COUPE,Used,Gray,Black W/Blue Stitching,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,21 City / 32 Highway,2019,79936,"25,850",46900
+El Paso,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,79936,"18,443",53700
+El Paso,Buick,Enclave,SUV,Used,White,Choccachino,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,79925,"92,470",19650
+El Paso,GMC,Terrain,SUV,Used,Gray,Medium Ash Gray/Jet Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 28 Highway,2018,79925,"40,823",27795
+El Paso,Toyota,Camry,SEDAN,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 41 Highway,2019,79925,"35,454",27997
+El Paso,GMC,Acadia,SUV,Used,Black,Cocoa/ Shale,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2017,79925,"62,432",32512
+El Paso,Ford,F150,TRUCKS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 23 Highway,2017,79925,"69,573",33317
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,79925,"87,929",34516
+El Paso,Mercedes-Benz,GLE 350,SUV,Used,White,Ginger Beige/Espresso Brown,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2017,79925,"54,588",36787
+El Paso,Jeep,Grand Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2019,79925,"40,694",38384
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,79925,"31,434",39818
+El Paso,Ford,Explorer,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,21 City / 28 Highway,2020,79925,"29,328",40344
+El Paso,Ford,F150,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2017,79925,"67,863",40464
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Saddle,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,79925,"65,505",44421
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 23 Highway,2020,79925,"26,101",45032
+El Paso,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,79925,"53,361",46511
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,79925,"47,819",51726
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79925,"21,282",53554
+El Paso,Cadillac,Escalade ESV,SUV,Used,Black,Shale With Cocoa Accents,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,79925,"50,868",56072
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,79925,"32,403",60403
+El Paso,Ford,F250,TRUCKS,Used,White,Java,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,79925,"44,678",76267
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2016,79922,"77,598",32856
+El Paso,Toyota,Tacoma,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2017,79922,"29,123",36800
+El Paso,Ford,F150,TRUCKS,Used,Silver,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,79922,"37,121",38337
+El Paso,Subaru,WRX,SEDAN,Used,White,Black/Carbon Black,Manual,Gasoline,4-Cylinder Turbo,All wheel drive,17 City / 22 Highway,2019,79922,"15,298",41784
+El Paso,Jeep,Wrangler,SUV,Used,Silver,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,16 City / 21 Highway,2014,79922,"41,892",42699
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Black,Jet Black With Kalahari Accent,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2019,79922,"18,122",60572
+El Paso,Hyundai,Elantra,SEDAN,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 37 Highway,2018,79925,"60,569",18517
+El Paso,Hyundai,Tucson,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2017,79925,"59,701",21495
+El Paso,Ford,Escape,SUV,Used,Blue,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,79925,"27,511",27336
+El Paso,Jeep,Cherokee,SUV,Used,Brown,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2020,79925,"21,309",30693
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,79925,"48,257",36499
+El Paso,Nissan,Titan,TRUCKS,Used,Silver,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,79925,"54,862",47116
+El Paso,Hyundai,Santa Fe,SUV,Used,Black,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,20 City / 27 Highway,2014,79925,"113,376",14200
+El Paso,Nissan,Rogue,SUV,Used,Red,Almond,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2017,79925,"66,429",19450
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Silver,Ebony,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,13 City / 18 Highway,2013,79925,"125,536",20700
+El Paso,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,22 City / 28 Highway,2019,79925,"42,214",24600
+El Paso,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2019,79925,"43,336",25300
+El Paso,Ford,Escape,SUV,Used,Black,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,79925,"31,789",25600
+El Paso,INFINITI,QX30,SUV,Used,Black,Graphite,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2018,79925,"41,456",28500
+El Paso,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,79925,"33,889",31800
+El Paso,Chevrolet,Tahoe,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,79925,"63,515",38500
+El Paso,Ford,Explorer,SUV,Used,White,Ebony With Light Slate Uppers,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 24 Highway,2021,79925,"14,440",59495
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"11,999",62600
+El Paso,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2018,79932,"25,418",38995
+El Paso,Ford,Fusion,SEDAN,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2018,79932,"28,533",23995
+El Paso,Nissan,370Z,CONVERT,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 25 Highway,2014,79932,"16,011",26995
+El Paso,Ford,Fusion,SEDAN,Used,Red,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,79932,"48,930",20999
+El Paso,Kia,Sedona,VANS,Used,Blue,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 24 Highway,2019,79932,"39,165",26999
+El Paso,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2019,79932,"33,311",28390
+El Paso,Dodge,Journey,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2020,79932,"10,890",28899
+El Paso,Nissan,Rogue,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 33 Highway,2020,79932,"21,710",29299
+El Paso,Nissan,Rogue,SUV,Certified,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 34 Highway,2021,79932,"10,872",39499
+El Paso,Volkswagen,Atlas,SUV,Used,Gray,,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2020,79932,"19,992",50199
+El Paso,Chevrolet,Suburban,SUV,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2020,79932,"27,163",57199
+El Paso,Ford,Expedition,SUV,Used,Silver,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,79932,"29,179",61199
+El Paso,Nissan,Altima,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,22 City / 32 Highway,2017,79936,"133,246",14999
+El Paso,Chrysler,Town & Country,VANS,Used,White,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2015,79936,"68,923",20499
+El Paso,Kia,Sportage,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 29 Highway,2017,79936,"32,461",27999
+El Paso,Lincoln,MKZ,SEDAN,Used,Burgundy,Cappuccino,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 31 Highway,2018,79936,"64,111",27999
+El Paso,Nissan,Rogue Sport,SUV,Used,Black,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2019,79936,"14,284",29999
+El Paso,Ford,Mustang,COUPE,Certified,Black,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,,2018,79936,"33,522",29999
+El Paso,Ford,Edge,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 23 Highway,2018,79936,"31,068",34499
+El Paso,Ford,F150,TRUCKS,Certified,Gray,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,20 City / 26 Highway,2021,79936,"26,047",36999
+El Paso,Ford,F150,TRUCKS,Certified,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79936,"32,281",37999
+El Paso,Honda,CR-V,SUV,Used,Off White,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,27 City / 32 Highway,2020,79936,"16,067",39999
+El Paso,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,79936,"6,920",41999
+El Paso,Toyota,Tacoma,TRUCKS,Used,White,Cement,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 24 Highway,2021,79936,"7,758",44999
+El Paso,Ford,Mustang,COUPE,Certified,Red,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,79936,"2,219",45999
+El Paso,Dodge,Durango,SUV,Used,Red,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,14 City / 22 Highway,2021,79936,"9,233",57999
+El Paso,GMC,Sierra 1500,TRUCKS,Used,White,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,79936,"16,315",58999
+El Paso,Ford,Mustang,COUPE,Used,Blue,Ebony,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 21 Highway,2018,79936,"5,600",66999
+El Paso,Ford,Mustang,COUPE,Used,Red,Ebony,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2021,79936,172,68999
+El Paso,Ford,F250,TRUCKS,Certified,Black,Highland Tan,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,79936,"15,586",82999
+El Paso,Nissan,Rogue,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2018,79936,"46,193",22500
+El Paso,Ford,Escape,SUV,Used,Red,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2017,79936,"56,385",23400
+El Paso,Hyundai,Santa Fe,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 24 Highway,2017,79936,"63,180",23700
+El Paso,Mitsubishi,Outlander,SUV,Used,Tan,Beige,Automatic,Gasoline,4-Cylinder,4 wheel drive,24 City / 29 Highway,2019,79936,"40,176",24400
+El Paso,Nissan,Altima,SEDAN,Used,White,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2020,79936,"24,335",29400
+El Paso,Kia,Sorento,SUV,Certified,Silver,Satin Black,Automatic,Gasoline,4-Cylinder,All wheel drive,21 City / 26 Highway,2019,79936,"38,430",30300
+El Paso,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,79936,"40,364",34200
+El Paso,Toyota,4Runner,SUV,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2017,79936,"73,300",35800
+El Paso,Volkswagen,Atlas,SUV,Used,White,Titan Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 22 Highway,2021,79936,"14,631",44500
+El Paso,Ford,F150,TRUCKS,Used,Brown,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79936,"28,490",45400
+El Paso,Ford,F150,TRUCKS,Used,Red,Camelback,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79936,"24,850",46500
+El Paso,Buick,Encore,SUV,Used,Blue,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,25 City / 30 Highway,2019,79925,"90,437",18459
+El Paso,Chevrolet,Colorado,TRUCKS,Used,White,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2018,79925,"37,831",27869
+El Paso,Dodge,Charger,SEDAN,Used,Orange,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,79925,"6,162",38928
+El Paso,Cadillac,XT4,SUV,Used,White,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 30 Highway,2020,79925,"31,885",39248
+El Paso,Toyota,4Runner,SUV,Used,Gray,Black Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2018,79925,"30,510",39971
+El Paso,Jeep,Wrangler,SUV,Used,Gray,Dark Saddle/Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2016,79925,"59,045",40630
+El Paso,Jeep,Wrangler,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2019,79925,"16,959",59685
+El Paso,Dodge,Charger,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,79922,"41,107",27997
+El Paso,Dodge,Grand Caravan,VANS,Used,Black,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,79922,"41,058",28998
+El Paso,Volkswagen,Tiguan,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,79922,"24,853",31893
+El Paso,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,79922,"64,313",38778
+El Paso,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2021,79922,"14,526",44260
+El Paso,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2020,79922,"21,935",48875
+El Paso,Genesis,G80,SEDAN,Used,Blue,Beige,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 24 Highway,2020,79922,"23,541",49002
+El Paso,Land Rover,Range Rover Velar,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder Supercharged,4 wheel drive,18 City / 24 Highway,2018,79922,"55,494",65289
+El Paso,Chevrolet,Silverado 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,79922,"26,275",79232
+El Paso,Lexus,NX 300,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2020,79925,"33,611",37500
+El Paso,GMC,Yukon XL,SUV,Used,White,Cocoa/Dune,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,15 City / 22 Highway,2018,79925,"87,485",43000
+El Paso,Nissan,Rogue Sport,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2017,79925,"75,496",18136
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Dark Ash With Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,17 City / 22 Highway,2016,79925,"92,764",26553
+El Paso,Chrysler,Pacifica,VANS,Used,Silver,Black/Alloy,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,79925,"61,656",27998
+El Paso,Hyundai,Tucson,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 28 Highway,2021,79925,"16,280",28994
+El Paso,Nissan,Leaf,HATCH,Used,Silver,Black,Single-Speed,Electric,Electric,2 wheel drive - front,,2021,79925,"1,286",36999
+El Paso,RAM,1500,TRUCKS,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,79925,"7,203",38487
+El Paso,Audi,A3,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,22 City / 30 Highway,2020,79925,"19,541",41995
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2018,79925,"28,949",44997
+El Paso,Nissan,Titan,TRUCKS,Used,Beige,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2021,79925,"6,388",57932
+El Paso,Toyota,Camry,SEDAN,Used,Gray,Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,79925,"89,699",19995
+El Paso,Ford,Explorer,SUV,Used,Orange,Medium Light Camel,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2016,79925,"94,922",20995
+El Paso,Hyundai,Elantra,SEDAN,Used,Red,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 30 Highway,2017,79925,"43,746",21100
+El Paso,Ford,Explorer,SUV,Used,Black,Medium Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2019,79925,"65,594",25800
+El Paso,Toyota,RAV4,SUV,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,26 City / 35 Highway,2019,79925,"14,987",32600
+El Paso,Toyota,RAV4,SUV,Used,Black,Light Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 33 Highway,2019,79925,"6,448",32800
+El Paso,Toyota,Sienna,VANS,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 27 Highway,2017,79925,"45,641",35000
+El Paso,Ford,F150,TRUCKS,Used,Gray,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2019,79925,"53,467",39400
+El Paso,Ford,F150,TRUCKS,Used,Blue,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79925,"16,394",41800
+El Paso,Tesla,Model S,HATCH,Used,Black,Black,Single-Speed,Electric,Electric,All wheel drive,,2018,79925,"37,679",59400
+El Paso,Chevrolet,Suburban,SUV,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2020,79932,"23,534",62500
+El Paso,Chrysler,200,SEDAN,Used,White,Beige,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,23 City / 36 Highway,2016,79932,"60,534",16995
+El Paso,Ford,Escape,SUV,Used,White,Charcoal Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2019,79932,"35,142",26099
+El Paso,Chevrolet,Equinox,SUV,Used,Blue,Medium Ash Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 32 Highway,2019,79932,"43,059",26899
+El Paso,Nissan,Titan,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2020,79932,"24,709",47199
+El Paso,Nissan,Rogue,SUV,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 31 Highway,2014,79936,"116,549",12499
+El Paso,Jeep,Renegade,SUV,Used,White,Sandstorm/Black,Automatic,Flexible Fuel,4-Cylinder,2 wheel drive - front,22 City / 30 Highway,2015,79936,"92,472",14999
+El Paso,Ford,Escape,SUV,Used,White,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 30 Highway,2018,79936,"64,564",20675
+El Paso,Chevrolet,Malibu,SEDAN,Used,Silver,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,79936,"44,628",23999
+El Paso,Jeep,Compass,SUV,Used,Silver,Ruby Red/Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,22 City / 30 Highway,2018,79936,"46,965",31999
+El Paso,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,79936,"74,847",34999
+El Paso,Chevrolet,Camaro,COUPE,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 30 Highway,2021,79936,"17,574",34999
+El Paso,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Flexible Fuel,6-Cylinder,4 wheel drive,16 City / 23 Highway,2016,79936,"74,159",34999
+El Paso,Ford,Explorer,SUV,Used,Red,Ebony Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2018,79936,"57,638",36999
+El Paso,RAM,1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2019,79936,"45,271",39999
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2019,79936,"35,161",41999
+El Paso,Ford,Explorer,SUV,Certified,Silver,Ebony Black W/Red Accent,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,16 City / 22 Highway,2019,79936,"37,359",43999
+El Paso,Ford,F150,TRUCKS,Used,Blue,Dark Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2018,79936,"52,277",45999
+El Paso,Ford,F150,TRUCKS,Used,Silver,Medium Earth Gray,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79936,"23,583",46999
+El Paso,RAM,1500,TRUCKS,Used,Silver,Diesel Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2021,79936,"14,032",46999
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Dark Walnut/Slate,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79936,"62,316",49999
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Gray,Dark Walnut/Dark Ash Grey,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,79936,"25,973",59999
+El Paso,Ford,Expedition,SUV,Used,Gray,Ebony,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 22 Highway,2019,79936,"39,161",62999
+El Paso,Nissan,Versa,SEDAN,Used,Blue,Charcoal,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 36 Highway,2017,79936,"34,700",14689
+El Paso,Nissan,Rogue Sport,SUV,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,79936,"17,582",26999
+El Paso,Kia,Sorento,SUV,Used,Red,Satin Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 26 Highway,2019,79936,"29,171",30700
+El Paso,Honda,CR-V,SUV,Used,Red,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2019,79936,"5,871",33155
+El Paso,RAM,1500,TRUCKS,Used,White,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,79936,"14,494",40600
+El Paso,Ford,F150,TRUCKS,Used,Black,Camelback,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,17 City / 21 Highway,2019,79936,"12,739",67099
+El Paso,Hyundai,Accent,SEDAN,Used,White,,Manual,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 37 Highway,2017,79936,"47,376",12995
+El Paso,Volkswagen,Tiguan,SUV,Used,Green,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 27 Highway,2018,79936,"33,205",22995
+El Paso,Volkswagen,Tiguan,SUV,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2020,79936,"3,353",27995
+El Paso,Audi,A5,COUPE,Used,Green,Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,24 City / 34 Highway,2018,79936,"23,378",33995
+El Paso,Dodge,Charger,SEDAN,Used,Burgundy,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2021,79936,"8,677",41995
+El Paso,Toyota,Supra,COUPE,Used,Yellow,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,25 City / 32 Highway,2021,79936,"2,710",49995
+El Paso,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,79925,"51,009",19102
+El Paso,Nissan,Sentra,SEDAN,Used,White,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,79925,"60,256",19222
+El Paso,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,79925,"61,576",26802
+El Paso,Jeep,Grand Cherokee,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2018,79925,"65,224",32839
+El Paso,GMC,Acadia,SUV,Used,White,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2019,79925,"55,578",37367
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2020,79925,"30,549",40371
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 23 Highway,2019,79925,"56,487",42303
+El Paso,Honda,Pilot,SUV,Used,White,Gray,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 26 Highway,2021,79925,"24,419",45112
+El Paso,Ford,Expedition Max,SUV,Used,Black,Ebony,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2019,79925,"64,799",45349
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Saddle,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 20 Highway,2017,79925,"84,986",45425
+El Paso,GMC,Canyon,TRUCKS,Used,Gray,Jet Black/Kalahari,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 24 Highway,2021,79925,"17,000",45878
+El Paso,Toyota,4Runner,SUV,Used,Silver,Black/Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 19 Highway,2020,79925,"53,672",46191
+El Paso,RAM,1500,TRUCKS,Used,Silver,Red/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,79925,"50,816",47297
+El Paso,Chevrolet,Suburban,SUV,Used,Silver,Jet Black/Dark Ash,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,14 City / 21 Highway,2019,79925,"69,350",51106
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79925,"31,998",56581
+El Paso,GMC,Sierra 1500,TRUCKS,Used,Red,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2021,79925,"21,398",65348
+El Paso,GMC,Sierra 2500,TRUCKS,Used,White,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,79925,"46,303",67426
+El Paso,GMC,Sierra 2500,TRUCKS,Used,Black,Jet Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2020,79925,"47,683",77987
+El Paso,Ford,Explorer,SUV,Used,Silver,Medium Light Stone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2015,79922,"131,684",16164
+El Paso,Chevrolet,Tahoe,SUV,Used,Blue,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2020,79922,"41,625",45030
+El Paso,Chevrolet,Impala,SEDAN,Used,Gray,Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2019,79925,"56,406",26911
+El Paso,Toyota,4Runner,SUV,Used,Red,Black Graphite,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,17 City / 21 Highway,2019,79925,"82,242",35500
+El Paso,Toyota,Sienna,VANS,Used,Gray,Chateau,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,36 City / 36 Highway,2021,79925,"21,386",48911
+El Paso,Cadillac,Escalade ESV,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2020,79925,"55,635",69911
+El Paso,Kia,Soul,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2017,79925,"42,903",16995
+El Paso,BMW,320i,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 35 Highway,2014,79925,"84,517",16495
+El Paso,GMC,Terrain,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 24 Highway,2016,79925,"87,156",19995
+El Paso,Jeep,Cherokee,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,22 City / 31 Highway,2019,79925,"63,029",21994
+El Paso,Chevrolet,Colorado,TRUCKS,Used,Gray,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2016,79925,"82,526",22995
+El Paso,Nissan,Sentra,SEDAN,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2019,79925,"41,759",22995
+El Paso,Honda,Fit,HATCH,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 40 Highway,2020,79925,"22,753",22999
+El Paso,Honda,Accord,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 32 Highway,2020,79925,"40,838",36495
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,79925,"16,122",44992
+El Paso,Ford,Expedition Max,SUV,Used,Silver,Medium Stone,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,79925,"61,751",53999
+El Paso,Kia,Rio,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,33 City / 41 Highway,2020,79925,"44,905",17900
+El Paso,Chevrolet,Impala,SEDAN,Used,Black,Jet Black/Dark Titanium,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 28 Highway,2018,79925,"106,569",18700
+El Paso,Toyota,Camry,SEDAN,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,79925,"88,355",22495
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Dark Ash With Jet Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2017,79925,"80,989",22500
+El Paso,Dodge,Grand Caravan,VANS,Used,Gray,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,79925,"62,521",26500
+El Paso,Dodge,Grand Caravan,VANS,Used,White,Black/Light Graystone,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2019,79925,"65,039",26800
+El Paso,RAM,1500,TRUCKS,Used,Black,Diesel Gray/Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,79925,"89,939",28696
+El Paso,Mercedes-Benz,GLA 250,SUV,Used,Black,Sahara Beige/Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,24 City / 33 Highway,2019,79925,"48,949",32200
+El Paso,Kia,K5,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,27 City / 37 Highway,2021,79925,"19,879",34500
+El Paso,Chevrolet,Tahoe,SUV,Used,White,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2018,79925,"101,394",39995
+El Paso,Ford,F150,TRUCKS,Used,Gray,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2019,79925,"70,608",40200
+El Paso,Subaru,Outback,SUV,Used,Black,Brown,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,23 City / 30 Highway,2020,79925,"33,736",40700
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Gideon/Very Dark Atmosphere,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2019,79925,"97,230",40995
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Blue,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 22 Highway,2019,79925,"73,038",41995
+El Paso,Nissan,Titan,TRUCKS,Used,White,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2019,79925,"62,000",46600
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 21 Highway,2020,79925,"53,539",49995
+El Paso,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2021,79925,"16,649",51900
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2015,79915,"121,866",25999
+El Paso,Nissan,Frontier,TRUCKS,Used,Red,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,79932,"43,697",32799
+El Paso,Nissan,Frontier,TRUCKS,Used,Red,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,79932,"26,549",34099
+El Paso,Chevrolet,Blazer,SUV,Used,Red,Dark Galvanized/Light Galvaniz,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 26 Highway,2019,79932,"51,173",35899
+El Paso,Nissan,Frontier,TRUCKS,Certified,Blue,Steel,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2021,79932,"17,624",37599
+El Paso,INFINITI,QX80,SUV,Used,Gray,Graphite,Automatic,Gasoline,8-Cylinder,All wheel drive,13 City / 19 Highway,2021,79932,"37,940",67499
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,88005,"43,266",26999
+El Paso,Chevrolet,Malibu,SEDAN,Used,Black,Jet Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,29 City / 36 Highway,2019,79936,"61,139",22100
+El Paso,Toyota,Camry,SEDAN,Used,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,79936,"90,267",22200
+El Paso,Dodge,Journey,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,16 City / 24 Highway,2018,79936,"70,838",23400
+El Paso,Honda,Accord,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,79936,"114,334",25100
+El Paso,Chevrolet,Colorado,TRUCKS,Used,Blue,Jet Black/Dark Ash,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2019,79936,"39,988",25199
+El Paso,Nissan,Rogue Sport,SUV,Used,Red,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 32 Highway,2020,79936,"25,407",26900
+El Paso,Dodge,Grand Caravan,VANS,Used,Silver,Black/Light Graystone,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2020,79936,"61,921",27300
+El Paso,Kia,Optima,SEDAN,Certified,Silver,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,24 City / 32 Highway,2020,79936,"31,153",27700
+El Paso,Ford,Explorer,SUV,Used,,Ebony Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,19 City / 27 Highway,2017,79936,"62,837",28400
+El Paso,Dodge,Charger,SEDAN,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,79936,"61,956",28995
+El Paso,Honda,Civic,SEDAN,Used,Gray,Gray,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,29 City / 37 Highway,2020,79936,"28,646",29600
+El Paso,Chrysler,Voyager,VANS,Used,Gray,Alloy/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,79936,"65,847",30400
+El Paso,Chrysler,Pacifica,VANS,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2020,79936,"68,514",30800
+El Paso,MAZDA,CX-9,SUV,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2018,79936,"42,696",31600
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Silver,Jet Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2019,79936,"68,284",37100
+El Paso,Mercedes-Benz,GLE 350,SUV,Used,White,Crystal Gray/Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2018,79936,"48,317",41300
+El Paso,Ford,F150,TRUCKS,Used,Red,Charcoal Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79936,"34,265",44800
+El Paso,Chevrolet,Tahoe,SUV,Used,White,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,15 City / 21 Highway,2020,79936,"63,716",53700
+El Paso,Kia,Soul,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 33 Highway,2020,79936,"24,252",20995
+El Paso,Nissan,Frontier,TRUCKS,Used,White,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2019,79936,"36,609",26995
+El Paso,Mercedes-Benz,GLA 250,SUV,Used,Silver,,Automatic,Flexible Fuel,4-Cylinder Turbo,All wheel drive,23 City / 31 Highway,2018,79936,"25,314",32995
+El Paso,Dodge,Challenger,COUPE,Used,Purple,Dark Slate Gray,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 23 Highway,2014,79936,"11,813",34995
+El Paso,Land Rover,Discovery Sport,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,19 City / 24 Highway,2020,79936,"20,909",41995
+El Paso,Nissan,Titan,TRUCKS,Used,Gray,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 21 Highway,2021,79936,"3,982",43995
+El Paso,Lexus,NX 300,SUV,Used,Black,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 28 Highway,2021,79936,"2,728",46995
+El Paso,RAM,1500,TRUCKS,Used,Silver,,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,79936,"9,783",54995
+El Paso,RAM,1500,TRUCKS,Used,White,,Automatic,Gasoline,8-Cylinder,4 wheel drive,19 City / 24 Highway,2021,79936,"5,455",55995
+El Paso,Lexus,RC 350,COUPE,Used,Silver,,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,20 City / 28 Highway,2021,79936,669,59895
+El Paso,Chevrolet,Equinox,SUV,Certified,White,Jet Black/Brandy,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,22 City / 29 Highway,2019,79936,"26,362",26362
+El Paso,Ford,Fusion,SEDAN,Used,Silver,Medium Light Stone,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2017,79922,"109,864",14907
+El Paso,Jeep,Renegade,SUV,Used,,Black,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 29 Highway,2018,79922,"45,411",24497
+El Paso,Honda,Accord,SEDAN,Used,Burgundy,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2018,79922,"62,376",26701
+El Paso,Ford,Escape,SUV,Used,Red,Sandstone,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,79922,"41,645",26797
+El Paso,Toyota,4Runner,SUV,Used,Gray,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2019,79922,"35,997",46834
+El Paso,RAM,1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,20 City / 25 Highway,2020,79922,"28,540",47835
+El Paso,GMC,Yukon XL,SUV,Used,Black,Jet Black,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2019,79925,"55,432",49911
+El Paso,Dodge,Journey,SUV,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,19 City / 25 Highway,2018,79925,"50,224",19995
+El Paso,Mercedes-Benz,ML 350,SUV,Used,White,Tan,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,18 City / 23 Highway,2013,79925,"86,087",20995
+El Paso,Chevrolet,Cruze,SEDAN,Used,Black,Brown,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,26 City / 36 Highway,2015,79901,"53,090",11990
+El Paso,Acura,RDX,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 28 Highway,2013,79901,"63,594",19990
+El Paso,Lincoln,MKX,SUV,Used,Black,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,17 City / 25 Highway,2016,79901,"40,296",24590
+El Paso,Lexus,IS 250,SEDAN,Used,White,Beige,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2014,79901,"59,061",24990
+El Paso,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,79901,"39,496",25590
+El Paso,RAM,ProMaster,VANS,Used,White,Gray,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,,2016,79901,"41,985",26990
+El Paso,BMW,428i,COUPE,Used,Gray,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 33 Highway,2016,79901,"34,203",27990
+El Paso,BMW,330i,SEDAN,Used,White,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,23 City / 34 Highway,2017,79901,"26,620",27990
+El Paso,Chevrolet,Camaro,COUPE,Used,Silver,Black,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 30 Highway,2019,79901,"9,299",27990
+El Paso,Lexus,RX 350,SUV,Used,Silver,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 25 Highway,2015,79901,"47,437",27990
+El Paso,Chevrolet,Colorado,TRUCKS,Used,Gray,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - rear,20 City / 26 Highway,2016,79901,"34,818",29590
+El Paso,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2018,79901,"26,700",29590
+El Paso,Chevrolet,Express 3500,VANS,Used,White,Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2015,79901,"33,549",29590
+El Paso,RAM,1500,TRUCKS,Used,Red,Black,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,17 City / 25 Highway,2017,79901,"44,334",29990
+El Paso,Dodge,Challenger,COUPE,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 30 Highway,2019,79901,"14,571",29990
+El Paso,Dodge,Durango,SUV,Used,White,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,79901,"33,014",29990
+El Paso,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,19 City / 25 Highway,2019,79901,"8,158",29990
+El Paso,Chevrolet,Camaro,COUPE,Used,Silver,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,22 City / 31 Highway,2018,79901,"5,786",29990
+El Paso,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2015,79901,"33,996",30990
+El Paso,Dodge,Durango,SUV,Used,Black,Other,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2017,79901,"20,495",31590
+El Paso,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2016,79901,"50,520",31590
+El Paso,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,79901,"23,734",31990
+El Paso,Ford,Mustang,COUPE,Used,Black,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2017,79901,"19,892",32990
+El Paso,Dodge,Charger,SEDAN,Used,Blue,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 27 Highway,2018,79901,"26,756",32990
+El Paso,Ford,F150,TRUCKS,Used,White,Gray,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,79901,"37,865",33590
+El Paso,Jeep,Wrangler,SUV,Used,Gray,Gray,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2017,79901,"42,323",33990
+El Paso,Dodge,Challenger,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,79901,"28,737",33990
+El Paso,RAM,1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 22 Highway,2017,79901,"33,598",34990
+El Paso,Jeep,Wrangler,SUV,Used,White,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,16 City / 20 Highway,2018,79901,"36,962",34990
+El Paso,Ford,F150,TRUCKS,Used,Red,Beige,Automatic,Flexible Fuel,6-Cylinder,2 wheel drive - rear,18 City / 24 Highway,2016,79901,"30,666",34990
+El Paso,Jeep,Wrangler,SUV,Used,Black,Black,Manual,Gasoline,6-Cylinder,4 wheel drive,17 City / 23 Highway,2018,79901,"32,580",35990
+El Paso,Dodge,Challenger,COUPE,Used,Gray,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2019,79901,"18,906",35990
+El Paso,Ford,Mustang,COUPE,Used,Blue,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2017,88001,"13,845",35990
+El Paso,Dodge,Challenger,COUPE,Used,Black,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 23 Highway,2019,79901,"5,200",36990
+El Paso,Porsche,Panamera,HATCH,Used,Gray,Black,Automatic,Gasoline,8-Cylinder,All wheel drive,16 City / 24 Highway,2013,79901,"71,877",37590
+El Paso,Dodge,Charger,SEDAN,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,79901,"19,706",37990
+El Paso,Tesla,Model S,HATCH,Used,Brown,Beige,Single-Speed,Electric,Electric,2 wheel drive - rear,,2013,79901,"62,358",38590
+El Paso,Dodge,Charger,SEDAN,Used,Orange,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 25 Highway,2019,79901,"15,794",38990
+El Paso,Chevrolet,Tahoe,SUV,Used,Black,,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,79901,"45,366",38990
+El Paso,Chevrolet,Tahoe,SUV,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2015,79901,"62,500",39590
+El Paso,Tesla,Model S,HATCH,Used,Gray,Gray,Single-Speed,Electric,Electric,2 wheel drive - rear,,2014,79901,"60,018",39990
+El Paso,Toyota,Tundra,TRUCKS,Used,Black,Other,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,13 City / 18 Highway,2018,79901,"21,507",41590
+El Paso,Dodge,Challenger,COUPE,Used,Black,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,79901,"14,881",43990
+El Paso,Chevrolet,Silverado 2500,TRUCKS,Used,White,Dk. Gray,Automatic,Flexible Fuel,8-Cylinder,2 wheel drive - rear,,2016,79901,"35,899",44990
+El Paso,GMC,Yukon,SUV,Used,Black,Beige,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2016,79901,"40,006",44990
+El Paso,GMC,Sierra 2500,TRUCKS,Used,Black,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2013,79901,"63,191",44990
+El Paso,Ford,Mustang,COUPE,Used,Green,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 24 Highway,2019,88001,"19,667",46590
+El Paso,Chevrolet,Silverado 2500,TRUCKS,Used,Silver,Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,,2016,79901,"31,534",46990
+El Paso,Chevrolet,Tahoe,SUV,Used,Gold,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,79901,"34,417",47590
+El Paso,Chevrolet,Corvette,COUPE,Used,White,Red,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 28 Highway,2014,79901,"12,746",47990
+El Paso,Chevrolet,Corvette,COUPE,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 27 Highway,2014,79901,"16,914",48590
+El Paso,Chevrolet,Corvette,COUPE,Used,Silver,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2015,79901,"10,978",48990
+El Paso,Chevrolet,Corvette,COUPE,Used,Red,Black,Manual,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 28 Highway,2014,79901,"6,125",49590
+El Paso,Chevrolet,Corvette,COUPE,Used,Yellow,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2016,79901,"13,377",51590
+El Paso,Chevrolet,Corvette,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2016,79901,"9,502",54990
+El Paso,Chevrolet,Corvette,COUPE,Used,Red,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,,2015,79901,"6,224",54990
+El Paso,Nissan,GT-R,COUPE,Used,Red,Beige,Automatic,Gasoline,6-Cylinder Turbo,All wheel drive,16 City / 21 Highway,2009,79901,"39,079",67590
+El Paso,Chevrolet,Corvette,COUPE,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,15 City / 25 Highway,2019,79901,"10,036",70590
+El Paso,Honda,Element,SUV,Used,Green,Black/Titanium,Automatic,Gasoline,4-Cylinder,4 wheel drive,21 City / 26 Highway,2007,79932,"254,856",7654
+El Paso,Subaru,Forester,SUV,Used,Silver,Gray,Automatic,Gasoline,4-Cylinder,All wheel drive,26 City / 32 Highway,2017,79932,"101,270",19293
+El Paso,Honda,Accord,SEDAN,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,21 City / 33 Highway,2017,79932,"75,495",25175
+El Paso,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,79932,"46,593",27655
+El Paso,Nissan,Pathfinder,SUV,Used,White,Charcoal,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,20 City / 27 Highway,2019,79932,"50,495",28870
+El Paso,Nissan,Murano,SUV,Used,Blue,Graphite,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 28 Highway,2020,79932,"41,127",32750
+El Paso,Honda,Odyssey,VANS,Certified,White,Beige,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,19 City / 28 Highway,2019,79932,"58,206",37595
+El Paso,Chevrolet,Traverse,SUV,Used,Black,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,79932,"47,779",41795
+El Paso,Toyota,Highlander,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,20 City / 27 Highway,2020,79932,"32,740",46995
+El Paso,Toyota,Tacoma,TRUCKS,Used,Red,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,18 City / 22 Highway,2021,79932,"21,683",47990
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,Black,Black,Automatic,Gasoline,8-Cylinder,4 wheel drive,16 City / 22 Highway,2020,79932,"20,562",56995
+El Paso,Ford,F350,TRUCKS,Used,Brown,Black,Automatic,Diesel,8-Cylinder Turbo,4 wheel drive,,2018,79932,"74,563",64995
+El Paso,Nissan,Armada,SUV,Used,Brown,Almond,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,14 City / 19 Highway,2017,79932,"81,011",33699
+El Paso,Jeep,Wrangler,SUV,Used,Red,Black,Automatic,Gasoline,4-Cylinder Turbo,4 wheel drive,,2020,79932,"47,369",46199
+El Paso,Chevrolet,Silverado 1500,TRUCKS,Used,White,Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,17 City / 23 Highway,2020,79932,"36,978",49499
+El Paso,Ford,Expedition Max,SUV,Used,Black,,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,17 City / 23 Highway,2020,79932,"65,472",54299
+El Paso,Ford,Edge,SUV,Used,Blue,Dune,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,20 City / 30 Highway,2015,79936,"127,473",14288
+El Paso,Toyota,Corolla,SEDAN,Used,Black,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 36 Highway,2017,79936,"84,996",19999
+El Paso,Nissan,Titan,TRUCKS,Used,Black,Charcoal,Automatic,Gasoline,8-Cylinder,4 wheel drive,12 City / 17 Highway,2012,79936,"162,220",20999
+El Paso,Kia,Soul,HATCH,Used,White,Black,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,25 City / 30 Highway,2019,79936,"56,253",21499
+El Paso,Nissan,Altima,SEDAN,Used,Red,Sport,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,27 City / 38 Highway,2018,79936,"78,194",23999
+El Paso,Honda,Civic,HATCH,Used,Blue,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,31 City / 40 Highway,2019,79936,"50,728",25499
+El Paso,Nissan,Altima,SEDAN,Used,Gray,Charcoal,Automatic,Gasoline,4-Cylinder,2 wheel drive - front,28 City / 39 Highway,2019,79936,"42,500",26999
+El Paso,Nissan,Pathfinder,SUV,Used,Silver,Charcoal,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 26 Highway,2017,79936,"76,803",29999
+El Paso,Ford,Fusion,SEDAN,Certified,Silver,Ebony,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,23 City / 34 Highway,2020,79936,"59,166",29999
+El Paso,Nissan,Rogue,SUV,Used,Blue,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,79936,"60,499",29999
+El Paso,Nissan,Rogue,SUV,Used,Silver,Charcoal,Automatic,Gasoline,4-Cylinder,All wheel drive,25 City / 32 Highway,2020,79936,"62,227",30999
+El Paso,Ford,Escape,SUV,Certified,Black,Ebony,Automatic,Gasoline,3-Cylinder Turbo,2 wheel drive - front,27 City / 33 Highway,2020,79936,"63,313",31999
+El Paso,Ford,Mustang,CONVERT,Certified,Silver,Ebony,Manual,Gasoline,4-Cylinder Turbo,2 wheel drive - rear,20 City / 28 Highway,2019,79936,"61,246",32999
+El Paso,Chevrolet,Traverse,SUV,Used,Red,Jet Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - front,18 City / 27 Highway,2019,79936,"72,913",32999
+El Paso,Ford,F250,TRUCKS,Used,Blue,Steel,Automatic,Diesel,8-Cylinder Turbo,2 wheel drive - rear,,2015,79936,"143,823",34999
+El Paso,Chevrolet,Tahoe,SUV,Used,Black,Jet Black,Automatic,Gasoline,8-Cylinder,2 wheel drive - rear,16 City / 23 Highway,2017,79936,"109,514",36999
+El Paso,Ford,F150,TRUCKS,Used,White,Black,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,17 City / 23 Highway,2017,79936,"107,706",37999
+El Paso,Ford,F150,TRUCKS,Certified,Silver,Medium Earth Gray,Automatic,Flexible Fuel,8-Cylinder,4 wheel drive,18 City / 23 Highway,2020,79936,"63,583",40999
+El Paso,Toyota,4Runner,SUV,Used,Black,Black Graphite,Automatic,Gasoline,6-Cylinder,4 wheel drive,17 City / 20 Highway,2018,79936,"60,721",40999
+El Paso,Dodge,Durango,SUV,Used,Gray,Black,Automatic,Gasoline,6-Cylinder,2 wheel drive - rear,19 City / 26 Highway,2020,79936,"59,887",40999
+El Paso,Dodge,Durango,SUV,Used,Red,Black,Automatic,Gasoline,6-Cylinder,All wheel drive,18 City / 25 Highway,2019,79936,"28,274",41999
+El Paso,Ford,F150,TRUCKS,Certified,Silver,Medium Light Camel,Automatic,Gasoline,6-Cylinder Turbo,2 wheel drive - rear,19 City / 25 Highway,2020,79936,"58,882",41999
+El Paso,Chevrolet,Traverse,SUV,Used,Gray,Jet Black,Automatic,Gasoline,6-Cylinder,All wheel drive,17 City / 25 Highway,2020,79936,"61,535",42999
+El Paso,Ford,F150,TRUCKS,Used,Silver,Black,Automatic,Gasoline,6-Cylinder Turbo,4 wheel drive,18 City / 23 Highway,2020,79936,"41,808",55999
+El Paso,Kia,Telluride,SUV,Used,Black,Brown,Automatic,Gasoline,6-Cylinder,All wheel drive,19 City / 24 Highway,2021,79936,"32,657",56999
+El Paso,Buick,Regal,SEDAN,Used,Turquoise,Tan,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,21 City / 29 Highway,2017,79901,"22,600",23900
+El Paso,Toyota,Prius,HATCH,Used,Silver,Dark Gray,Automatic,Hybrid Gas/Electric,Gas / Electric Hybrid,2 wheel drive - front,51 City / 48 Highway,2013,79936,"182,909",9995
+El Paso,Honda,Accord,SEDAN,Used,,,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2019,79936,"43,790",30995
+El Paso,Mercedes-Benz,GLC 300,SUV,Used,Gray,,Automatic,Gasoline,4-Cylinder Turbo,All wheel drive,21 City / 28 Highway,2020,79936,"25,827",44995
+El Paso,Jeep,Cherokee,SUV,Used,Orange,Black,Automatic,Gasoline,6-Cylinder,4 wheel drive,19 City / 25 Highway,2016,79932,"109,862",22875
+El Paso,Honda,Accord,SEDAN,Certified,Black,Black,Automatic,Gasoline,4-Cylinder Turbo,2 wheel drive - front,30 City / 38 Highway,2020,79932,"52,149",32875
