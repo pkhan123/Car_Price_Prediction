@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run streamlit_used_cars_price_prediction.py
+web: sh setup.sh && streamlit run app.py
