@@ -18,6 +18,10 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
+# body {
+#   overflow: hidden; /* Hide scrollbars */
+# }
+
 # Remove whitespace from the top of the page and sidebar
 st.markdown("""
         <style>
@@ -26,6 +30,7 @@ st.markdown("""
                     padding-bottom: 10rem;
                     padding-left: 5rem;
                     padding-right: 5rem;
+                    overflow: hidden; /* Hide scrollbars */
                 }
                .css-1d391kg {
                     padding-top: 3.5rem;
@@ -190,7 +195,7 @@ with col9:
     # chart_label = '<p style="font-family:Courier; font-size: 15px; text-align: left;">Mileage ⟶</p>'
     # st.markdown(chart_label, unsafe_allow_html=True)
     output_result = predict(X_test, regression_model_pkl)
-    output_text = '<p style="font-family:Courier; color:#0074D9; font-size: 20px; text-align: center;">Predicted Price</p>'
+    output_text = '<p style="font-family:Courier; color:#0074D9; font-size: 20px; text-align: center;">Predicted Price2</p>'
     st.markdown(output_text, unsafe_allow_html=True)
     output_value = f'<p style="font-family:Courier; color:#0074D9; font-size: 30px; text-align: center;">$ {output_result}</p>'
     st.markdown(output_value, unsafe_allow_html=True)
